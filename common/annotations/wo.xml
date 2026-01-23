@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -1006,6 +1006,12 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🐙" type="tts">oktopis</annotation>
 		<annotation cp="🐚">espiraal | xor | xoru espiraal</annotation>
 		<annotation cp="🐚" type="tts">xoru espiraal</annotation>
+		<annotation cp="🦀">junqoob | Kànseer | sojak</annotation>
+		<annotation cp="🦀" type="tts">junqoob</annotation>
+		<annotation cp="🦐">krëwet | lekk | meññeefu géej | ndaw</annotation>
+		<annotation cp="🦐" type="tts">krëwet</annotation>
+		<annotation cp="🦑">kalamaar | lekk | yéet</annotation>
+		<annotation cp="🦑" type="tts">kalamaar</annotation>
 		<annotation cp="🐌">eskargoo</annotation>
 		<annotation cp="🐌" type="tts">eskargoo</annotation>
 		<annotation cp="🦋">gunóor | lëppaalëp | rafet</annotation>
@@ -1208,12 +1214,6 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🥠" type="tts">mbiskitu musuwaar</annotation>
 		<annotation cp="🥡">boyetu yóbbaale | siwo yoxos</annotation>
 		<annotation cp="🥡" type="tts">boyetu yóbbaale</annotation>
-		<annotation cp="🦀">junqoob | Kànseer | sojak</annotation>
-		<annotation cp="🦀" type="tts">junqoob</annotation>
-		<annotation cp="🦐">krëwet | lekk | meññeefu géej | ndaw</annotation>
-		<annotation cp="🦐" type="tts">krëwet</annotation>
-		<annotation cp="🦑">kalamaar | lekk | yéet</annotation>
-		<annotation cp="🦑" type="tts">kalamaar</annotation>
 		<annotation cp="🍦">deseer | galaas | kreem | kreem galaas bu am suukar | kreem-galaase | nooy | suukër</annotation>
 		<annotation cp="🍦" type="tts">kreem galaas bu am suukar</annotation>
 		<annotation cp="🍧">buñ wat | deseer | galaas | galaas guñ dëbb | suukër</annotation>
@@ -1917,12 +1917,12 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="📻" type="tts">rajo</annotation>
 		<annotation cp="🎷">jumtukaay | misik | saks | saksofon</annotation>
 		<annotation cp="🎷" type="tts">saksofon</annotation>
+		<annotation cp="🎺">jumtukaay | misik | trompet</annotation>
+		<annotation cp="🎺" type="tts">trompet</annotation>
 		<annotation cp="🎸">gitaar | jumtukaay | misik</annotation>
 		<annotation cp="🎸" type="tts">gitaar</annotation>
 		<annotation cp="🎹">jumtukaay | klaawiyee | klawiyee misik | misik | piano</annotation>
 		<annotation cp="🎹" type="tts">klawiyee misik</annotation>
-		<annotation cp="🎺">jumtukaay | misik | trompet</annotation>
-		<annotation cp="🎺" type="tts">trompet</annotation>
 		<annotation cp="🎻">jumtukaay | misik | violon</annotation>
 		<annotation cp="🎻" type="tts">violon</annotation>
 		<annotation cp="🥁">galañ | misik | ndënd</annotation>

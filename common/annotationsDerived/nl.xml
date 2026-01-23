@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -603,6 +603,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾" type="tts">persoon met blond haar: donkergetinte huidskleur</annotation>
 		<annotation cp="👱🏿">blond | blond haar | donkere huidskleur | mens | persoon</annotation>
 		<annotation cp="👱🏿" type="tts">persoon met blond haar: donkere huidskleur</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼">duel | lichte huidskleur | lichtgetinte huidskleur | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼" type="tts">personen die worstelen: lichte huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽">duel | getinte huidskleur | lichte huidskleur | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽" type="tts">personen die worstelen: lichte huidskleur, getinte huidskleur</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾">donkergetinte huidskleur | duel | lichte huidskleur | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾" type="tts">personen die worstelen: lichte huidskleur, donkergetinte huidskleur</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿">donkere huidskleur | duel | lichte huidskleur | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿" type="tts">personen die worstelen: lichte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻">duel | lichte huidskleur | lichtgetinte huidskleur | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻" type="tts">personen die worstelen: lichtgetinte huidskleur, lichte huidskleur</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽">duel | getinte huidskleur | lichtgetinte huidskleur | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽" type="tts">personen die worstelen: lichtgetinte huidskleur, getinte huidskleur</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾">donkergetinte huidskleur | duel | lichtgetinte huidskleur | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾" type="tts">personen die worstelen: lichtgetinte huidskleur, donkergetinte huidskleur</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿">donkere huidskleur | duel | lichtgetinte huidskleur | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿" type="tts">personen die worstelen: lichtgetinte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻">duel | getinte huidskleur | lichte huidskleur | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻" type="tts">personen die worstelen: getinte huidskleur, lichte huidskleur</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼">duel | getinte huidskleur | lichtgetinte huidskleur | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼" type="tts">personen die worstelen: getinte huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾">donkergetinte huidskleur | duel | getinte huidskleur | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾" type="tts">personen die worstelen: getinte huidskleur, donkergetinte huidskleur</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿">donkere huidskleur | duel | getinte huidskleur | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿" type="tts">personen die worstelen: getinte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻">donkergetinte huidskleur | duel | lichte huidskleur | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻" type="tts">personen die worstelen: donkergetinte huidskleur, lichte huidskleur</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼">donkergetinte huidskleur | duel | lichtgetinte huidskleur | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼" type="tts">personen die worstelen: donkergetinte huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽">donkergetinte huidskleur | duel | getinte huidskleur | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽" type="tts">personen die worstelen: donkergetinte huidskleur, getinte huidskleur</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿">donkere huidskleur | donkergetinte huidskleur | duel | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿" type="tts">personen die worstelen: donkergetinte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻">donkere huidskleur | duel | lichte huidskleur | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻" type="tts">personen die worstelen: donkere huidskleur, lichte huidskleur</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼">donkere huidskleur | duel | lichtgetinte huidskleur | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼" type="tts">personen die worstelen: donkere huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽">donkere huidskleur | duel | getinte huidskleur | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽" type="tts">personen die worstelen: donkere huidskleur, getinte huidskleur</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾">donkere huidskleur | donkergetinte huidskleur | duel | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾" type="tts">personen die worstelen: donkere huidskleur, donkergetinte huidskleur</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼">afspraakje | date | kus | kussen | lichte huidskleur | lichtgetinte huidskleur | liefde | personen | romantiek | stel | stelletje | verliefd | volwassene</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼" type="tts">kus: volwassene, volwassene, lichte huidskleur, lichtgetinte huidskleur</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏽">afspraakje | date | getinte huidskleur | kus | kussen | lichte huidskleur | liefde | personen | romantiek | stel | stelletje | verliefd | volwassene</annotation>
@@ -731,6 +771,56 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦲" type="tts">volwassene: donkergetinte huidskleur, kaal</annotation>
 		<annotation cp="🧑🏿‍🦲">donkere huidskleur | kaal | persoon | volwassene</annotation>
 		<annotation cp="🧑🏿‍🦲" type="tts">volwassene: donkere huidskleur, kaal</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼">bestie | bff | dansen | danser | danseressen | feesten | konijnenoor | konijnenoren | lichte huidskleur | lichtgetinte huidskleur | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼" type="tts">mensen met konijnenoren: lichte huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽">bestie | bff | dansen | danser | danseressen | feesten | getinte huidskleur | konijnenoor | konijnenoren | lichte huidskleur | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽" type="tts">mensen met konijnenoren: lichte huidskleur, getinte huidskleur</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾">bestie | bff | dansen | danser | danseressen | donkergetinte huidskleur | feesten | konijnenoor | konijnenoren | lichte huidskleur | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾" type="tts">mensen met konijnenoren: lichte huidskleur, donkergetinte huidskleur</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿">bestie | bff | dansen | danser | danseressen | donkere huidskleur | feesten | konijnenoor | konijnenoren | lichte huidskleur | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿" type="tts">mensen met konijnenoren: lichte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻">bestie | bff | dansen | danser | danseressen | feesten | konijnenoor | konijnenoren | lichte huidskleur | lichtgetinte huidskleur | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻" type="tts">mensen met konijnenoren: lichtgetinte huidskleur, lichte huidskleur</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽">bestie | bff | dansen | danser | danseressen | feesten | getinte huidskleur | konijnenoor | konijnenoren | lichtgetinte huidskleur | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽" type="tts">mensen met konijnenoren: lichtgetinte huidskleur, getinte huidskleur</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾">bestie | bff | dansen | danser | danseressen | donkergetinte huidskleur | feesten | konijnenoor | konijnenoren | lichtgetinte huidskleur | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾" type="tts">mensen met konijnenoren: lichtgetinte huidskleur, donkergetinte huidskleur</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿">bestie | bff | dansen | danser | danseressen | donkere huidskleur | feesten | konijnenoor | konijnenoren | lichtgetinte huidskleur | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿" type="tts">mensen met konijnenoren: lichtgetinte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻">bestie | bff | dansen | danser | danseressen | feesten | getinte huidskleur | konijnenoor | konijnenoren | lichte huidskleur | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻" type="tts">mensen met konijnenoren: getinte huidskleur, lichte huidskleur</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼">bestie | bff | dansen | danser | danseressen | feesten | getinte huidskleur | konijnenoor | konijnenoren | lichtgetinte huidskleur | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼" type="tts">mensen met konijnenoren: getinte huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾">bestie | bff | dansen | danser | danseressen | donkergetinte huidskleur | feesten | getinte huidskleur | konijnenoor | konijnenoren | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾" type="tts">mensen met konijnenoren: getinte huidskleur, donkergetinte huidskleur</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿">bestie | bff | dansen | danser | danseressen | donkere huidskleur | feesten | getinte huidskleur | konijnenoor | konijnenoren | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿" type="tts">mensen met konijnenoren: getinte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻">bestie | bff | dansen | danser | danseressen | donkergetinte huidskleur | feesten | konijnenoor | konijnenoren | lichte huidskleur | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻" type="tts">mensen met konijnenoren: donkergetinte huidskleur, lichte huidskleur</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼">bestie | bff | dansen | danser | danseressen | donkergetinte huidskleur | feesten | konijnenoor | konijnenoren | lichtgetinte huidskleur | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼" type="tts">mensen met konijnenoren: donkergetinte huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽">bestie | bff | dansen | danser | danseressen | donkergetinte huidskleur | feesten | getinte huidskleur | konijnenoor | konijnenoren | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽" type="tts">mensen met konijnenoren: donkergetinte huidskleur, getinte huidskleur</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿">bestie | bff | dansen | danser | danseressen | donkere huidskleur | donkergetinte huidskleur | feesten | konijnenoor | konijnenoren | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿" type="tts">mensen met konijnenoren: donkergetinte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻">bestie | bff | dansen | danser | danseressen | donkere huidskleur | feesten | konijnenoor | konijnenoren | lichte huidskleur | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻" type="tts">mensen met konijnenoren: donkere huidskleur, lichte huidskleur</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼">bestie | bff | dansen | danser | danseressen | donkere huidskleur | feesten | konijnenoor | konijnenoren | lichtgetinte huidskleur | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼" type="tts">mensen met konijnenoren: donkere huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽">bestie | bff | dansen | danser | danseressen | donkere huidskleur | feesten | getinte huidskleur | konijnenoor | konijnenoren | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽" type="tts">mensen met konijnenoren: donkere huidskleur, getinte huidskleur</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾">bestie | bff | dansen | danser | danseressen | donkere huidskleur | donkergetinte huidskleur | feesten | konijnenoor | konijnenoren | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾" type="tts">mensen met konijnenoren: donkere huidskleur, donkergetinte huidskleur</annotation>
+		<annotation cp="🧑🏻‍🩰">ballet | danser | lichte huidskleur</annotation>
+		<annotation cp="🧑🏻‍🩰" type="tts">balletdanser: lichte huidskleur</annotation>
+		<annotation cp="🧑🏼‍🩰">ballet | danser | lichtgetinte huidskleur</annotation>
+		<annotation cp="🧑🏼‍🩰" type="tts">balletdanser: lichtgetinte huidskleur</annotation>
+		<annotation cp="🧑🏽‍🩰">ballet | danser | getinte huidskleur</annotation>
+		<annotation cp="🧑🏽‍🩰" type="tts">balletdanser: getinte huidskleur</annotation>
+		<annotation cp="🧑🏾‍🩰">ballet | danser | donkergetinte huidskleur</annotation>
+		<annotation cp="🧑🏾‍🩰" type="tts">balletdanser: donkergetinte huidskleur</annotation>
+		<annotation cp="🧑🏿‍🩰">ballet | danser | donkere huidskleur</annotation>
+		<annotation cp="🧑🏿‍🩰" type="tts">balletdanser: donkere huidskleur</annotation>
 		<annotation cp="👨🏻">lichte huidskleur | man | volwassen | vriend</annotation>
 		<annotation cp="👨🏻" type="tts">man: lichte huidskleur</annotation>
 		<annotation cp="👨🏼">lichtgetinte huidskleur | man | volwassen | vriend</annotation>
@@ -771,6 +861,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♂" type="tts">man met blond haar: donkergetinte huidskleur</annotation>
 		<annotation cp="👱🏿‍♂">blond | donkere huidskleur | haar | man | man met blond haar</annotation>
 		<annotation cp="👱🏿‍♂" type="tts">man met blond haar: donkere huidskleur</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼">lichte huidskleur | lichtgetinte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼" type="tts">worstelende mannen: lichte huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽">getinte huidskleur | lichte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽" type="tts">worstelende mannen: lichte huidskleur, getinte huidskleur</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾">donkergetinte huidskleur | lichte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾" type="tts">worstelende mannen: lichte huidskleur, donkergetinte huidskleur</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿">donkere huidskleur | lichte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿" type="tts">worstelende mannen: lichte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻">lichte huidskleur | lichtgetinte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻" type="tts">worstelende mannen: lichtgetinte huidskleur, lichte huidskleur</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽">getinte huidskleur | lichtgetinte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽" type="tts">worstelende mannen: lichtgetinte huidskleur, getinte huidskleur</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾">donkergetinte huidskleur | lichtgetinte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾" type="tts">worstelende mannen: lichtgetinte huidskleur, donkergetinte huidskleur</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿">donkere huidskleur | lichtgetinte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿" type="tts">worstelende mannen: lichtgetinte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻">getinte huidskleur | lichte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻" type="tts">worstelende mannen: getinte huidskleur, lichte huidskleur</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼">getinte huidskleur | lichtgetinte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼" type="tts">worstelende mannen: getinte huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾">donkergetinte huidskleur | getinte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾" type="tts">worstelende mannen: getinte huidskleur, donkergetinte huidskleur</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿">donkere huidskleur | getinte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿" type="tts">worstelende mannen: getinte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻">donkergetinte huidskleur | lichte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻" type="tts">worstelende mannen: donkergetinte huidskleur, lichte huidskleur</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼">donkergetinte huidskleur | lichtgetinte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼" type="tts">worstelende mannen: donkergetinte huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽">donkergetinte huidskleur | getinte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽" type="tts">worstelende mannen: donkergetinte huidskleur, getinte huidskleur</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿">donkere huidskleur | donkergetinte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿" type="tts">worstelende mannen: donkergetinte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻">donkere huidskleur | lichte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻" type="tts">worstelende mannen: donkere huidskleur, lichte huidskleur</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼">donkere huidskleur | lichtgetinte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼" type="tts">worstelende mannen: donkere huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽">donkere huidskleur | getinte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽" type="tts">worstelende mannen: donkere huidskleur, getinte huidskleur</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾">donkere huidskleur | donkergetinte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾" type="tts">worstelende mannen: donkere huidskleur, donkergetinte huidskleur</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻">afspraakje | date | kus | kussen | lichte huidskleur | liefde | man | personen | romantiek | stel | stelletje | verliefd</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻" type="tts">kus: man, man, lichte huidskleur</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏼">afspraakje | date | kus | kussen | lichte huidskleur | lichtgetinte huidskleur | liefde | man | personen | romantiek | stel | stelletje | verliefd</annotation>
@@ -919,6 +1049,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦲" type="tts">man: donkergetinte huidskleur, kaal</annotation>
 		<annotation cp="👨🏿‍🦲">donkere huidskleur | kaal | man | volwassen | vriend</annotation>
 		<annotation cp="👨🏿‍🦲" type="tts">man: donkere huidskleur, kaal</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼">beste vrienden | bff | dansen | danser | feesten | feestende mannen | konijnenoor | konijnenoren | lichte huidskleur | lichtgetinte huidskleur | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼" type="tts">mannen met konijnenoren: lichte huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽">beste vrienden | bff | dansen | danser | feesten | feestende mannen | getinte huidskleur | konijnenoor | konijnenoren | lichte huidskleur | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽" type="tts">mannen met konijnenoren: lichte huidskleur, getinte huidskleur</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾">beste vrienden | bff | dansen | danser | donkergetinte huidskleur | feesten | feestende mannen | konijnenoor | konijnenoren | lichte huidskleur | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾" type="tts">mannen met konijnenoren: lichte huidskleur, donkergetinte huidskleur</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿">beste vrienden | bff | dansen | danser | donkere huidskleur | feesten | feestende mannen | konijnenoor | konijnenoren | lichte huidskleur | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿" type="tts">mannen met konijnenoren: lichte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻">beste vrienden | bff | dansen | danser | feesten | feestende mannen | konijnenoor | konijnenoren | lichte huidskleur | lichtgetinte huidskleur | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻" type="tts">mannen met konijnenoren: lichtgetinte huidskleur, lichte huidskleur</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽">beste vrienden | bff | dansen | danser | feesten | feestende mannen | getinte huidskleur | konijnenoor | konijnenoren | lichtgetinte huidskleur | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽" type="tts">mannen met konijnenoren: lichtgetinte huidskleur, getinte huidskleur</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾">beste vrienden | bff | dansen | danser | donkergetinte huidskleur | feesten | feestende mannen | konijnenoor | konijnenoren | lichtgetinte huidskleur | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾" type="tts">mannen met konijnenoren: lichtgetinte huidskleur, donkergetinte huidskleur</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿">beste vrienden | bff | dansen | danser | donkere huidskleur | feesten | feestende mannen | konijnenoor | konijnenoren | lichtgetinte huidskleur | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿" type="tts">mannen met konijnenoren: lichtgetinte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻">beste vrienden | bff | dansen | danser | feesten | feestende mannen | getinte huidskleur | konijnenoor | konijnenoren | lichte huidskleur | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻" type="tts">mannen met konijnenoren: getinte huidskleur, lichte huidskleur</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼">beste vrienden | bff | dansen | danser | feesten | feestende mannen | getinte huidskleur | konijnenoor | konijnenoren | lichtgetinte huidskleur | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼" type="tts">mannen met konijnenoren: getinte huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾">beste vrienden | bff | dansen | danser | donkergetinte huidskleur | feesten | feestende mannen | getinte huidskleur | konijnenoor | konijnenoren | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾" type="tts">mannen met konijnenoren: getinte huidskleur, donkergetinte huidskleur</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿">beste vrienden | bff | dansen | danser | donkere huidskleur | feesten | feestende mannen | getinte huidskleur | konijnenoor | konijnenoren | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿" type="tts">mannen met konijnenoren: getinte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻">beste vrienden | bff | dansen | danser | donkergetinte huidskleur | feesten | feestende mannen | konijnenoor | konijnenoren | lichte huidskleur | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻" type="tts">mannen met konijnenoren: donkergetinte huidskleur, lichte huidskleur</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼">beste vrienden | bff | dansen | danser | donkergetinte huidskleur | feesten | feestende mannen | konijnenoor | konijnenoren | lichtgetinte huidskleur | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼" type="tts">mannen met konijnenoren: donkergetinte huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽">beste vrienden | bff | dansen | danser | donkergetinte huidskleur | feesten | feestende mannen | getinte huidskleur | konijnenoor | konijnenoren | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽" type="tts">mannen met konijnenoren: donkergetinte huidskleur, getinte huidskleur</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿">beste vrienden | bff | dansen | danser | donkere huidskleur | donkergetinte huidskleur | feesten | feestende mannen | konijnenoor | konijnenoren | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿" type="tts">mannen met konijnenoren: donkergetinte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻">beste vrienden | bff | dansen | danser | donkere huidskleur | feesten | feestende mannen | konijnenoor | konijnenoren | lichte huidskleur | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻" type="tts">mannen met konijnenoren: donkere huidskleur, lichte huidskleur</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼">beste vrienden | bff | dansen | danser | donkere huidskleur | feesten | feestende mannen | konijnenoor | konijnenoren | lichtgetinte huidskleur | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼" type="tts">mannen met konijnenoren: donkere huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽">beste vrienden | bff | dansen | danser | donkere huidskleur | feesten | feestende mannen | getinte huidskleur | konijnenoor | konijnenoren | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽" type="tts">mannen met konijnenoren: donkere huidskleur, getinte huidskleur</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾">beste vrienden | bff | dansen | danser | donkere huidskleur | donkergetinte huidskleur | feesten | feestende mannen | konijnenoor | konijnenoren | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾" type="tts">mannen met konijnenoren: donkere huidskleur, donkergetinte huidskleur</annotation>
 		<annotation cp="👩🏻">dame | lichte huidskleur | volwassene | vrouw</annotation>
 		<annotation cp="👩🏻" type="tts">vrouw: lichte huidskleur</annotation>
 		<annotation cp="👩🏼">dame | lichtgetinte huidskleur | volwassene | vrouw</annotation>
@@ -949,6 +1119,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♀" type="tts">vrouw met blond haar: donkergetinte huidskleur</annotation>
 		<annotation cp="👱🏿‍♀">blond | blondine | donkere huidskleur | haar | vrouw</annotation>
 		<annotation cp="👱🏿‍♀" type="tts">vrouw met blond haar: donkere huidskleur</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼">lichte huidskleur | lichtgetinte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼" type="tts">worstelende vrouwen: lichte huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽">getinte huidskleur | lichte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽" type="tts">worstelende vrouwen: lichte huidskleur, getinte huidskleur</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾">donkergetinte huidskleur | lichte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾" type="tts">worstelende vrouwen: lichte huidskleur, donkergetinte huidskleur</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿">donkere huidskleur | lichte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿" type="tts">worstelende vrouwen: lichte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻">lichte huidskleur | lichtgetinte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻" type="tts">worstelende vrouwen: lichtgetinte huidskleur, lichte huidskleur</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽">getinte huidskleur | lichtgetinte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽" type="tts">worstelende vrouwen: lichtgetinte huidskleur, getinte huidskleur</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾">donkergetinte huidskleur | lichtgetinte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾" type="tts">worstelende vrouwen: lichtgetinte huidskleur, donkergetinte huidskleur</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿">donkere huidskleur | lichtgetinte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿" type="tts">worstelende vrouwen: lichtgetinte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻">getinte huidskleur | lichte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻" type="tts">worstelende vrouwen: getinte huidskleur, lichte huidskleur</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼">getinte huidskleur | lichtgetinte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼" type="tts">worstelende vrouwen: getinte huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾">donkergetinte huidskleur | getinte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾" type="tts">worstelende vrouwen: getinte huidskleur, donkergetinte huidskleur</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿">donkere huidskleur | getinte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿" type="tts">worstelende vrouwen: getinte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻">donkergetinte huidskleur | lichte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻" type="tts">worstelende vrouwen: donkergetinte huidskleur, lichte huidskleur</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼">donkergetinte huidskleur | lichtgetinte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼" type="tts">worstelende vrouwen: donkergetinte huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽">donkergetinte huidskleur | getinte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽" type="tts">worstelende vrouwen: donkergetinte huidskleur, getinte huidskleur</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿">donkere huidskleur | donkergetinte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿" type="tts">worstelende vrouwen: donkergetinte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻">donkere huidskleur | lichte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻" type="tts">worstelende vrouwen: donkere huidskleur, lichte huidskleur</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼">donkere huidskleur | lichtgetinte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼" type="tts">worstelende vrouwen: donkere huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽">donkere huidskleur | getinte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽" type="tts">worstelende vrouwen: donkere huidskleur, getinte huidskleur</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾">donkere huidskleur | donkergetinte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾" type="tts">worstelende vrouwen: donkere huidskleur, donkergetinte huidskleur</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻">afspraakje | date | kus | kussen | lichte huidskleur | liefde | man | personen | romantiek | stel | stelletje | verliefd | vrouw</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻" type="tts">kus: vrouw, man, lichte huidskleur</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏼">afspraakje | date | kus | kussen | lichte huidskleur | lichtgetinte huidskleur | liefde | man | personen | romantiek | stel | stelletje | verliefd | vrouw</annotation>
@@ -1197,6 +1407,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦲" type="tts">vrouw: donkergetinte huidskleur, kaal</annotation>
 		<annotation cp="👩🏿‍🦲">dame | donkere huidskleur | kaal | volwassene | vrouw</annotation>
 		<annotation cp="👩🏿‍🦲" type="tts">vrouw: donkere huidskleur, kaal</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼">danseres | feesten | konijnenoor | lichte huidskleur | lichtgetinte huidskleur | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼" type="tts">vrouwen met konijnenoren: lichte huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽">danseres | feesten | getinte huidskleur | konijnenoor | lichte huidskleur | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽" type="tts">vrouwen met konijnenoren: lichte huidskleur, getinte huidskleur</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾">danseres | donkergetinte huidskleur | feesten | konijnenoor | lichte huidskleur | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾" type="tts">vrouwen met konijnenoren: lichte huidskleur, donkergetinte huidskleur</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿">danseres | donkere huidskleur | feesten | konijnenoor | lichte huidskleur | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿" type="tts">vrouwen met konijnenoren: lichte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻">danseres | feesten | konijnenoor | lichte huidskleur | lichtgetinte huidskleur | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻" type="tts">vrouwen met konijnenoren: lichtgetinte huidskleur, lichte huidskleur</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽">danseres | feesten | getinte huidskleur | konijnenoor | lichtgetinte huidskleur | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽" type="tts">vrouwen met konijnenoren: lichtgetinte huidskleur, getinte huidskleur</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾">danseres | donkergetinte huidskleur | feesten | konijnenoor | lichtgetinte huidskleur | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾" type="tts">vrouwen met konijnenoren: lichtgetinte huidskleur, donkergetinte huidskleur</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿">danseres | donkere huidskleur | feesten | konijnenoor | lichtgetinte huidskleur | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿" type="tts">vrouwen met konijnenoren: lichtgetinte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻">danseres | feesten | getinte huidskleur | konijnenoor | lichte huidskleur | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻" type="tts">vrouwen met konijnenoren: getinte huidskleur, lichte huidskleur</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼">danseres | feesten | getinte huidskleur | konijnenoor | lichtgetinte huidskleur | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼" type="tts">vrouwen met konijnenoren: getinte huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾">danseres | donkergetinte huidskleur | feesten | getinte huidskleur | konijnenoor | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾" type="tts">vrouwen met konijnenoren: getinte huidskleur, donkergetinte huidskleur</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿">danseres | donkere huidskleur | feesten | getinte huidskleur | konijnenoor | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿" type="tts">vrouwen met konijnenoren: getinte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻">danseres | donkergetinte huidskleur | feesten | konijnenoor | lichte huidskleur | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻" type="tts">vrouwen met konijnenoren: donkergetinte huidskleur, lichte huidskleur</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼">danseres | donkergetinte huidskleur | feesten | konijnenoor | lichtgetinte huidskleur | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼" type="tts">vrouwen met konijnenoren: donkergetinte huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽">danseres | donkergetinte huidskleur | feesten | getinte huidskleur | konijnenoor | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽" type="tts">vrouwen met konijnenoren: donkergetinte huidskleur, getinte huidskleur</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿">danseres | donkere huidskleur | donkergetinte huidskleur | feesten | konijnenoor | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿" type="tts">vrouwen met konijnenoren: donkergetinte huidskleur, donkere huidskleur</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻">danseres | donkere huidskleur | feesten | konijnenoor | lichte huidskleur | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻" type="tts">vrouwen met konijnenoren: donkere huidskleur, lichte huidskleur</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼">danseres | donkere huidskleur | feesten | konijnenoor | lichtgetinte huidskleur | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼" type="tts">vrouwen met konijnenoren: donkere huidskleur, lichtgetinte huidskleur</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽">danseres | donkere huidskleur | feesten | getinte huidskleur | konijnenoor | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽" type="tts">vrouwen met konijnenoren: donkere huidskleur, getinte huidskleur</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾">danseres | donkere huidskleur | donkergetinte huidskleur | feesten | konijnenoor | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾" type="tts">vrouwen met konijnenoren: donkere huidskleur, donkergetinte huidskleur</annotation>
 		<annotation cp="🧓🏻">bejaard | genderneutraal | lichte huidskleur | niet nader omschreven geslacht | oud | ouder persoon | oudere persoon | oudere volwassene | persoon | volwassene</annotation>
 		<annotation cp="🧓🏻" type="tts">oudere persoon: lichte huidskleur</annotation>
 		<annotation cp="🧓🏼">bejaard | genderneutraal | lichtgetinte huidskleur | niet nader omschreven geslacht | oud | ouder persoon | oudere persoon | oudere volwassene | persoon | volwassene</annotation>
@@ -1567,15 +1817,15 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🎓" type="tts">student: donkergetinte huidskleur</annotation>
 		<annotation cp="🧑🏿‍🎓">donkere huidskleur | scholier | student</annotation>
 		<annotation cp="🧑🏿‍🎓" type="tts">student: donkere huidskleur</annotation>
-		<annotation cp="👨🏻‍🎓">lichte huidskleur | scholier | student | vrouw</annotation>
+		<annotation cp="👨🏻‍🎓">lichte huidskleur | man | scholier | student</annotation>
 		<annotation cp="👨🏻‍🎓" type="tts">mannelijke student: lichte huidskleur</annotation>
-		<annotation cp="👨🏼‍🎓">lichtgetinte huidskleur | scholier | student | vrouw</annotation>
+		<annotation cp="👨🏼‍🎓">lichtgetinte huidskleur | man | scholier | student</annotation>
 		<annotation cp="👨🏼‍🎓" type="tts">mannelijke student: lichtgetinte huidskleur</annotation>
-		<annotation cp="👨🏽‍🎓">getinte huidskleur | scholier | student | vrouw</annotation>
+		<annotation cp="👨🏽‍🎓">getinte huidskleur | man | scholier | student</annotation>
 		<annotation cp="👨🏽‍🎓" type="tts">mannelijke student: getinte huidskleur</annotation>
-		<annotation cp="👨🏾‍🎓">donkergetinte huidskleur | scholier | student | vrouw</annotation>
+		<annotation cp="👨🏾‍🎓">donkergetinte huidskleur | man | scholier | student</annotation>
 		<annotation cp="👨🏾‍🎓" type="tts">mannelijke student: donkergetinte huidskleur</annotation>
-		<annotation cp="👨🏿‍🎓">donkere huidskleur | scholier | student | vrouw</annotation>
+		<annotation cp="👨🏿‍🎓">donkere huidskleur | man | scholier | student</annotation>
 		<annotation cp="👨🏿‍🎓" type="tts">mannelijke student: donkere huidskleur</annotation>
 		<annotation cp="👩🏻‍🎓">lichte huidskleur | scholier | student | vrouw</annotation>
 		<annotation cp="👩🏻‍🎓" type="tts">studente: lichte huidskleur</annotation>
@@ -2687,42 +2937,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🚶🏾‍♀" type="tts">wandelende vrouw: donkergetinte huidskleur</annotation>
 		<annotation cp="🚶🏿‍♀">donkere huidskleur | kuieren | lopen | persoon | slenteren | voetganger | vrouw | wandelaar | wandelen | wandelende vrouw</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">wandelende vrouw: donkere huidskleur</annotation>
-		<annotation cp="🚶‍➡">lopen | persoon | slenteren | stappen | struien | voetganger | wandelaar | wandelen</annotation>
-		<annotation cp="🚶‍➡" type="tts">voetganger naar rechts gericht</annotation>
-		<annotation cp="🚶🏻‍➡">lopen | persoon | slenteren | stappen | struien | voetganger | wandelaar | wandelen</annotation>
-		<annotation cp="🚶🏻‍➡" type="tts">voetganger naar rechts gericht</annotation>
-		<annotation cp="🚶🏼‍➡">lopen | persoon | slenteren | stappen | struien | voetganger | wandelaar | wandelen</annotation>
-		<annotation cp="🚶🏼‍➡" type="tts">voetganger naar rechts gericht</annotation>
-		<annotation cp="🚶🏽‍➡">lopen | persoon | slenteren | stappen | struien | voetganger | wandelaar | wandelen</annotation>
-		<annotation cp="🚶🏽‍➡" type="tts">voetganger naar rechts gericht</annotation>
-		<annotation cp="🚶🏾‍➡">lopen | persoon | slenteren | stappen | struien | voetganger | wandelaar | wandelen</annotation>
-		<annotation cp="🚶🏾‍➡" type="tts">voetganger naar rechts gericht</annotation>
-		<annotation cp="🚶🏿‍➡">lopen | persoon | slenteren | stappen | struien | voetganger | wandelaar | wandelen</annotation>
-		<annotation cp="🚶🏿‍➡" type="tts">voetganger naar rechts gericht</annotation>
-		<annotation cp="🚶‍♀‍➡">kuieren | lopen | persoon | slenteren | voetganger | vrouw | wandelaar | wandelen | wandelende vrouw</annotation>
-		<annotation cp="🚶‍♀‍➡" type="tts">wandelende vrouw naar rechts gericht</annotation>
-		<annotation cp="🚶🏻‍♀‍➡">kuieren | lopen | persoon | slenteren | voetganger | vrouw | wandelaar | wandelen | wandelende vrouw</annotation>
-		<annotation cp="🚶🏻‍♀‍➡" type="tts">wandelende vrouw naar rechts gericht</annotation>
-		<annotation cp="🚶🏼‍♀‍➡">kuieren | lopen | persoon | slenteren | voetganger | vrouw | wandelaar | wandelen | wandelende vrouw</annotation>
-		<annotation cp="🚶🏼‍♀‍➡" type="tts">wandelende vrouw naar rechts gericht</annotation>
-		<annotation cp="🚶🏽‍♀‍➡">kuieren | lopen | persoon | slenteren | voetganger | vrouw | wandelaar | wandelen | wandelende vrouw</annotation>
-		<annotation cp="🚶🏽‍♀‍➡" type="tts">wandelende vrouw naar rechts gericht</annotation>
-		<annotation cp="🚶🏾‍♀‍➡">kuieren | lopen | persoon | slenteren | voetganger | vrouw | wandelaar | wandelen | wandelende vrouw</annotation>
-		<annotation cp="🚶🏾‍♀‍➡" type="tts">wandelende vrouw naar rechts gericht</annotation>
-		<annotation cp="🚶🏿‍♀‍➡">kuieren | lopen | persoon | slenteren | voetganger | vrouw | wandelaar | wandelen | wandelende vrouw</annotation>
-		<annotation cp="🚶🏿‍♀‍➡" type="tts">wandelende vrouw naar rechts gericht</annotation>
-		<annotation cp="🚶‍♂‍➡">lopen | man | wandelen | wandelende man</annotation>
-		<annotation cp="🚶‍♂‍➡" type="tts">wandelende man naar rechts gericht</annotation>
-		<annotation cp="🚶🏻‍♂‍➡">lopen | man | wandelen | wandelende man</annotation>
-		<annotation cp="🚶🏻‍♂‍➡" type="tts">wandelende man naar rechts gericht</annotation>
-		<annotation cp="🚶🏼‍♂‍➡">lopen | man | wandelen | wandelende man</annotation>
-		<annotation cp="🚶🏼‍♂‍➡" type="tts">wandelende man naar rechts gericht</annotation>
-		<annotation cp="🚶🏽‍♂‍➡">lopen | man | wandelen | wandelende man</annotation>
-		<annotation cp="🚶🏽‍♂‍➡" type="tts">wandelende man naar rechts gericht</annotation>
-		<annotation cp="🚶🏾‍♂‍➡">lopen | man | wandelen | wandelende man</annotation>
-		<annotation cp="🚶🏾‍♂‍➡" type="tts">wandelende man naar rechts gericht</annotation>
-		<annotation cp="🚶🏿‍♂‍➡">lopen | man | wandelen | wandelende man</annotation>
-		<annotation cp="🚶🏿‍♂‍➡" type="tts">wandelende man naar rechts gericht</annotation>
+		<annotation cp="🚶‍➡">gericht | lopen | naar | persoon | rechts | slenteren | stappen | struien | voetganger | wandelaar | wandelen</annotation>
+		<annotation cp="🚶‍➡" type="tts">voetganger: naar rechts gericht</annotation>
+		<annotation cp="🚶🏻‍➡">gericht | lichte huidskleur | lopen | naar | persoon | rechts | slenteren | stappen | struien | voetganger | wandelaar | wandelen</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">voetganger: lichte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🚶🏼‍➡">gericht | lichtgetinte huidskleur | lopen | naar | persoon | rechts | slenteren | stappen | struien | voetganger | wandelaar | wandelen</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">voetganger: lichtgetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🚶🏽‍➡">gericht | getinte huidskleur | lopen | naar | persoon | rechts | slenteren | stappen | struien | voetganger | wandelaar | wandelen</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">voetganger: getinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🚶🏾‍➡">donkergetinte huidskleur | gericht | lopen | naar | persoon | rechts | slenteren | stappen | struien | voetganger | wandelaar | wandelen</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">voetganger: donkergetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🚶🏿‍➡">donkere huidskleur | gericht | lopen | naar | persoon | rechts | slenteren | stappen | struien | voetganger | wandelaar | wandelen</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">voetganger: donkere huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🚶‍♀‍➡">gericht | kuieren | lopen | naar | persoon | rechts | slenteren | voetganger | vrouw | wandelaar | wandelen | wandelende vrouw</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">wandelende vrouw: naar rechts gericht</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">gericht | kuieren | lichte huidskleur | lopen | naar | persoon | rechts | slenteren | voetganger | vrouw | wandelaar | wandelen | wandelende vrouw</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">wandelende vrouw: lichte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">gericht | kuieren | lichtgetinte huidskleur | lopen | naar | persoon | rechts | slenteren | voetganger | vrouw | wandelaar | wandelen | wandelende vrouw</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">wandelende vrouw: lichtgetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">gericht | getinte huidskleur | kuieren | lopen | naar | persoon | rechts | slenteren | voetganger | vrouw | wandelaar | wandelen | wandelende vrouw</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">wandelende vrouw: getinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">donkergetinte huidskleur | gericht | kuieren | lopen | naar | persoon | rechts | slenteren | voetganger | vrouw | wandelaar | wandelen | wandelende vrouw</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">wandelende vrouw: donkergetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">donkere huidskleur | gericht | kuieren | lopen | naar | persoon | rechts | slenteren | voetganger | vrouw | wandelaar | wandelen | wandelende vrouw</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">wandelende vrouw: donkere huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🚶‍♂‍➡">gericht | lopen | man | naar | rechts | wandelen | wandelende man</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">wandelende man: naar rechts gericht</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">gericht | lichte huidskleur | lopen | man | naar | rechts | wandelen | wandelende man</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">wandelende man: lichte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">gericht | lichtgetinte huidskleur | lopen | man | naar | rechts | wandelen | wandelende man</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">wandelende man: lichtgetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">gericht | getinte huidskleur | lopen | man | naar | rechts | wandelen | wandelende man</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">wandelende man: getinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">donkergetinte huidskleur | gericht | lopen | man | naar | rechts | wandelen | wandelende man</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">wandelende man: donkergetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">donkere huidskleur | gericht | lopen | man | naar | rechts | wandelen | wandelende man</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">wandelende man: donkere huidskleur, naar rechts gericht</annotation>
 		<annotation cp="🧍🏻">lichte huidskleur | persoon | staan | staand</annotation>
 		<annotation cp="🧍🏻" type="tts">staande persoon: lichte huidskleur</annotation>
 		<annotation cp="🧍🏼">lichtgetinte huidskleur | persoon | staan | staand</annotation>
@@ -2783,42 +3033,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧎🏾‍♀" type="tts">knielende vrouw: donkergetinte huidskleur</annotation>
 		<annotation cp="🧎🏿‍♀">donkere huidskleur | knielend | knielende vrouw | vrouw</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">knielende vrouw: donkere huidskleur</annotation>
-		<annotation cp="🧎‍➡">knieën | knielen | knielend | persoon</annotation>
-		<annotation cp="🧎‍➡" type="tts">knielende persoon naar rechts gericht</annotation>
-		<annotation cp="🧎🏻‍➡">knieën | knielen | knielend | persoon</annotation>
-		<annotation cp="🧎🏻‍➡" type="tts">knielende persoon naar rechts gericht</annotation>
-		<annotation cp="🧎🏼‍➡">knieën | knielen | knielend | persoon</annotation>
-		<annotation cp="🧎🏼‍➡" type="tts">knielende persoon naar rechts gericht</annotation>
-		<annotation cp="🧎🏽‍➡">knieën | knielen | knielend | persoon</annotation>
-		<annotation cp="🧎🏽‍➡" type="tts">knielende persoon naar rechts gericht</annotation>
-		<annotation cp="🧎🏾‍➡">knieën | knielen | knielend | persoon</annotation>
-		<annotation cp="🧎🏾‍➡" type="tts">knielende persoon naar rechts gericht</annotation>
-		<annotation cp="🧎🏿‍➡">knieën | knielen | knielend | persoon</annotation>
-		<annotation cp="🧎🏿‍➡" type="tts">knielende persoon naar rechts gericht</annotation>
-		<annotation cp="🧎‍♀‍➡">knielend | knielende vrouw | vrouw</annotation>
-		<annotation cp="🧎‍♀‍➡" type="tts">knielende vrouw naar rechts gericht</annotation>
-		<annotation cp="🧎🏻‍♀‍➡">knielend | knielende vrouw | vrouw</annotation>
-		<annotation cp="🧎🏻‍♀‍➡" type="tts">knielende vrouw naar rechts gericht</annotation>
-		<annotation cp="🧎🏼‍♀‍➡">knielend | knielende vrouw | vrouw</annotation>
-		<annotation cp="🧎🏼‍♀‍➡" type="tts">knielende vrouw naar rechts gericht</annotation>
-		<annotation cp="🧎🏽‍♀‍➡">knielend | knielende vrouw | vrouw</annotation>
-		<annotation cp="🧎🏽‍♀‍➡" type="tts">knielende vrouw naar rechts gericht</annotation>
-		<annotation cp="🧎🏾‍♀‍➡">knielend | knielende vrouw | vrouw</annotation>
-		<annotation cp="🧎🏾‍♀‍➡" type="tts">knielende vrouw naar rechts gericht</annotation>
-		<annotation cp="🧎🏿‍♀‍➡">knielend | knielende vrouw | vrouw</annotation>
-		<annotation cp="🧎🏿‍♀‍➡" type="tts">knielende vrouw naar rechts gericht</annotation>
-		<annotation cp="🧎‍♂‍➡">knielend | knielende man | man</annotation>
-		<annotation cp="🧎‍♂‍➡" type="tts">knielende man naar rechts gericht</annotation>
-		<annotation cp="🧎🏻‍♂‍➡">knielend | knielende man | man</annotation>
-		<annotation cp="🧎🏻‍♂‍➡" type="tts">knielende man naar rechts gericht</annotation>
-		<annotation cp="🧎🏼‍♂‍➡">knielend | knielende man | man</annotation>
-		<annotation cp="🧎🏼‍♂‍➡" type="tts">knielende man naar rechts gericht</annotation>
-		<annotation cp="🧎🏽‍♂‍➡">knielend | knielende man | man</annotation>
-		<annotation cp="🧎🏽‍♂‍➡" type="tts">knielende man naar rechts gericht</annotation>
-		<annotation cp="🧎🏾‍♂‍➡">knielend | knielende man | man</annotation>
-		<annotation cp="🧎🏾‍♂‍➡" type="tts">knielende man naar rechts gericht</annotation>
-		<annotation cp="🧎🏿‍♂‍➡">knielend | knielende man | man</annotation>
-		<annotation cp="🧎🏿‍♂‍➡" type="tts">knielende man naar rechts gericht</annotation>
+		<annotation cp="🧎‍➡">gericht | knieën | knielen | knielend | naar | persoon | rechts</annotation>
+		<annotation cp="🧎‍➡" type="tts">knielende persoon: naar rechts gericht</annotation>
+		<annotation cp="🧎🏻‍➡">gericht | knieën | knielen | knielend | lichte huidskleur | naar | persoon | rechts</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">knielende persoon: lichte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧎🏼‍➡">gericht | knieën | knielen | knielend | lichtgetinte huidskleur | naar | persoon | rechts</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">knielende persoon: lichtgetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧎🏽‍➡">gericht | getinte huidskleur | knieën | knielen | knielend | naar | persoon | rechts</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">knielende persoon: getinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧎🏾‍➡">donkergetinte huidskleur | gericht | knieën | knielen | knielend | naar | persoon | rechts</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">knielende persoon: donkergetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧎🏿‍➡">donkere huidskleur | gericht | knieën | knielen | knielend | naar | persoon | rechts</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">knielende persoon: donkere huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧎‍♀‍➡">gericht | knielend | knielende vrouw | naar | rechts | vrouw</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">knielende vrouw: naar rechts gericht</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">gericht | knielend | knielende vrouw | lichte huidskleur | naar | rechts | vrouw</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">knielende vrouw: lichte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">gericht | knielend | knielende vrouw | lichtgetinte huidskleur | naar | rechts | vrouw</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">knielende vrouw: lichtgetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">gericht | getinte huidskleur | knielend | knielende vrouw | naar | rechts | vrouw</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">knielende vrouw: getinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">donkergetinte huidskleur | gericht | knielend | knielende vrouw | naar | rechts | vrouw</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">knielende vrouw: donkergetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">donkere huidskleur | gericht | knielend | knielende vrouw | naar | rechts | vrouw</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">knielende vrouw: donkere huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧎‍♂‍➡">gericht | knielend | knielende man | man | naar | rechts</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">knielende man: naar rechts gericht</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">gericht | knielend | knielende man | lichte huidskleur | man | naar | rechts</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">knielende man: lichte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">gericht | knielend | knielende man | lichtgetinte huidskleur | man | naar | rechts</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">knielende man: lichtgetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">gericht | getinte huidskleur | knielend | knielende man | man | naar | rechts</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">knielende man: getinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">donkergetinte huidskleur | gericht | knielend | knielende man | man | naar | rechts</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">knielende man: donkergetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">donkere huidskleur | gericht | knielend | knielende man | man | naar | rechts</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">knielende man: donkere huidskleur, naar rechts gericht</annotation>
 		<annotation cp="🧑🏻‍🦯">blind | lichte huidskleur | persoon met taststok | toegankelijkheid</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">persoon met taststok: lichte huidskleur</annotation>
 		<annotation cp="🧑🏼‍🦯">blind | lichtgetinte huidskleur | persoon met taststok | toegankelijkheid</annotation>
@@ -2829,18 +3079,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦯" type="tts">persoon met taststok: donkergetinte huidskleur</annotation>
 		<annotation cp="🧑🏿‍🦯">blind | donkere huidskleur | persoon met taststok | toegankelijkheid</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">persoon met taststok: donkere huidskleur</annotation>
-		<annotation cp="🧑‍🦯‍➡">blind | persoon met taststok | toegankelijkheid</annotation>
-		<annotation cp="🧑‍🦯‍➡" type="tts">persoon met taststok naar rechts gericht</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡">blind | persoon met taststok | toegankelijkheid</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡" type="tts">persoon met taststok naar rechts gericht</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡">blind | persoon met taststok | toegankelijkheid</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡" type="tts">persoon met taststok naar rechts gericht</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡">blind | persoon met taststok | toegankelijkheid</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡" type="tts">persoon met taststok naar rechts gericht</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡">blind | persoon met taststok | toegankelijkheid</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡" type="tts">persoon met taststok naar rechts gericht</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡">blind | persoon met taststok | toegankelijkheid</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡" type="tts">persoon met taststok naar rechts gericht</annotation>
+		<annotation cp="🧑‍🦯‍➡">blind | gericht | naar | persoon met taststok | rechts | toegankelijkheid</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">persoon met taststok: naar rechts gericht</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">blind | gericht | lichte huidskleur | naar | persoon met taststok | rechts | toegankelijkheid</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">persoon met taststok: lichte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">blind | gericht | lichtgetinte huidskleur | naar | persoon met taststok | rechts | toegankelijkheid</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">persoon met taststok: lichtgetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">blind | gericht | getinte huidskleur | naar | persoon met taststok | rechts | toegankelijkheid</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">persoon met taststok: getinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">blind | donkergetinte huidskleur | gericht | naar | persoon met taststok | rechts | toegankelijkheid</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">persoon met taststok: donkergetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">blind | donkere huidskleur | gericht | naar | persoon met taststok | rechts | toegankelijkheid</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">persoon met taststok: donkere huidskleur, naar rechts gericht</annotation>
 		<annotation cp="👨🏻‍🦯">blind | lichte huidskleur | man | man met blindenstok | man met taststok | toegankelijkheid</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">man met taststok: lichte huidskleur</annotation>
 		<annotation cp="👨🏼‍🦯">blind | lichtgetinte huidskleur | man | man met blindenstok | man met taststok | toegankelijkheid</annotation>
@@ -2851,18 +3101,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦯" type="tts">man met taststok: donkergetinte huidskleur</annotation>
 		<annotation cp="👨🏿‍🦯">blind | donkere huidskleur | man | man met blindenstok | man met taststok | toegankelijkheid</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">man met taststok: donkere huidskleur</annotation>
-		<annotation cp="👨‍🦯‍➡">blind | man | man met blindenstok | man met taststok | toegankelijkheid</annotation>
-		<annotation cp="👨‍🦯‍➡" type="tts">man met taststok naar rechts gericht</annotation>
-		<annotation cp="👨🏻‍🦯‍➡">blind | man | man met blindenstok | man met taststok | toegankelijkheid</annotation>
-		<annotation cp="👨🏻‍🦯‍➡" type="tts">man met taststok naar rechts gericht</annotation>
-		<annotation cp="👨🏼‍🦯‍➡">blind | man | man met blindenstok | man met taststok | toegankelijkheid</annotation>
-		<annotation cp="👨🏼‍🦯‍➡" type="tts">man met taststok naar rechts gericht</annotation>
-		<annotation cp="👨🏽‍🦯‍➡">blind | man | man met blindenstok | man met taststok | toegankelijkheid</annotation>
-		<annotation cp="👨🏽‍🦯‍➡" type="tts">man met taststok naar rechts gericht</annotation>
-		<annotation cp="👨🏾‍🦯‍➡">blind | man | man met blindenstok | man met taststok | toegankelijkheid</annotation>
-		<annotation cp="👨🏾‍🦯‍➡" type="tts">man met taststok naar rechts gericht</annotation>
-		<annotation cp="👨🏿‍🦯‍➡">blind | man | man met blindenstok | man met taststok | toegankelijkheid</annotation>
-		<annotation cp="👨🏿‍🦯‍➡" type="tts">man met taststok naar rechts gericht</annotation>
+		<annotation cp="👨‍🦯‍➡">blind | gericht | man | man met blindenstok | man met taststok | naar | rechts | toegankelijkheid</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">man met taststok: naar rechts gericht</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">blind | gericht | lichte huidskleur | man | man met blindenstok | man met taststok | naar | rechts | toegankelijkheid</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">man met taststok: lichte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">blind | gericht | lichtgetinte huidskleur | man | man met blindenstok | man met taststok | naar | rechts | toegankelijkheid</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">man met taststok: lichtgetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">blind | gericht | getinte huidskleur | man | man met blindenstok | man met taststok | naar | rechts | toegankelijkheid</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">man met taststok: getinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">blind | donkergetinte huidskleur | gericht | man | man met blindenstok | man met taststok | naar | rechts | toegankelijkheid</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">man met taststok: donkergetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">blind | donkere huidskleur | gericht | man | man met blindenstok | man met taststok | naar | rechts | toegankelijkheid</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">man met taststok: donkere huidskleur, naar rechts gericht</annotation>
 		<annotation cp="👩🏻‍🦯">blind | lichte huidskleur | toegankelijkheid | vrouw | vrouw met blindenstok | vrouw met taststok</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">vrouw met taststok: lichte huidskleur</annotation>
 		<annotation cp="👩🏼‍🦯">blind | lichtgetinte huidskleur | toegankelijkheid | vrouw | vrouw met blindenstok | vrouw met taststok</annotation>
@@ -2873,18 +3123,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦯" type="tts">vrouw met taststok: donkergetinte huidskleur</annotation>
 		<annotation cp="👩🏿‍🦯">blind | donkere huidskleur | toegankelijkheid | vrouw | vrouw met blindenstok | vrouw met taststok</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">vrouw met taststok: donkere huidskleur</annotation>
-		<annotation cp="👩‍🦯‍➡">blind | toegankelijkheid | vrouw | vrouw met blindenstok | vrouw met taststok</annotation>
-		<annotation cp="👩‍🦯‍➡" type="tts">vrouw met taststok naar rechts gericht</annotation>
-		<annotation cp="👩🏻‍🦯‍➡">blind | toegankelijkheid | vrouw | vrouw met blindenstok | vrouw met taststok</annotation>
-		<annotation cp="👩🏻‍🦯‍➡" type="tts">vrouw met taststok naar rechts gericht</annotation>
-		<annotation cp="👩🏼‍🦯‍➡">blind | toegankelijkheid | vrouw | vrouw met blindenstok | vrouw met taststok</annotation>
-		<annotation cp="👩🏼‍🦯‍➡" type="tts">vrouw met taststok naar rechts gericht</annotation>
-		<annotation cp="👩🏽‍🦯‍➡">blind | toegankelijkheid | vrouw | vrouw met blindenstok | vrouw met taststok</annotation>
-		<annotation cp="👩🏽‍🦯‍➡" type="tts">vrouw met taststok naar rechts gericht</annotation>
-		<annotation cp="👩🏾‍🦯‍➡">blind | toegankelijkheid | vrouw | vrouw met blindenstok | vrouw met taststok</annotation>
-		<annotation cp="👩🏾‍🦯‍➡" type="tts">vrouw met taststok naar rechts gericht</annotation>
-		<annotation cp="👩🏿‍🦯‍➡">blind | toegankelijkheid | vrouw | vrouw met blindenstok | vrouw met taststok</annotation>
-		<annotation cp="👩🏿‍🦯‍➡" type="tts">vrouw met taststok naar rechts gericht</annotation>
+		<annotation cp="👩‍🦯‍➡">blind | gericht | naar | rechts | toegankelijkheid | vrouw | vrouw met blindenstok | vrouw met taststok</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">vrouw met taststok: naar rechts gericht</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">blind | gericht | lichte huidskleur | naar | rechts | toegankelijkheid | vrouw | vrouw met blindenstok | vrouw met taststok</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">vrouw met taststok: lichte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">blind | gericht | lichtgetinte huidskleur | naar | rechts | toegankelijkheid | vrouw | vrouw met blindenstok | vrouw met taststok</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">vrouw met taststok: lichtgetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">blind | gericht | getinte huidskleur | naar | rechts | toegankelijkheid | vrouw | vrouw met blindenstok | vrouw met taststok</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">vrouw met taststok: getinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">blind | donkergetinte huidskleur | gericht | naar | rechts | toegankelijkheid | vrouw | vrouw met blindenstok | vrouw met taststok</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">vrouw met taststok: donkergetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">blind | donkere huidskleur | gericht | naar | rechts | toegankelijkheid | vrouw | vrouw met blindenstok | vrouw met taststok</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">vrouw met taststok: donkere huidskleur, naar rechts gericht</annotation>
 		<annotation cp="🧑🏻‍🦼">lichte huidskleur | persoon in elektrische rolstoel | rolstoel | toegankelijkheid</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">persoon in elektrische rolstoel: lichte huidskleur</annotation>
 		<annotation cp="🧑🏼‍🦼">lichtgetinte huidskleur | persoon in elektrische rolstoel | rolstoel | toegankelijkheid</annotation>
@@ -2895,18 +3145,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦼" type="tts">persoon in elektrische rolstoel: donkergetinte huidskleur</annotation>
 		<annotation cp="🧑🏿‍🦼">donkere huidskleur | persoon in elektrische rolstoel | rolstoel | toegankelijkheid</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">persoon in elektrische rolstoel: donkere huidskleur</annotation>
-		<annotation cp="🧑‍🦼‍➡">persoon in elektrische rolstoel | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="🧑‍🦼‍➡" type="tts">persoon in elektrische rolstoel naar rechts gericht</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡">persoon in elektrische rolstoel | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡" type="tts">persoon in elektrische rolstoel naar rechts gericht</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡">persoon in elektrische rolstoel | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡" type="tts">persoon in elektrische rolstoel naar rechts gericht</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡">persoon in elektrische rolstoel | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡" type="tts">persoon in elektrische rolstoel naar rechts gericht</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡">persoon in elektrische rolstoel | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡" type="tts">persoon in elektrische rolstoel naar rechts gericht</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡">persoon in elektrische rolstoel | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡" type="tts">persoon in elektrische rolstoel naar rechts gericht</annotation>
+		<annotation cp="🧑‍🦼‍➡">gericht | naar | persoon in elektrische rolstoel | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">persoon in elektrische rolstoel: naar rechts gericht</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">gericht | lichte huidskleur | naar | persoon in elektrische rolstoel | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">persoon in elektrische rolstoel: lichte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">gericht | lichtgetinte huidskleur | naar | persoon in elektrische rolstoel | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">persoon in elektrische rolstoel: lichtgetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">gericht | getinte huidskleur | naar | persoon in elektrische rolstoel | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">persoon in elektrische rolstoel: getinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">donkergetinte huidskleur | gericht | naar | persoon in elektrische rolstoel | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">persoon in elektrische rolstoel: donkergetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">donkere huidskleur | gericht | naar | persoon in elektrische rolstoel | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">persoon in elektrische rolstoel: donkere huidskleur, naar rechts gericht</annotation>
 		<annotation cp="👨🏻‍🦼">elektrisch | lichte huidskleur | man | rolstoel | toegankelijkheid</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">man in elektrische rolstoel: lichte huidskleur</annotation>
 		<annotation cp="👨🏼‍🦼">elektrisch | lichtgetinte huidskleur | man | rolstoel | toegankelijkheid</annotation>
@@ -2917,18 +3167,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦼" type="tts">man in elektrische rolstoel: donkergetinte huidskleur</annotation>
 		<annotation cp="👨🏿‍🦼">donkere huidskleur | elektrisch | man | rolstoel | toegankelijkheid</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">man in elektrische rolstoel: donkere huidskleur</annotation>
-		<annotation cp="👨‍🦼‍➡">elektrisch | man | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="👨‍🦼‍➡" type="tts">man in elektrische rolstoel naar rechts gericht</annotation>
-		<annotation cp="👨🏻‍🦼‍➡">elektrisch | man | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="👨🏻‍🦼‍➡" type="tts">man in elektrische rolstoel naar rechts gericht</annotation>
-		<annotation cp="👨🏼‍🦼‍➡">elektrisch | man | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="👨🏼‍🦼‍➡" type="tts">man in elektrische rolstoel naar rechts gericht</annotation>
-		<annotation cp="👨🏽‍🦼‍➡">elektrisch | man | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="👨🏽‍🦼‍➡" type="tts">man in elektrische rolstoel naar rechts gericht</annotation>
-		<annotation cp="👨🏾‍🦼‍➡">elektrisch | man | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="👨🏾‍🦼‍➡" type="tts">man in elektrische rolstoel naar rechts gericht</annotation>
-		<annotation cp="👨🏿‍🦼‍➡">elektrisch | man | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="👨🏿‍🦼‍➡" type="tts">man in elektrische rolstoel naar rechts gericht</annotation>
+		<annotation cp="👨‍🦼‍➡">elektrisch | gericht | man | naar | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">man in elektrische rolstoel: naar rechts gericht</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">elektrisch | gericht | lichte huidskleur | man | naar | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">man in elektrische rolstoel: lichte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">elektrisch | gericht | lichtgetinte huidskleur | man | naar | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">man in elektrische rolstoel: lichtgetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">elektrisch | gericht | getinte huidskleur | man | naar | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">man in elektrische rolstoel: getinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">donkergetinte huidskleur | elektrisch | gericht | man | naar | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">man in elektrische rolstoel: donkergetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">donkere huidskleur | elektrisch | gericht | man | naar | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">man in elektrische rolstoel: donkere huidskleur, naar rechts gericht</annotation>
 		<annotation cp="👩🏻‍🦼">elektrisch | lichte huidskleur | rolstoel | toegankelijkheid | vrouw</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">vrouw in elektrische rolstoel: lichte huidskleur</annotation>
 		<annotation cp="👩🏼‍🦼">elektrisch | lichtgetinte huidskleur | rolstoel | toegankelijkheid | vrouw</annotation>
@@ -2939,18 +3189,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦼" type="tts">vrouw in elektrische rolstoel: donkergetinte huidskleur</annotation>
 		<annotation cp="👩🏿‍🦼">donkere huidskleur | elektrisch | rolstoel | toegankelijkheid | vrouw</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">vrouw in elektrische rolstoel: donkere huidskleur</annotation>
-		<annotation cp="👩‍🦼‍➡">elektrisch | rolstoel | toegankelijkheid | vrouw</annotation>
-		<annotation cp="👩‍🦼‍➡" type="tts">vrouw in elektrische rolstoel naar rechts gericht</annotation>
-		<annotation cp="👩🏻‍🦼‍➡">elektrisch | rolstoel | toegankelijkheid | vrouw</annotation>
-		<annotation cp="👩🏻‍🦼‍➡" type="tts">vrouw in elektrische rolstoel naar rechts gericht</annotation>
-		<annotation cp="👩🏼‍🦼‍➡">elektrisch | rolstoel | toegankelijkheid | vrouw</annotation>
-		<annotation cp="👩🏼‍🦼‍➡" type="tts">vrouw in elektrische rolstoel naar rechts gericht</annotation>
-		<annotation cp="👩🏽‍🦼‍➡">elektrisch | rolstoel | toegankelijkheid | vrouw</annotation>
-		<annotation cp="👩🏽‍🦼‍➡" type="tts">vrouw in elektrische rolstoel naar rechts gericht</annotation>
-		<annotation cp="👩🏾‍🦼‍➡">elektrisch | rolstoel | toegankelijkheid | vrouw</annotation>
-		<annotation cp="👩🏾‍🦼‍➡" type="tts">vrouw in elektrische rolstoel naar rechts gericht</annotation>
-		<annotation cp="👩🏿‍🦼‍➡">elektrisch | rolstoel | toegankelijkheid | vrouw</annotation>
-		<annotation cp="👩🏿‍🦼‍➡" type="tts">vrouw in elektrische rolstoel naar rechts gericht</annotation>
+		<annotation cp="👩‍🦼‍➡">elektrisch | gericht | naar | rechts | rolstoel | toegankelijkheid | vrouw</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">vrouw in elektrische rolstoel: naar rechts gericht</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">elektrisch | gericht | lichte huidskleur | naar | rechts | rolstoel | toegankelijkheid | vrouw</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">vrouw in elektrische rolstoel: lichte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">elektrisch | gericht | lichtgetinte huidskleur | naar | rechts | rolstoel | toegankelijkheid | vrouw</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">vrouw in elektrische rolstoel: lichtgetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">elektrisch | gericht | getinte huidskleur | naar | rechts | rolstoel | toegankelijkheid | vrouw</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">vrouw in elektrische rolstoel: getinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">donkergetinte huidskleur | elektrisch | gericht | naar | rechts | rolstoel | toegankelijkheid | vrouw</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">vrouw in elektrische rolstoel: donkergetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">donkere huidskleur | elektrisch | gericht | naar | rechts | rolstoel | toegankelijkheid | vrouw</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">vrouw in elektrische rolstoel: donkere huidskleur, naar rechts gericht</annotation>
 		<annotation cp="🧑🏻‍🦽">lichte huidskleur | persoon in rolstoel | rolstoel | toegankelijkheid</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">persoon in rolstoel: lichte huidskleur</annotation>
 		<annotation cp="🧑🏼‍🦽">lichtgetinte huidskleur | persoon in rolstoel | rolstoel | toegankelijkheid</annotation>
@@ -2961,18 +3211,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦽" type="tts">persoon in rolstoel: donkergetinte huidskleur</annotation>
 		<annotation cp="🧑🏿‍🦽">donkere huidskleur | persoon in rolstoel | rolstoel | toegankelijkheid</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">persoon in rolstoel: donkere huidskleur</annotation>
-		<annotation cp="🧑‍🦽‍➡">persoon in rolstoel | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="🧑‍🦽‍➡" type="tts">persoon in rolstoel naar rechts gericht</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡">persoon in rolstoel | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡" type="tts">persoon in rolstoel naar rechts gericht</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡">persoon in rolstoel | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡" type="tts">persoon in rolstoel naar rechts gericht</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡">persoon in rolstoel | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡" type="tts">persoon in rolstoel naar rechts gericht</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡">persoon in rolstoel | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡" type="tts">persoon in rolstoel naar rechts gericht</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡">persoon in rolstoel | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡" type="tts">persoon in rolstoel naar rechts gericht</annotation>
+		<annotation cp="🧑‍🦽‍➡">gericht | naar | persoon in rolstoel | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">persoon in rolstoel: naar rechts gericht</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">gericht | lichte huidskleur | naar | persoon in rolstoel | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">persoon in rolstoel: lichte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">gericht | lichtgetinte huidskleur | naar | persoon in rolstoel | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">persoon in rolstoel: lichtgetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">gericht | getinte huidskleur | naar | persoon in rolstoel | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">persoon in rolstoel: getinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">donkergetinte huidskleur | gericht | naar | persoon in rolstoel | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">persoon in rolstoel: donkergetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">donkere huidskleur | gericht | naar | persoon in rolstoel | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">persoon in rolstoel: donkere huidskleur, naar rechts gericht</annotation>
 		<annotation cp="👨🏻‍🦽">handmatig | lichte huidskleur | man | rolstoel | toegankelijkheid</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">man in rolstoel: lichte huidskleur</annotation>
 		<annotation cp="👨🏼‍🦽">handmatig | lichtgetinte huidskleur | man | rolstoel | toegankelijkheid</annotation>
@@ -2983,18 +3233,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦽" type="tts">man in rolstoel: donkergetinte huidskleur</annotation>
 		<annotation cp="👨🏿‍🦽">donkere huidskleur | handmatig | man | rolstoel | toegankelijkheid</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">man in rolstoel: donkere huidskleur</annotation>
-		<annotation cp="👨‍🦽‍➡">handmatig | man | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="👨‍🦽‍➡" type="tts">man in rolstoel naar rechts gericht</annotation>
-		<annotation cp="👨🏻‍🦽‍➡">handmatig | man | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="👨🏻‍🦽‍➡" type="tts">man in rolstoel naar rechts gericht</annotation>
-		<annotation cp="👨🏼‍🦽‍➡">handmatig | man | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="👨🏼‍🦽‍➡" type="tts">man in rolstoel naar rechts gericht</annotation>
-		<annotation cp="👨🏽‍🦽‍➡">handmatig | man | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="👨🏽‍🦽‍➡" type="tts">man in rolstoel naar rechts gericht</annotation>
-		<annotation cp="👨🏾‍🦽‍➡">handmatig | man | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="👨🏾‍🦽‍➡" type="tts">man in rolstoel naar rechts gericht</annotation>
-		<annotation cp="👨🏿‍🦽‍➡">handmatig | man | rolstoel | toegankelijkheid</annotation>
-		<annotation cp="👨🏿‍🦽‍➡" type="tts">man in rolstoel naar rechts gericht</annotation>
+		<annotation cp="👨‍🦽‍➡">gericht | handmatig | man | naar | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">man in rolstoel: naar rechts gericht</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">gericht | handmatig | lichte huidskleur | man | naar | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">man in rolstoel: lichte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">gericht | handmatig | lichtgetinte huidskleur | man | naar | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">man in rolstoel: lichtgetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">gericht | getinte huidskleur | handmatig | man | naar | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">man in rolstoel: getinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">donkergetinte huidskleur | gericht | handmatig | man | naar | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">man in rolstoel: donkergetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">donkere huidskleur | gericht | handmatig | man | naar | rechts | rolstoel | toegankelijkheid</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">man in rolstoel: donkere huidskleur, naar rechts gericht</annotation>
 		<annotation cp="👩🏻‍🦽">handmatig | lichte huidskleur | rolstoel | toegankelijkheid | vrouw</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">vrouw in rolstoel: lichte huidskleur</annotation>
 		<annotation cp="👩🏼‍🦽">handmatig | lichtgetinte huidskleur | rolstoel | toegankelijkheid | vrouw</annotation>
@@ -3005,18 +3255,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦽" type="tts">vrouw in rolstoel: donkergetinte huidskleur</annotation>
 		<annotation cp="👩🏿‍🦽">donkere huidskleur | handmatig | rolstoel | toegankelijkheid | vrouw</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">vrouw in rolstoel: donkere huidskleur</annotation>
-		<annotation cp="👩‍🦽‍➡">handmatig | rolstoel | toegankelijkheid | vrouw</annotation>
-		<annotation cp="👩‍🦽‍➡" type="tts">vrouw in rolstoel naar rechts gericht</annotation>
-		<annotation cp="👩🏻‍🦽‍➡">handmatig | rolstoel | toegankelijkheid | vrouw</annotation>
-		<annotation cp="👩🏻‍🦽‍➡" type="tts">vrouw in rolstoel naar rechts gericht</annotation>
-		<annotation cp="👩🏼‍🦽‍➡">handmatig | rolstoel | toegankelijkheid | vrouw</annotation>
-		<annotation cp="👩🏼‍🦽‍➡" type="tts">vrouw in rolstoel naar rechts gericht</annotation>
-		<annotation cp="👩🏽‍🦽‍➡">handmatig | rolstoel | toegankelijkheid | vrouw</annotation>
-		<annotation cp="👩🏽‍🦽‍➡" type="tts">vrouw in rolstoel naar rechts gericht</annotation>
-		<annotation cp="👩🏾‍🦽‍➡">handmatig | rolstoel | toegankelijkheid | vrouw</annotation>
-		<annotation cp="👩🏾‍🦽‍➡" type="tts">vrouw in rolstoel naar rechts gericht</annotation>
-		<annotation cp="👩🏿‍🦽‍➡">handmatig | rolstoel | toegankelijkheid | vrouw</annotation>
-		<annotation cp="👩🏿‍🦽‍➡" type="tts">vrouw in rolstoel naar rechts gericht</annotation>
+		<annotation cp="👩‍🦽‍➡">gericht | handmatig | naar | rechts | rolstoel | toegankelijkheid | vrouw</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">vrouw in rolstoel: naar rechts gericht</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">gericht | handmatig | lichte huidskleur | naar | rechts | rolstoel | toegankelijkheid | vrouw</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">vrouw in rolstoel: lichte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">gericht | handmatig | lichtgetinte huidskleur | naar | rechts | rolstoel | toegankelijkheid | vrouw</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">vrouw in rolstoel: lichtgetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">gericht | getinte huidskleur | handmatig | naar | rechts | rolstoel | toegankelijkheid | vrouw</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">vrouw in rolstoel: getinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">donkergetinte huidskleur | gericht | handmatig | naar | rechts | rolstoel | toegankelijkheid | vrouw</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">vrouw in rolstoel: donkergetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">donkere huidskleur | gericht | handmatig | naar | rechts | rolstoel | toegankelijkheid | vrouw</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">vrouw in rolstoel: donkere huidskleur, naar rechts gericht</annotation>
 		<annotation cp="🏃🏻">hardlopen | hardloper | hollen | joggen | lichte huidskleur | man | marathon | persoon | rennen | snel | sport</annotation>
 		<annotation cp="🏃🏻" type="tts">hardloper: lichte huidskleur</annotation>
 		<annotation cp="🏃🏼">hardlopen | hardloper | hollen | joggen | lichtgetinte huidskleur | man | marathon | persoon | rennen | snel | sport</annotation>
@@ -3047,42 +3297,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🏃🏾‍♀" type="tts">rennende vrouw: donkergetinte huidskleur</annotation>
 		<annotation cp="🏃🏿‍♀">atleet | baan | beroep | donkere huidskleur | haasten | hardlopen | kom eraan | marathon | persoon | rennen | rennende vrouw | snel | sport | vlug | vrouw | werk</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">rennende vrouw: donkere huidskleur</annotation>
-		<annotation cp="🏃‍➡">hardlopen | hardloper | hollen | joggen | man | marathon | persoon | rennen | snel | sport</annotation>
-		<annotation cp="🏃‍➡" type="tts">hardloper naar rechts gericht</annotation>
-		<annotation cp="🏃🏻‍➡">hardlopen | hardloper | hollen | joggen | man | marathon | persoon | rennen | snel | sport</annotation>
-		<annotation cp="🏃🏻‍➡" type="tts">hardloper naar rechts gericht</annotation>
-		<annotation cp="🏃🏼‍➡">hardlopen | hardloper | hollen | joggen | man | marathon | persoon | rennen | snel | sport</annotation>
-		<annotation cp="🏃🏼‍➡" type="tts">hardloper naar rechts gericht</annotation>
-		<annotation cp="🏃🏽‍➡">hardlopen | hardloper | hollen | joggen | man | marathon | persoon | rennen | snel | sport</annotation>
-		<annotation cp="🏃🏽‍➡" type="tts">hardloper naar rechts gericht</annotation>
-		<annotation cp="🏃🏾‍➡">hardlopen | hardloper | hollen | joggen | man | marathon | persoon | rennen | snel | sport</annotation>
-		<annotation cp="🏃🏾‍➡" type="tts">hardloper naar rechts gericht</annotation>
-		<annotation cp="🏃🏿‍➡">hardlopen | hardloper | hollen | joggen | man | marathon | persoon | rennen | snel | sport</annotation>
-		<annotation cp="🏃🏿‍➡" type="tts">hardloper naar rechts gericht</annotation>
-		<annotation cp="🏃‍♀‍➡">atleet | baan | beroep | haasten | hardlopen | kom eraan | marathon | persoon | rennen | rennende vrouw | snel | sport | vlug | vrouw | werk</annotation>
-		<annotation cp="🏃‍♀‍➡" type="tts">rennende vrouw naar rechts gericht</annotation>
-		<annotation cp="🏃🏻‍♀‍➡">atleet | baan | beroep | haasten | hardlopen | kom eraan | marathon | persoon | rennen | rennende vrouw | snel | sport | vlug | vrouw | werk</annotation>
-		<annotation cp="🏃🏻‍♀‍➡" type="tts">rennende vrouw naar rechts gericht</annotation>
-		<annotation cp="🏃🏼‍♀‍➡">atleet | baan | beroep | haasten | hardlopen | kom eraan | marathon | persoon | rennen | rennende vrouw | snel | sport | vlug | vrouw | werk</annotation>
-		<annotation cp="🏃🏼‍♀‍➡" type="tts">rennende vrouw naar rechts gericht</annotation>
-		<annotation cp="🏃🏽‍♀‍➡">atleet | baan | beroep | haasten | hardlopen | kom eraan | marathon | persoon | rennen | rennende vrouw | snel | sport | vlug | vrouw | werk</annotation>
-		<annotation cp="🏃🏽‍♀‍➡" type="tts">rennende vrouw naar rechts gericht</annotation>
-		<annotation cp="🏃🏾‍♀‍➡">atleet | baan | beroep | haasten | hardlopen | kom eraan | marathon | persoon | rennen | rennende vrouw | snel | sport | vlug | vrouw | werk</annotation>
-		<annotation cp="🏃🏾‍♀‍➡" type="tts">rennende vrouw naar rechts gericht</annotation>
-		<annotation cp="🏃🏿‍♀‍➡">atleet | baan | beroep | haasten | hardlopen | kom eraan | marathon | persoon | rennen | rennende vrouw | snel | sport | vlug | vrouw | werk</annotation>
-		<annotation cp="🏃🏿‍♀‍➡" type="tts">rennende vrouw naar rechts gericht</annotation>
-		<annotation cp="🏃‍♂‍➡">hardlopen | man | marathon | rennen | rennende man</annotation>
-		<annotation cp="🏃‍♂‍➡" type="tts">rennende man naar rechts gericht</annotation>
-		<annotation cp="🏃🏻‍♂‍➡">hardlopen | man | marathon | rennen | rennende man</annotation>
-		<annotation cp="🏃🏻‍♂‍➡" type="tts">rennende man naar rechts gericht</annotation>
-		<annotation cp="🏃🏼‍♂‍➡">hardlopen | man | marathon | rennen | rennende man</annotation>
-		<annotation cp="🏃🏼‍♂‍➡" type="tts">rennende man naar rechts gericht</annotation>
-		<annotation cp="🏃🏽‍♂‍➡">hardlopen | man | marathon | rennen | rennende man</annotation>
-		<annotation cp="🏃🏽‍♂‍➡" type="tts">rennende man naar rechts gericht</annotation>
-		<annotation cp="🏃🏾‍♂‍➡">hardlopen | man | marathon | rennen | rennende man</annotation>
-		<annotation cp="🏃🏾‍♂‍➡" type="tts">rennende man naar rechts gericht</annotation>
-		<annotation cp="🏃🏿‍♂‍➡">hardlopen | man | marathon | rennen | rennende man</annotation>
-		<annotation cp="🏃🏿‍♂‍➡" type="tts">rennende man naar rechts gericht</annotation>
+		<annotation cp="🏃‍➡">gericht | hardlopen | hardloper | hollen | joggen | man | marathon | naar | persoon | rechts | rennen | snel | sport</annotation>
+		<annotation cp="🏃‍➡" type="tts">hardloper: naar rechts gericht</annotation>
+		<annotation cp="🏃🏻‍➡">gericht | hardlopen | hardloper | hollen | joggen | lichte huidskleur | man | marathon | naar | persoon | rechts | rennen | snel | sport</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">hardloper: lichte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🏃🏼‍➡">gericht | hardlopen | hardloper | hollen | joggen | lichtgetinte huidskleur | man | marathon | naar | persoon | rechts | rennen | snel | sport</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">hardloper: lichtgetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🏃🏽‍➡">gericht | getinte huidskleur | hardlopen | hardloper | hollen | joggen | man | marathon | naar | persoon | rechts | rennen | snel | sport</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">hardloper: getinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🏃🏾‍➡">donkergetinte huidskleur | gericht | hardlopen | hardloper | hollen | joggen | man | marathon | naar | persoon | rechts | rennen | snel | sport</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">hardloper: donkergetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🏃🏿‍➡">donkere huidskleur | gericht | hardlopen | hardloper | hollen | joggen | man | marathon | naar | persoon | rechts | rennen | snel | sport</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">hardloper: donkere huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🏃‍♀‍➡">atleet | baan | beroep | gericht | haasten | hardlopen | kom eraan | marathon | naar | persoon | rechts | rennen | rennende vrouw | snel | sport | vlug | vrouw | werk</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">rennende vrouw: naar rechts gericht</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">atleet | baan | beroep | gericht | haasten | hardlopen | kom eraan | lichte huidskleur | marathon | naar | persoon | rechts | rennen | rennende vrouw | snel | sport | vlug | vrouw | werk</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">rennende vrouw: lichte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">atleet | baan | beroep | gericht | haasten | hardlopen | kom eraan | lichtgetinte huidskleur | marathon | naar | persoon | rechts | rennen | rennende vrouw | snel | sport | vlug | vrouw | werk</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">rennende vrouw: lichtgetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">atleet | baan | beroep | gericht | getinte huidskleur | haasten | hardlopen | kom eraan | marathon | naar | persoon | rechts | rennen | rennende vrouw | snel | sport | vlug | vrouw | werk</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">rennende vrouw: getinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">atleet | baan | beroep | donkergetinte huidskleur | gericht | haasten | hardlopen | kom eraan | marathon | naar | persoon | rechts | rennen | rennende vrouw | snel | sport | vlug | vrouw | werk</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">rennende vrouw: donkergetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">atleet | baan | beroep | donkere huidskleur | gericht | haasten | hardlopen | kom eraan | marathon | naar | persoon | rechts | rennen | rennende vrouw | snel | sport | vlug | vrouw | werk</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">rennende vrouw: donkere huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🏃‍♂‍➡">gericht | hardlopen | man | marathon | naar | rechts | rennen | rennende man</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">rennende man: naar rechts gericht</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">gericht | hardlopen | lichte huidskleur | man | marathon | naar | rechts | rennen | rennende man</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">rennende man: lichte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">gericht | hardlopen | lichtgetinte huidskleur | man | marathon | naar | rechts | rennen | rennende man</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">rennende man: lichtgetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">gericht | getinte huidskleur | hardlopen | man | marathon | naar | rechts | rennen | rennende man</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">rennende man: getinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">donkergetinte huidskleur | gericht | hardlopen | man | marathon | naar | rechts | rennen | rennende man</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">rennende man: donkergetinte huidskleur, naar rechts gericht</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">donkere huidskleur | gericht | hardlopen | man | marathon | naar | rechts | rennen | rennende man</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">rennende man: donkere huidskleur, naar rechts gericht</annotation>
 		<annotation cp="💃🏻">dansen | dansende vrouw | dansende vrouw met rode jurk | danseres | elegant | feest | flamenco | lichte huidskleur | persoon | salsa | tango | vrouw</annotation>
 		<annotation cp="💃🏻" type="tts">dansende vrouw: lichte huidskleur</annotation>
 		<annotation cp="💃🏼">dansen | dansende vrouw | dansende vrouw met rode jurk | danseres | elegant | feest | flamenco | lichtgetinte huidskleur | persoon | salsa | tango | vrouw</annotation>
@@ -3113,6 +3363,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🕴🏾" type="tts">zwevende man in pak: donkergetinte huidskleur</annotation>
 		<annotation cp="🕴🏿">donkere huidskleur | pak | persoon | zaken | zwevend</annotation>
 		<annotation cp="🕴🏿" type="tts">zwevende man in pak: donkere huidskleur</annotation>
+		<annotation cp="👯🏻">bestie | bff | dansen | danser | danseressen | feesten | konijnenoor | konijnenoren | lichte huidskleur | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="👯🏻" type="tts">mensen met konijnenoren: lichte huidskleur</annotation>
+		<annotation cp="👯🏼">bestie | bff | dansen | danser | danseressen | feesten | konijnenoor | konijnenoren | lichtgetinte huidskleur | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="👯🏼" type="tts">mensen met konijnenoren: lichtgetinte huidskleur</annotation>
+		<annotation cp="👯🏽">bestie | bff | dansen | danser | danseressen | feesten | getinte huidskleur | konijnenoor | konijnenoren | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="👯🏽" type="tts">mensen met konijnenoren: getinte huidskleur</annotation>
+		<annotation cp="👯🏾">bestie | bff | dansen | danser | danseressen | donkergetinte huidskleur | feesten | konijnenoor | konijnenoren | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="👯🏾" type="tts">mensen met konijnenoren: donkergetinte huidskleur</annotation>
+		<annotation cp="👯🏿">bestie | bff | dansen | danser | danseressen | donkere huidskleur | feesten | konijnenoor | konijnenoren | meisje | mensen met konijnenoren | personen | tweeling | vriendinnen | vrouw</annotation>
+		<annotation cp="👯🏿" type="tts">mensen met konijnenoren: donkere huidskleur</annotation>
+		<annotation cp="👯🏻‍♀">danseres | feesten | konijnenoor | lichte huidskleur | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👯🏻‍♀" type="tts">vrouwen met konijnenoren: lichte huidskleur</annotation>
+		<annotation cp="👯🏼‍♀">danseres | feesten | konijnenoor | lichtgetinte huidskleur | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👯🏼‍♀" type="tts">vrouwen met konijnenoren: lichtgetinte huidskleur</annotation>
+		<annotation cp="👯🏽‍♀">danseres | feesten | getinte huidskleur | konijnenoor | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👯🏽‍♀" type="tts">vrouwen met konijnenoren: getinte huidskleur</annotation>
+		<annotation cp="👯🏾‍♀">danseres | donkergetinte huidskleur | feesten | konijnenoor | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👯🏾‍♀" type="tts">vrouwen met konijnenoren: donkergetinte huidskleur</annotation>
+		<annotation cp="👯🏿‍♀">danseres | donkere huidskleur | feesten | konijnenoor | vrouwen | vrouwen met konijnenoren</annotation>
+		<annotation cp="👯🏿‍♀" type="tts">vrouwen met konijnenoren: donkere huidskleur</annotation>
+		<annotation cp="👯🏻‍♂">beste vrienden | bff | dansen | danser | feesten | feestende mannen | konijnenoor | konijnenoren | lichte huidskleur | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👯🏻‍♂" type="tts">mannen met konijnenoren: lichte huidskleur</annotation>
+		<annotation cp="👯🏼‍♂">beste vrienden | bff | dansen | danser | feesten | feestende mannen | konijnenoor | konijnenoren | lichtgetinte huidskleur | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👯🏼‍♂" type="tts">mannen met konijnenoren: lichtgetinte huidskleur</annotation>
+		<annotation cp="👯🏽‍♂">beste vrienden | bff | dansen | danser | feesten | feestende mannen | getinte huidskleur | konijnenoor | konijnenoren | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👯🏽‍♂" type="tts">mannen met konijnenoren: getinte huidskleur</annotation>
+		<annotation cp="👯🏾‍♂">beste vrienden | bff | dansen | danser | donkergetinte huidskleur | feesten | feestende mannen | konijnenoor | konijnenoren | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👯🏾‍♂" type="tts">mannen met konijnenoren: donkergetinte huidskleur</annotation>
+		<annotation cp="👯🏿‍♂">beste vrienden | bff | dansen | danser | donkere huidskleur | feesten | feestende mannen | konijnenoor | konijnenoren | mannen | mannen met konijnenoren | twee dansers</annotation>
+		<annotation cp="👯🏿‍♂" type="tts">mannen met konijnenoren: donkere huidskleur</annotation>
 		<annotation cp="🧖🏻">hamam | lichte huidskleur | ontspannen | persoon in ruimte vol stoom | persoon in stomende ruimte | relaxen | sauna | stoombad | stoomcabine | stoomruimte</annotation>
 		<annotation cp="🧖🏻" type="tts">persoon in ruimte vol stoom: lichte huidskleur</annotation>
 		<annotation cp="🧖🏼">hamam | lichtgetinte huidskleur | ontspannen | persoon in ruimte vol stoom | persoon in stomende ruimte | relaxen | sauna | stoombad | stoomcabine | stoomruimte</annotation>
@@ -3463,6 +3743,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤸🏾‍♀" type="tts">vrouw die een radslag doet: donkergetinte huidskleur</annotation>
 		<annotation cp="🤸🏿‍♀">blij | donkere huidskleur | gymnastiek | lenig | persoon | radslag | sport | turnen | turnster | vrouw | vrouw die een radslag doet | vrouw doet radslag</annotation>
 		<annotation cp="🤸🏿‍♀" type="tts">vrouw die een radslag doet: donkere huidskleur</annotation>
+		<annotation cp="🤼🏻">duel | lichte huidskleur | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🤼🏻" type="tts">personen die worstelen: lichte huidskleur</annotation>
+		<annotation cp="🤼🏼">duel | lichtgetinte huidskleur | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🤼🏼" type="tts">personen die worstelen: lichtgetinte huidskleur</annotation>
+		<annotation cp="🤼🏽">duel | getinte huidskleur | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🤼🏽" type="tts">personen die worstelen: getinte huidskleur</annotation>
+		<annotation cp="🤼🏾">donkergetinte huidskleur | duel | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🤼🏾" type="tts">personen die worstelen: donkergetinte huidskleur</annotation>
+		<annotation cp="🤼🏿">donkere huidskleur | duel | olympische spelen | personen die worstelen | sport | toernooi | worstelaar | worstelen</annotation>
+		<annotation cp="🤼🏿" type="tts">personen die worstelen: donkere huidskleur</annotation>
+		<annotation cp="🤼🏻‍♀">lichte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="🤼🏻‍♀" type="tts">worstelende vrouwen: lichte huidskleur</annotation>
+		<annotation cp="🤼🏼‍♀">lichtgetinte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="🤼🏼‍♀" type="tts">worstelende vrouwen: lichtgetinte huidskleur</annotation>
+		<annotation cp="🤼🏽‍♀">getinte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="🤼🏽‍♀" type="tts">worstelende vrouwen: getinte huidskleur</annotation>
+		<annotation cp="🤼🏾‍♀">donkergetinte huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="🤼🏾‍♀" type="tts">worstelende vrouwen: donkergetinte huidskleur</annotation>
+		<annotation cp="🤼🏿‍♀">donkere huidskleur | olympische spelen | persoon | sport | strijd | toernooi | vechten | vrouwen | worstelen | worstelende vrouwen</annotation>
+		<annotation cp="🤼🏿‍♀" type="tts">worstelende vrouwen: donkere huidskleur</annotation>
+		<annotation cp="🤼🏻‍♂">lichte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="🤼🏻‍♂" type="tts">worstelende mannen: lichte huidskleur</annotation>
+		<annotation cp="🤼🏼‍♂">lichtgetinte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="🤼🏼‍♂" type="tts">worstelende mannen: lichtgetinte huidskleur</annotation>
+		<annotation cp="🤼🏽‍♂">getinte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="🤼🏽‍♂" type="tts">worstelende mannen: getinte huidskleur</annotation>
+		<annotation cp="🤼🏾‍♂">donkergetinte huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="🤼🏾‍♂" type="tts">worstelende mannen: donkergetinte huidskleur</annotation>
+		<annotation cp="🤼🏿‍♂">donkere huidskleur | mannen | persoon | sport | strijd | toernooi | worstelaars | worstelen | worstelende mannen</annotation>
+		<annotation cp="🤼🏿‍♂" type="tts">worstelende mannen: donkere huidskleur</annotation>
 		<annotation cp="🤽🏻">lichte huidskleur | persoon | polo | spelen | sport | water | waterpolo | zwemmen</annotation>
 		<annotation cp="🤽🏻" type="tts">persoon die waterpolo speelt: lichte huidskleur</annotation>
 		<annotation cp="🤽🏼">lichtgetinte huidskleur | persoon | polo | spelen | sport | water | waterpolo | zwemmen</annotation>
@@ -4434,26 +4744,6 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="₺" type="tts">Turkse lira</annotation>
 		<annotation cp="₼" type="tts">Azerbeidzjaanse manat</annotation>
 		<annotation cp="₾" type="tts">Georgische lari</annotation>
-		<annotation cp="0⃣">toets</annotation>
-		<annotation cp="0⃣" type="tts">toets: 0</annotation>
-		<annotation cp="1⃣">toets</annotation>
-		<annotation cp="1⃣" type="tts">toets: 1</annotation>
-		<annotation cp="2⃣">toets</annotation>
-		<annotation cp="2⃣" type="tts">toets: 2</annotation>
-		<annotation cp="3⃣">toets</annotation>
-		<annotation cp="3⃣" type="tts">toets: 3</annotation>
-		<annotation cp="4⃣">toets</annotation>
-		<annotation cp="4⃣" type="tts">toets: 4</annotation>
-		<annotation cp="5⃣">toets</annotation>
-		<annotation cp="5⃣" type="tts">toets: 5</annotation>
-		<annotation cp="6⃣">toets</annotation>
-		<annotation cp="6⃣" type="tts">toets: 6</annotation>
-		<annotation cp="7⃣">toets</annotation>
-		<annotation cp="7⃣" type="tts">toets: 7</annotation>
-		<annotation cp="8⃣">toets</annotation>
-		<annotation cp="8⃣" type="tts">toets: 8</annotation>
-		<annotation cp="9⃣">toets</annotation>
-		<annotation cp="9⃣" type="tts">toets: 9</annotation>
 		<annotation cp="₧" type="tts">Spaanse peseta</annotation>
 	</annotations>
 </ldml>

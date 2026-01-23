@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -67,6 +67,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="brse" draft="provisional">Sergipe</subdivision>
 			<subdivision type="brsp" draft="provisional">Sao Paulo</subdivision>
 			<subdivision type="brto" draft="provisional">Tocantins</subdivision>
+			<subdivision type="bwfr" draft="provisional">Francistown</subdivision>
 			<subdivision type="bwga" draft="provisional">Gaborone</subdivision>
 			<subdivision type="byhm" draft="provisional">Minsk</subdivision>
 			<subdivision type="canl" draft="provisional">Newfoundland àti Labrador</subdivision>
@@ -146,18 +147,19 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="fr972" draft="provisional">Mártíníkì</subdivision>
 			<subdivision type="fr973" draft="provisional">Gùyánà Fránsì</subdivision>
 			<subdivision type="fr974" draft="provisional">Réunion</subdivision>
+			<subdivision type="fr976" draft="provisional">Mayotte</subdivision>
 			<subdivision type="gbabd" draft="provisional">Aberdeenshire</subdivision>
 			<subdivision type="gbabe" draft="provisional">Aberdeen</subdivision>
 			<subdivision type="gbbst" draft="provisional">Bristol</subdivision>
-			<subdivision type="gbeng" draft="provisional">Ilẹ̀gẹ̀ẹ́sì</subdivision>
+			<subdivision type="gbeng">Ilẹ̀gẹ̀ẹ́sì</subdivision>
 			<subdivision type="gbgbn" draft="provisional">Erékùṣù Brítánì Olókìkí</subdivision>
 			<subdivision type="gbglg" draft="provisional">Glasgow</subdivision>
 			<subdivision type="gblnd" draft="provisional">Lọndọnu</subdivision>
 			<subdivision type="gbnir" draft="provisional">Írẹ́lándì Apáàríwá</subdivision>
-			<subdivision type="gbsct" draft="provisional">Skọ́tlándì</subdivision>
+			<subdivision type="gbsct">Skọ́tlándì</subdivision>
 			<subdivision type="gbsry" draft="provisional">Surrey</subdivision>
 			<subdivision type="gbukm" draft="provisional">Ilẹ̀ọba Aṣọ̀kan</subdivision>
-			<subdivision type="gbwls" draft="provisional">Wélsì</subdivision>
+			<subdivision type="gbwls">Wélsì</subdivision>
 			<subdivision type="geaj" draft="provisional">Adjara</subdivision>
 			<subdivision type="getb" draft="provisional">Tbilisi</subdivision>
 			<subdivision type="ghaa" draft="provisional">Greater Accra Region</subdivision>
@@ -304,6 +306,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="rumow" draft="provisional">Mọsko</subdivision>
 			<subdivision type="ruspe" draft="provisional">Saint Petersburg</subdivision>
 			<subdivision type="rw01" draft="provisional">Kigali</subdivision>
+			<subdivision type="rw02" draft="provisional">Àgbègbè Ìwọ̀-ọọ̀rùn, Rwanda</subdivision>
 			<subdivision type="sbct" draft="provisional">Honiara</subdivision>
 			<subdivision type="shac" draft="provisional">Erékùṣù Ascension</subdivision>
 			<subdivision type="shhl" draft="provisional">Saint Helena</subdivision>

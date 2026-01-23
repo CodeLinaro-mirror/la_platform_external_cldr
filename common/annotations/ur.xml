@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -711,20 +711,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="♭" type="tts">ہموار</annotation>
 		<annotation cp="♯">جیز | ڈائیسز | شارپ | موسیقی | نوٹ</annotation>
 		<annotation cp="♯" type="tts">شارپ</annotation>
-		<annotation cp="🪉">آرکسٹرا | آلہ | بربط | پیار | کیوپڈ | مسیقی</annotation>
-		<annotation cp="🪉" type="tts">بربط</annotation>
-		<annotation cp="🪏">بیلچہ | پھاوڑا | سوراخ | کفچہ | کھدائی</annotation>
-		<annotation cp="🪏" type="tts">بیلچہ</annotation>
-		<annotation cp="🪾">بنجر | بے برگ درخت | خشک سالی | موسم سرما</annotation>
-		<annotation cp="🪾" type="tts">بے برگ درخت</annotation>
-		<annotation cp="🫆">انگلی کا نشان | سلامتی | شناخت | فورنسک</annotation>
-		<annotation cp="🫆" type="tts">انگلی کا نشان</annotation>
-		<annotation cp="🫜">باغ | جَڑ | چقندر | سبزی | شلغم</annotation>
-		<annotation cp="🫜" type="tts">زیر زمین اگنے والی سبزی</annotation>
-		<annotation cp="🫟">پینٹ | چھلکنا | چھینٹے اڑانا | داغ | ہولی</annotation>
-		<annotation cp="🫟" type="tts">چھینٹے اڑانا</annotation>
-		<annotation cp="🫩">آنکھوں کے گرد حلقوں والا چہرہ | تھکا ماندہ | تھکن زدہ | نیم خواب</annotation>
-		<annotation cp="🫩" type="tts">آنکھوں کے گرد حلقوں والا چہرہ</annotation>
 		<annotation cp="😀">چہرہ | کھل کے ہنستا چہرہ | کھلا | منہ | ہنسی</annotation>
 		<annotation cp="😀" type="tts">کھل کے ہنستا چہرہ</annotation>
 		<annotation cp="😃">آہا! | ارے واہ! | بڑی آنکھوں والا کھلے منہ والا مسکراتا چہرہ | تبسم | چہرہ | خوش حال | خوشی | دانت | دندان | دہانا | کھلا ہوا چہرا | کھلکھلا کر ہنسنا | کھلے منہ والا مسکراتا چہرہ | مسکراہٹ | منہ | ہنسی</annotation>
@@ -839,6 +825,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🤤" type="tts">رال ٹپکاتا چہرہ</annotation>
 		<annotation cp="😴">آرام کا وقت | اونگھ | اونگھنا | بستر | بیڈ ٹائم | چہرہ | رات | سوتا ہوا چہرہ | سونا | سونے کا وقت | شب بخیر | گڈ نائٹ | نائٹ | نیند | نیند میں ہونا</annotation>
 		<annotation cp="😴" type="tts">سوتا ہوا چہرہ</annotation>
+		<annotation cp="🫩">آنکھوں کے گرد حلقوں والا چہرہ | تھکا ماندہ | تھکن زدہ | نیم خواب</annotation>
+		<annotation cp="🫩" type="tts">آنکھوں کے گرد حلقوں والا چہرہ</annotation>
 		<annotation cp="😷">آپریشن | ڈاکٹر | ڈینٹسٹ | سردی | علاج | ماسک | ماہر امراض جِلد | معالج</annotation>
 		<annotation cp="😷" type="tts">طبی ماسک والا چہرہ</annotation>
 		<annotation cp="🤒">بخار | بیمار | بیماری | تپ | تھرمامیٹر | تھرمامیٹر لیے چہرہ | چہرہ | روگی | علالت | علیل | گرمی</annotation>
@@ -893,6 +881,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="😲" type="tts">حیرت زدہ چہرہ</annotation>
 		<annotation cp="😳">پاگل | پریشان | چہرہ | خجل | سرخ | شرم | شرمندگی | شرمندگی سے سرخ چہرہ</annotation>
 		<annotation cp="😳" type="tts">شرمندگی سے سرخ چہرہ</annotation>
+		<annotation cp="🫪">بے چینی | حیران | حیرت زدہ | خطرے سے دوچار | خوف و ہراس | سوجا ہوا</annotation>
+		<annotation cp="🫪" type="tts">بگڑا ہوا چہرہ</annotation>
 		<annotation cp="🥺">التجا کرنا | التجا، رحم، التجائی چہرہ، پپّی والی آنکھیں، براہ کرم، اداس، کیوں نہیں، چہرہ، بڑی آنکھیں | رحم | طفلانہ آنکھیں | ملتجی چہرہ</annotation>
 		<annotation cp="🥺" type="tts">ملتجی چہرہ</annotation>
 		<annotation cp="🥹">آنسو روکے ہوئے چہرہ | اداس | اداسی | پُرمسرت | پسندیدگی | پلیز | رونا | غرور | غصیلا | فخر | متشکر | مزاحمت | ہائے | ہائے اللہ</annotation>
@@ -1039,6 +1029,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="💯" type="tts">سو پوائنٹس</annotation>
 		<annotation cp="💢">علامت | غصہ | غصے کی علامت | غیظ | غیظ کی علامت</annotation>
 		<annotation cp="💢" type="tts">غصے کی علامت</annotation>
+		<annotation cp="🫯">بحث | عدم اتفاق | کشتی | لڑائی | مکا مارنا | مناظرہ | ہنگامہ</annotation>
+		<annotation cp="🫯" type="tts">فائٹ کلاؤڈ</annotation>
 		<annotation cp="💥">بم | تصادم | ٹکر | ٹکرائو | دھماکہ</annotation>
 		<annotation cp="💥" type="tts">تصادم</annotation>
 		<annotation cp="💫">ٹوٹا تارہ | چمکتا ستارہ | روشن ستارہ | سر چکرانا | علامت | قدرت | کامکس | نجم</annotation>
@@ -1503,6 +1495,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🧟‍♀" type="tts">زندہ مردہ عورت</annotation>
 		<annotation cp="🧌">بلا | بھوت | پریوں کی کہانی | ٹرول | جن | دیو | عفریت | فسانوی</annotation>
 		<annotation cp="🧌" type="tts">ٹرول</annotation>
+		<annotation cp="🫈">بالوں والا | بڑ قدما | بگ فٹ | پُراسرار | جنگل | دیو | ووڈ ووز | یتی</annotation>
+		<annotation cp="🫈" type="tts">بالوں والی مخلوق</annotation>
 		<annotation cp="💆">تھراپی | چہرے کا مساج | راحت | سر درد کا علاج | سیلون | علاج | مالش | مالش کرواتی خاتون | مساج</annotation>
 		<annotation cp="💆" type="tts">چہرے کا مساج</annotation>
 		<annotation cp="💆‍♂">آرام | چہرا | چہرے کی مالش کراتا ہوا مرد | درد سر | سر درد | سیلون | لوگ | مالش | مالش کراتا ہوا مرد | مرد | مساج</annotation>
@@ -1557,6 +1551,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏃‍♂" type="tts">دوڑتا ہوا مرد</annotation>
 		<annotation cp="🏃‍♀">بھاگتی ہوئی عورت | بھاگنا | تیز چلنا | جلد باز عورت | جلد بازی | خاتون | دوڑ | دوڑتی ہوئی عورت | دوڑنا | طویل دوڑ | عجلت | عورت | لوگ | میراتھون</annotation>
 		<annotation cp="🏃‍♀" type="tts">دوڑتی ہوئی عورت</annotation>
+		<annotation cp="🧑‍🩰">بیلے ڈانسر</annotation>
+		<annotation cp="🧑‍🩰" type="tts">بیلے ڈانسر</annotation>
 		<annotation cp="💃">ٹینگو | جشن | ڈانس | ڈانسر | رقاصہ | رقص | سا | لڑکی | لوگ | ناچ | ناچ گانا | ناچتی عورت</annotation>
 		<annotation cp="💃" type="tts">ڈانسر</annotation>
 		<annotation cp="🕺">آجا نچ لے! | آدمی | خاتون | رقاص | رقص | سالسا | عورت | لوگ | مزہ | ناچ | ناچ گانا | ناچتا ہوا شخص</annotation>
@@ -1709,6 +1705,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🧑‍🧒‍🧒" type="tts">خاندان: بالغ، بچہ، بچہ</annotation>
 		<annotation cp="👣">اشیاء | پائوں کے نشان | جسم | چلنا | چیز | قدم | قدموں کے نشانات | منزل کا نشان | نشان | نقشِ پا | ننگے پائوں چلنا</annotation>
 		<annotation cp="👣" type="tts">قدموں کے نشانات</annotation>
+		<annotation cp="🫆">انگلی کا نشان | سلامتی | شناخت | فورنسک</annotation>
+		<annotation cp="🫆" type="tts">انگلی کا نشان</annotation>
 		<annotation cp="🦰">ادرک | سرخ بال | سرخ سر</annotation>
 		<annotation cp="🦰" type="tts">سرخ بال</annotation>
 		<annotation cp="🦱">افریقی | گھنگھریالے | گھنگھریالے بال | گیسو</annotation>
@@ -1917,6 +1915,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🐋" type="tts">وہیل</annotation>
 		<annotation cp="🐬">آبی مخلوق | جاندار | جانور | ڈولفن | ساحل | سمندر | قدرت</annotation>
 		<annotation cp="🐬" type="tts">ڈولفن</annotation>
+		<annotation cp="🫍">سمندر | میرین | وہیل</annotation>
+		<annotation cp="🫍" type="tts">اورکا</annotation>
 		<annotation cp="🦭">بڑا سیل | جانور | دریائی بچھڑا | سیل | فطرت</annotation>
 		<annotation cp="🦭" type="tts">سیل</annotation>
 		<annotation cp="🐟">برجِ حوت | جانور | حلال مچھلی | حوت | خوراک | دریائی خوراک | راس منڈل | علمِ نجوم | قدرت | کھانا | ماہی | مچھلی | منطقتہ البروج</annotation>
@@ -1935,6 +1935,16 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🪸" type="tts">مرجان</annotation>
 		<annotation cp="🪼">آبی حیات | آہ | بے ریڑھ | جانور | جلن | جیلی | جیلی فش | ڈنک | سمندری | شاخک</annotation>
 		<annotation cp="🪼" type="tts">جیلی فش</annotation>
+		<annotation cp="🦀">جانور | سرطان | قدرت | کھیکھڑا | کیکڑا | منطقتہ البروج</annotation>
+		<annotation cp="🦀" type="tts">کیکڑا</annotation>
+		<annotation cp="🦞">بسک، پنجے، لابسٹر، سمندری خوراک، سرخ لابسٹر، جانور | پنجے | سمندری غذا | گاڑھا سوپ | لوبسٹر</annotation>
+		<annotation cp="🦞" type="tts">لوبسٹر</annotation>
+		<annotation cp="🦐">جھینگا | چھوٹا جھینگا | خوراک | غزا | قدرت | کھانا | نعمت</annotation>
+		<annotation cp="🦐" type="tts">جھینگا</annotation>
+		<annotation cp="🦑">اسکوڈ | جانور | خوراک | قدرت | قیر ماہی</annotation>
+		<annotation cp="🦑" type="tts">قیر ماہی</annotation>
+		<annotation cp="🦪">سیپ | سیپ کا کیڑا | صدف | صدفہ | غوطہ خوری | موتی</annotation>
+		<annotation cp="🦪" type="tts">صدفہ</annotation>
 		<annotation cp="🐌">اسنیل | باغ | باغیچہ | جانور | صدفہ | قدرت | گھونگھا</annotation>
 		<annotation cp="🐌" type="tts">گھونگھا</annotation>
 		<annotation cp="🦋">تتلی | جاندار | خوبصورت | قدرت | کیڑہ | مخلوق</annotation>
@@ -2023,6 +2033,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🪺" type="tts">انڈوں کے ساتھ گھونسلہ</annotation>
 		<annotation cp="🍄">پھپھوند | پودا | خمیر | سانپ کی چھتری | فطر | قدرت | کھمبی | کھنبی</annotation>
 		<annotation cp="🍄" type="tts">کھمبی</annotation>
+		<annotation cp="🪾">بنجر | بے برگ درخت | خشک سالی | موسم سرما</annotation>
+		<annotation cp="🪾" type="tts">بے برگ درخت</annotation>
 		<annotation cp="🍇">انگور | پھل | میوہ</annotation>
 		<annotation cp="🍇" type="tts">انگور</annotation>
 		<annotation cp="🍈">پھل | ثمر | خربوزہ | شیریں | غزا | کھانا | میٹھا</annotation>
@@ -2099,6 +2111,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🫛" type="tts">مٹر کی پھلی</annotation>
 		<annotation cp="🍄‍🟫">بھورے رنگ کا مشروم | پیزا ٹاپنگ | خوراک | غذا، فنگس، قدرت، سبزی | مشروم</annotation>
 		<annotation cp="🍄‍🟫" type="tts">بھورے رنگ کا مشروم</annotation>
+		<annotation cp="🫜">باغ | جَڑ | چقندر | سبزی | شلغم</annotation>
+		<annotation cp="🫜" type="tts">زیر زمین اگنے والی سبزی</annotation>
 		<annotation cp="🍞">بریڈ | پائو روٹی | ڈبل روٹی | روٹی | غزا | غلہ | کھانا | نان</annotation>
 		<annotation cp="🍞" type="tts">ڈبل روٹی</annotation>
 		<annotation cp="🥐">خوراک | روٹی | رول | فرنچ | کھانا | ہلال نما | ہلال نما روٹی</annotation>
@@ -2201,16 +2215,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🥠" type="tts">قسمت والا بسکٹ</annotation>
 		<annotation cp="🥡">باہر کا کھانا | پارسل کا ڈبہ | چائنیز کھانا | چوپ اسٹکس | خوراک | صدف کی بالٹی | کھانا گھر پر منگوانا</annotation>
 		<annotation cp="🥡" type="tts">پارسل کا ڈبہ</annotation>
-		<annotation cp="🦀">جانور | سرطان | قدرت | کھیکھڑا | کیکڑا | منطقتہ البروج</annotation>
-		<annotation cp="🦀" type="tts">کیکڑا</annotation>
-		<annotation cp="🦞">بسک، پنجے، لابسٹر، سمندری خوراک، سرخ لابسٹر، جانور | پنجے | سمندری غذا | گاڑھا سوپ | لوبسٹر</annotation>
-		<annotation cp="🦞" type="tts">لوبسٹر</annotation>
-		<annotation cp="🦐">جھینگا | چھوٹا جھینگا | خوراک | غزا | قدرت | کھانا | نعمت</annotation>
-		<annotation cp="🦐" type="tts">جھینگا</annotation>
-		<annotation cp="🦑">اسکوڈ | جانور | خوراک | قدرت | قیر ماہی</annotation>
-		<annotation cp="🦑" type="tts">قیر ماہی</annotation>
-		<annotation cp="🦪">سیپ | سیپ کا کیڑا | صدف | صدفہ | غوطہ خوری | موتی</annotation>
-		<annotation cp="🦪" type="tts">صدفہ</annotation>
 		<annotation cp="🍦">بالائی | برف | خوراک | ڈیسرٹ | ریسٹورنٹ | سافٹ آئس کریم | شیرینی | کریم | میٹھی | نرم</annotation>
 		<annotation cp="🍦" type="tts">سافٹ آئس کریم</annotation>
 		<annotation cp="🍧">برف | برف کا گولہ | تراشی ہوئی | تراشیدہ برف | ٹھنڈک | میٹھی</annotation>
@@ -2311,6 +2315,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏔" type="tts">برف سے ڈھکا پہاڑ</annotation>
 		<annotation cp="⛰">پربت | پہاڑ | چٹان | قدرت | کوہ</annotation>
 		<annotation cp="⛰" type="tts">پہاڑ</annotation>
+		<annotation cp="🛘">برفانی تودہ | پہاڑ | تباہی | چٹانیں | خطرہ | زلزلہ | مٹی کے تودے</annotation>
+		<annotation cp="🛘" type="tts">لینڈ سلائیڈ</annotation>
 		<annotation cp="🌋">آتش فشاں | آگ | پھٹنا | پہاڑ | قدرت | کوہ | موسم</annotation>
 		<annotation cp="🌋" type="tts">آتش فشاں</annotation>
 		<annotation cp="🗻">پہاڑ | فیجی کا پہاڑ | فیوجی | قدرت | کوہ فیجی | ماؤنٹ فیوجی</annotation>
@@ -3031,14 +3037,16 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="📻" type="tts">ریڈیو</annotation>
 		<annotation cp="🎷">آلہ | سیکسو فون | موسیقی</annotation>
 		<annotation cp="🎷" type="tts">سیکسو فون</annotation>
+		<annotation cp="🎺">آلہ | ٹرمپٹ | موسیقی</annotation>
+		<annotation cp="🎺" type="tts">ٹرمپٹ</annotation>
+		<annotation cp="🪊">آلہ | اداس | پیتل | جاز | سلائیڈ | موسیقی</annotation>
+		<annotation cp="🪊" type="tts">ٹرومبون</annotation>
 		<annotation cp="🪗">ارگن باجا | سکویز باکس | کنسرٹینا | موسیقی | موسیقی کا آلہ</annotation>
 		<annotation cp="🪗" type="tts">ارگن باجا</annotation>
 		<annotation cp="🎸">آلہ | گٹار | موسیقی</annotation>
 		<annotation cp="🎸" type="tts">گٹار</annotation>
 		<annotation cp="🎹">آلہ | کی بورڈ | موسیقی | میوزیکل کی بورڈ</annotation>
 		<annotation cp="🎹" type="tts">میوزیکل کی بورڈ</annotation>
-		<annotation cp="🎺">آلہ | ٹرمپٹ | موسیقی</annotation>
-		<annotation cp="🎺" type="tts">ٹرمپٹ</annotation>
 		<annotation cp="🎻">آلہ | موسیقی | وائلن</annotation>
 		<annotation cp="🎻" type="tts">وائلن</annotation>
 		<annotation cp="🪕">بینجو | تاروں والا آلہ | موسیقی</annotation>
@@ -3051,6 +3059,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🪇" type="tts">مراکس</annotation>
 		<annotation cp="🪈">بانسری | پائپ | ریکارڈر | ساز | فائف | موسیقی | ووڈوِنڈ</annotation>
 		<annotation cp="🪈" type="tts">بانسری</annotation>
+		<annotation cp="🪉">آرکسٹرا | آلہ | بربط | پیار | کیوپڈ | مسیقی</annotation>
+		<annotation cp="🪉" type="tts">بربط</annotation>
 		<annotation cp="📱">ابلاغ | برقی آلہ | فون | موبائل</annotation>
 		<annotation cp="📱" type="tts">موبائل فون</annotation>
 		<annotation cp="📲">آلہ | تیر | تیر کے نشان کے ساتھ موبائل فون | فون | موبائل | نشان</annotation>
@@ -3157,10 +3167,12 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🔖" type="tts">بُک مارک</annotation>
 		<annotation cp="🏷">ٹیگ | لیبل</annotation>
 		<annotation cp="🏷" type="tts">لیبل</annotation>
-		<annotation cp="💰">بیگ | پیسا | پیسوں کا بیگ | پیسوں کی پوٹلی | ڈالر | رقم | مال</annotation>
-		<annotation cp="💰" type="tts">پیسوں کا بیگ</annotation>
 		<annotation cp="🪙">امیر | چاندی | خزانہ | دھات | ڈالر | رقم | سکہ | سونا | کوئن | مالدار</annotation>
 		<annotation cp="🪙" type="tts">سکہ</annotation>
+		<annotation cp="💰">بیگ | پیسا | پیسوں کا بیگ | پیسوں کی پوٹلی | ڈالر | رقم | مال</annotation>
+		<annotation cp="💰" type="tts">پیسوں کا بیگ</annotation>
+		<annotation cp="🪎">انعام | پیسہ | جیم | چاندی | دولت | زیورات | سونا | قیمتی اشیاء | لوٹ</annotation>
+		<annotation cp="🪎" type="tts">ٹریژر چیسٹ</annotation>
 		<annotation cp="💴">بنک | رقم | نوٹ | ین | ین بینک نوٹ</annotation>
 		<annotation cp="💴" type="tts">ین بینک نوٹ</annotation>
 		<annotation cp="💵">بنک | ڈالر | ڈالر بینک نوٹ | رقم | نوٹ</annotation>
@@ -3327,6 +3339,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🧲" type="tts">مقناطیس</annotation>
 		<annotation cp="🪜">چڑھنا | زینہ | سیڑھی | قدم</annotation>
 		<annotation cp="🪜" type="tts">سیڑھی</annotation>
+		<annotation cp="🪏">بیلچہ | پھاوڑا | سوراخ | کفچہ | کھدائی</annotation>
+		<annotation cp="🪏" type="tts">بیلچہ</annotation>
 		<annotation cp="⚗">آلہ | الیمبک | سادھن | کیمیا | کیمیاگر</annotation>
 		<annotation cp="⚗" type="tts">الیمبک</annotation>
 		<annotation cp="🧪">تجربہ | ٹیسٹ ٹیوب | سائنس | کیمسٹ | کیمسٹری | لیب</annotation>
@@ -3699,6 +3713,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="®" type="tts">رجسٹرڈ</annotation>
 		<annotation cp="™">تجارت | تجارتی نشان | ٹریڈ مارک | نشان</annotation>
 		<annotation cp="™" type="tts">تجارتی نشان</annotation>
+		<annotation cp="🫟">پینٹ | چھلکنا | چھینٹے اڑانا | داغ | ہولی</annotation>
+		<annotation cp="🫟" type="tts">چھینٹے اڑانا</annotation>
 		<annotation cp="🔠">ABCD | ان پٹ | ان پٹ لاطینی بڑے حروف | بڑے | حروف | داخلہ | لاطینی | مدخل</annotation>
 		<annotation cp="🔠" type="tts">ان پٹ لاطینی بڑے حروف</annotation>
 		<annotation cp="🔡">abcd | ان پٹ | ان پٹ لاطینی چھوٹے حروف | چھوٹے | حروف | داخلہ | لاطینی | مدخل</annotation>
@@ -3897,6 +3913,26 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="₽" type="tts">روبل</annotation>
 		<annotation cp="₿">BTC | بِٹ کوائن</annotation>
 		<annotation cp="₿" type="tts">بِٹ کوائن</annotation>
+		<annotation cp="0⃣">0 | صفر | کی کیپ</annotation>
+		<annotation cp="0⃣" type="tts">کی کیپ: 0</annotation>
+		<annotation cp="1⃣">1 | ایک | کی کیپ</annotation>
+		<annotation cp="1⃣" type="tts">کی کیپ: 1</annotation>
+		<annotation cp="2⃣">2 | دو | کی کیپ</annotation>
+		<annotation cp="2⃣" type="tts">کی کیپ: 2</annotation>
+		<annotation cp="3⃣">3 | تین | کی کیپ</annotation>
+		<annotation cp="3⃣" type="tts">کی کیپ: 3</annotation>
+		<annotation cp="4⃣">4 | چار | کی کیپ</annotation>
+		<annotation cp="4⃣" type="tts">کی کیپ: 4</annotation>
+		<annotation cp="5⃣">5 | پانچ | کی کیپ</annotation>
+		<annotation cp="5⃣" type="tts">کی کیپ: 5</annotation>
+		<annotation cp="6⃣">6 | چھ | کی کیپ</annotation>
+		<annotation cp="6⃣" type="tts">کی کیپ: 6</annotation>
+		<annotation cp="7⃣">7 | سات | کی کیپ</annotation>
+		<annotation cp="7⃣" type="tts">کی کیپ: 7</annotation>
+		<annotation cp="8⃣">8 | آٹھ | کی کیپ</annotation>
+		<annotation cp="8⃣" type="tts">کی کیپ: 8</annotation>
+		<annotation cp="9⃣">9 | کی کیپ | نو</annotation>
+		<annotation cp="9⃣" type="tts">کی کیپ: 9</annotation>
 		<annotation cp="¹">ایک | سپر اسکرپٹ ایک | سپراسکرپٹ</annotation>
 		<annotation cp="¹" type="tts">سپر اسکرپٹ ایک</annotation>
 		<annotation cp="²">دو | سپر اسکرپٹ دو | سپراسکرپٹ | مربع</annotation>

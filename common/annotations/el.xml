@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -711,20 +711,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="♭" type="tts">ύφεση</annotation>
 		<annotation cp="♯">δίεση | μουσική | νότα</annotation>
 		<annotation cp="♯" type="tts">δίεση</annotation>
-		<annotation cp="🪉">αγάπη | άρπα | έρωτας | μουσική | όργανο | ορχήστρα</annotation>
-		<annotation cp="🪉" type="tts">άρπα</annotation>
-		<annotation cp="🪏">λάκκος | σκάβω | σκάψιμο | φτυάρι</annotation>
-		<annotation cp="🪏" type="tts">φτυάρι</annotation>
-		<annotation cp="🪾">άκαρπο | γυμνό δέντρο | ξηρασία | χειμώνας</annotation>
-		<annotation cp="🪾" type="tts">γυμνό δέντρο</annotation>
-		<annotation cp="🫆">ασφάλεια | δακτυλικό αποτύπωμα | εγκληματολογική έρευνα | ταυτότητα</annotation>
-		<annotation cp="🫆" type="tts">δακτυλικό αποτύπωμα</annotation>
-		<annotation cp="🫜">γογγύλι | κήπος | λαχανικό | παντζάρι | ραπανάκι | ρίζα | σαλάτα | χορτοφάγος</annotation>
-		<annotation cp="🫜" type="tts">ριζώδες λαχανικό</annotation>
-		<annotation cp="🫟">λεκές | μπογιά | πιτσιλιά | πιτσιλιάζω | χάλια | Χόλι</annotation>
-		<annotation cp="🫟" type="tts">πιτσιλιά</annotation>
-		<annotation cp="🫩">εξαντλημένος | κουρασμένος | νυσταγμένος | πρόσωπο με σακούλες κάτω από τα μάτια</annotation>
-		<annotation cp="🫩" type="tts">πρόσωπο με σακούλες κάτω από τα μάτια</annotation>
 		<annotation cp="😀">γελώ | δόντια | εύθυμος | πλατύ | πρόσωπο | πρόσωπο που χαμογελά | σαρκασμός | χαμόγελο | χαρούμενος | χαρωπός | ωραίο</annotation>
 		<annotation cp="😀" type="tts">πλατύ χαμόγελο</annotation>
 		<annotation cp="😃">ανοιχτό | δόντια | πλατύ χαμόγελο με ανοιχτό στόμα | πλατύ χαμόγελο με μεγάλα μάτια | πρόσωπο | στόμα | φανταστικό | χαμόγελο | χαμογελώ | χαρούμενος</annotation>
@@ -839,6 +825,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🤤" type="tts">σαλιαρίζω</annotation>
 		<annotation cp="😴">zzz | καληνύχτα | κοιμάμαι | κοιμισμένος | κουρασμένος | κρεβάτι | πρόσωπο | σιέστα | υπνάκος | ύπνος | φάτσα που κοιμάται | χασμουρητό | ώρα ύπνου</annotation>
 		<annotation cp="😴" type="tts">ύπνος</annotation>
+		<annotation cp="🫩">εξαντλημένος | κουρασμένος | νυσταγμένος | πρόσωπο με σακούλες κάτω από τα μάτια</annotation>
+		<annotation cp="🫩" type="tts">πρόσωπο με σακούλες κάτω από τα μάτια</annotation>
 		<annotation cp="😷">άρρωστος | βακτήρια | γιατρός | δερματολόγος | Δρ | ιατρική μάσκα | κρύωμα | μάσκα | οδοντίατρος | πρόσωπο | φάρμακο</annotation>
 		<annotation cp="😷" type="tts">ιατρική μάσκα</annotation>
 		<annotation cp="🤒">άρρωστος | ασθενής | θερμόμετρο | πρόσωπο | πρόσωπο με θερμόμετρο</annotation>
@@ -893,6 +881,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="😲" type="tts">ξάφνιασμα</annotation>
 		<annotation cp="😳">αναψοκοκκινισμένος | άσκηση | έκπληκτος | ζέστη | κοκκινισμένος | ντροπιασμένος | ουάου | περίεργος | πρόσωπο | σαστισμένος | τι | τρελό</annotation>
 		<annotation cp="😳" type="tts">κοκκινισμένο πρόσωπο</annotation>
+		<annotation cp="🫪">άγχος | έκπληκτος | ευάλωτος | πανικός | σοκαρισμένος | φούσκωμα</annotation>
+		<annotation cp="🫪" type="tts">παραμορφωμένο πρόσωπο</annotation>
 		<annotation cp="🥺">βλέμμα κουταβιού | γιατί όχι | έλεος | ζητιανεύω | ζητιανιά | ικετεύω | λυπημένος | μεγάλα μάτια | παρακαλώ | παρακαλώ πολύ | προσωπάκι παρακαλετό</annotation>
 		<annotation cp="🥺" type="tts">προσωπάκι παρακαλετό</annotation>
 		<annotation cp="🥹">αισθήματα | αντίσταση | δάκρυα χαράς | θλίψη | θυμός | κλάμα | ντροπή | πρόσωπο έτοιμο να κλάψει | υπερηφάνεια</annotation>
@@ -1033,12 +1023,14 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🩶" type="tts">γκρι καρδιά</annotation>
 		<annotation cp="🤍">καρδιά | λευκή καρδιά | λευκό</annotation>
 		<annotation cp="🤍" type="tts">λευκή καρδιά</annotation>
-		<annotation cp="💋" draft="contributed">αισθησιακός | ειδύλλιο | έρωτας | καρδιά | ραντεβού | σέξυ | σημάδι | σημάδι από φιλί | συναίσθημα | φιλί | χείλη</annotation>
+		<annotation cp="💋">αισθησιακός | ειδύλλιο | έρωτας | καρδιά | ραντεβού | σέξι | σημάδι | σημάδι από φιλί | συναίσθημα | φιλί | χείλη</annotation>
 		<annotation cp="💋" type="tts">σημάδι από φιλί</annotation>
 		<annotation cp="💯">100 | Α+ | αλήθεια | βαθμολογία | εκατό | εκατό πόντοι | ξεκάθαρα | οπωσδήποτε | πλήρες | συμφωνώ | τέλεια βαθμολογία</annotation>
 		<annotation cp="💯" type="tts">εκατό πόντοι</annotation>
 		<annotation cp="💢">αναστατωμένος | θυμωμένος | κόμικ | οργισμένος | σύμβολο θυμού</annotation>
 		<annotation cp="💢" type="tts">σύμβολο θυμού</annotation>
+		<annotation cp="🫯">διαφωνία | καβγάς | πάλη | φασαρία</annotation>
+		<annotation cp="🫯" type="tts">σύννεφο καβγά</annotation>
 		<annotation cp="💥">βόμβα | έκρηξη | κόμικ | μπουμ | σύγκρουση</annotation>
 		<annotation cp="💥" type="tts">σύγκρουση</annotation>
 		<annotation cp="💫">αστεράκια | αστέρι | αστέρια | ζαλάδα | κόμικ | πεφταστέρι</annotation>
@@ -1503,6 +1495,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🧟‍♀" type="tts">γυναίκα ζόμπι</annotation>
 		<annotation cp="🧌">παραμύθι | τέρας | τρολ | τρολάρω | φαντασία</annotation>
 		<annotation cp="🧌" type="tts">τρολ</annotation>
+		<annotation cp="🫈">γίγαντας | γιγαντοπίθηκος | γιέτι | δάσος | κρυπτοειδές | μεγαλοπόδαρος | τριχωτός</annotation>
+		<annotation cp="🫈" type="tts">τριχωτό πλάσμα</annotation>
 		<annotation cp="💆">απαλύνω | άτομο που του κάνουν μασάζ | γυναίκα που της κάνουν μασάζ | ένταση | ηρεμώ | θεραπεία | ινστιτούτο αισθητικής | καλμάρω | κομμωτήριο | μασάζ | μασάζ στο κεφάλι | πονοκέφαλος | πρόσωπο | σαλόνι ομορφιάς | σπα | χαλαρώνω | χαλαρωτικός</annotation>
 		<annotation cp="💆" type="tts">μασάζ στο κεφάλι</annotation>
 		<annotation cp="💆‍♂">άντρας | ένταση | κεφάλι | μαλλιά | μασάζ | μασάζ στο κεφάλι άντρα | πονοκέφαλος | πρόσωπο | σαλόνι ομορφιάς | χαλάρωση</annotation>
@@ -1511,7 +1505,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="💆‍♀" type="tts">μασάζ στο κεφάλι γυναίκας</annotation>
 		<annotation cp="💇">άτομο που κουρεύεται | γυναίκα που κουρεύεται | ινστιτούτο αισθητικής | κομμωτήριο | κομμωτής | κούρεμα | μαλλιά | ομορφιά | ψαλίδι</annotation>
 		<annotation cp="💇" type="tts">κούρεμα</annotation>
-		<annotation cp="💇‍♂">άντρας | άντρας κουρεύεται | κομμωτήριο | κούρεμα | μαλλιά | ομορφιά | σαλόνι ομορφιάς</annotation>
+		<annotation cp="💇‍♂">άντρας | άντρας που κουρεύεται | κομμωτήριο | κούρεμα | μαλλιά | ομορφιά | σαλόνι ομορφιάς</annotation>
 		<annotation cp="💇‍♂" type="tts">άντρας κουρεύεται</annotation>
 		<annotation cp="💇‍♀">γυναίκα | γυναίκα κουρεύεται | κομμωτήριο | κούρεμα | μαλλιά</annotation>
 		<annotation cp="💇‍♀" type="tts">γυναίκα κουρεύεται</annotation>
@@ -1557,6 +1551,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏃‍♂" type="tts">άντρας τρέχει</annotation>
 		<annotation cp="🏃‍♀">βιάση | γρήγορα | γυναίκα | γυναίκα τρέχει | δρομέας | έρχομαι | μαραθώνιος | ταχύτητα | τρέξιμο</annotation>
 		<annotation cp="🏃‍♀" type="tts">γυναίκα τρέχει</annotation>
+		<annotation cp="🧑‍🩰">μπαλέτο | χορευτής</annotation>
+		<annotation cp="🧑‍🩰" type="tts">χορευτής μπαλέτου</annotation>
 		<annotation cp="💃">ας χορέψουμε | γιορτινός | γυναίκα | γυναίκα που χορεύει | κομψή | ρυθμός | σάλσα | ταγκό | ταλέντο | φλαμένκο | χορεύτρια | χορός</annotation>
 		<annotation cp="💃" type="tts">χορεύτρια</annotation>
 		<annotation cp="🕺">άντρας | άντρας που χορεύει | ας χορέψουμε | γιορτινός | γυναίκα | κομψός | ρυθμός | σάλσα | ταγκό | ταλέντο | φλαμένκο | χορευτής | χορεύω | χορός</annotation>
@@ -1575,7 +1571,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🧖‍♂" type="tts">άντρας σε σάουνα</annotation>
 		<annotation cp="🧖‍♀">γυναίκα σε σάουνα | σάουνα</annotation>
 		<annotation cp="🧖‍♀" type="tts">γυναίκα σε σάουνα</annotation>
-		<annotation cp="🧗">αναρρίχηση | άτομο που αναρριχείται | βουνό | ορειβάτης</annotation>
+		<annotation cp="🧗">αναρρίχηση | άτομο που αναρριχάται | βουνό | ορειβάτης</annotation>
 		<annotation cp="🧗" type="tts">άτομο που αναρριχείται</annotation>
 		<annotation cp="🧗‍♂">άντρας ορειβάτης | ορειβάτης</annotation>
 		<annotation cp="🧗‍♂" type="tts">άντρας ορειβάτης</annotation>
@@ -1685,7 +1681,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="👫" type="tts">γυναίκα και άντρας πιασμένοι χέρι-χέρι</annotation>
 		<annotation cp="👬">αγόρια | άντρας | άντρες | άντρες πιασμένοι χέρι-χέρι | δίδυμοι | ερωτευμένοι | ζευγάρι | κρατώ | όλοι | φίλοι | φίλος | χέρι</annotation>
 		<annotation cp="👬" type="tts">άντρες πιασμένοι χέρι-χέρι</annotation>
-		<annotation cp="💏">αγάπη | επέτειος | έρωτας | ζευγάρι | ραντεβού | ρομάτζο | φιλί</annotation>
+		<annotation cp="💏">αγάπη | επέτειος | έρωτας | ζευγάρι | ραντεβού | ρομάντζο | φιλί</annotation>
 		<annotation cp="💏" type="tts">φιλί</annotation>
 		<annotation cp="💑">αγάπη | ειδύλλιο | επέτειος | εραστής | έρωτας | ζευγάρι | ζευγάρι με καρδιά | καρδιά | σύντροφος | ταίρι | φιλί | φιλώ</annotation>
 		<annotation cp="💑" type="tts">ζευγάρι με καρδιά</annotation>
@@ -1709,6 +1705,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🧑‍🧒‍🧒" type="tts">οικογένεια: ενήλικας, παιδί, παιδί</annotation>
 		<annotation cp="👣">γυμνά πόδια | ίχνος | πατημασιά | πατημασιές | ρουχισμός | σώμα</annotation>
 		<annotation cp="👣" type="tts">πατημασιές</annotation>
+		<annotation cp="🫆">ασφάλεια | δακτυλικό αποτύπωμα | εγκληματολογική έρευνα | ταυτότητα</annotation>
+		<annotation cp="🫆" type="tts">δακτυλικό αποτύπωμα</annotation>
 		<annotation cp="🦰">κόκκινα μαλλιά | κοκκινομάλλης | πυρρόξανθος</annotation>
 		<annotation cp="🦰" type="tts">κόκκινα μαλλιά</annotation>
 		<annotation cp="🦱">άφρο | μπούκλες | σγουρά | σγουρά μαλλιά</annotation>
@@ -1917,6 +1915,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🐋" type="tts">φάλαινα</annotation>
 		<annotation cp="🐬">δελφίνι | ζώο | παραλία | πτερύγιο | ωκεανός</annotation>
 		<annotation cp="🐬" type="tts">δελφίνι</annotation>
+		<annotation cp="🫍">θαλασσινό | φάλαινα | ωκεανός</annotation>
+		<annotation cp="🫍" type="tts">όρκα</annotation>
 		<annotation cp="🦭">ζώο | θάλασσα | θαλάσσιος λέοντας | φώκια | ωκεανός</annotation>
 		<annotation cp="🦭" type="tts">φώκια</annotation>
 		<annotation cp="🐟">δείπνο | ζώδιο | ζώο | Ιχθύς | ψάρεμα | ψαρεύω | ψάρι | ψάρια</annotation>
@@ -1935,6 +1935,16 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🪸" type="tts">κοράλλι</annotation>
 		<annotation cp="🪼">άουτς | ασπόνδυλο | έγκαυμα | θαλάσσιο | θαλάσσιος | καίγομαι | κεντρί | μέδουσα | τσούχτρα | ωχ</annotation>
 		<annotation cp="🪼" type="tts">μέδουσα</annotation>
+		<annotation cp="🦀">ζώδιο | κάβουρας | Καρκίνος</annotation>
+		<annotation cp="🦀" type="tts">κάβουρας</annotation>
+		<annotation cp="🦞">αστακός | δαγκάνες | ζώο | θαλασσινά | κόκκινος αστακός | μπισκ | σούπα θαλασσινών</annotation>
+		<annotation cp="🦞" type="tts">αστακός</annotation>
+		<annotation cp="🦐">γαρίδα | μικρό | οστρακοειδές | τροφή</annotation>
+		<annotation cp="🦐" type="tts">γαρίδα</annotation>
+		<annotation cp="🦑">ζώο | καλαμάρι | μαλάκιο | τροφή</annotation>
+		<annotation cp="🦑" type="tts">καλαμάρι</annotation>
+		<annotation cp="🦪">κατάδυση | μαργαριτάρι | στρείδι</annotation>
+		<annotation cp="🦪" type="tts">στρείδι</annotation>
 		<annotation cp="🐌">γυμνοσάλιαγκας | ζώο | κήπος | μαγειρεμένα σαλιγκάρια | σαλιγκάρι | σαλίγκαρος | φύση</annotation>
 		<annotation cp="🐌" type="tts">σαλιγκάρι</annotation>
 		<annotation cp="🦋">έντομο | όμορφος | πεταλούδα</annotation>
@@ -2023,6 +2033,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🪺" type="tts">φωλιά με αυγά</annotation>
 		<annotation cp="🍄">μανιτάρι | φυτό</annotation>
 		<annotation cp="🍄" type="tts">μανιτάρι</annotation>
+		<annotation cp="🪾">άκαρπο | γυμνό δέντρο | ξηρασία | χειμώνας</annotation>
+		<annotation cp="🪾" type="tts">γυμνό δέντρο</annotation>
 		<annotation cp="🍇">Διόνυσος | σταφύλι | σταφύλια | φρούτο | φυτό</annotation>
 		<annotation cp="🍇" type="tts">σταφύλι</annotation>
 		<annotation cp="🍈">πεπόνι | φρούτο | φυτό</annotation>
@@ -2099,6 +2111,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🫛" type="tts">κέλυφος μπιζελιού</annotation>
 		<annotation cp="🍄‍🟫">καφέ μανιτάρι | λαχανικά | λαχανικό | μύκητας | πίτσα | πορτομπέλο | σιτάκε | τρούφα | τρόφιμο | υλικά πίτσας | φύση | χορτοφάγος</annotation>
 		<annotation cp="🍄‍🟫" type="tts">καφέ μανιτάρι</annotation>
+		<annotation cp="🫜">γογγύλι | κήπος | λαχανικό | παντζάρι | ραπανάκι | ρίζα | σαλάτα | χορτοφάγος</annotation>
+		<annotation cp="🫜" type="tts">ριζώδες λαχανικό</annotation>
 		<annotation cp="🍞">εστιατόριο | σάντουιτς | σιτάρι | σιτηρά | τοστ | υδατάνθρακες | φραντζόλα | ψωμί</annotation>
 		<annotation cp="🍞" type="tts">ψωμί</annotation>
 		<annotation cp="🥐">γαλλικός | κρουασάν | πρωινό | τροφή | φαγητό | ψωμί</annotation>
@@ -2201,16 +2215,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🥠" type="tts">τυχερό μπισκότο</annotation>
 		<annotation cp="🥡">Κινέζικο έτοιμο φαγητό | ξυλάκια φαγητού | πακέτο | παράδοση φαγητού | συσκευασία | συσκευασία φαγητού σε πακέτο | φαγητό | χάρτινο κουτάκι</annotation>
 		<annotation cp="🥡" type="tts">συσκευασία φαγητού σε πακέτο</annotation>
-		<annotation cp="🦀">ζώδιο | κάβουρας | Καρκίνος</annotation>
-		<annotation cp="🦀" type="tts">κάβουρας</annotation>
-		<annotation cp="🦞">αστακός | δαγκάνες | ζώο | θαλασσινά | κόκκινος αστακός | μπισκ | σούπα θαλασσινών</annotation>
-		<annotation cp="🦞" type="tts">αστακός</annotation>
-		<annotation cp="🦐">γαρίδα | μικρό | οστρακοειδές | τροφή</annotation>
-		<annotation cp="🦐" type="tts">γαρίδα</annotation>
-		<annotation cp="🦑">ζώο | καλαμάρι | μαλάκιο | τροφή</annotation>
-		<annotation cp="🦑" type="tts">καλαμάρι</annotation>
-		<annotation cp="🦪">κατάδυση | μαργαριτάρι | στρείδι</annotation>
-		<annotation cp="🦪" type="tts">στρείδι</annotation>
 		<annotation cp="🍦">γλυκό | επιδόρπιο | κρέμα | μαλακό | παγωμένο | παγωτό | παγωτό χωνάκι</annotation>
 		<annotation cp="🍦" type="tts">παγωτό χωνάκι</annotation>
 		<annotation cp="🍧">γλυκό | γρανίτα | επιδόρπιο | εστιατόριο | πάγος | παγωτό</annotation>
@@ -2311,6 +2315,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏔" type="tts">χιονισμένο βουνό</annotation>
 		<annotation cp="⛰">βουνό</annotation>
 		<annotation cp="⛰" type="tts">βουνό</annotation>
+		<annotation cp="🛘">βουνό | βράχοι | καταστροφή | κατολίσθηση λάσπης | κίνδυνος | σεισμός | χιονοστιβάδα</annotation>
+		<annotation cp="🛘" type="tts">κατολίσθηση</annotation>
 		<annotation cp="🌋">βουνό | έκρηξη | ηφαίστειο | φύση</annotation>
 		<annotation cp="🌋" type="tts">ηφαίστειο</annotation>
 		<annotation cp="🗻">βουνό | ηφαίστειο Φούτζι | όρος Φούτζι | Φούτζι | φύση</annotation>
@@ -2461,7 +2467,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🚑" type="tts">ασθενοφόρο</annotation>
 		<annotation cp="🚒">όχημα | πυροσβεστικό | φορτηγό | φωτιά</annotation>
 		<annotation cp="🚒" type="tts">πυροσβεστικό</annotation>
-		<annotation cp="🚓" draft="contributed">5–0 | αστυνομία | αυτοκίνητο | μπάτσοι | όχημα | περιπολία | περιπολικό</annotation>
+		<annotation cp="🚓">5–0 | αστυνομία | αστυνομικοί | αυτοκίνητο | όχημα | περιπολία | περιπολικό</annotation>
 		<annotation cp="🚓" type="tts">περιπολικό</annotation>
 		<annotation cp="🚔">αστυνομία | αυτοκίνητο | διερχόμενο | διερχόμενο περιπολικό | όχημα</annotation>
 		<annotation cp="🚔" type="tts">διερχόμενο περιπολικό</annotation>
@@ -3031,14 +3037,16 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="📻" type="tts">ραδιόφωνο</annotation>
 		<annotation cp="🎷">μουσική | όργανο | σαξόφωνο</annotation>
 		<annotation cp="🎷" type="tts">σαξόφωνο</annotation>
+		<annotation cp="🎺">μουσική | όργανο | τρομπέτα</annotation>
+		<annotation cp="🎺" type="tts">τρομπέτα</annotation>
+		<annotation cp="🪊">λυπημένος | μουσική | όργανο | σλάιντ | τζαζ | χάλκινα πνευστά</annotation>
+		<annotation cp="🪊" type="tts">τρομπόνι</annotation>
 		<annotation cp="🪗">ακορντεόν | κοντσερτίνα | μουσική | μουσικό όργανο | όργανο</annotation>
 		<annotation cp="🪗" type="tts">ακορντεόν</annotation>
 		<annotation cp="🎸">κιθάρα | μουσική | όργανο</annotation>
 		<annotation cp="🎸" type="tts">κιθάρα</annotation>
 		<annotation cp="🎹">κλαβιέ | μουσική | μουσικό πληκτρολόγιο | όργανο | πιάνο | πλήκτρα</annotation>
 		<annotation cp="🎹" type="tts">μουσικό πληκτρολόγιο</annotation>
-		<annotation cp="🎺">μουσική | όργανο | τρομπέτα</annotation>
-		<annotation cp="🎺" type="tts">τρομπέτα</annotation>
 		<annotation cp="🎻">βιολί | έγχορδο | μουσική | μουσικό όργανο | όργανο</annotation>
 		<annotation cp="🎻" type="tts">βιολί</annotation>
 		<annotation cp="🪕">έγχορδο | μουσική | μπάντζο</annotation>
@@ -3051,6 +3059,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🪇" type="tts">μαράκες</annotation>
 		<annotation cp="🪈">αυλός | καταγραφή | μουσική | πίφερο | πνευστό | φλάουτο</annotation>
 		<annotation cp="🪈" type="tts">φλάουτο</annotation>
+		<annotation cp="🪉">αγάπη | άρπα | έρωτας | μουσική | όργανο | ορχήστρα</annotation>
+		<annotation cp="🪉" type="tts">άρπα</annotation>
 		<annotation cp="📱">επικοινωνία | κινητό | τηλέφωνο</annotation>
 		<annotation cp="📱" type="tts">κινητό τηλέφωνο</annotation>
 		<annotation cp="📲">βέλος | επικοινωνία | καλώ | κινητό | κινητό τηλέφωνο με βέλος | κλήση | λαμβάνω κλήση | λήψη | τηλέφωνο | τηλεφωνώ</annotation>
@@ -3157,10 +3167,12 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🔖" type="tts">σελιδοδείκτης</annotation>
 		<annotation cp="🏷">ετικέτα</annotation>
 		<annotation cp="🏷" type="tts">ετικέτα</annotation>
-		<annotation cp="💰">δισεκατομμύριο | δολάριο | δοχείο χρυσού | εκατομμύριο | εξαργυρώνω | κερδίζω | κόστος | λεφτά | μετρητά | πληρωμένος | πληρώνω | πλούσιος | σάκος | σάκος με λεφτά | σάκος με χρυσό | στοίχημα | στοιχηματίζω | τράπεζα | τσιγκούνης | χρήματα</annotation>
-		<annotation cp="💰" type="tts">σάκος με λεφτά</annotation>
 		<annotation cp="🪙">ασήμι | ευρώ | θησαυρός | κέρμα | λεφτά | λίρα | μέταλλο | χρήμα | χρυσό</annotation>
 		<annotation cp="🪙" type="tts">κέρμα</annotation>
+		<annotation cp="💰">δισεκατομμύριο | δολάριο | δοχείο χρυσού | εκατομμύριο | εξαργυρώνω | κερδίζω | κόστος | λεφτά | μετρητά | πληρωμένος | πληρώνω | πλούσιος | σάκος | σάκος με λεφτά | σάκος με χρυσό | στοίχημα | στοιχηματίζω | τράπεζα | τσιγκούνης | χρήματα</annotation>
+		<annotation cp="💰" type="tts">σάκος με λεφτά</annotation>
+		<annotation cp="🪎">ασήμι | έπαθλο | κοσμήματα | λάφυρα | πλούτος | πολύτιμος λίθος | τιμαλφή | χρήματα | χρυσός</annotation>
+		<annotation cp="🪎" type="tts">σεντούκι θησαυρού</annotation>
 		<annotation cp="💴">γιεν | λογαριασμός | νόμισμα | τράπεζα | χαρτονόμισμα | χρήματα</annotation>
 		<annotation cp="💴" type="tts">χαρτονόμισμα γιεν</annotation>
 		<annotation cp="💵">δολάριο | νόμισμα | τράπεζα | χαρτονόμισμα | χαρτονόμισμα δολαρίου | χρήματα</annotation>
@@ -3327,6 +3339,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🧲" type="tts">μαγνήτης</annotation>
 		<annotation cp="🪜">ανεβαίνω | κατεβαίνω | σκάλα | σκαλί | σκαλοπάτι | σκαρφαλώνω</annotation>
 		<annotation cp="🪜" type="tts">σκάλα</annotation>
+		<annotation cp="🪏">λάκκος | σκάβω | σκάψιμο | φτυάρι</annotation>
+		<annotation cp="🪏" type="tts">φτυάρι</annotation>
 		<annotation cp="⚗">αποστακτήριο | εργαλείο | χημεία</annotation>
 		<annotation cp="⚗" type="tts">αποστακτήριο</annotation>
 		<annotation cp="🧪">δοκιμαστικός σωλήνας | επιστήμη | εργαστήριο | πείραμα | χημεία | χημικός</annotation>
@@ -3415,7 +3429,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="⚱" type="tts">τεφροδόχος</annotation>
 		<annotation cp="🧿">γούρι | κακό μάτι | ματάκι | μπλε | φυλαχτό | φυλαχτό μάτι | χάντρα</annotation>
 		<annotation cp="🧿" type="tts">ματάκι</annotation>
-		<annotation cp="🪬">Μαρία | Μύριαμ | προστασία | τύχη | Φατίμα | φυλαχτό | χάμσα | χέρι</annotation>
+		<annotation cp="🪬">Μαρία | Μύριαμ | προστασία | προστατεύω | τύχη | Φατίμα | φυλαχτό | χάμσα | χέρι</annotation>
 		<annotation cp="🪬" type="tts">χάμσα</annotation>
 		<annotation cp="🗿">άγαλμα | μοάι | πρόσωπο</annotation>
 		<annotation cp="🗿" type="tts">μοάι</annotation>
@@ -3509,7 +3523,7 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🔃" type="tts">δεξιόστροφα κάθετα βέλη</annotation>
 		<annotation cp="🔄">αντίστροφα | αριστερόστροφο | βέλος | γύρισμα | κουμπί αριστερόστροφων βελών | ξανά</annotation>
 		<annotation cp="🔄" type="tts">κουμπί αριστερόστροφων βελών</annotation>
-		<annotation cp="🔙" draft="contributed">βέλος | βέλος BACK | πίσω</annotation>
+		<annotation cp="🔙">βέλος | βέλος BACK | πίσω</annotation>
 		<annotation cp="🔙" type="tts">βέλος BACK</annotation>
 		<annotation cp="🔚">βέλος | βέλος END | βέλος τέλους | τέλος</annotation>
 		<annotation cp="🔚" type="tts">βέλος END</annotation>
@@ -3699,6 +3713,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="®" type="tts">σήμα κατατεθέν</annotation>
 		<annotation cp="™">tm | εμπορικό σήμα | σήμα</annotation>
 		<annotation cp="™" type="tts">εμπορικό σήμα</annotation>
+		<annotation cp="🫟">λεκές | μπογιά | πιτσιλιά | πιτσιλιάζω | χάλια | Χόλι</annotation>
+		<annotation cp="🫟" type="tts">πιτσιλιά</annotation>
 		<annotation cp="🔠">ABCD | γράμματα | εισαγωγή | κεφαλαία | λατινικά</annotation>
 		<annotation cp="🔠" type="tts">κεφαλαία λατινικά</annotation>
 		<annotation cp="🔡">abcd | γράμματα | εισαγωγή | λατινικά | πεζά</annotation>
@@ -3897,6 +3913,26 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="₽" type="tts">ρούβλι</annotation>
 		<annotation cp="₿">BTC | μπίτκοϊν</annotation>
 		<annotation cp="₿" type="tts">μπίτκοϊν</annotation>
+		<annotation cp="0⃣">0 | μηδέν | πλήκτρο</annotation>
+		<annotation cp="0⃣" type="tts">πλήκτρο: 0</annotation>
+		<annotation cp="1⃣">1 | ένα | πλήκτρο</annotation>
+		<annotation cp="1⃣" type="tts">πλήκτρο: 1</annotation>
+		<annotation cp="2⃣">2 | δύο | πλήκτρο</annotation>
+		<annotation cp="2⃣" type="tts">πλήκτρο: 2</annotation>
+		<annotation cp="3⃣">3 | πλήκτρο | τρία</annotation>
+		<annotation cp="3⃣" type="tts">πλήκτρο: 3</annotation>
+		<annotation cp="4⃣">4 | πλήκτρο | τέσσερα</annotation>
+		<annotation cp="4⃣" type="tts">πλήκτρο: 4</annotation>
+		<annotation cp="5⃣">5 | πέντε | πλήκτρο</annotation>
+		<annotation cp="5⃣" type="tts">πλήκτρο: 5</annotation>
+		<annotation cp="6⃣">6 | έξι | πλήκτρο</annotation>
+		<annotation cp="6⃣" type="tts">πλήκτρο: 6</annotation>
+		<annotation cp="7⃣">7 | επτά | πλήκτρο</annotation>
+		<annotation cp="7⃣" type="tts">πλήκτρο: 7</annotation>
+		<annotation cp="8⃣">8 | οκτώ | πλήκτρο</annotation>
+		<annotation cp="8⃣" type="tts">πλήκτρο: 8</annotation>
+		<annotation cp="9⃣">9 | εννέα | πλήκτρο</annotation>
+		<annotation cp="9⃣" type="tts">πλήκτρο: 9</annotation>
 		<annotation cp="¹">εκθέτης | ένα</annotation>
 		<annotation cp="¹" type="tts">εκθέτης ένα</annotation>
 		<annotation cp="²">δύο | εκθέτης | στο τετράγωνο</annotation>

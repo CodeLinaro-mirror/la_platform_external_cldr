@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -244,10 +244,12 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="bd02" draft="provisional">Barguna (dystrykt)</subdivision>
 			<subdivision type="bd06" draft="provisional">Dystrykt Barisal</subdivision>
 			<subdivision type="bd07" draft="provisional">Bhola</subdivision>
+			<subdivision type="bd09" draft="provisional">Ćandpur</subdivision>
 			<subdivision type="bd14" draft="provisional">Dinadźpur (dystrykt)</subdivision>
 			<subdivision type="bd16" draft="provisional">Feni (dystrykt)</subdivision>
 			<subdivision type="bd20" draft="provisional">Habigandź (dystrykt)</subdivision>
 			<subdivision type="bd29" draft="provisional">Khagraczari (dystrykt)</subdivision>
+			<subdivision type="bd30" draft="provisional">Kushtia</subdivision>
 			<subdivision type="bd35" draft="provisional">Munszigandź</subdivision>
 			<subdivision type="bd37" draft="provisional">Magura</subdivision>
 			<subdivision type="bd41" draft="provisional">dystrykt Netrokona</subdivision>
@@ -1041,6 +1043,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="ee84" draft="provisional">Viljandimaa</subdivision>
 			<subdivision type="ee87" draft="provisional">Võrumaa</subdivision>
 			<subdivision type="ee130" draft="provisional">Gmina Alutaguse</subdivision>
+			<subdivision type="ee171" draft="provisional">Gmina Elva</subdivision>
 			<subdivision type="ee245" draft="provisional">Gmina Jõelähtme</subdivision>
 			<subdivision type="ee251" draft="provisional">Gmina Jõhvi</subdivision>
 			<subdivision type="ee255" draft="provisional">Gmina Järva</subdivision>
@@ -1389,7 +1392,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="gbeln" draft="provisional">East Lothian</subdivision>
 			<subdivision type="gbels" draft="provisional">Hebrydy Zewnętrzne</subdivision>
 			<subdivision type="gbenf" draft="provisional">London Borough of Enfield</subdivision>
-			<subdivision type="gbeng" draft="provisional">Anglia</subdivision>
+			<subdivision type="gbeng">Anglia</subdivision>
 			<subdivision type="gberw" draft="provisional">East Renfrewshire</subdivision>
 			<subdivision type="gbery" draft="provisional">East Riding of Yorkshire</subdivision>
 			<subdivision type="gbess" draft="provisional">Essex</subdivision>
@@ -1484,7 +1487,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="gbsaw" draft="provisional">Sandwell</subdivision>
 			<subdivision type="gbsay" draft="provisional">South Ayrshire</subdivision>
 			<subdivision type="gbscb" draft="provisional">Scottish Borders</subdivision>
-			<subdivision type="gbsct" draft="provisional">Szkocja</subdivision>
+			<subdivision type="gbsct">Szkocja</subdivision>
 			<subdivision type="gbsfk" draft="provisional">Suffolk</subdivision>
 			<subdivision type="gbsft" draft="provisional">Metropolitan Borough of Sefton</subdivision>
 			<subdivision type="gbsgc" draft="provisional">South Gloucestershire</subdivision>
@@ -1528,7 +1531,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="gbwkf" draft="provisional">City of Wakefield</subdivision>
 			<subdivision type="gbwll" draft="provisional">Metropolitan Borough of Walsall</subdivision>
 			<subdivision type="gbwln" draft="provisional">West Lothian</subdivision>
-			<subdivision type="gbwls" draft="provisional">Walia</subdivision>
+			<subdivision type="gbwls">Walia</subdivision>
 			<subdivision type="gbwlv" draft="provisional">Wolverhampton</subdivision>
 			<subdivision type="gbwnd" draft="provisional">London Borough of Wandsworth</subdivision>
 			<subdivision type="gbwnm" draft="provisional">Windsor and Maidenhead</subdivision>
@@ -2668,6 +2671,9 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="lv108" draft="provisional">Gmina Viļaka</subdivision>
 			<subdivision type="lv109" draft="provisional">Gmina Viļāni</subdivision>
 			<subdivision type="lv110" draft="provisional">Gmina Zilupe</subdivision>
+			<subdivision type="lv111" draft="provisional">Górna Dźwina</subdivision>
+			<subdivision type="lv112" draft="provisional">Kurlandia Południowa</subdivision>
+			<subdivision type="lv113" draft="provisional">Valmiera (novads)</subdivision>
 			<subdivision type="lvdgv" draft="provisional">Dyneburg</subdivision>
 			<subdivision type="lvjel" draft="provisional">Jełgawa</subdivision>
 			<subdivision type="lvjkb" draft="provisional">Jēkabpils</subdivision>
@@ -2731,6 +2737,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="maouj" draft="provisional">Wadżda</subdivision>
 			<subdivision type="marab" draft="provisional">Rabat</subdivision>
 			<subdivision type="masal" draft="provisional">Sala</subdivision>
+			<subdivision type="masef" draft="provisional">Safru</subdivision>
 			<subdivision type="maskh" draft="provisional">Temara</subdivision>
 			<subdivision type="masyb" draft="provisional">Marrakesz³</subdivision>
 			<subdivision type="matai" draft="provisional">Taurirt</subdivision>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -603,6 +603,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾" type="tts">шаргал үстэй хүн: бордуу</annotation>
 		<annotation cp="👱🏿">бор | үс | хүн | шаргал | шаргал үстэй хүн</annotation>
 		<annotation cp="👱🏿" type="tts">шаргал үстэй хүн: бор</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼">бага зэргийн цайвар | барилдах | бөх | спорт | хүн | цайвар</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼" type="tts">бөх: цайвар бага зэргийн цайвар</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽">барилдах | бөх | дунд зэргийн | спорт | хүн | цайвар</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽" type="tts">бөх: цайвар дунд зэргийн</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾">барилдах | бордуу | бөх | спорт | хүн | цайвар</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾" type="tts">бөх: цайвар бордуу</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿">барилдах | бор | бөх | спорт | хүн | цайвар</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿" type="tts">бөх: цайвар бор</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻">бага зэргийн цайвар | барилдах | бөх | спорт | хүн | цайвар</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻" type="tts">бөх: бага зэргийн цайвар цайвар</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽">бага зэргийн цайвар | барилдах | бөх | дунд зэргийн | спорт | хүн</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽" type="tts">бөх: бага зэргийн цайвар дунд зэргийн</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾">бага зэргийн цайвар | барилдах | бордуу | бөх | спорт | хүн</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾" type="tts">бөх: бага зэргийн цайвар бордуу</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿">бага зэргийн цайвар | барилдах | бор | бөх | спорт | хүн</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿" type="tts">бөх: бага зэргийн цайвар бор</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻">барилдах | бөх | дунд зэргийн | спорт | хүн | цайвар</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻" type="tts">бөх: дунд зэргийн цайвар</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼">бага зэргийн цайвар | барилдах | бөх | дунд зэргийн | спорт | хүн</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼" type="tts">бөх: дунд зэргийн бага зэргийн цайвар</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾">барилдах | бордуу | бөх | дунд зэргийн | спорт | хүн</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾" type="tts">бөх: дунд зэргийн бордуу</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿">барилдах | бор | бөх | дунд зэргийн | спорт | хүн</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿" type="tts">бөх: дунд зэргийн бор</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻">барилдах | бордуу | бөх | спорт | хүн | цайвар</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻" type="tts">бөх: бордуу цайвар</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼">бага зэргийн цайвар | барилдах | бордуу | бөх | спорт | хүн</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼" type="tts">бөх: бордуу бага зэргийн цайвар</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽">барилдах | бордуу | бөх | дунд зэргийн | спорт | хүн</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽" type="tts">бөх: бордуу дунд зэргийн</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿">барилдах | бор | бордуу | бөх | спорт | хүн</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿" type="tts">бөх: бордуу бор</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻">барилдах | бор | бөх | спорт | хүн | цайвар</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻" type="tts">бөх: бор цайвар</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼">бага зэргийн цайвар | барилдах | бор | бөх | спорт | хүн</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼" type="tts">бөх: бор бага зэргийн цайвар</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽">барилдах | бор | бөх | дунд зэргийн | спорт | хүн</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽" type="tts">бөх: бор дунд зэргийн</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾">барилдах | бор | бордуу | бөх | спорт | хүн</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾" type="tts">бөх: бор бордуу</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼">бага зэргийн цайвар | том хүн | үнсэлт | хос | цайвар</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼" type="tts">үнсэлт: том хүн том хүн цайвар бага зэргийн цайвар</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏽">дунд зэргийн | том хүн | үнсэлт | хос | цайвар</annotation>
@@ -731,6 +771,56 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦲" type="tts">том хүн: бордуу халзан</annotation>
 		<annotation cp="🧑🏿‍🦲">бор | жендер-саармаг | том хүн | халзан</annotation>
 		<annotation cp="🧑🏿‍🦲" type="tts">том хүн: бор халзан</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼">бага зэргийн цайвар | бүжигчид | бүсгүй | үдэшлэг | үдэшлэгт байгаа бүсгүй | цайвар</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼" type="tts">үдэшлэгт байгаа бүсгүй: цайвар бага зэргийн цайвар</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽">бүжигчид | бүсгүй | дунд зэргийн | үдэшлэг | үдэшлэгт байгаа бүсгүй | цайвар</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽" type="tts">үдэшлэгт байгаа бүсгүй: цайвар дунд зэргийн</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾">бордуу | бүжигчид | бүсгүй | үдэшлэг | үдэшлэгт байгаа бүсгүй | цайвар</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾" type="tts">үдэшлэгт байгаа бүсгүй: цайвар бордуу</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿">бор | бүжигчид | бүсгүй | үдэшлэг | үдэшлэгт байгаа бүсгүй | цайвар</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿" type="tts">үдэшлэгт байгаа бүсгүй: цайвар бор</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻">бага зэргийн цайвар | бүжигчид | бүсгүй | үдэшлэг | үдэшлэгт байгаа бүсгүй | цайвар</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻" type="tts">үдэшлэгт байгаа бүсгүй: бага зэргийн цайвар цайвар</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽">бага зэргийн цайвар | бүжигчид | бүсгүй | дунд зэргийн | үдэшлэг | үдэшлэгт байгаа бүсгүй</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽" type="tts">үдэшлэгт байгаа бүсгүй: бага зэргийн цайвар дунд зэргийн</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾">бага зэргийн цайвар | бордуу | бүжигчид | бүсгүй | үдэшлэг | үдэшлэгт байгаа бүсгүй</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾" type="tts">үдэшлэгт байгаа бүсгүй: бага зэргийн цайвар бордуу</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿">бага зэргийн цайвар | бор | бүжигчид | бүсгүй | үдэшлэг | үдэшлэгт байгаа бүсгүй</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿" type="tts">үдэшлэгт байгаа бүсгүй: бага зэргийн цайвар бор</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻">бүжигчид | бүсгүй | дунд зэргийн | үдэшлэг | үдэшлэгт байгаа бүсгүй | цайвар</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻" type="tts">үдэшлэгт байгаа бүсгүй: дунд зэргийн цайвар</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼">бага зэргийн цайвар | бүжигчид | бүсгүй | дунд зэргийн | үдэшлэг | үдэшлэгт байгаа бүсгүй</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼" type="tts">үдэшлэгт байгаа бүсгүй: дунд зэргийн бага зэргийн цайвар</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾">бордуу | бүжигчид | бүсгүй | дунд зэргийн | үдэшлэг | үдэшлэгт байгаа бүсгүй</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾" type="tts">үдэшлэгт байгаа бүсгүй: дунд зэргийн бордуу</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿">бор | бүжигчид | бүсгүй | дунд зэргийн | үдэшлэг | үдэшлэгт байгаа бүсгүй</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿" type="tts">үдэшлэгт байгаа бүсгүй: дунд зэргийн бор</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻">бордуу | бүжигчид | бүсгүй | үдэшлэг | үдэшлэгт байгаа бүсгүй | цайвар</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻" type="tts">үдэшлэгт байгаа бүсгүй: бордуу цайвар</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼">бага зэргийн цайвар | бордуу | бүжигчид | бүсгүй | үдэшлэг | үдэшлэгт байгаа бүсгүй</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼" type="tts">үдэшлэгт байгаа бүсгүй: бордуу бага зэргийн цайвар</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽">бордуу | бүжигчид | бүсгүй | дунд зэргийн | үдэшлэг | үдэшлэгт байгаа бүсгүй</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽" type="tts">үдэшлэгт байгаа бүсгүй: бордуу дунд зэргийн</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿">бор | бордуу | бүжигчид | бүсгүй | үдэшлэг | үдэшлэгт байгаа бүсгүй</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿" type="tts">үдэшлэгт байгаа бүсгүй: бордуу бор</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻">бор | бүжигчид | бүсгүй | үдэшлэг | үдэшлэгт байгаа бүсгүй | цайвар</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻" type="tts">үдэшлэгт байгаа бүсгүй: бор цайвар</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼">бага зэргийн цайвар | бор | бүжигчид | бүсгүй | үдэшлэг | үдэшлэгт байгаа бүсгүй</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼" type="tts">үдэшлэгт байгаа бүсгүй: бор бага зэргийн цайвар</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽">бор | бүжигчид | бүсгүй | дунд зэргийн | үдэшлэг | үдэшлэгт байгаа бүсгүй</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽" type="tts">үдэшлэгт байгаа бүсгүй: бор дунд зэргийн</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾">бор | бордуу | бүжигчид | бүсгүй | үдэшлэг | үдэшлэгт байгаа бүсгүй</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾" type="tts">үдэшлэгт байгаа бүсгүй: бор бордуу</annotation>
+		<annotation cp="🧑🏻‍🩰">баллет | бүжигчин | цайвар</annotation>
+		<annotation cp="🧑🏻‍🩰" type="tts">баллетчин: цайвар</annotation>
+		<annotation cp="🧑🏼‍🩰">бага зэргийн цайвар | баллет | бүжигчин</annotation>
+		<annotation cp="🧑🏼‍🩰" type="tts">баллетчин: бага зэргийн цайвар</annotation>
+		<annotation cp="🧑🏽‍🩰">баллет | бүжигчин | дунд зэргийн</annotation>
+		<annotation cp="🧑🏽‍🩰" type="tts">баллетчин: дунд зэргийн</annotation>
+		<annotation cp="🧑🏾‍🩰">баллет | бордуу | бүжигчин</annotation>
+		<annotation cp="🧑🏾‍🩰" type="tts">баллетчин: бордуу</annotation>
+		<annotation cp="🧑🏿‍🩰">баллет | бор | бүжигчин</annotation>
+		<annotation cp="🧑🏿‍🩰" type="tts">баллетчин: бор</annotation>
 		<annotation cp="👨🏻">хүн | цайвар | эрэгтэй</annotation>
 		<annotation cp="👨🏻" type="tts">эрэгтэй хүн: цайвар</annotation>
 		<annotation cp="👨🏼">бага зэргийн цайвар | хүн | эрэгтэй</annotation>
@@ -771,6 +861,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♂" type="tts">шар үстэй эрэгтэй: бордуу</annotation>
 		<annotation cp="👱🏿‍♂">бор | цайвар шар үс | шар үстэй эрэгтэй | эр | эрэгтэй</annotation>
 		<annotation cp="👱🏿‍♂" type="tts">шар үстэй эрэгтэй: бор</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼">бага зэргийн цайвар | барилдаж буй эрэгтэйчүүд | бөх | цайвар | эрэгтэй</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼" type="tts">барилдаж буй эрэгтэйчүүд: цайвар бага зэргийн цайвар</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽">барилдаж буй эрэгтэйчүүд | бөх | дунд зэргийн | цайвар | эрэгтэй</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽" type="tts">барилдаж буй эрэгтэйчүүд: цайвар дунд зэргийн</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾">барилдаж буй эрэгтэйчүүд | бордуу | бөх | цайвар | эрэгтэй</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾" type="tts">барилдаж буй эрэгтэйчүүд: цайвар бордуу</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿">барилдаж буй эрэгтэйчүүд | бор | бөх | цайвар | эрэгтэй</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿" type="tts">барилдаж буй эрэгтэйчүүд: цайвар бор</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻">бага зэргийн цайвар | барилдаж буй эрэгтэйчүүд | бөх | цайвар | эрэгтэй</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻" type="tts">барилдаж буй эрэгтэйчүүд: бага зэргийн цайвар цайвар</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽">бага зэргийн цайвар | барилдаж буй эрэгтэйчүүд | бөх | дунд зэргийн | эрэгтэй</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽" type="tts">барилдаж буй эрэгтэйчүүд: бага зэргийн цайвар дунд зэргийн</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾">бага зэргийн цайвар | барилдаж буй эрэгтэйчүүд | бордуу | бөх | эрэгтэй</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾" type="tts">барилдаж буй эрэгтэйчүүд: бага зэргийн цайвар бордуу</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿">бага зэргийн цайвар | барилдаж буй эрэгтэйчүүд | бор | бөх | эрэгтэй</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿" type="tts">барилдаж буй эрэгтэйчүүд: бага зэргийн цайвар бор</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻">барилдаж буй эрэгтэйчүүд | бөх | дунд зэргийн | цайвар | эрэгтэй</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻" type="tts">барилдаж буй эрэгтэйчүүд: дунд зэргийн цайвар</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼">бага зэргийн цайвар | барилдаж буй эрэгтэйчүүд | бөх | дунд зэргийн | эрэгтэй</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼" type="tts">барилдаж буй эрэгтэйчүүд: дунд зэргийн бага зэргийн цайвар</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾">барилдаж буй эрэгтэйчүүд | бордуу | бөх | дунд зэргийн | эрэгтэй</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾" type="tts">барилдаж буй эрэгтэйчүүд: дунд зэргийн бордуу</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿">барилдаж буй эрэгтэйчүүд | бор | бөх | дунд зэргийн | эрэгтэй</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿" type="tts">барилдаж буй эрэгтэйчүүд: дунд зэргийн бор</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻">барилдаж буй эрэгтэйчүүд | бордуу | бөх | цайвар | эрэгтэй</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻" type="tts">барилдаж буй эрэгтэйчүүд: бордуу цайвар</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼">бага зэргийн цайвар | барилдаж буй эрэгтэйчүүд | бордуу | бөх | эрэгтэй</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼" type="tts">барилдаж буй эрэгтэйчүүд: бордуу бага зэргийн цайвар</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽">барилдаж буй эрэгтэйчүүд | бордуу | бөх | дунд зэргийн | эрэгтэй</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽" type="tts">барилдаж буй эрэгтэйчүүд: бордуу дунд зэргийн</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿">барилдаж буй эрэгтэйчүүд | бор | бордуу | бөх | эрэгтэй</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿" type="tts">барилдаж буй эрэгтэйчүүд: бордуу бор</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻">барилдаж буй эрэгтэйчүүд | бор | бөх | цайвар | эрэгтэй</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻" type="tts">барилдаж буй эрэгтэйчүүд: бор цайвар</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼">бага зэргийн цайвар | барилдаж буй эрэгтэйчүүд | бор | бөх | эрэгтэй</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼" type="tts">барилдаж буй эрэгтэйчүүд: бор бага зэргийн цайвар</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽">барилдаж буй эрэгтэйчүүд | бор | бөх | дунд зэргийн | эрэгтэй</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽" type="tts">барилдаж буй эрэгтэйчүүд: бор дунд зэргийн</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾">барилдаж буй эрэгтэйчүүд | бор | бордуу | бөх | эрэгтэй</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾" type="tts">барилдаж буй эрэгтэйчүүд: бор бордуу</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻">үнсэлт | хос | цайвар | эрэгтэй хүн</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻" type="tts">үнсэлт: эрэгтэй хүн эрэгтэй хүн цайвар</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏼">бага зэргийн цайвар | үнсэлт | хос | цайвар | эрэгтэй хүн</annotation>
@@ -919,6 +1049,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦲" type="tts">эрэгтэй хүн: бордуу халзан</annotation>
 		<annotation cp="👨🏿‍🦲">бор | халзан | хүн | эрэгтэй</annotation>
 		<annotation cp="👨🏿‍🦲" type="tts">эрэгтэй хүн: бор халзан</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼">бага зэргийн цайвар | бүжигчин | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цайвар | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼" type="tts">цэнгэж буй эрэгтэйчүүд: цайвар бага зэргийн цайвар</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽">бүжигчин | дунд зэргийн | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цайвар | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽" type="tts">цэнгэж буй эрэгтэйчүүд: цайвар дунд зэргийн</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾">бордуу | бүжигчин | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цайвар | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾" type="tts">цэнгэж буй эрэгтэйчүүд: цайвар бордуу</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿">бор | бүжигчин | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цайвар | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿" type="tts">цэнгэж буй эрэгтэйчүүд: цайвар бор</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻">бага зэргийн цайвар | бүжигчин | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цайвар | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻" type="tts">цэнгэж буй эрэгтэйчүүд: бага зэргийн цайвар цайвар</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽">бага зэргийн цайвар | бүжигчин | дунд зэргийн | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽" type="tts">цэнгэж буй эрэгтэйчүүд: бага зэргийн цайвар дунд зэргийн</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾">бага зэргийн цайвар | бордуу | бүжигчин | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾" type="tts">цэнгэж буй эрэгтэйчүүд: бага зэргийн цайвар бордуу</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿">бага зэргийн цайвар | бор | бүжигчин | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿" type="tts">цэнгэж буй эрэгтэйчүүд: бага зэргийн цайвар бор</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻">бүжигчин | дунд зэргийн | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цайвар | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻" type="tts">цэнгэж буй эрэгтэйчүүд: дунд зэргийн цайвар</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼">бага зэргийн цайвар | бүжигчин | дунд зэргийн | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼" type="tts">цэнгэж буй эрэгтэйчүүд: дунд зэргийн бага зэргийн цайвар</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾">бордуу | бүжигчин | дунд зэргийн | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾" type="tts">цэнгэж буй эрэгтэйчүүд: дунд зэргийн бордуу</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿">бор | бүжигчин | дунд зэргийн | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿" type="tts">цэнгэж буй эрэгтэйчүүд: дунд зэргийн бор</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻">бордуу | бүжигчин | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цайвар | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻" type="tts">цэнгэж буй эрэгтэйчүүд: бордуу цайвар</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼">бага зэргийн цайвар | бордуу | бүжигчин | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼" type="tts">цэнгэж буй эрэгтэйчүүд: бордуу бага зэргийн цайвар</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽">бордуу | бүжигчин | дунд зэргийн | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽" type="tts">цэнгэж буй эрэгтэйчүүд: бордуу дунд зэргийн</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿">бор | бордуу | бүжигчин | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿" type="tts">цэнгэж буй эрэгтэйчүүд: бордуу бор</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻">бор | бүжигчин | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цайвар | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻" type="tts">цэнгэж буй эрэгтэйчүүд: бор цайвар</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼">бага зэргийн цайвар | бор | бүжигчин | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼" type="tts">цэнгэж буй эрэгтэйчүүд: бор бага зэргийн цайвар</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽">бор | бүжигчин | дунд зэргийн | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽" type="tts">цэнгэж буй эрэгтэйчүүд: бор дунд зэргийн</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾">бор | бордуу | бүжигчин | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾" type="tts">цэнгэж буй эрэгтэйчүүд: бор бордуу</annotation>
 		<annotation cp="👩🏻">хүн | цайвар | эмэгтэй</annotation>
 		<annotation cp="👩🏻" type="tts">эмэгтэй хүн: цайвар</annotation>
 		<annotation cp="👩🏼">бага зэргийн цайвар | хүн | эмэгтэй</annotation>
@@ -949,6 +1119,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♀" type="tts">шар үстэй эмэгтэй: бордуу</annotation>
 		<annotation cp="👱🏿‍♀">бор | цайвар шар үс | шар үстэй эмэгтэй | эм | эмэгтэй</annotation>
 		<annotation cp="👱🏿‍♀" type="tts">шар үстэй эмэгтэй: бор</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼">бага зэргийн цайвар | барилдаж буй эмэгтэйчүүд | бөх | цайвар | эмэгтэй</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼" type="tts">барилдаж буй эмэгтэйчүүд: цайвар бага зэргийн цайвар</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽">барилдаж буй эмэгтэйчүүд | бөх | дунд зэргийн | цайвар | эмэгтэй</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽" type="tts">барилдаж буй эмэгтэйчүүд: цайвар дунд зэргийн</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾">барилдаж буй эмэгтэйчүүд | бордуу | бөх | цайвар | эмэгтэй</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾" type="tts">барилдаж буй эмэгтэйчүүд: цайвар бордуу</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿">барилдаж буй эмэгтэйчүүд | бор | бөх | цайвар | эмэгтэй</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿" type="tts">барилдаж буй эмэгтэйчүүд: цайвар бор</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻">бага зэргийн цайвар | барилдаж буй эмэгтэйчүүд | бөх | цайвар | эмэгтэй</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻" type="tts">барилдаж буй эмэгтэйчүүд: бага зэргийн цайвар цайвар</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽">бага зэргийн цайвар | барилдаж буй эмэгтэйчүүд | бөх | дунд зэргийн | эмэгтэй</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽" type="tts">барилдаж буй эмэгтэйчүүд: бага зэргийн цайвар дунд зэргийн</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾">бага зэргийн цайвар | барилдаж буй эмэгтэйчүүд | бордуу | бөх | эмэгтэй</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾" type="tts">барилдаж буй эмэгтэйчүүд: бага зэргийн цайвар бордуу</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿">бага зэргийн цайвар | барилдаж буй эмэгтэйчүүд | бор | бөх | эмэгтэй</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿" type="tts">барилдаж буй эмэгтэйчүүд: бага зэргийн цайвар бор</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻">барилдаж буй эмэгтэйчүүд | бөх | дунд зэргийн | цайвар | эмэгтэй</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻" type="tts">барилдаж буй эмэгтэйчүүд: дунд зэргийн цайвар</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼">бага зэргийн цайвар | барилдаж буй эмэгтэйчүүд | бөх | дунд зэргийн | эмэгтэй</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼" type="tts">барилдаж буй эмэгтэйчүүд: дунд зэргийн бага зэргийн цайвар</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾">барилдаж буй эмэгтэйчүүд | бордуу | бөх | дунд зэргийн | эмэгтэй</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾" type="tts">барилдаж буй эмэгтэйчүүд: дунд зэргийн бордуу</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿">барилдаж буй эмэгтэйчүүд | бор | бөх | дунд зэргийн | эмэгтэй</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿" type="tts">барилдаж буй эмэгтэйчүүд: дунд зэргийн бор</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻">барилдаж буй эмэгтэйчүүд | бордуу | бөх | цайвар | эмэгтэй</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻" type="tts">барилдаж буй эмэгтэйчүүд: бордуу цайвар</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼">бага зэргийн цайвар | барилдаж буй эмэгтэйчүүд | бордуу | бөх | эмэгтэй</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼" type="tts">барилдаж буй эмэгтэйчүүд: бордуу бага зэргийн цайвар</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽">барилдаж буй эмэгтэйчүүд | бордуу | бөх | дунд зэргийн | эмэгтэй</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽" type="tts">барилдаж буй эмэгтэйчүүд: бордуу дунд зэргийн</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿">барилдаж буй эмэгтэйчүүд | бор | бордуу | бөх | эмэгтэй</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿" type="tts">барилдаж буй эмэгтэйчүүд: бордуу бор</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻">барилдаж буй эмэгтэйчүүд | бор | бөх | цайвар | эмэгтэй</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻" type="tts">барилдаж буй эмэгтэйчүүд: бор цайвар</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼">бага зэргийн цайвар | барилдаж буй эмэгтэйчүүд | бор | бөх | эмэгтэй</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼" type="tts">барилдаж буй эмэгтэйчүүд: бор бага зэргийн цайвар</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽">барилдаж буй эмэгтэйчүүд | бор | бөх | дунд зэргийн | эмэгтэй</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽" type="tts">барилдаж буй эмэгтэйчүүд: бор дунд зэргийн</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾">барилдаж буй эмэгтэйчүүд | бор | бордуу | бөх | эмэгтэй</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾" type="tts">барилдаж буй эмэгтэйчүүд: бор бордуу</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻">үнсэлт | хос | цайвар | эмэгтэй хүн | эрэгтэй хүн</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻" type="tts">үнсэлт: эмэгтэй хүн эрэгтэй хүн цайвар</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏼">бага зэргийн цайвар | үнсэлт | хос | цайвар | эмэгтэй хүн | эрэгтэй хүн</annotation>
@@ -1197,6 +1407,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦲" type="tts">эмэгтэй хүн: бордуу халзан</annotation>
 		<annotation cp="👩🏿‍🦲">бор | халзан | хүн | эмэгтэй</annotation>
 		<annotation cp="👩🏿‍🦲" type="tts">эмэгтэй хүн: бор халзан</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼">бага зэргийн цайвар | бүжигчин | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цайвар | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼" type="tts">цэнгэж буй эмэгтэйчүүд: цайвар бага зэргийн цайвар</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽">бүжигчин | дунд зэргийн | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цайвар | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽" type="tts">цэнгэж буй эмэгтэйчүүд: цайвар дунд зэргийн</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾">бордуу | бүжигчин | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цайвар | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾" type="tts">цэнгэж буй эмэгтэйчүүд: цайвар бордуу</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿">бор | бүжигчин | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цайвар | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿" type="tts">цэнгэж буй эмэгтэйчүүд: цайвар бор</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻">бага зэргийн цайвар | бүжигчин | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цайвар | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻" type="tts">цэнгэж буй эмэгтэйчүүд: бага зэргийн цайвар цайвар</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽">бага зэргийн цайвар | бүжигчин | дунд зэргийн | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽" type="tts">цэнгэж буй эмэгтэйчүүд: бага зэргийн цайвар дунд зэргийн</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾">бага зэргийн цайвар | бордуу | бүжигчин | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾" type="tts">цэнгэж буй эмэгтэйчүүд: бага зэргийн цайвар бордуу</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿">бага зэргийн цайвар | бор | бүжигчин | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿" type="tts">цэнгэж буй эмэгтэйчүүд: бага зэргийн цайвар бор</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻">бүжигчин | дунд зэргийн | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цайвар | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻" type="tts">цэнгэж буй эмэгтэйчүүд: дунд зэргийн цайвар</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼">бага зэргийн цайвар | бүжигчин | дунд зэргийн | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼" type="tts">цэнгэж буй эмэгтэйчүүд: дунд зэргийн бага зэргийн цайвар</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾">бордуу | бүжигчин | дунд зэргийн | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾" type="tts">цэнгэж буй эмэгтэйчүүд: дунд зэргийн бордуу</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿">бор | бүжигчин | дунд зэргийн | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿" type="tts">цэнгэж буй эмэгтэйчүүд: дунд зэргийн бор</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻">бордуу | бүжигчин | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цайвар | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻" type="tts">цэнгэж буй эмэгтэйчүүд: бордуу цайвар</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼">бага зэргийн цайвар | бордуу | бүжигчин | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼" type="tts">цэнгэж буй эмэгтэйчүүд: бордуу бага зэргийн цайвар</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽">бордуу | бүжигчин | дунд зэргийн | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽" type="tts">цэнгэж буй эмэгтэйчүүд: бордуу дунд зэргийн</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿">бор | бордуу | бүжигчин | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿" type="tts">цэнгэж буй эмэгтэйчүүд: бордуу бор</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻">бор | бүжигчин | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цайвар | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻" type="tts">цэнгэж буй эмэгтэйчүүд: бор цайвар</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼">бага зэргийн цайвар | бор | бүжигчин | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼" type="tts">цэнгэж буй эмэгтэйчүүд: бор бага зэргийн цайвар</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽">бор | бүжигчин | дунд зэргийн | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽" type="tts">цэнгэж буй эмэгтэйчүүд: бор дунд зэргийн</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾">бор | бордуу | бүжигчин | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾" type="tts">цэнгэж буй эмэгтэйчүүд: бор бордуу</annotation>
 		<annotation cp="🧓🏻">жендер-саармаг | настай хүн | хөгшин | цайвар</annotation>
 		<annotation cp="🧓🏻" type="tts">настай хүн: цайвар</annotation>
 		<annotation cp="🧓🏼">бага зэргийн цайвар | жендер-саармаг | настай хүн | хөгшин</annotation>
@@ -2687,42 +2937,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🚶🏾‍♀" type="tts">алхаж буй эмэгтэй: бордуу</annotation>
 		<annotation cp="🚶🏿‍♀">алхаж буй эмэгтэй | алхалт | алхах | бор | эм | эмэгтэй</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">алхаж буй эмэгтэй: бор</annotation>
-		<annotation cp="🚶‍➡">алхаж буй хүн | алхах | хүн</annotation>
-		<annotation cp="🚶‍➡" type="tts">алхаж буй хүн баруун тийш харсан</annotation>
-		<annotation cp="🚶🏻‍➡">алхаж буй хүн | алхах | хүн</annotation>
-		<annotation cp="🚶🏻‍➡" type="tts">алхаж буй хүн баруун тийш харсан</annotation>
-		<annotation cp="🚶🏼‍➡">алхаж буй хүн | алхах | хүн</annotation>
-		<annotation cp="🚶🏼‍➡" type="tts">алхаж буй хүн баруун тийш харсан</annotation>
-		<annotation cp="🚶🏽‍➡">алхаж буй хүн | алхах | хүн</annotation>
-		<annotation cp="🚶🏽‍➡" type="tts">алхаж буй хүн баруун тийш харсан</annotation>
-		<annotation cp="🚶🏾‍➡">алхаж буй хүн | алхах | хүн</annotation>
-		<annotation cp="🚶🏾‍➡" type="tts">алхаж буй хүн баруун тийш харсан</annotation>
-		<annotation cp="🚶🏿‍➡">алхаж буй хүн | алхах | хүн</annotation>
-		<annotation cp="🚶🏿‍➡" type="tts">алхаж буй хүн баруун тийш харсан</annotation>
-		<annotation cp="🚶‍♀‍➡">алхаж буй эмэгтэй | алхалт | алхах | эм | эмэгтэй</annotation>
-		<annotation cp="🚶‍♀‍➡" type="tts">алхаж буй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🚶🏻‍♀‍➡">алхаж буй эмэгтэй | алхалт | алхах | эм | эмэгтэй</annotation>
-		<annotation cp="🚶🏻‍♀‍➡" type="tts">алхаж буй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🚶🏼‍♀‍➡">алхаж буй эмэгтэй | алхалт | алхах | эм | эмэгтэй</annotation>
-		<annotation cp="🚶🏼‍♀‍➡" type="tts">алхаж буй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🚶🏽‍♀‍➡">алхаж буй эмэгтэй | алхалт | алхах | эм | эмэгтэй</annotation>
-		<annotation cp="🚶🏽‍♀‍➡" type="tts">алхаж буй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🚶🏾‍♀‍➡">алхаж буй эмэгтэй | алхалт | алхах | эм | эмэгтэй</annotation>
-		<annotation cp="🚶🏾‍♀‍➡" type="tts">алхаж буй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🚶🏿‍♀‍➡">алхаж буй эмэгтэй | алхалт | алхах | эм | эмэгтэй</annotation>
-		<annotation cp="🚶🏿‍♀‍➡" type="tts">алхаж буй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🚶‍♂‍➡">алхаж буй эрэгтэй | алхалт | алхах | эр | эрэгтэй</annotation>
-		<annotation cp="🚶‍♂‍➡" type="tts">алхаж буй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🚶🏻‍♂‍➡">алхаж буй эрэгтэй | алхалт | алхах | эр | эрэгтэй</annotation>
-		<annotation cp="🚶🏻‍♂‍➡" type="tts">алхаж буй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🚶🏼‍♂‍➡">алхаж буй эрэгтэй | алхалт | алхах | эр | эрэгтэй</annotation>
-		<annotation cp="🚶🏼‍♂‍➡" type="tts">алхаж буй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🚶🏽‍♂‍➡">алхаж буй эрэгтэй | алхалт | алхах | эр | эрэгтэй</annotation>
-		<annotation cp="🚶🏽‍♂‍➡" type="tts">алхаж буй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🚶🏾‍♂‍➡">алхаж буй эрэгтэй | алхалт | алхах | эр | эрэгтэй</annotation>
-		<annotation cp="🚶🏾‍♂‍➡" type="tts">алхаж буй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🚶🏿‍♂‍➡">алхаж буй эрэгтэй | алхалт | алхах | эр | эрэгтэй</annotation>
-		<annotation cp="🚶🏿‍♂‍➡" type="tts">алхаж буй эрэгтэй баруун тийш харсан</annotation>
+		<annotation cp="🚶‍➡">алхаж буй хүн | алхах | баруун | тийш | харсан | хүн</annotation>
+		<annotation cp="🚶‍➡" type="tts">алхаж буй хүн: баруун тийш харсан</annotation>
+		<annotation cp="🚶🏻‍➡">алхаж буй хүн | алхах | баруун | тийш | харсан | хүн | цайвар</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">алхаж буй хүн: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🚶🏼‍➡">алхаж буй хүн | алхах | бага зэргийн цайвар | баруун | тийш | харсан | хүн</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">алхаж буй хүн: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🚶🏽‍➡">алхаж буй хүн | алхах | баруун | дунд зэргийн | тийш | харсан | хүн</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">алхаж буй хүн: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🚶🏾‍➡">алхаж буй хүн | алхах | баруун | бордуу | тийш | харсан | хүн</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">алхаж буй хүн: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🚶🏿‍➡">алхаж буй хүн | алхах | баруун | бор | тийш | харсан | хүн</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">алхаж буй хүн: бор баруун тийш харсан</annotation>
+		<annotation cp="🚶‍♀‍➡">алхаж буй эмэгтэй | алхалт | алхах | баруун | тийш | харсан | эм | эмэгтэй</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">алхаж буй эмэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">алхаж буй эмэгтэй | алхалт | алхах | баруун | тийш | харсан | цайвар | эм | эмэгтэй</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">алхаж буй эмэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">алхаж буй эмэгтэй | алхалт | алхах | бага зэргийн цайвар | баруун | тийш | харсан | эм | эмэгтэй</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">алхаж буй эмэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">алхаж буй эмэгтэй | алхалт | алхах | баруун | дунд зэргийн | тийш | харсан | эм | эмэгтэй</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">алхаж буй эмэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">алхаж буй эмэгтэй | алхалт | алхах | баруун | бордуу | тийш | харсан | эм | эмэгтэй</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">алхаж буй эмэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">алхаж буй эмэгтэй | алхалт | алхах | баруун | бор | тийш | харсан | эм | эмэгтэй</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">алхаж буй эмэгтэй: бор баруун тийш харсан</annotation>
+		<annotation cp="🚶‍♂‍➡">алхаж буй эрэгтэй | алхалт | алхах | баруун | тийш | харсан | эр | эрэгтэй</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">алхаж буй эрэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">алхаж буй эрэгтэй | алхалт | алхах | баруун | тийш | харсан | цайвар | эр | эрэгтэй</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">алхаж буй эрэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">алхаж буй эрэгтэй | алхалт | алхах | бага зэргийн цайвар | баруун | тийш | харсан | эр | эрэгтэй</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">алхаж буй эрэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">алхаж буй эрэгтэй | алхалт | алхах | баруун | дунд зэргийн | тийш | харсан | эр | эрэгтэй</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">алхаж буй эрэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">алхаж буй эрэгтэй | алхалт | алхах | баруун | бордуу | тийш | харсан | эр | эрэгтэй</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">алхаж буй эрэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">алхаж буй эрэгтэй | алхалт | алхах | баруун | бор | тийш | харсан | эр | эрэгтэй</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">алхаж буй эрэгтэй: бор баруун тийш харсан</annotation>
 		<annotation cp="🧍🏻">зогс | зогсож буй | зогсож буй хүн | цайвар</annotation>
 		<annotation cp="🧍🏻" type="tts">зогсож буй хүн: цайвар</annotation>
 		<annotation cp="🧍🏼">бага зэргийн цайвар | зогс | зогсож буй | зогсож буй хүн</annotation>
@@ -2783,42 +3033,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧎🏾‍♀" type="tts">сөхөрч буй эмэгтэй: бордуу</annotation>
 		<annotation cp="🧎🏿‍♀">бор | сөхөрч буй | сөхөрч буй эмэгтэй | эмэгтэй</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">сөхөрч буй эмэгтэй: бор</annotation>
-		<annotation cp="🧎‍➡">сөхөрч буй | сөхөрч суусан хүн | сөхрөх</annotation>
-		<annotation cp="🧎‍➡" type="tts">сөхөрч суусан хүн баруун тийш харсан</annotation>
-		<annotation cp="🧎🏻‍➡">сөхөрч буй | сөхөрч суусан хүн | сөхрөх</annotation>
-		<annotation cp="🧎🏻‍➡" type="tts">сөхөрч суусан хүн баруун тийш харсан</annotation>
-		<annotation cp="🧎🏼‍➡">сөхөрч буй | сөхөрч суусан хүн | сөхрөх</annotation>
-		<annotation cp="🧎🏼‍➡" type="tts">сөхөрч суусан хүн баруун тийш харсан</annotation>
-		<annotation cp="🧎🏽‍➡">сөхөрч буй | сөхөрч суусан хүн | сөхрөх</annotation>
-		<annotation cp="🧎🏽‍➡" type="tts">сөхөрч суусан хүн баруун тийш харсан</annotation>
-		<annotation cp="🧎🏾‍➡">сөхөрч буй | сөхөрч суусан хүн | сөхрөх</annotation>
-		<annotation cp="🧎🏾‍➡" type="tts">сөхөрч суусан хүн баруун тийш харсан</annotation>
-		<annotation cp="🧎🏿‍➡">сөхөрч буй | сөхөрч суусан хүн | сөхрөх</annotation>
-		<annotation cp="🧎🏿‍➡" type="tts">сөхөрч суусан хүн баруун тийш харсан</annotation>
-		<annotation cp="🧎‍♀‍➡">сөхөрч буй | сөхөрч буй эмэгтэй | эмэгтэй</annotation>
-		<annotation cp="🧎‍♀‍➡" type="tts">сөхөрч буй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🧎🏻‍♀‍➡">сөхөрч буй | сөхөрч буй эмэгтэй | эмэгтэй</annotation>
-		<annotation cp="🧎🏻‍♀‍➡" type="tts">сөхөрч буй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🧎🏼‍♀‍➡">сөхөрч буй | сөхөрч буй эмэгтэй | эмэгтэй</annotation>
-		<annotation cp="🧎🏼‍♀‍➡" type="tts">сөхөрч буй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🧎🏽‍♀‍➡">сөхөрч буй | сөхөрч буй эмэгтэй | эмэгтэй</annotation>
-		<annotation cp="🧎🏽‍♀‍➡" type="tts">сөхөрч буй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🧎🏾‍♀‍➡">сөхөрч буй | сөхөрч буй эмэгтэй | эмэгтэй</annotation>
-		<annotation cp="🧎🏾‍♀‍➡" type="tts">сөхөрч буй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🧎🏿‍♀‍➡">сөхөрч буй | сөхөрч буй эмэгтэй | эмэгтэй</annotation>
-		<annotation cp="🧎🏿‍♀‍➡" type="tts">сөхөрч буй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🧎‍♂‍➡">сөхөрч буй | сөхөрч буй эрэгтэй | эрэгтэй</annotation>
-		<annotation cp="🧎‍♂‍➡" type="tts">сөхөрч буй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🧎🏻‍♂‍➡">сөхөрч буй | сөхөрч буй эрэгтэй | эрэгтэй</annotation>
-		<annotation cp="🧎🏻‍♂‍➡" type="tts">сөхөрч буй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🧎🏼‍♂‍➡">сөхөрч буй | сөхөрч буй эрэгтэй | эрэгтэй</annotation>
-		<annotation cp="🧎🏼‍♂‍➡" type="tts">сөхөрч буй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🧎🏽‍♂‍➡">сөхөрч буй | сөхөрч буй эрэгтэй | эрэгтэй</annotation>
-		<annotation cp="🧎🏽‍♂‍➡" type="tts">сөхөрч буй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🧎🏾‍♂‍➡">сөхөрч буй | сөхөрч буй эрэгтэй | эрэгтэй</annotation>
-		<annotation cp="🧎🏾‍♂‍➡" type="tts">сөхөрч буй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🧎🏿‍♂‍➡">сөхөрч буй | сөхөрч буй эрэгтэй | эрэгтэй</annotation>
-		<annotation cp="🧎🏿‍♂‍➡" type="tts">сөхөрч буй эрэгтэй баруун тийш харсан</annotation>
+		<annotation cp="🧎‍➡">баруун | сөхөрч буй | сөхөрч суусан хүн | сөхрөх | тийш | харсан</annotation>
+		<annotation cp="🧎‍➡" type="tts">сөхөрч суусан хүн: баруун тийш харсан</annotation>
+		<annotation cp="🧎🏻‍➡">баруун | сөхөрч буй | сөхөрч суусан хүн | сөхрөх | тийш | харсан | цайвар</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">сөхөрч суусан хүн: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧎🏼‍➡">бага зэргийн цайвар | баруун | сөхөрч буй | сөхөрч суусан хүн | сөхрөх | тийш | харсан</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">сөхөрч суусан хүн: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧎🏽‍➡">баруун | дунд зэргийн | сөхөрч буй | сөхөрч суусан хүн | сөхрөх | тийш | харсан</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">сөхөрч суусан хүн: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🧎🏾‍➡">баруун | бордуу | сөхөрч буй | сөхөрч суусан хүн | сөхрөх | тийш | харсан</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">сөхөрч суусан хүн: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🧎🏿‍➡">баруун | бор | сөхөрч буй | сөхөрч суусан хүн | сөхрөх | тийш | харсан</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">сөхөрч суусан хүн: бор баруун тийш харсан</annotation>
+		<annotation cp="🧎‍♀‍➡">баруун | сөхөрч буй | сөхөрч буй эмэгтэй | тийш | харсан | эмэгтэй</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">сөхөрч буй эмэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">баруун | сөхөрч буй | сөхөрч буй эмэгтэй | тийш | харсан | цайвар | эмэгтэй</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">сөхөрч буй эмэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">бага зэргийн цайвар | баруун | сөхөрч буй | сөхөрч буй эмэгтэй | тийш | харсан | эмэгтэй</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">сөхөрч буй эмэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">баруун | дунд зэргийн | сөхөрч буй | сөхөрч буй эмэгтэй | тийш | харсан | эмэгтэй</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">сөхөрч буй эмэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">баруун | бордуу | сөхөрч буй | сөхөрч буй эмэгтэй | тийш | харсан | эмэгтэй</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">сөхөрч буй эмэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">баруун | бор | сөхөрч буй | сөхөрч буй эмэгтэй | тийш | харсан | эмэгтэй</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">сөхөрч буй эмэгтэй: бор баруун тийш харсан</annotation>
+		<annotation cp="🧎‍♂‍➡">баруун | сөхөрч буй | сөхөрч буй эрэгтэй | тийш | харсан | эрэгтэй</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">сөхөрч буй эрэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">баруун | сөхөрч буй | сөхөрч буй эрэгтэй | тийш | харсан | цайвар | эрэгтэй</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">сөхөрч буй эрэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">бага зэргийн цайвар | баруун | сөхөрч буй | сөхөрч буй эрэгтэй | тийш | харсан | эрэгтэй</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">сөхөрч буй эрэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">баруун | дунд зэргийн | сөхөрч буй | сөхөрч буй эрэгтэй | тийш | харсан | эрэгтэй</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">сөхөрч буй эрэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">баруун | бордуу | сөхөрч буй | сөхөрч буй эрэгтэй | тийш | харсан | эрэгтэй</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">сөхөрч буй эрэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">баруун | бор | сөхөрч буй | сөхөрч буй эрэгтэй | тийш | харсан | эрэгтэй</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">сөхөрч буй эрэгтэй: бор баруун тийш харсан</annotation>
 		<annotation cp="🧑🏻‍🦯">метал илрүүлэгчтэй хүн | хараагүй хүн | хүртээмжтэй байдал | цагаан таягтай хүн | цайвар</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">метал илрүүлэгчтэй хүн: цайвар</annotation>
 		<annotation cp="🧑🏼‍🦯">бага зэргийн цайвар | метал илрүүлэгчтэй хүн | хараагүй хүн | хүртээмжтэй байдал | цагаан таягтай хүн</annotation>
@@ -2829,18 +3079,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦯" type="tts">метал илрүүлэгчтэй хүн: бордуу</annotation>
 		<annotation cp="🧑🏿‍🦯">бор | метал илрүүлэгчтэй хүн | хараагүй хүн | хүртээмжтэй байдал | цагаан таягтай хүн</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">метал илрүүлэгчтэй хүн: бор</annotation>
-		<annotation cp="🧑‍🦯‍➡">метал илрүүлэгчтэй хүн | хараагүй хүн | хүртээмжтэй байдал | цагаан таягтай хүн</annotation>
-		<annotation cp="🧑‍🦯‍➡" type="tts">метал илрүүлэгчтэй хүн баруун тийш харсан</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡">метал илрүүлэгчтэй хүн | хараагүй хүн | хүртээмжтэй байдал | цагаан таягтай хүн</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡" type="tts">метал илрүүлэгчтэй хүн баруун тийш харсан</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡">метал илрүүлэгчтэй хүн | хараагүй хүн | хүртээмжтэй байдал | цагаан таягтай хүн</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡" type="tts">метал илрүүлэгчтэй хүн баруун тийш харсан</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡">метал илрүүлэгчтэй хүн | хараагүй хүн | хүртээмжтэй байдал | цагаан таягтай хүн</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡" type="tts">метал илрүүлэгчтэй хүн баруун тийш харсан</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡">метал илрүүлэгчтэй хүн | хараагүй хүн | хүртээмжтэй байдал | цагаан таягтай хүн</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡" type="tts">метал илрүүлэгчтэй хүн баруун тийш харсан</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡">метал илрүүлэгчтэй хүн | хараагүй хүн | хүртээмжтэй байдал | цагаан таягтай хүн</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡" type="tts">метал илрүүлэгчтэй хүн баруун тийш харсан</annotation>
+		<annotation cp="🧑‍🦯‍➡">баруун | метал илрүүлэгчтэй хүн | тийш | хараагүй хүн | харсан | хүртээмжтэй байдал | цагаан таягтай хүн</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">метал илрүүлэгчтэй хүн: баруун тийш харсан</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">баруун | метал илрүүлэгчтэй хүн | тийш | хараагүй хүн | харсан | хүртээмжтэй байдал | цагаан таягтай хүн | цайвар</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">метал илрүүлэгчтэй хүн: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">бага зэргийн цайвар | баруун | метал илрүүлэгчтэй хүн | тийш | хараагүй хүн | харсан | хүртээмжтэй байдал | цагаан таягтай хүн</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">метал илрүүлэгчтэй хүн: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">баруун | дунд зэргийн | метал илрүүлэгчтэй хүн | тийш | хараагүй хүн | харсан | хүртээмжтэй байдал | цагаан таягтай хүн</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">метал илрүүлэгчтэй хүн: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">баруун | бордуу | метал илрүүлэгчтэй хүн | тийш | хараагүй хүн | харсан | хүртээмжтэй байдал | цагаан таягтай хүн</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">метал илрүүлэгчтэй хүн: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">баруун | бор | метал илрүүлэгчтэй хүн | тийш | хараагүй хүн | харсан | хүртээмжтэй байдал | цагаан таягтай хүн</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">метал илрүүлэгчтэй хүн: бор баруун тийш харсан</annotation>
 		<annotation cp="👨🏻‍🦯">таягтай хараагүй эрэгтэй | хараагүй | хөгжлийн бэрхшээл | цайвар | эрэгтэй</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">таягтай хараагүй эрэгтэй: цайвар</annotation>
 		<annotation cp="👨🏼‍🦯">бага зэргийн цайвар | таягтай хараагүй эрэгтэй | хараагүй | хөгжлийн бэрхшээл | эрэгтэй</annotation>
@@ -2851,18 +3101,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦯" type="tts">таягтай хараагүй эрэгтэй: бордуу</annotation>
 		<annotation cp="👨🏿‍🦯">бор | таягтай хараагүй эрэгтэй | хараагүй | хөгжлийн бэрхшээл | эрэгтэй</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">таягтай хараагүй эрэгтэй: бор</annotation>
-		<annotation cp="👨‍🦯‍➡">таягтай хараагүй эрэгтэй | хараагүй | хөгжлийн бэрхшээл | эрэгтэй</annotation>
-		<annotation cp="👨‍🦯‍➡" type="tts">таягтай хараагүй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👨🏻‍🦯‍➡">таягтай хараагүй эрэгтэй | хараагүй | хөгжлийн бэрхшээл | эрэгтэй</annotation>
-		<annotation cp="👨🏻‍🦯‍➡" type="tts">таягтай хараагүй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👨🏼‍🦯‍➡">таягтай хараагүй эрэгтэй | хараагүй | хөгжлийн бэрхшээл | эрэгтэй</annotation>
-		<annotation cp="👨🏼‍🦯‍➡" type="tts">таягтай хараагүй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👨🏽‍🦯‍➡">таягтай хараагүй эрэгтэй | хараагүй | хөгжлийн бэрхшээл | эрэгтэй</annotation>
-		<annotation cp="👨🏽‍🦯‍➡" type="tts">таягтай хараагүй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👨🏾‍🦯‍➡">таягтай хараагүй эрэгтэй | хараагүй | хөгжлийн бэрхшээл | эрэгтэй</annotation>
-		<annotation cp="👨🏾‍🦯‍➡" type="tts">таягтай хараагүй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👨🏿‍🦯‍➡">таягтай хараагүй эрэгтэй | хараагүй | хөгжлийн бэрхшээл | эрэгтэй</annotation>
-		<annotation cp="👨🏿‍🦯‍➡" type="tts">таягтай хараагүй эрэгтэй баруун тийш харсан</annotation>
+		<annotation cp="👨‍🦯‍➡">баруун | таягтай хараагүй эрэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">таягтай хараагүй эрэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">баруун | таягтай хараагүй эрэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | цайвар | эрэгтэй</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">таягтай хараагүй эрэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">бага зэргийн цайвар | баруун | таягтай хараагүй эрэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">таягтай хараагүй эрэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">баруун | дунд зэргийн | таягтай хараагүй эрэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">таягтай хараагүй эрэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">баруун | бордуу | таягтай хараагүй эрэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">таягтай хараагүй эрэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">баруун | бор | таягтай хараагүй эрэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">таягтай хараагүй эрэгтэй: бор баруун тийш харсан</annotation>
 		<annotation cp="👩🏻‍🦯">таягтай хараагүй эмэгтэй | хараагүй | хөгжлийн бэрхшээл | цайвар | эмэгтэй</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">таягтай хараагүй эмэгтэй: цайвар</annotation>
 		<annotation cp="👩🏼‍🦯">бага зэргийн цайвар | таягтай хараагүй эмэгтэй | хараагүй | хөгжлийн бэрхшээл | эмэгтэй</annotation>
@@ -2873,18 +3123,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦯" type="tts">таягтай хараагүй эмэгтэй: бордуу</annotation>
 		<annotation cp="👩🏿‍🦯">бор | таягтай хараагүй эмэгтэй | хараагүй | хөгжлийн бэрхшээл | эмэгтэй</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">таягтай хараагүй эмэгтэй: бор</annotation>
-		<annotation cp="👩‍🦯‍➡">таягтай хараагүй эмэгтэй | хараагүй | хөгжлийн бэрхшээл | эмэгтэй</annotation>
-		<annotation cp="👩‍🦯‍➡" type="tts">таягтай хараагүй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👩🏻‍🦯‍➡">таягтай хараагүй эмэгтэй | хараагүй | хөгжлийн бэрхшээл | эмэгтэй</annotation>
-		<annotation cp="👩🏻‍🦯‍➡" type="tts">таягтай хараагүй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👩🏼‍🦯‍➡">таягтай хараагүй эмэгтэй | хараагүй | хөгжлийн бэрхшээл | эмэгтэй</annotation>
-		<annotation cp="👩🏼‍🦯‍➡" type="tts">таягтай хараагүй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👩🏽‍🦯‍➡">таягтай хараагүй эмэгтэй | хараагүй | хөгжлийн бэрхшээл | эмэгтэй</annotation>
-		<annotation cp="👩🏽‍🦯‍➡" type="tts">таягтай хараагүй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👩🏾‍🦯‍➡">таягтай хараагүй эмэгтэй | хараагүй | хөгжлийн бэрхшээл | эмэгтэй</annotation>
-		<annotation cp="👩🏾‍🦯‍➡" type="tts">таягтай хараагүй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👩🏿‍🦯‍➡">таягтай хараагүй эмэгтэй | хараагүй | хөгжлийн бэрхшээл | эмэгтэй</annotation>
-		<annotation cp="👩🏿‍🦯‍➡" type="tts">таягтай хараагүй эмэгтэй баруун тийш харсан</annotation>
+		<annotation cp="👩‍🦯‍➡">баруун | таягтай хараагүй эмэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">таягтай хараагүй эмэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">баруун | таягтай хараагүй эмэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | цайвар | эмэгтэй</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">таягтай хараагүй эмэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">бага зэргийн цайвар | баруун | таягтай хараагүй эмэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">таягтай хараагүй эмэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">баруун | дунд зэргийн | таягтай хараагүй эмэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">таягтай хараагүй эмэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">баруун | бордуу | таягтай хараагүй эмэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">таягтай хараагүй эмэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">баруун | бор | таягтай хараагүй эмэгтэй | тийш | хараагүй | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">таягтай хараагүй эмэгтэй: бор баруун тийш харсан</annotation>
 		<annotation cp="🧑🏻‍🦼">автомат удирдлагатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж | цайвар</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">автомат удирдлагатай тэргэнцэртэй хүн: цайвар</annotation>
 		<annotation cp="🧑🏼‍🦼">автомат удирдлагатай тэргэнцэртэй хүн | бага зэргийн цайвар | тэргэнцэр | хүртээмж</annotation>
@@ -2895,18 +3145,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦼" type="tts">автомат удирдлагатай тэргэнцэртэй хүн: бордуу</annotation>
 		<annotation cp="🧑🏿‍🦼">автомат удирдлагатай тэргэнцэртэй хүн | бор | тэргэнцэр | хүртээмж</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">автомат удирдлагатай тэргэнцэртэй хүн: бор</annotation>
-		<annotation cp="🧑‍🦼‍➡">автомат удирдлагатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж</annotation>
-		<annotation cp="🧑‍🦼‍➡" type="tts">автомат удирдлагатай тэргэнцэртэй хүн баруун тийш харсан</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡">автомат удирдлагатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡" type="tts">автомат удирдлагатай тэргэнцэртэй хүн баруун тийш харсан</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡">автомат удирдлагатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡" type="tts">автомат удирдлагатай тэргэнцэртэй хүн баруун тийш харсан</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡">автомат удирдлагатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡" type="tts">автомат удирдлагатай тэргэнцэртэй хүн баруун тийш харсан</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡">автомат удирдлагатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡" type="tts">автомат удирдлагатай тэргэнцэртэй хүн баруун тийш харсан</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡">автомат удирдлагатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡" type="tts">автомат удирдлагатай тэргэнцэртэй хүн баруун тийш харсан</annotation>
+		<annotation cp="🧑‍🦼‍➡">автомат удирдлагатай тэргэнцэртэй хүн | баруун | тийш | тэргэнцэр | харсан | хүртээмж</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">автомат удирдлагатай тэргэнцэртэй хүн: баруун тийш харсан</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">автомат удирдлагатай тэргэнцэртэй хүн | баруун | тийш | тэргэнцэр | харсан | хүртээмж | цайвар</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">автомат удирдлагатай тэргэнцэртэй хүн: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">автомат удирдлагатай тэргэнцэртэй хүн | бага зэргийн цайвар | баруун | тийш | тэргэнцэр | харсан | хүртээмж</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">автомат удирдлагатай тэргэнцэртэй хүн: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">автомат удирдлагатай тэргэнцэртэй хүн | баруун | дунд зэргийн | тийш | тэргэнцэр | харсан | хүртээмж</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">автомат удирдлагатай тэргэнцэртэй хүн: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">автомат удирдлагатай тэргэнцэртэй хүн | баруун | бордуу | тийш | тэргэнцэр | харсан | хүртээмж</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">автомат удирдлагатай тэргэнцэртэй хүн: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">автомат удирдлагатай тэргэнцэртэй хүн | баруун | бор | тийш | тэргэнцэр | харсан | хүртээмж</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">автомат удирдлагатай тэргэнцэртэй хүн: бор баруун тийш харсан</annotation>
 		<annotation cp="👨🏻‍🦼">моторт тэргэнцэртэй эрэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | цайвар | эрэгтэй</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">моторт тэргэнцэртэй эрэгтэй: цайвар</annotation>
 		<annotation cp="👨🏼‍🦼">бага зэргийн цайвар | моторт тэргэнцэртэй эрэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эрэгтэй</annotation>
@@ -2917,18 +3167,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦼" type="tts">моторт тэргэнцэртэй эрэгтэй: бордуу</annotation>
 		<annotation cp="👨🏿‍🦼">бор | моторт тэргэнцэртэй эрэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эрэгтэй</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">моторт тэргэнцэртэй эрэгтэй: бор</annotation>
-		<annotation cp="👨‍🦼‍➡">моторт тэргэнцэртэй эрэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эрэгтэй</annotation>
-		<annotation cp="👨‍🦼‍➡" type="tts">моторт тэргэнцэртэй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👨🏻‍🦼‍➡">моторт тэргэнцэртэй эрэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эрэгтэй</annotation>
-		<annotation cp="👨🏻‍🦼‍➡" type="tts">моторт тэргэнцэртэй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👨🏼‍🦼‍➡">моторт тэргэнцэртэй эрэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эрэгтэй</annotation>
-		<annotation cp="👨🏼‍🦼‍➡" type="tts">моторт тэргэнцэртэй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👨🏽‍🦼‍➡">моторт тэргэнцэртэй эрэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эрэгтэй</annotation>
-		<annotation cp="👨🏽‍🦼‍➡" type="tts">моторт тэргэнцэртэй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👨🏾‍🦼‍➡">моторт тэргэнцэртэй эрэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эрэгтэй</annotation>
-		<annotation cp="👨🏾‍🦼‍➡" type="tts">моторт тэргэнцэртэй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👨🏿‍🦼‍➡">моторт тэргэнцэртэй эрэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эрэгтэй</annotation>
-		<annotation cp="👨🏿‍🦼‍➡" type="tts">моторт тэргэнцэртэй эрэгтэй баруун тийш харсан</annotation>
+		<annotation cp="👨‍🦼‍➡">баруун | моторт тэргэнцэртэй эрэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">моторт тэргэнцэртэй эрэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">баруун | моторт тэргэнцэртэй эрэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | цайвар | эрэгтэй</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">моторт тэргэнцэртэй эрэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">бага зэргийн цайвар | баруун | моторт тэргэнцэртэй эрэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">моторт тэргэнцэртэй эрэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">баруун | дунд зэргийн | моторт тэргэнцэртэй эрэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">моторт тэргэнцэртэй эрэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">баруун | бордуу | моторт тэргэнцэртэй эрэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">моторт тэргэнцэртэй эрэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">баруун | бор | моторт тэргэнцэртэй эрэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">моторт тэргэнцэртэй эрэгтэй: бор баруун тийш харсан</annotation>
 		<annotation cp="👩🏻‍🦼">моторт тэргэнцэртэй эмэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | цайвар | эмэгтэй</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">моторт тэргэнцэртэй эмэгтэй: цайвар</annotation>
 		<annotation cp="👩🏼‍🦼">бага зэргийн цайвар | моторт тэргэнцэртэй эмэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эмэгтэй</annotation>
@@ -2939,18 +3189,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦼" type="tts">моторт тэргэнцэртэй эмэгтэй: бордуу</annotation>
 		<annotation cp="👩🏿‍🦼">бор | моторт тэргэнцэртэй эмэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эмэгтэй</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">моторт тэргэнцэртэй эмэгтэй: бор</annotation>
-		<annotation cp="👩‍🦼‍➡">моторт тэргэнцэртэй эмэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эмэгтэй</annotation>
-		<annotation cp="👩‍🦼‍➡" type="tts">моторт тэргэнцэртэй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👩🏻‍🦼‍➡">моторт тэргэнцэртэй эмэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эмэгтэй</annotation>
-		<annotation cp="👩🏻‍🦼‍➡" type="tts">моторт тэргэнцэртэй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👩🏼‍🦼‍➡">моторт тэргэнцэртэй эмэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эмэгтэй</annotation>
-		<annotation cp="👩🏼‍🦼‍➡" type="tts">моторт тэргэнцэртэй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👩🏽‍🦼‍➡">моторт тэргэнцэртэй эмэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эмэгтэй</annotation>
-		<annotation cp="👩🏽‍🦼‍➡" type="tts">моторт тэргэнцэртэй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👩🏾‍🦼‍➡">моторт тэргэнцэртэй эмэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эмэгтэй</annotation>
-		<annotation cp="👩🏾‍🦼‍➡" type="tts">моторт тэргэнцэртэй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👩🏿‍🦼‍➡">моторт тэргэнцэртэй эмэгтэй | тэргэнцэр | хөгжлийн бэрхшээл | эмэгтэй</annotation>
-		<annotation cp="👩🏿‍🦼‍➡" type="tts">моторт тэргэнцэртэй эмэгтэй баруун тийш харсан</annotation>
+		<annotation cp="👩‍🦼‍➡">баруун | моторт тэргэнцэртэй эмэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">моторт тэргэнцэртэй эмэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">баруун | моторт тэргэнцэртэй эмэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | цайвар | эмэгтэй</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">моторт тэргэнцэртэй эмэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">бага зэргийн цайвар | баруун | моторт тэргэнцэртэй эмэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">моторт тэргэнцэртэй эмэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">баруун | дунд зэргийн | моторт тэргэнцэртэй эмэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">моторт тэргэнцэртэй эмэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">баруун | бордуу | моторт тэргэнцэртэй эмэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">моторт тэргэнцэртэй эмэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">баруун | бор | моторт тэргэнцэртэй эмэгтэй | тийш | тэргэнцэр | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">моторт тэргэнцэртэй эмэгтэй: бор баруун тийш харсан</annotation>
 		<annotation cp="🧑🏻‍🦽">гар ажиллагаатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж | цайвар</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">гар ажиллагаатай тэргэнцэртэй хүн: цайвар</annotation>
 		<annotation cp="🧑🏼‍🦽">бага зэргийн цайвар | гар ажиллагаатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж</annotation>
@@ -2961,18 +3211,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦽" type="tts">гар ажиллагаатай тэргэнцэртэй хүн: бордуу</annotation>
 		<annotation cp="🧑🏿‍🦽">бор | гар ажиллагаатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">гар ажиллагаатай тэргэнцэртэй хүн: бор</annotation>
-		<annotation cp="🧑‍🦽‍➡">гар ажиллагаатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж</annotation>
-		<annotation cp="🧑‍🦽‍➡" type="tts">гар ажиллагаатай тэргэнцэртэй хүн баруун тийш харсан</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡">гар ажиллагаатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡" type="tts">гар ажиллагаатай тэргэнцэртэй хүн баруун тийш харсан</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡">гар ажиллагаатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡" type="tts">гар ажиллагаатай тэргэнцэртэй хүн баруун тийш харсан</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡">гар ажиллагаатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡" type="tts">гар ажиллагаатай тэргэнцэртэй хүн баруун тийш харсан</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡">гар ажиллагаатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡" type="tts">гар ажиллагаатай тэргэнцэртэй хүн баруун тийш харсан</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡">гар ажиллагаатай тэргэнцэртэй хүн | тэргэнцэр | хүртээмж</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡" type="tts">гар ажиллагаатай тэргэнцэртэй хүн баруун тийш харсан</annotation>
+		<annotation cp="🧑‍🦽‍➡">баруун | гар ажиллагаатай тэргэнцэртэй хүн | тийш | тэргэнцэр | харсан | хүртээмж</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">гар ажиллагаатай тэргэнцэртэй хүн: баруун тийш харсан</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">баруун | гар ажиллагаатай тэргэнцэртэй хүн | тийш | тэргэнцэр | харсан | хүртээмж | цайвар</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">гар ажиллагаатай тэргэнцэртэй хүн: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">бага зэргийн цайвар | баруун | гар ажиллагаатай тэргэнцэртэй хүн | тийш | тэргэнцэр | харсан | хүртээмж</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">гар ажиллагаатай тэргэнцэртэй хүн: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">баруун | гар ажиллагаатай тэргэнцэртэй хүн | дунд зэргийн | тийш | тэргэнцэр | харсан | хүртээмж</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">гар ажиллагаатай тэргэнцэртэй хүн: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">баруун | бордуу | гар ажиллагаатай тэргэнцэртэй хүн | тийш | тэргэнцэр | харсан | хүртээмж</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">гар ажиллагаатай тэргэнцэртэй хүн: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">баруун | бор | гар ажиллагаатай тэргэнцэртэй хүн | тийш | тэргэнцэр | харсан | хүртээмж</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">гар ажиллагаатай тэргэнцэртэй хүн: бор баруун тийш харсан</annotation>
 		<annotation cp="👨🏻‍🦽">тэргэнцэр | тэргэнцэртэй эрэгтэй | хөгжлийн бэрхшээл | цайвар | эрэгтэй</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">тэргэнцэртэй эрэгтэй: цайвар</annotation>
 		<annotation cp="👨🏼‍🦽">бага зэргийн цайвар | тэргэнцэр | тэргэнцэртэй эрэгтэй | хөгжлийн бэрхшээл | эрэгтэй</annotation>
@@ -2983,18 +3233,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦽" type="tts">тэргэнцэртэй эрэгтэй: бордуу</annotation>
 		<annotation cp="👨🏿‍🦽">бор | тэргэнцэр | тэргэнцэртэй эрэгтэй | хөгжлийн бэрхшээл | эрэгтэй</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">тэргэнцэртэй эрэгтэй: бор</annotation>
-		<annotation cp="👨‍🦽‍➡">тэргэнцэр | тэргэнцэртэй эрэгтэй | хөгжлийн бэрхшээл | эрэгтэй</annotation>
-		<annotation cp="👨‍🦽‍➡" type="tts">тэргэнцэртэй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👨🏻‍🦽‍➡">тэргэнцэр | тэргэнцэртэй эрэгтэй | хөгжлийн бэрхшээл | эрэгтэй</annotation>
-		<annotation cp="👨🏻‍🦽‍➡" type="tts">тэргэнцэртэй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👨🏼‍🦽‍➡">тэргэнцэр | тэргэнцэртэй эрэгтэй | хөгжлийн бэрхшээл | эрэгтэй</annotation>
-		<annotation cp="👨🏼‍🦽‍➡" type="tts">тэргэнцэртэй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👨🏽‍🦽‍➡">тэргэнцэр | тэргэнцэртэй эрэгтэй | хөгжлийн бэрхшээл | эрэгтэй</annotation>
-		<annotation cp="👨🏽‍🦽‍➡" type="tts">тэргэнцэртэй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👨🏾‍🦽‍➡">тэргэнцэр | тэргэнцэртэй эрэгтэй | хөгжлийн бэрхшээл | эрэгтэй</annotation>
-		<annotation cp="👨🏾‍🦽‍➡" type="tts">тэргэнцэртэй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👨🏿‍🦽‍➡">тэргэнцэр | тэргэнцэртэй эрэгтэй | хөгжлийн бэрхшээл | эрэгтэй</annotation>
-		<annotation cp="👨🏿‍🦽‍➡" type="tts">тэргэнцэртэй эрэгтэй баруун тийш харсан</annotation>
+		<annotation cp="👨‍🦽‍➡">баруун | тийш | тэргэнцэр | тэргэнцэртэй эрэгтэй | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">тэргэнцэртэй эрэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">баруун | тийш | тэргэнцэр | тэргэнцэртэй эрэгтэй | харсан | хөгжлийн бэрхшээл | цайвар | эрэгтэй</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">тэргэнцэртэй эрэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">бага зэргийн цайвар | баруун | тийш | тэргэнцэр | тэргэнцэртэй эрэгтэй | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">тэргэнцэртэй эрэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">баруун | дунд зэргийн | тийш | тэргэнцэр | тэргэнцэртэй эрэгтэй | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">тэргэнцэртэй эрэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">баруун | бордуу | тийш | тэргэнцэр | тэргэнцэртэй эрэгтэй | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">тэргэнцэртэй эрэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">баруун | бор | тийш | тэргэнцэр | тэргэнцэртэй эрэгтэй | харсан | хөгжлийн бэрхшээл | эрэгтэй</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">тэргэнцэртэй эрэгтэй: бор баруун тийш харсан</annotation>
 		<annotation cp="👩🏻‍🦽">тэргэнцэр | тэргэнцэртэй эмэгтэй | хөгжлийн бэрхшээл | цайвар | эмэгтэй</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">тэргэнцэртэй эмэгтэй: цайвар</annotation>
 		<annotation cp="👩🏼‍🦽">бага зэргийн цайвар | тэргэнцэр | тэргэнцэртэй эмэгтэй | хөгжлийн бэрхшээл | эмэгтэй</annotation>
@@ -3005,18 +3255,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦽" type="tts">тэргэнцэртэй эмэгтэй: бордуу</annotation>
 		<annotation cp="👩🏿‍🦽">бор | тэргэнцэр | тэргэнцэртэй эмэгтэй | хөгжлийн бэрхшээл | эмэгтэй</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">тэргэнцэртэй эмэгтэй: бор</annotation>
-		<annotation cp="👩‍🦽‍➡">тэргэнцэр | тэргэнцэртэй эмэгтэй | хөгжлийн бэрхшээл | эмэгтэй</annotation>
-		<annotation cp="👩‍🦽‍➡" type="tts">тэргэнцэртэй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👩🏻‍🦽‍➡">тэргэнцэр | тэргэнцэртэй эмэгтэй | хөгжлийн бэрхшээл | эмэгтэй</annotation>
-		<annotation cp="👩🏻‍🦽‍➡" type="tts">тэргэнцэртэй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👩🏼‍🦽‍➡">тэргэнцэр | тэргэнцэртэй эмэгтэй | хөгжлийн бэрхшээл | эмэгтэй</annotation>
-		<annotation cp="👩🏼‍🦽‍➡" type="tts">тэргэнцэртэй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👩🏽‍🦽‍➡">тэргэнцэр | тэргэнцэртэй эмэгтэй | хөгжлийн бэрхшээл | эмэгтэй</annotation>
-		<annotation cp="👩🏽‍🦽‍➡" type="tts">тэргэнцэртэй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👩🏾‍🦽‍➡">тэргэнцэр | тэргэнцэртэй эмэгтэй | хөгжлийн бэрхшээл | эмэгтэй</annotation>
-		<annotation cp="👩🏾‍🦽‍➡" type="tts">тэргэнцэртэй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="👩🏿‍🦽‍➡">тэргэнцэр | тэргэнцэртэй эмэгтэй | хөгжлийн бэрхшээл | эмэгтэй</annotation>
-		<annotation cp="👩🏿‍🦽‍➡" type="tts">тэргэнцэртэй эмэгтэй баруун тийш харсан</annotation>
+		<annotation cp="👩‍🦽‍➡">баруун | тийш | тэргэнцэр | тэргэнцэртэй эмэгтэй | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">тэргэнцэртэй эмэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">баруун | тийш | тэргэнцэр | тэргэнцэртэй эмэгтэй | харсан | хөгжлийн бэрхшээл | цайвар | эмэгтэй</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">тэргэнцэртэй эмэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">бага зэргийн цайвар | баруун | тийш | тэргэнцэр | тэргэнцэртэй эмэгтэй | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">тэргэнцэртэй эмэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">баруун | дунд зэргийн | тийш | тэргэнцэр | тэргэнцэртэй эмэгтэй | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">тэргэнцэртэй эмэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">баруун | бордуу | тийш | тэргэнцэр | тэргэнцэртэй эмэгтэй | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">тэргэнцэртэй эмэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">баруун | бор | тийш | тэргэнцэр | тэргэнцэртэй эмэгтэй | харсан | хөгжлийн бэрхшээл | эмэгтэй</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">тэргэнцэртэй эмэгтэй: бор баруун тийш харсан</annotation>
 		<annotation cp="🏃🏻">гүйж байгаа хүн | гүйх | хүн | цайвар</annotation>
 		<annotation cp="🏃🏻" type="tts">гүйж байгаа хүн: цайвар</annotation>
 		<annotation cp="🏃🏼">бага зэргийн цайвар | гүйж байгаа хүн | гүйх | хүн</annotation>
@@ -3047,42 +3297,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🏃🏾‍♀" type="tts">гүйж буй эмэгтэй: бордуу</annotation>
 		<annotation cp="🏃🏿‍♀">бор | гүйж буй эмэгтэй | марафон | уралдаан | эм | эмэгтэй</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">гүйж буй эмэгтэй: бор</annotation>
-		<annotation cp="🏃‍➡">гүйж байгаа хүн | гүйх | хүн</annotation>
-		<annotation cp="🏃‍➡" type="tts">гүйж байгаа хүн баруун тийш харсан</annotation>
-		<annotation cp="🏃🏻‍➡">гүйж байгаа хүн | гүйх | хүн</annotation>
-		<annotation cp="🏃🏻‍➡" type="tts">гүйж байгаа хүн баруун тийш харсан</annotation>
-		<annotation cp="🏃🏼‍➡">гүйж байгаа хүн | гүйх | хүн</annotation>
-		<annotation cp="🏃🏼‍➡" type="tts">гүйж байгаа хүн баруун тийш харсан</annotation>
-		<annotation cp="🏃🏽‍➡">гүйж байгаа хүн | гүйх | хүн</annotation>
-		<annotation cp="🏃🏽‍➡" type="tts">гүйж байгаа хүн баруун тийш харсан</annotation>
-		<annotation cp="🏃🏾‍➡">гүйж байгаа хүн | гүйх | хүн</annotation>
-		<annotation cp="🏃🏾‍➡" type="tts">гүйж байгаа хүн баруун тийш харсан</annotation>
-		<annotation cp="🏃🏿‍➡">гүйж байгаа хүн | гүйх | хүн</annotation>
-		<annotation cp="🏃🏿‍➡" type="tts">гүйж байгаа хүн баруун тийш харсан</annotation>
-		<annotation cp="🏃‍♀‍➡">гүйж буй эмэгтэй | марафон | уралдаан | эм | эмэгтэй</annotation>
-		<annotation cp="🏃‍♀‍➡" type="tts">гүйж буй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🏃🏻‍♀‍➡">гүйж буй эмэгтэй | марафон | уралдаан | эм | эмэгтэй</annotation>
-		<annotation cp="🏃🏻‍♀‍➡" type="tts">гүйж буй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🏃🏼‍♀‍➡">гүйж буй эмэгтэй | марафон | уралдаан | эм | эмэгтэй</annotation>
-		<annotation cp="🏃🏼‍♀‍➡" type="tts">гүйж буй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🏃🏽‍♀‍➡">гүйж буй эмэгтэй | марафон | уралдаан | эм | эмэгтэй</annotation>
-		<annotation cp="🏃🏽‍♀‍➡" type="tts">гүйж буй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🏃🏾‍♀‍➡">гүйж буй эмэгтэй | марафон | уралдаан | эм | эмэгтэй</annotation>
-		<annotation cp="🏃🏾‍♀‍➡" type="tts">гүйж буй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🏃🏿‍♀‍➡">гүйж буй эмэгтэй | марафон | уралдаан | эм | эмэгтэй</annotation>
-		<annotation cp="🏃🏿‍♀‍➡" type="tts">гүйж буй эмэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🏃‍♂‍➡">гүйж буй эрэгтэй | гүйх | марафон | уралдаан | эрэгтэй</annotation>
-		<annotation cp="🏃‍♂‍➡" type="tts">гүйж буй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🏃🏻‍♂‍➡">гүйж буй эрэгтэй | гүйх | марафон | уралдаан | эрэгтэй</annotation>
-		<annotation cp="🏃🏻‍♂‍➡" type="tts">гүйж буй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🏃🏼‍♂‍➡">гүйж буй эрэгтэй | гүйх | марафон | уралдаан | эрэгтэй</annotation>
-		<annotation cp="🏃🏼‍♂‍➡" type="tts">гүйж буй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🏃🏽‍♂‍➡">гүйж буй эрэгтэй | гүйх | марафон | уралдаан | эрэгтэй</annotation>
-		<annotation cp="🏃🏽‍♂‍➡" type="tts">гүйж буй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🏃🏾‍♂‍➡">гүйж буй эрэгтэй | гүйх | марафон | уралдаан | эрэгтэй</annotation>
-		<annotation cp="🏃🏾‍♂‍➡" type="tts">гүйж буй эрэгтэй баруун тийш харсан</annotation>
-		<annotation cp="🏃🏿‍♂‍➡">гүйж буй эрэгтэй | гүйх | марафон | уралдаан | эрэгтэй</annotation>
-		<annotation cp="🏃🏿‍♂‍➡" type="tts">гүйж буй эрэгтэй баруун тийш харсан</annotation>
+		<annotation cp="🏃‍➡">баруун | гүйж байгаа хүн | гүйх | тийш | харсан | хүн</annotation>
+		<annotation cp="🏃‍➡" type="tts">гүйж байгаа хүн: баруун тийш харсан</annotation>
+		<annotation cp="🏃🏻‍➡">баруун | гүйж байгаа хүн | гүйх | тийш | харсан | хүн | цайвар</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">гүйж байгаа хүн: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🏃🏼‍➡">бага зэргийн цайвар | баруун | гүйж байгаа хүн | гүйх | тийш | харсан | хүн</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">гүйж байгаа хүн: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🏃🏽‍➡">баруун | гүйж байгаа хүн | гүйх | дунд зэргийн | тийш | харсан | хүн</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">гүйж байгаа хүн: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🏃🏾‍➡">баруун | бордуу | гүйж байгаа хүн | гүйх | тийш | харсан | хүн</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">гүйж байгаа хүн: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🏃🏿‍➡">баруун | бор | гүйж байгаа хүн | гүйх | тийш | харсан | хүн</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">гүйж байгаа хүн: бор баруун тийш харсан</annotation>
+		<annotation cp="🏃‍♀‍➡">баруун | гүйж буй эмэгтэй | марафон | тийш | уралдаан | харсан | эм | эмэгтэй</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">гүйж буй эмэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">баруун | гүйж буй эмэгтэй | марафон | тийш | уралдаан | харсан | цайвар | эм | эмэгтэй</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">гүйж буй эмэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">бага зэргийн цайвар | баруун | гүйж буй эмэгтэй | марафон | тийш | уралдаан | харсан | эм | эмэгтэй</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">гүйж буй эмэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">баруун | гүйж буй эмэгтэй | дунд зэргийн | марафон | тийш | уралдаан | харсан | эм | эмэгтэй</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">гүйж буй эмэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">баруун | бордуу | гүйж буй эмэгтэй | марафон | тийш | уралдаан | харсан | эм | эмэгтэй</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">гүйж буй эмэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">баруун | бор | гүйж буй эмэгтэй | марафон | тийш | уралдаан | харсан | эм | эмэгтэй</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">гүйж буй эмэгтэй: бор баруун тийш харсан</annotation>
+		<annotation cp="🏃‍♂‍➡">баруун | гүйж буй эрэгтэй | гүйх | марафон | тийш | уралдаан | харсан | эрэгтэй</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">гүйж буй эрэгтэй: баруун тийш харсан</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">баруун | гүйж буй эрэгтэй | гүйх | марафон | тийш | уралдаан | харсан | цайвар | эрэгтэй</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">гүйж буй эрэгтэй: цайвар баруун тийш харсан</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">бага зэргийн цайвар | баруун | гүйж буй эрэгтэй | гүйх | марафон | тийш | уралдаан | харсан | эрэгтэй</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">гүйж буй эрэгтэй: бага зэргийн цайвар баруун тийш харсан</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">баруун | гүйж буй эрэгтэй | гүйх | дунд зэргийн | марафон | тийш | уралдаан | харсан | эрэгтэй</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">гүйж буй эрэгтэй: дунд зэргийн баруун тийш харсан</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">баруун | бордуу | гүйж буй эрэгтэй | гүйх | марафон | тийш | уралдаан | харсан | эрэгтэй</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">гүйж буй эрэгтэй: бордуу баруун тийш харсан</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">баруун | бор | гүйж буй эрэгтэй | гүйх | марафон | тийш | уралдаан | харсан | эрэгтэй</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">гүйж буй эрэгтэй: бор баруун тийш харсан</annotation>
 		<annotation cp="💃🏻">бүжиг | бүжигчин | даашинз | цайвар | эмэгтэй</annotation>
 		<annotation cp="💃🏻" type="tts">бүжигчин: цайвар</annotation>
 		<annotation cp="💃🏼">бага зэргийн цайвар | бүжиг | бүжигчин | даашинз | эмэгтэй</annotation>
@@ -3113,6 +3363,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🕴🏾" type="tts">хослол өмссөн эрэгтэй: бордуу</annotation>
 		<annotation cp="🕴🏿">ажил | бизнес | бор | хослол | хослол өмссөн эрэгтэй | эрэгтэй</annotation>
 		<annotation cp="🕴🏿" type="tts">хослол өмссөн эрэгтэй: бор</annotation>
+		<annotation cp="👯🏻">бүжигчид | бүсгүй | үдэшлэг | үдэшлэгт байгаа бүсгүй | цайвар</annotation>
+		<annotation cp="👯🏻" type="tts">үдэшлэгт байгаа бүсгүй: цайвар</annotation>
+		<annotation cp="👯🏼">бага зэргийн цайвар | бүжигчид | бүсгүй | үдэшлэг | үдэшлэгт байгаа бүсгүй</annotation>
+		<annotation cp="👯🏼" type="tts">үдэшлэгт байгаа бүсгүй: бага зэргийн цайвар</annotation>
+		<annotation cp="👯🏽">бүжигчид | бүсгүй | дунд зэргийн | үдэшлэг | үдэшлэгт байгаа бүсгүй</annotation>
+		<annotation cp="👯🏽" type="tts">үдэшлэгт байгаа бүсгүй: дунд зэргийн</annotation>
+		<annotation cp="👯🏾">бордуу | бүжигчид | бүсгүй | үдэшлэг | үдэшлэгт байгаа бүсгүй</annotation>
+		<annotation cp="👯🏾" type="tts">үдэшлэгт байгаа бүсгүй: бордуу</annotation>
+		<annotation cp="👯🏿">бор | бүжигчид | бүсгүй | үдэшлэг | үдэшлэгт байгаа бүсгүй</annotation>
+		<annotation cp="👯🏿" type="tts">үдэшлэгт байгаа бүсгүй: бор</annotation>
+		<annotation cp="👯🏻‍♀">бүжигчин | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цайвар | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👯🏻‍♀" type="tts">цэнгэж буй эмэгтэйчүүд: цайвар</annotation>
+		<annotation cp="👯🏼‍♀">бага зэргийн цайвар | бүжигчин | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👯🏼‍♀" type="tts">цэнгэж буй эмэгтэйчүүд: бага зэргийн цайвар</annotation>
+		<annotation cp="👯🏽‍♀">бүжигчин | дунд зэргийн | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👯🏽‍♀" type="tts">цэнгэж буй эмэгтэйчүүд: дунд зэргийн</annotation>
+		<annotation cp="👯🏾‍♀">бордуу | бүжигчин | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👯🏾‍♀" type="tts">цэнгэж буй эмэгтэйчүүд: бордуу</annotation>
+		<annotation cp="👯🏿‍♀">бор | бүжигчин | туулайн чих | туулайн чихтэй эмэгтэйчүүд | үдэшлэг | цэнгэж буй эмэгтэйчүүд | эмэгтэйчүүд</annotation>
+		<annotation cp="👯🏿‍♀" type="tts">цэнгэж буй эмэгтэйчүүд: бор</annotation>
+		<annotation cp="👯🏻‍♂">бүжигчин | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цайвар | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👯🏻‍♂" type="tts">цэнгэж буй эрэгтэйчүүд: цайвар</annotation>
+		<annotation cp="👯🏼‍♂">бага зэргийн цайвар | бүжигчин | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👯🏼‍♂" type="tts">цэнгэж буй эрэгтэйчүүд: бага зэргийн цайвар</annotation>
+		<annotation cp="👯🏽‍♂">бүжигчин | дунд зэргийн | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👯🏽‍♂" type="tts">цэнгэж буй эрэгтэйчүүд: дунд зэргийн</annotation>
+		<annotation cp="👯🏾‍♂">бордуу | бүжигчин | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👯🏾‍♂" type="tts">цэнгэж буй эрэгтэйчүүд: бордуу</annotation>
+		<annotation cp="👯🏿‍♂">бор | бүжигчин | туулайн чих | туулайн чихтэй эрчүүд | үдэшлэг | цэнгэж буй эрэгтэйчүүд | эрчүүд</annotation>
+		<annotation cp="👯🏿‍♂" type="tts">цэнгэж буй эрэгтэйчүүд: бор</annotation>
 		<annotation cp="🧖🏻">саун | уур савссан өрөө | уур савссан өрөөнд байгаа хүн | цайвар</annotation>
 		<annotation cp="🧖🏻" type="tts">уур савссан өрөөнд байгаа хүн: цайвар</annotation>
 		<annotation cp="🧖🏼">бага зэргийн цайвар | саун | уур савссан өрөө | уур савссан өрөөнд байгаа хүн</annotation>
@@ -3463,6 +3743,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤸🏾‍♀" type="tts">сальто эргэх эмэгтэй: бордуу</annotation>
 		<annotation cp="🤸🏿‍♀">бор | гимнастик | сальто эргэж буй эмэгтэй | сальто эргэх | сальто эргэх эмэгтэй | эмэгтэй</annotation>
 		<annotation cp="🤸🏿‍♀" type="tts">сальто эргэх эмэгтэй: бор</annotation>
+		<annotation cp="🤼🏻">барилдах | бөх | спорт | хүн | цайвар</annotation>
+		<annotation cp="🤼🏻" type="tts">бөх: цайвар</annotation>
+		<annotation cp="🤼🏼">бага зэргийн цайвар | барилдах | бөх | спорт | хүн</annotation>
+		<annotation cp="🤼🏼" type="tts">бөх: бага зэргийн цайвар</annotation>
+		<annotation cp="🤼🏽">барилдах | бөх | дунд зэргийн | спорт | хүн</annotation>
+		<annotation cp="🤼🏽" type="tts">бөх: дунд зэргийн</annotation>
+		<annotation cp="🤼🏾">барилдах | бордуу | бөх | спорт | хүн</annotation>
+		<annotation cp="🤼🏾" type="tts">бөх: бордуу</annotation>
+		<annotation cp="🤼🏿">барилдах | бор | бөх | спорт | хүн</annotation>
+		<annotation cp="🤼🏿" type="tts">бөх: бор</annotation>
+		<annotation cp="🤼🏻‍♀">барилдаж буй эмэгтэйчүүд | бөх | цайвар | эмэгтэй</annotation>
+		<annotation cp="🤼🏻‍♀" type="tts">барилдаж буй эмэгтэйчүүд: цайвар</annotation>
+		<annotation cp="🤼🏼‍♀">бага зэргийн цайвар | барилдаж буй эмэгтэйчүүд | бөх | эмэгтэй</annotation>
+		<annotation cp="🤼🏼‍♀" type="tts">барилдаж буй эмэгтэйчүүд: бага зэргийн цайвар</annotation>
+		<annotation cp="🤼🏽‍♀">барилдаж буй эмэгтэйчүүд | бөх | дунд зэргийн | эмэгтэй</annotation>
+		<annotation cp="🤼🏽‍♀" type="tts">барилдаж буй эмэгтэйчүүд: дунд зэргийн</annotation>
+		<annotation cp="🤼🏾‍♀">барилдаж буй эмэгтэйчүүд | бордуу | бөх | эмэгтэй</annotation>
+		<annotation cp="🤼🏾‍♀" type="tts">барилдаж буй эмэгтэйчүүд: бордуу</annotation>
+		<annotation cp="🤼🏿‍♀">барилдаж буй эмэгтэйчүүд | бор | бөх | эмэгтэй</annotation>
+		<annotation cp="🤼🏿‍♀" type="tts">барилдаж буй эмэгтэйчүүд: бор</annotation>
+		<annotation cp="🤼🏻‍♂">барилдаж буй эрэгтэйчүүд | бөх | цайвар | эрэгтэй</annotation>
+		<annotation cp="🤼🏻‍♂" type="tts">барилдаж буй эрэгтэйчүүд: цайвар</annotation>
+		<annotation cp="🤼🏼‍♂">бага зэргийн цайвар | барилдаж буй эрэгтэйчүүд | бөх | эрэгтэй</annotation>
+		<annotation cp="🤼🏼‍♂" type="tts">барилдаж буй эрэгтэйчүүд: бага зэргийн цайвар</annotation>
+		<annotation cp="🤼🏽‍♂">барилдаж буй эрэгтэйчүүд | бөх | дунд зэргийн | эрэгтэй</annotation>
+		<annotation cp="🤼🏽‍♂" type="tts">барилдаж буй эрэгтэйчүүд: дунд зэргийн</annotation>
+		<annotation cp="🤼🏾‍♂">барилдаж буй эрэгтэйчүүд | бордуу | бөх | эрэгтэй</annotation>
+		<annotation cp="🤼🏾‍♂" type="tts">барилдаж буй эрэгтэйчүүд: бордуу</annotation>
+		<annotation cp="🤼🏿‍♂">барилдаж буй эрэгтэйчүүд | бор | бөх | эрэгтэй</annotation>
+		<annotation cp="🤼🏿‍♂" type="tts">барилдаж буй эрэгтэйчүүд: бор</annotation>
 		<annotation cp="🤽🏻">поло | спорт | ус | усны поло | хүн | цайвар</annotation>
 		<annotation cp="🤽🏻" type="tts">усны поло: цайвар</annotation>
 		<annotation cp="🤽🏼">бага зэргийн цайвар | поло | спорт | ус | усны поло | хүн</annotation>
@@ -3993,6 +4303,8 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🇨🇴" type="tts">туг: Колумби</annotation>
 		<annotation cp="🇨🇵">туг</annotation>
 		<annotation cp="🇨🇵" type="tts">туг: Клиппертон арал</annotation>
+		<annotation cp="🇨🇶">туг</annotation>
+		<annotation cp="🇨🇶" type="tts">туг: Сарк</annotation>
 		<annotation cp="🇨🇷">туг</annotation>
 		<annotation cp="🇨🇷" type="tts">туг: Коста-Рика</annotation>
 		<annotation cp="🇨🇺">туг</annotation>
@@ -4432,25 +4744,5 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="₺" type="tts">Туркийн лира</annotation>
 		<annotation cp="₼" type="tts">Азербайжаны манат</annotation>
 		<annotation cp="₾" type="tts">Гүржийн лари</annotation>
-		<annotation cp="0⃣">түлхүүрийн гэр</annotation>
-		<annotation cp="0⃣" type="tts">түлхүүрийн гэр: 0</annotation>
-		<annotation cp="1⃣">түлхүүрийн гэр</annotation>
-		<annotation cp="1⃣" type="tts">түлхүүрийн гэр: 1</annotation>
-		<annotation cp="2⃣">түлхүүрийн гэр</annotation>
-		<annotation cp="2⃣" type="tts">түлхүүрийн гэр: 2</annotation>
-		<annotation cp="3⃣">түлхүүрийн гэр</annotation>
-		<annotation cp="3⃣" type="tts">түлхүүрийн гэр: 3</annotation>
-		<annotation cp="4⃣">түлхүүрийн гэр</annotation>
-		<annotation cp="4⃣" type="tts">түлхүүрийн гэр: 4</annotation>
-		<annotation cp="5⃣">түлхүүрийн гэр</annotation>
-		<annotation cp="5⃣" type="tts">түлхүүрийн гэр: 5</annotation>
-		<annotation cp="6⃣">түлхүүрийн гэр</annotation>
-		<annotation cp="6⃣" type="tts">түлхүүрийн гэр: 6</annotation>
-		<annotation cp="7⃣">түлхүүрийн гэр</annotation>
-		<annotation cp="7⃣" type="tts">түлхүүрийн гэр: 7</annotation>
-		<annotation cp="8⃣">түлхүүрийн гэр</annotation>
-		<annotation cp="8⃣" type="tts">түлхүүрийн гэр: 8</annotation>
-		<annotation cp="9⃣">түлхүүрийн гэр</annotation>
-		<annotation cp="9⃣" type="tts">түлхүүрийн гэр: 9</annotation>
 	</annotations>
 </ldml>

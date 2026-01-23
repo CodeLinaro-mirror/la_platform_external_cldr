@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -1173,6 +1173,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="esmc" draft="provisional">穆尔西亚自治区</subdivision>
 			<subdivision type="esmd" draft="provisional">马德里自治区</subdivision>
 			<subdivision type="esml" draft="provisional">梅利利亚</subdivision>
+			<subdivision type="esmu" draft="provisional">穆尔西亚省</subdivision>
 			<subdivision type="esna" draft="provisional">納瓦拉²</subdivision>
 			<subdivision type="esnc" draft="provisional">納瓦拉</subdivision>
 			<subdivision type="esor" draft="provisional">奥伦塞省</subdivision>
@@ -1353,6 +1354,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="fr972" draft="provisional">馬提尼克</subdivision>
 			<subdivision type="fr973" draft="provisional">法屬圭亞那</subdivision>
 			<subdivision type="fr974" draft="provisional">留尼汪</subdivision>
+			<subdivision type="fr976" draft="provisional">马约特</subdivision>
 			<subdivision type="frara" draft="provisional">奧文尼-隆-阿爾卑斯</subdivision>
 			<subdivision type="frbfc" draft="provisional">勃艮第-弗朗什-孔泰大區</subdivision>
 			<subdivision type="frbre" draft="provisional">布列塔尼</subdivision>
@@ -1443,7 +1445,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="gbeln" draft="provisional">东洛锡安</subdivision>
 			<subdivision type="gbels" draft="provisional">埃利安锡尔</subdivision>
 			<subdivision type="gbenf" draft="provisional">恩菲爾德區</subdivision>
-			<subdivision type="gbeng" draft="provisional">英格兰</subdivision>
+			<subdivision type="gbeng">英格兰</subdivision>
 			<subdivision type="gberw" draft="provisional">东伦弗鲁郡</subdivision>
 			<subdivision type="gbery" draft="provisional">东约克郡</subdivision>
 			<subdivision type="gbess" draft="provisional">埃塞克斯郡</subdivision>
@@ -1541,7 +1543,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="gbsaw" draft="provisional">砂井</subdivision>
 			<subdivision type="gbsay" draft="provisional">南艾尔郡</subdivision>
 			<subdivision type="gbscb" draft="provisional">蘇格蘭邊區</subdivision>
-			<subdivision type="gbsct" draft="provisional">蘇格蘭</subdivision>
+			<subdivision type="gbsct">苏格兰</subdivision>
 			<subdivision type="gbsfk" draft="provisional">薩福克郡</subdivision>
 			<subdivision type="gbsft" draft="provisional">塞夫頓都會自治市</subdivision>
 			<subdivision type="gbsgc" draft="provisional">南告羅士打郡</subdivision>
@@ -1585,7 +1587,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="gbwkf" draft="provisional">韋克菲爾德市</subdivision>
 			<subdivision type="gbwll" draft="provisional">華素爾區</subdivision>
 			<subdivision type="gbwln" draft="provisional">西洛锡安</subdivision>
-			<subdivision type="gbwls" draft="provisional">威爾斯</subdivision>
+			<subdivision type="gbwls">威尔士</subdivision>
 			<subdivision type="gbwlv" draft="provisional">伍爾弗漢普頓</subdivision>
 			<subdivision type="gbwnd" draft="provisional">旺茲沃思區</subdivision>
 			<subdivision type="gbwnm" draft="provisional">溫莎-梅登黑德</subdivision>
@@ -2329,6 +2331,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="kh5" draft="provisional">磅士卑省</subdivision>
 			<subdivision type="kh6" draft="provisional">磅同省</subdivision>
 			<subdivision type="kh7" draft="provisional">贡布省</subdivision>
+			<subdivision type="kh8" draft="provisional">干丹省</subdivision>
 			<subdivision type="kh9" draft="provisional">戈公省</subdivision>
 			<subdivision type="kh10" draft="provisional">桔井省</subdivision>
 			<subdivision type="kh11" draft="provisional">蒙多基里省</subdivision>
@@ -2918,6 +2921,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="me22" draft="provisional">古西涅區</subdivision>
 			<subdivision type="me23" draft="provisional">佩特尼察區</subdivision>
 			<subdivision type="me24" draft="provisional">图齐市镇</subdivision>
+			<subdivision type="me25" draft="provisional">澤塔市鎮</subdivision>
 			<subdivision type="mga" draft="provisional">圖阿馬西納省</subdivision>
 			<subdivision type="mgd" draft="provisional">安齊拉納納省</subdivision>
 			<subdivision type="mgf" draft="provisional">菲亞納蘭楚阿省</subdivision>
@@ -3427,6 +3431,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="npna" draft="provisional">納拉亞尼專區</subdivision>
 			<subdivision type="npp1" draft="provisional">第一省</subdivision>
 			<subdivision type="npp2" draft="provisional">马德西省</subdivision>
+			<subdivision type="npp3" draft="provisional">第三省</subdivision>
 			<subdivision type="npp5" draft="provisional">蓝毗尼省</subdivision>
 			<subdivision type="npp6" draft="provisional">格尔纳利省</subdivision>
 			<subdivision type="npp7" draft="provisional">第七省</subdivision>

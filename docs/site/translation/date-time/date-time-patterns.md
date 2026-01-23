@@ -4,14 +4,14 @@ title: Date/Time Patterns
 
 # Date/Time Patterns
 
-_Last updated: 2018-May-14_
+_Last updated: 2025-Apr-01_
 
 ## Patterns Introduction
 
 Pre-requisite topics to read:
 
-- [Date/Time Symbols](https://cldr.unicode.org/translation/date-time/date-time-symbols)
-- [Date/Time Names](https://cldr.unicode.org/translation/date-time/date-time-names)
+- [Date/Time Symbols](/translation/date-time/date-time-symbols)
+- [Date/Time Names](/translation/date-time/date-time-names)
 
 A date-time pattern is a string of characters in which fields representing date and time symbols are combined together with necessary "literal" strings that are used as is.
 
@@ -26,7 +26,7 @@ There are two types of substrings that are combined in a pattern:
 | **yMMMd** | MMM e, y | Dec 5, 2010 | y年M月d 日 | 2010年12月5日 |
 
 There are three aspects to patterns: 
-- A letter in the set {a-z; A-Z} indicates the type of calendar field: See [Date/Time Symbols](https://cldr.unicode.org/translation/date-time/date-time-symbols).
+- A letter in the set {a-z; A-Z} indicates the type of calendar field: See [Date/Time Symbols](/translation/date-time/date-time-symbols).
 	- For example:
 		- M for month
 		- d for week day
@@ -37,12 +37,12 @@ There are three aspects to patterns: 
 	- Abbreviated form: MMM  for Sep
 	- Full form: MMMM for September
 	- Narrow form: MMMMM (S)
-- When formatting a particular date, non-numeric values (e.g. month names from Gregorian calendar) are substituted into the appropriate pattern substrings using the [Date Format Symbols](https://cldr.unicode.org/translation/date-time/date-time-symbols). 
+- When formatting a particular date, non-numeric values (e.g. month names from Gregorian calendar) are substituted into the appropriate pattern substrings using the [Date Format Symbols](/translation/date-time/date-time-symbols). 
 	- For example:
 		- M replaced by “3” for March
 		- MMMM replaced by “March”.
 		- When parsing a date string, the pattern substrings will be converted into the appropriate numeric calendar data.
-	- **See [Date/Time Symbols](https://cldr.unicode.org/translation/date-time/date-time-symbols) for a brief summary of letters for different calendar fields, or [Date Field Symbol Table](http://www.unicode.org/reports/tr35/tr35-dates.html#Date_Field_Symbol_Table) for a more complete and detailed list.**
+	- **See [Date/Time Symbols](/translation/date-time/date-time-symbols) for a brief summary of letters for different calendar fields, or [Date Field Symbol Table](http://www.unicode.org/reports/tr35/tr35-dates.html#Date_Field_Symbol_Table) for a more complete and detailed list.**
 	- The "literal" text in the date-time pattern are used as-is when formatting, and are expected when parsing a date string. To include a single straight quote as part of the literal text, use two of them together: '' (either inside or outside a section of literal text enclosed in single straight quotes).
 
 To demonstrate how this work with examples, see the spec [Date Format Pattern Examples](http://www.unicode.org/reports/tr35/tr35-45/tr35-dates.html#Date_Format_Pattern_Examples).
@@ -58,7 +58,7 @@ To demonstrate how this work with examples, see the spec [Date Format Pattern Ex
 
 ## Synchronizing Date/Time Names and Patterns
 
-There is a tight coupling between the date/time patterns and the names that are used for date/time elements, described in [Date/Time Names](https://cldr.unicode.org/translation/date-time/date-time-names). Therefore, when supplying the data, it requires coordination between what you supply as the names and your intention on which name to use in patterns.
+There is a tight coupling between the date/time patterns and the names that are used for date/time elements, described in [Date/Time Names](/translation/date-time/date-time-names). Therefore, when supplying the data, it requires coordination between what you supply as the names and your intention on which name to use in patterns.
 
 ### When to use Standalone vs. Formatting
 
@@ -103,7 +103,7 @@ Following are examples of differences and implications based on language:
 💡 **Translation Tips**
 
 - When working with patterns, look at the examples in the right information pane to validate your intention between the name and the pattern.
-- In order to get the right formats for your language, you may need to change the ordering of the [Date/Time Symbols](https://cldr.unicode.org/translation/date-time/date-time-symbols), and change the text around them.
+- In order to get the right formats for your language, you may need to change the ordering of the [Date/Time Symbols](/translation/date-time/date-time-symbols), and change the text around them.
 - You must match the names that should be used in patterns with intended forms of the names (wide or full, abbreviated and/or short, narrow forms) 
 	- For example:
 	- If you specify the time format "h:mm a", by using "a" your intention is to use the **Abbreviated formatting** name for AM/PM; thus, the end result being 2:37 PM.
@@ -136,7 +136,7 @@ Using 24 hour vs 12 hour symbols: The symbols you use in time format patterns de
 	- **k** to mean a 24-hour clock cycle running 1 through 24 (midnight plus 1 minute is 24:01).
 	- **a**, **b**, and **B** are same as usage in 12 hour formats, but are not normally used with 24-hour time.
 
-If a non-default country/region use a different time format than the default country/region for the language, then this difference should be added for the sub-locale. Also see [Regional variants](https://cldr.unicode.org/translation/getting-started/guide#TOC-Regional-Variants-also-known-as-Sub-locales-). 
+If a non-default country/region use a different time format than the default country/region for the language, then this difference should be added for the sub-locale. Also see [Regional variants](/translation/getting-started/guide#TOC-Regional-Variants-also-known-as-Sub-locales-). 
 
 For example, if es (= es\_ES, Spanish as used in Spain) uses 24-hour time formats, but es\_US (Spanish as used in United States) uses 12 hour time formats, then es would use "HH:mm/H:mm" and es\_US would use the "h" formats as described above. .
 
@@ -146,7 +146,7 @@ For example, if es (= es\_ES, Spanish as used in Spain) uses 24-hour time format
 
 ## Basic Date Formats
 
-The standard Date formats include four basic formats. See Survey Tool [Formats-Standard-Date formats](https://st.unicode.org/cldr-apps/v#/USER/Gregorian/562f98c4c6b2e321). (Note that the Month symbol especially may vary (M vs MM, or MMM vs LLL). For more information, see [Date/Time Symbols](https://cldr.unicode.org/translation/date-time/date-time-symbols).)
+The standard Date formats include four basic formats. See Survey Tool [Formats-Standard-Date formats](https://st.unicode.org/cldr-apps/v#/USER/Gregorian/562f98c4c6b2e321). (Note that the Month symbol especially may vary (M vs MM, or MMM vs LLL). For more information, see [Date/Time Symbols](/translation/date-time/date-time-symbols).)
 
 | Form  |   Include |   English pattern examples |
 |---|---|---|
@@ -157,7 +157,7 @@ The standard Date formats include four basic formats. See Survey Tool [Formats-S
 
 ## Additional Date-Time Formats
 
-The basic formats as described in above sections provide a small subset of the combinations. To expand to fully cover all variations of date and time formats, a skeleton format is provided that uses the [Date/Time Symbols](https://cldr.unicode.org/translation/date-time/date-time-symbols) (without order or punctuation) to indicate what fields are desired. 
+The basic formats as described in above sections provide a small subset of the combinations. To expand to fully cover all variations of date and time formats, a skeleton format is provided that uses the [Date/Time Symbols](/translation/date-time/date-time-symbols) (without order or punctuation) to indicate what fields are desired. 
 
 An example usage of the flexible formats would be: a software program only needs the year and month information, the flexible pattern yMMM would be used to provide the desired year and month formatting as shown in the English and Japanese examples in this table. 
 
@@ -187,7 +187,7 @@ In languages that distinguish between nominative and genitive (or related form s
 	- Use symbols "ccc" or "cccc" in patterns to use the standalone name
 		- Use the symbol  "E" or "EEEE" to use the format name
 
-To understand which pattern characters are used for standalone forms (nominative) versus format forms (genitive or related, such as partitive), see [Stand-Alone vs Format Styles](https://cldr.unicode.org/translation/date-time/date-time-symbols), see also the discussion above in [Synchronizing Date/Time Names and Patterns](https://cldr.unicode.org/translation/date-time/date-time-patterns).
+To understand which pattern characters are used for standalone forms (nominative) versus format forms (genitive or related, such as partitive), see [Stand-Alone vs Format Styles](/translation/date-time/date-time-symbols), see also the discussion above in [Synchronizing Date/Time Names and Patterns](/translation/date-time/date-time-patterns).
 
 ### Supplied vs. Inferred patterns
 
@@ -269,8 +269,8 @@ These new patterns are available in Gregorian and Generic calendars, In these ne
 	2. If it is equally good in two different positions, favor the position used for the 'a' pattern character.
 	3. If the position needs to be different depending on the width of B, please file a ticket.
 2. For more information on the day periods used in your language:
-	1. First see [Day Periods (AM, PM, etc.)](https://cldr.unicode.org/translation/date-time/date-time-names) for a general discussion of how day periods work.
-	2. See the [Day Periods](https://www.unicode.org/cldr/charts/45/supplemental/day_periods.html) chart for your language.
+	1. First see [Day Periods (AM, PM, etc.)](/translation/date-time/date-time-names) for a general discussion of how day periods work.
+	2. See the [Day Periods](https://www.unicode.org/cldr/charts/latest/supplemental/day_periods.html) chart for your language.
 
 ![image](../../images/date-time/ST-flexibledayperiod.JPG)
 
@@ -286,46 +286,53 @@ What you want to pay attention to are:
 - Remove a space if your language does not use spaces, which is common for many East Asian languages
 - Add a comma, or other punctuation that your language requires between the patterns
 
-There are four formats: full, long, medium, and short. _Each of these may come in two variants_:
+There are four format length styles: full, long, medium, and short. Each of these may come in up to three variants:
 
-- _The “-atTime” variant, which specifies a date at a particular time, typically for an event. In the longer formats (such as full and long), this “-atTime” form may have a combining word betwen the date and the time, for example “{1} 'at' {0}” to produce an English example like “Sunday, September 25 at 1:30 PM”)._
-- _The standard variant, which is used for multuple purposes and typically does not include any literal text, for example “{1}, {0}”. Usage examples include:_
-	- _Wall clock time: “Sunday, September 25, 1:30 PM”_
-	- _Combining a date with a time range: “Sunday, September 25, 1:30 – 3:00 PM”_
+- The standard variant (required), which is used for multiple purposes and typically does not include any literal text, for example “{1}, {0}”. Usage examples include:
+	- Wall clock time: “Sunday, September 25, 1:30 PM”
+	- Combining a date with a time range: “Sunday, September 25, 1:30 – 3:00 PM”
+- The “-atTime” variant, which specifies a **fixed** date at a particular time, typically for an event. In the longer formats (such as full and long),
+this “-atTime” form may have a combining word linking the date and the time, for example “{1} 'at' {0}” to produce an English example like “Sunday, September 25 at 1:30 PM”).
+If there is no “-atTime” variant, the standard variant will be used for this combination.
+- The “-relative” variant _(new in CLDR 48)_, which specifies a **relative** date at a particular time, typically for an event. In the longer formats (such as full and long),
+this “-relative” form may have a combining word linking the date and the time, for example “{1} 'at' {0}” to produce an English example like “tomorrow at 1:30 PM”.
+If there is no “-relative” variant, the standard variant will be used for this combination.
 
-_Before CLDR 42, there was only one variant for these. In English that variant used the “-atTime” style, as did many other locales. For CLDR 42, that  “-⁠atTime” data has been moved to the “-⁠atTime” variants, and the standard data has initially been extrapolated from the mediu or short formats without literal text. However, it needs to be checked._
+_Before CLDR 42, there was only one variant for these. In English that variant used the “-atTime” style, as did many other locales. For CLDR 42, that  “-⁠atTime” data was moved to the “-⁠atTime” variants, and the standard data was initially extrapolated from the medium or short formats without literal text._
 
-The determination of which to use by developers using CLDR data is normally based on the date style, for example:
+_In CLDR 48, the “-relative” variant is split out of the “-atTime” variant to allow a different combining form to be used when the date part is relative (“tomorrow”) instead of a fixed date (“March 20”).
+If you want the combination of a relative date and single time to be formatted as it was in CLDR 47, then you will need to copy the “-atTime” variant data to the new “-relative” variant._
+
+The determination of which length style to use by developers using CLDR data is normally based on the date style, for example:
 
 - If the date has a full month and weekday name, use the **full** combining pattern.
 - If the date has numeric month, use the **short** version of the combining pattern.
 
 Following are examples on how the data can be different by locale with different combinations of format length. (note: {1}=date format with {0}= time format)
 
- 
 
 Another way to look at the example with original patterns and combined result:
 
 | Pattern     |  English |  German |  Japanese |
 |---|---|---|---|
 |   [Full](https://st.unicode.org/cldr-apps/v#/fr/Gregorian/4caf0def588f4e8) {1} 'at' {0}<br /><br /> {Full form of the date format} at {full form of the time format}  |  {1} 'at' {0}<br /><br /> Sunday, September 5, 1999  at  1:25:59 PM Eastern Standard Time |  {1} 'um' {0}<br /><br /> Sonntag, 5. September 1999 um 13:25:59 Nordamerikanische Ostküsten-Normalzeit |  {1} {0}<br /><br /> 1999年9月5日日曜日 13時25分59秒 アメリカ東部標準時 |
-|   [Medium](https://st.unicode.org/cldr-apps/v#/fr/Gregorian/7a365a21694f0127)   {1}, {0}<br /><br /> {medium form of the date format}, {medium form of the time format}<br /><br /> Notice the comma and space between the date portion and the time portion. |  {1}, {0}<br /><br /> Sep 5, 1999, 1:25:59 PM  |  {1}, {0}  Result: 05.09.1999, 13:25:59 |  {1} {0}<br /><br /> 1999/09/05 13:25:59 |
+|   [Medium](https://st.unicode.org/cldr-apps/v#/fr/Gregorian/7a365a21694f0127)   {1}, {0}<br /><br /> {medium form of the date format}, {medium form of the time format}<br /><br /> Notice the comma and space between the date portion and the time portion. |  {1}, {0}<br /><br /> Sep 5, 1999, 1:25:59 PM  |  {1}, {0}<br /><br /> 05.09.1999, 13:25:59 |  {1} {0}<br /><br /> 1999/09/05 13:25:59 |
 
-|  |  |  |  |
-|---|---|---|---|
+
 | date pattern | time pattern | date-time combining pattern used | formatted example |
+|---|---|---|---|
 | MMMM d, y | h:mm a | [long]  {1} 'at' {0} | September 14, 1999 at 1:25 PM |
 | M/d/yy | h:mm a | [short] {1}, {0} | 9/14/99, 1:25 PM |
 
-|  |  |  |
-|---|---|---|
+
+## Week-Of Patterns
+
 | Survey Tool field |  English pattern | Pattern characters |
+|---|---|---|
 |  yw-one |  'week' w 'of' Y  (example: Week 37 of 2009) | w designates the number of the week within a year calculated for week-of year purposes and indicated using the pattern character Y (instead of the normal year designator y). The year indicated by Y typically begins on the locale’s first day of the week and ends on the last day of the week, so its transitions may differ by a few days from the standard year indicated by y. |
 |  yw-other |  'week' w 'of' Y |  |
 |  MMMMW-one |  'week' W 'of' MMMM  (example: Week 3 of April) | W designates the number of the week within the month |
 |  MMMMW-other |  'week' W 'of' MMMM |  |
-
-## Week-Of Patterns
 
 The week-of date patterns were introduced in CLDR 30 for enumerating week count in larger periods, e.g. “week 15 of 2016” or “week 4 of April”. The Survey Tool fields and corresponding English entries are shown below:
 
@@ -336,9 +343,9 @@ For developers who use CLDR data, 
 
 💡 **Translation Tips**
 
-- If your language has a grammatical difference in the month names(aside from just the simple addition of a prefix or suffix), localizers will need to use a work-around construction ([file a ticket](https://cldr.unicode.org/index/bug-reports#TOC-Filing-a-Ticket) if this is the case for your language).
+- If your language has a grammatical difference in the month names(aside from just the simple addition of a prefix or suffix), localizers will need to use a work-around construction ([file a ticket](/index/bug-reports#TOC-Filing-a-Ticket) if this is the case for your language).
 
-As described [under Date/Time Names](https://cldr.unicode.org/translation/date-time/date-time-names), CLDR also provides a relative week period pattern which is used for constructions such as “the week of April 11, 2016”. The English pattern that produces this is “the week of {0}”; the date format that replaces {0} is determined separately. Because the week-of patterns described here may appear in user interfaces that also show dates produced using the relative week period patterns, all of these patterns should be designed with consistent wording and structure.
+As described [under Date/Time Names](/translation/date-time/date-time-names), CLDR also provides a relative week period pattern which is used for constructions such as “the week of April 11, 2016”. The English pattern that produces this is “the week of {0}”; the date format that replaces {0} is determined separately. Because the week-of patterns described here may appear in user interfaces that also show dates produced using the relative week period patterns, all of these patterns should be designed with consistent wording and structure.
 
 ## Flexible - Timezone Append
 
@@ -354,9 +361,9 @@ The flexible append format for Timezone is used to compose a time and a timezone
 
 ## Date/Time Intervals
 
-Interval patterns contain a start pattern and an end pattern (using the [Date/Time Symbols](https://cldr.unicode.org/translation/date-time/date-time-symbols)). They are used for a range of dates or times, such as "Sept 10–12" (meaning the 10th of September through the 12th of September). The interval format is used where it is necessary to make the pattern as short as possible, and elide information that does not have to be repeated. For example, the pattern used to get "Sept 10–12" in English is "MMM d–d".
+Interval patterns contain a start pattern and an end pattern (using the [Date/Time Symbols](/translation/date-time/date-time-symbols)). They are used for a range of dates or times, such as "Sept 10–12" (meaning the 10th of September through the 12th of September). The interval format is used where it is necessary to make the pattern as short as possible, and elide information that does not have to be repeated. For example, the pattern used to get "Sept 10–12" in English is "MMM d–d".
 
-Unlike simple [Date/Time Patterns](https://cldr.unicode.org/translation/date-time/date-time-patterns), these consist of two parts, typically separated by with some kind of punctuation mark (e.g. English uses en-dash " – "). Also, some fields in the second part are omitted (e.g. "d – d MMM" omits repeat of MMM for the second part). The first field that comes from the second date is marked with red in the examples below.
+Unlike simple [Date/Time Patterns](/translation/date-time/date-time-patterns), these consist of two parts, typically separated by with some kind of punctuation mark (e.g. English uses en-dash " – "). Also, some fields in the second part are omitted (e.g. "d – d MMM" omits repeat of MMM for the second part). The first field that comes from the second date is marked with red in the examples below.
 
 ### Interval Formatting
 
@@ -395,3 +402,31 @@ Different calendars work with the data in Gregorian, and Generic in the followin
 	- Because the Generic calendar does not have real names for months, weekdays and eras, the Survey Tool examples generated for this calendar may be confusing.
 - Calendars that do not inherit date formats from the Generic calendar are the **East Asian lunar calendars**: Chinese (lunar) and Dangi (Korean lunar). These have special formats involving cyclic names. The Dangu calendar inherits formats from the Chinese calendar data in the same locale, while the Chinese calendar inherits formats directly from the parent locale; that parent locale may be the root locale or inherit these formats directly from the root locale. For the lunar calendars, the root locale has formats that should be reasonable for use in most locales where the lunar calendars are not one of the primary calendars.
 
+### Year First Calendar
+
+This is a variant of the Gregorian calendar whose formats always use year-month-day ordering and a 24-hour time cycle.
+*Note: the code is `iso8601`, but disregard that; it will be changed after submission.*
+
+Page | Code | English
+-|-|-
+Date & Time / Gregorian YMD | yMMMd | y MMM d
+Date & Time / Gregorian YMD | … | …
+Locale Display Names / Keys | calendar-iso8601 | Gregorian Calendar (Year First)
+
+Please go though the Gregorian Calendar (Year First) fields.
+* You should change to what is most customary in your language:
+	* punctuation (/, -, :, ., …) around numeric fields
+	* other text separating non-numeric fields (era, day-of-week,  day-periods, zones)
+	* special forms ([stand-alone vs. formatting]) as needed: M → L, E → c
+* You should not change other features:
+	* The ordering of fields in the pattern should be strictly the following order (for any that occur in a particular pattern):
+		* era - year - month - day - day-of-week - hour - minute - second
+	* Each numeric field should be consistently 2 digits: MM, dd, HH, hh, mm, ss
+	* Each string field should match the Code in width: G, MMM, MMMM, E, EEE
+		* But should use a different letter for [stand-alone vs. formatting] as needed.
+
+It is helpful to have a second window up showing the **Date & Time / Gregorian** equivalents, so that you can be consistent (except for ordering) with the **Gregorian** calendar.
+
+<!-- [CLDR-18447](https://unicode-org.atlassian.net/browse/CLDR-18447) -->
+
+[stand-alone vs. formatting]: https://cldr.unicode.org/translation/date-time/date-time-patterns#when-to-use-standalone-vs-formatting

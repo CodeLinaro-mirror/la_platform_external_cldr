@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -1381,6 +1381,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="gbans" draft="provisional">Angus</subdivision>
 			<subdivision type="gbbas" draft="provisional">Bath and North East Somerset</subdivision>
 			<subdivision type="gbbbd" draft="provisional">Blackburn with Darwen</subdivision>
+			<subdivision type="gbbcp" draft="provisional">Bournemouth, Christchurch and Poole</subdivision>
 			<subdivision type="gbbdf" draft="provisional">Bedford</subdivision>
 			<subdivision type="gbbdg" draft="provisional">Barking e Dagenham</subdivision>
 			<subdivision type="gbben" draft="provisional">Borgo londinese di Brent</subdivision>
@@ -1436,7 +1437,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="gbeln" draft="provisional">East Lothian</subdivision>
 			<subdivision type="gbels" draft="provisional">Ebridi Esterne</subdivision>
 			<subdivision type="gbenf" draft="provisional">Borgo londinese di Enfield</subdivision>
-			<subdivision type="gbeng" draft="provisional">Inghilterra</subdivision>
+			<subdivision type="gbeng">Inghilterra</subdivision>
 			<subdivision type="gberw" draft="provisional">Renfrewshire Orientale</subdivision>
 			<subdivision type="gbery" draft="provisional">East Riding of Yorkshire</subdivision>
 			<subdivision type="gbess" draft="provisional">Essex</subdivision>
@@ -1535,7 +1536,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="gbsaw" draft="provisional">Sandwell</subdivision>
 			<subdivision type="gbsay" draft="provisional">Ayrshire Meridionale</subdivision>
 			<subdivision type="gbscb" draft="provisional">Scottish Borders</subdivision>
-			<subdivision type="gbsct" draft="provisional">Scozia</subdivision>
+			<subdivision type="gbsct">Scozia</subdivision>
 			<subdivision type="gbsfk" draft="provisional">Suffolk</subdivision>
 			<subdivision type="gbsft" draft="provisional">Sefton</subdivision>
 			<subdivision type="gbsgc" draft="provisional">South Gloucestershire</subdivision>
@@ -1579,7 +1580,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="gbwkf" draft="provisional">City of Wakefield</subdivision>
 			<subdivision type="gbwll" draft="provisional">Walsall</subdivision>
 			<subdivision type="gbwln" draft="provisional">Lothian dell’ovest</subdivision>
-			<subdivision type="gbwls" draft="provisional">Galles</subdivision>
+			<subdivision type="gbwls">Galles</subdivision>
 			<subdivision type="gbwlv" draft="provisional">Wolverhampton</subdivision>
 			<subdivision type="gbwnd" draft="provisional">Wandsworth</subdivision>
 			<subdivision type="gbwnm" draft="provisional">Royal Borough of Windsor and Maidenhead</subdivision>
@@ -2893,6 +2894,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="mdri" draft="provisional">distretto di Rîşcani</subdivision>
 			<subdivision type="mdsd" draft="provisional">distretto di Şoldăneşti</subdivision>
 			<subdivision type="mdsi" draft="provisional">distretto di Sîngerei</subdivision>
+			<subdivision type="mdsn" draft="provisional">unità amministrative territoriali della sponda sinistra del Dnestr</subdivision>
 			<subdivision type="mdso" draft="provisional">distretto di Soroca</subdivision>
 			<subdivision type="mdst" draft="provisional">distretto di Strășeni</subdivision>
 			<subdivision type="mdsv" draft="provisional">distretto di Ştefan Vodă</subdivision>
@@ -3427,6 +3429,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="npna" draft="provisional">Narayani</subdivision>
 			<subdivision type="npp1" draft="provisional">Provincia No. 1</subdivision>
 			<subdivision type="npp2" draft="provisional">Provincia No. 2</subdivision>
+			<subdivision type="npp3" draft="provisional">Bagmati Pradesh</subdivision>
 			<subdivision type="npp5" draft="provisional">Provincia No. 5</subdivision>
 			<subdivision type="npp6" draft="provisional">Karnali Pradesh</subdivision>
 			<subdivision type="npp7" draft="provisional">Sudurpashchim Pradesh</subdivision>

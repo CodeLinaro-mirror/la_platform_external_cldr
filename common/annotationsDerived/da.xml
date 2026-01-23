@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -603,6 +603,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾" type="tts">blond person: medium til mørk teint</annotation>
 		<annotation cp="👱🏿">ansigt | blond | hår | lyshåret | menneske | mørk teint | person</annotation>
 		<annotation cp="👱🏿" type="tts">blond person: mørk teint</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼">bryder | brydere | brydeturnering | brydning | kamp | lys teint | medium til lys teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼" type="tts">brydere: lys teint og medium til lys teint</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽">bryder | brydere | brydeturnering | brydning | kamp | lys teint | medium teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽" type="tts">brydere: lys teint og medium teint</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾">bryder | brydere | brydeturnering | brydning | kamp | lys teint | medium til mørk teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾" type="tts">brydere: lys teint og medium til mørk teint</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿">bryder | brydere | brydeturnering | brydning | kamp | lys teint | mørk teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿" type="tts">brydere: lys teint og mørk teint</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻">bryder | brydere | brydeturnering | brydning | kamp | lys teint | medium til lys teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻" type="tts">brydere: medium til lys teint og lys teint</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽">bryder | brydere | brydeturnering | brydning | kamp | medium teint | medium til lys teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽" type="tts">brydere: medium til lys teint og medium teint</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾">bryder | brydere | brydeturnering | brydning | kamp | medium til lys teint | medium til mørk teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾" type="tts">brydere: medium til lys teint og medium til mørk teint</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿">bryder | brydere | brydeturnering | brydning | kamp | medium til lys teint | mørk teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿" type="tts">brydere: medium til lys teint og mørk teint</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻">bryder | brydere | brydeturnering | brydning | kamp | lys teint | medium teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻" type="tts">brydere: medium teint og lys teint</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼">bryder | brydere | brydeturnering | brydning | kamp | medium teint | medium til lys teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼" type="tts">brydere: medium teint og medium til lys teint</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾">bryder | brydere | brydeturnering | brydning | kamp | medium teint | medium til mørk teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾" type="tts">brydere: medium teint og medium til mørk teint</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿">bryder | brydere | brydeturnering | brydning | kamp | medium teint | mørk teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿" type="tts">brydere: medium teint og mørk teint</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻">bryder | brydere | brydeturnering | brydning | kamp | lys teint | medium til mørk teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻" type="tts">brydere: medium til mørk teint og lys teint</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼">bryder | brydere | brydeturnering | brydning | kamp | medium til lys teint | medium til mørk teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼" type="tts">brydere: medium til mørk teint og medium til lys teint</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽">bryder | brydere | brydeturnering | brydning | kamp | medium teint | medium til mørk teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽" type="tts">brydere: medium til mørk teint og medium teint</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿">bryder | brydere | brydeturnering | brydning | kamp | medium til mørk teint | mørk teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿" type="tts">brydere: medium til mørk teint og mørk teint</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻">bryder | brydere | brydeturnering | brydning | kamp | lys teint | mørk teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻" type="tts">brydere: mørk teint og lys teint</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼">bryder | brydere | brydeturnering | brydning | kamp | medium til lys teint | mørk teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼" type="tts">brydere: mørk teint og medium til lys teint</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽">bryder | brydere | brydeturnering | brydning | kamp | medium teint | mørk teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽" type="tts">brydere: mørk teint og medium teint</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾">bryder | brydere | brydeturnering | brydning | kamp | medium til mørk teint | mørk teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾" type="tts">brydere: mørk teint og medium til mørk teint</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼">årsdag | kærlighed | kys | lys teint | medium til lys teint | par med hjerte | romantik | voksen</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼" type="tts">kys: voksen, voksen, lys teint og medium til lys teint</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏽">årsdag | kærlighed | kys | lys teint | medium teint | par med hjerte | romantik | voksen</annotation>
@@ -731,6 +771,56 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦲" type="tts">voksen: medium til mørk teint og skaldet</annotation>
 		<annotation cp="🧑🏿‍🦲">mørk teint | person | skaldet | voksen</annotation>
 		<annotation cp="🧑🏿‍🦲" type="tts">voksen: mørk teint og skaldet</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | lys teint | medium til lys teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼" type="tts">personer med kaninører: lys teint og medium til lys teint</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | lys teint | medium teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽" type="tts">personer med kaninører: lys teint og medium teint</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | lys teint | medium til mørk teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾" type="tts">personer med kaninører: lys teint og medium til mørk teint</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | lys teint | mørk teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿" type="tts">personer med kaninører: lys teint og mørk teint</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | lys teint | medium til lys teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻" type="tts">personer med kaninører: medium til lys teint og lys teint</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | medium teint | medium til lys teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽" type="tts">personer med kaninører: medium til lys teint og medium teint</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | medium til lys teint | medium til mørk teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾" type="tts">personer med kaninører: medium til lys teint og medium til mørk teint</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | medium til lys teint | mørk teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿" type="tts">personer med kaninører: medium til lys teint og mørk teint</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | lys teint | medium teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻" type="tts">personer med kaninører: medium teint og lys teint</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | medium teint | medium til lys teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼" type="tts">personer med kaninører: medium teint og medium til lys teint</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | medium teint | medium til mørk teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾" type="tts">personer med kaninører: medium teint og medium til mørk teint</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | medium teint | mørk teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿" type="tts">personer med kaninører: medium teint og mørk teint</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | lys teint | medium til mørk teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻" type="tts">personer med kaninører: medium til mørk teint og lys teint</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | medium til lys teint | medium til mørk teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼" type="tts">personer med kaninører: medium til mørk teint og medium til lys teint</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | medium teint | medium til mørk teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽" type="tts">personer med kaninører: medium til mørk teint og medium teint</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | medium til mørk teint | mørk teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿" type="tts">personer med kaninører: medium til mørk teint og mørk teint</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | lys teint | mørk teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻" type="tts">personer med kaninører: mørk teint og lys teint</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | medium til lys teint | mørk teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼" type="tts">personer med kaninører: mørk teint og medium til lys teint</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | medium teint | mørk teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽" type="tts">personer med kaninører: mørk teint og medium teint</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | medium til mørk teint | mørk teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾" type="tts">personer med kaninører: mørk teint og medium til mørk teint</annotation>
+		<annotation cp="🧑🏻‍🩰">ballet | balletdanser | danser | lys teint</annotation>
+		<annotation cp="🧑🏻‍🩰" type="tts">balletdanser: lys teint</annotation>
+		<annotation cp="🧑🏼‍🩰">ballet | balletdanser | danser | medium til lys teint</annotation>
+		<annotation cp="🧑🏼‍🩰" type="tts">balletdanser: medium til lys teint</annotation>
+		<annotation cp="🧑🏽‍🩰">ballet | balletdanser | danser | medium teint</annotation>
+		<annotation cp="🧑🏽‍🩰" type="tts">balletdanser: medium teint</annotation>
+		<annotation cp="🧑🏾‍🩰">ballet | balletdanser | danser | medium til mørk teint</annotation>
+		<annotation cp="🧑🏾‍🩰" type="tts">balletdanser: medium til mørk teint</annotation>
+		<annotation cp="🧑🏿‍🩰">ballet | balletdanser | danser | mørk teint</annotation>
+		<annotation cp="🧑🏿‍🩰" type="tts">balletdanser: mørk teint</annotation>
 		<annotation cp="👨🏻">lys teint | mand | menneske | person</annotation>
 		<annotation cp="👨🏻" type="tts">mand: lys teint</annotation>
 		<annotation cp="👨🏼">mand | medium til lys teint | menneske | person</annotation>
@@ -771,6 +861,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♂" type="tts">blond mand: medium til mørk teint</annotation>
 		<annotation cp="👱🏿‍♂">blond | lyshåret | mand | mørk teint</annotation>
 		<annotation cp="👱🏿‍♂" type="tts">blond mand: mørk teint</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼">brydere | brydeturnering | brydning | kamp | lys teint | mænd | mandlige brydere | medium til lys teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼" type="tts">mandlige brydere: lys teint og medium til lys teint</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽">brydere | brydeturnering | brydning | kamp | lys teint | mænd | mandlige brydere | medium teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽" type="tts">mandlige brydere: lys teint og medium teint</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾">brydere | brydeturnering | brydning | kamp | lys teint | mænd | mandlige brydere | medium til mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾" type="tts">mandlige brydere: lys teint og medium til mørk teint</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿">brydere | brydeturnering | brydning | kamp | lys teint | mænd | mandlige brydere | mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿" type="tts">mandlige brydere: lys teint og mørk teint</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻">brydere | brydeturnering | brydning | kamp | lys teint | mænd | mandlige brydere | medium til lys teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻" type="tts">mandlige brydere: medium til lys teint og lys teint</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽">brydere | brydeturnering | brydning | kamp | mænd | mandlige brydere | medium teint | medium til lys teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽" type="tts">mandlige brydere: medium til lys teint og medium teint</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾">brydere | brydeturnering | brydning | kamp | mænd | mandlige brydere | medium til lys teint | medium til mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾" type="tts">mandlige brydere: medium til lys teint og medium til mørk teint</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿">brydere | brydeturnering | brydning | kamp | mænd | mandlige brydere | medium til lys teint | mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿" type="tts">mandlige brydere: medium til lys teint og mørk teint</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻">brydere | brydeturnering | brydning | kamp | lys teint | mænd | mandlige brydere | medium teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻" type="tts">mandlige brydere: medium teint og lys teint</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼">brydere | brydeturnering | brydning | kamp | mænd | mandlige brydere | medium teint | medium til lys teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼" type="tts">mandlige brydere: medium teint og medium til lys teint</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾">brydere | brydeturnering | brydning | kamp | mænd | mandlige brydere | medium teint | medium til mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾" type="tts">mandlige brydere: medium teint og medium til mørk teint</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿">brydere | brydeturnering | brydning | kamp | mænd | mandlige brydere | medium teint | mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿" type="tts">mandlige brydere: medium teint og mørk teint</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻">brydere | brydeturnering | brydning | kamp | lys teint | mænd | mandlige brydere | medium til mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻" type="tts">mandlige brydere: medium til mørk teint og lys teint</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼">brydere | brydeturnering | brydning | kamp | mænd | mandlige brydere | medium til lys teint | medium til mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼" type="tts">mandlige brydere: medium til mørk teint og medium til lys teint</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽">brydere | brydeturnering | brydning | kamp | mænd | mandlige brydere | medium teint | medium til mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽" type="tts">mandlige brydere: medium til mørk teint og medium teint</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿">brydere | brydeturnering | brydning | kamp | mænd | mandlige brydere | medium til mørk teint | mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿" type="tts">mandlige brydere: medium til mørk teint og mørk teint</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻">brydere | brydeturnering | brydning | kamp | lys teint | mænd | mandlige brydere | mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻" type="tts">mandlige brydere: mørk teint og lys teint</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼">brydere | brydeturnering | brydning | kamp | mænd | mandlige brydere | medium til lys teint | mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼" type="tts">mandlige brydere: mørk teint og medium til lys teint</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽">brydere | brydeturnering | brydning | kamp | mænd | mandlige brydere | medium teint | mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽" type="tts">mandlige brydere: mørk teint og medium teint</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾">brydere | brydeturnering | brydning | kamp | mænd | mandlige brydere | medium til mørk teint | mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾" type="tts">mandlige brydere: mørk teint og medium til mørk teint</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻">årsdag | kærlighed | kys | lys teint | mand | par med hjerte | romantik</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻" type="tts">kys: mand, mand og lys teint</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏼">årsdag | kærlighed | kys | lys teint | mand | medium til lys teint | par med hjerte | romantik</annotation>
@@ -919,6 +1049,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦲" type="tts">mand: medium til mørk teint og skaldet</annotation>
 		<annotation cp="👨🏿‍🦲">mand | menneske | mørk teint | person | skaldet</annotation>
 		<annotation cp="👨🏿‍🦲" type="tts">mand: mørk teint og skaldet</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼">dans | fest | kaninører | lys teint | mænd | mænd med kaninører | medium til lys teint</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼" type="tts">mænd med kaninører: lys teint og medium til lys teint</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽">dans | fest | kaninører | lys teint | mænd | mænd med kaninører | medium teint</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽" type="tts">mænd med kaninører: lys teint og medium teint</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾">dans | fest | kaninører | lys teint | mænd | mænd med kaninører | medium til mørk teint</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾" type="tts">mænd med kaninører: lys teint og medium til mørk teint</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿">dans | fest | kaninører | lys teint | mænd | mænd med kaninører | mørk teint</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿" type="tts">mænd med kaninører: lys teint og mørk teint</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻">dans | fest | kaninører | lys teint | mænd | mænd med kaninører | medium til lys teint</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻" type="tts">mænd med kaninører: medium til lys teint og lys teint</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽">dans | fest | kaninører | mænd | mænd med kaninører | medium teint | medium til lys teint</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽" type="tts">mænd med kaninører: medium til lys teint og medium teint</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾">dans | fest | kaninører | mænd | mænd med kaninører | medium til lys teint | medium til mørk teint</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾" type="tts">mænd med kaninører: medium til lys teint og medium til mørk teint</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿">dans | fest | kaninører | mænd | mænd med kaninører | medium til lys teint | mørk teint</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿" type="tts">mænd med kaninører: medium til lys teint og mørk teint</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻">dans | fest | kaninører | lys teint | mænd | mænd med kaninører | medium teint</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻" type="tts">mænd med kaninører: medium teint og lys teint</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼">dans | fest | kaninører | mænd | mænd med kaninører | medium teint | medium til lys teint</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼" type="tts">mænd med kaninører: medium teint og medium til lys teint</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾">dans | fest | kaninører | mænd | mænd med kaninører | medium teint | medium til mørk teint</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾" type="tts">mænd med kaninører: medium teint og medium til mørk teint</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿">dans | fest | kaninører | mænd | mænd med kaninører | medium teint | mørk teint</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿" type="tts">mænd med kaninører: medium teint og mørk teint</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻">dans | fest | kaninører | lys teint | mænd | mænd med kaninører | medium til mørk teint</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻" type="tts">mænd med kaninører: medium til mørk teint og lys teint</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼">dans | fest | kaninører | mænd | mænd med kaninører | medium til lys teint | medium til mørk teint</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼" type="tts">mænd med kaninører: medium til mørk teint og medium til lys teint</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽">dans | fest | kaninører | mænd | mænd med kaninører | medium teint | medium til mørk teint</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽" type="tts">mænd med kaninører: medium til mørk teint og medium teint</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿">dans | fest | kaninører | mænd | mænd med kaninører | medium til mørk teint | mørk teint</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿" type="tts">mænd med kaninører: medium til mørk teint og mørk teint</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻">dans | fest | kaninører | lys teint | mænd | mænd med kaninører | mørk teint</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻" type="tts">mænd med kaninører: mørk teint og lys teint</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼">dans | fest | kaninører | mænd | mænd med kaninører | medium til lys teint | mørk teint</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼" type="tts">mænd med kaninører: mørk teint og medium til lys teint</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽">dans | fest | kaninører | mænd | mænd med kaninører | medium teint | mørk teint</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽" type="tts">mænd med kaninører: mørk teint og medium teint</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾">dans | fest | kaninører | mænd | mænd med kaninører | medium til mørk teint | mørk teint</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾" type="tts">mænd med kaninører: mørk teint og medium til mørk teint</annotation>
 		<annotation cp="👩🏻">kvinde | lys teint | menneske | person</annotation>
 		<annotation cp="👩🏻" type="tts">kvinde: lys teint</annotation>
 		<annotation cp="👩🏼">kvinde | medium til lys teint | menneske | person</annotation>
@@ -949,6 +1119,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♀" type="tts">blond kvinde: medium til mørk teint</annotation>
 		<annotation cp="👱🏿‍♀">blond kvinde | blondine | kvinde | lyshåret | mørk teint</annotation>
 		<annotation cp="👱🏿‍♀" type="tts">blond kvinde: mørk teint</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | lys teint | medium til lys teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼" type="tts">kvindelige brydere: lys teint og medium til lys teint</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | lys teint | medium teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽" type="tts">kvindelige brydere: lys teint og medium teint</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | lys teint | medium til mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾" type="tts">kvindelige brydere: lys teint og medium til mørk teint</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | lys teint | mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿" type="tts">kvindelige brydere: lys teint og mørk teint</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | lys teint | medium til lys teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻" type="tts">kvindelige brydere: medium til lys teint og lys teint</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | medium teint | medium til lys teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽" type="tts">kvindelige brydere: medium til lys teint og medium teint</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | medium til lys teint | medium til mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾" type="tts">kvindelige brydere: medium til lys teint og medium til mørk teint</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | medium til lys teint | mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿" type="tts">kvindelige brydere: medium til lys teint og mørk teint</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | lys teint | medium teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻" type="tts">kvindelige brydere: medium teint og lys teint</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | medium teint | medium til lys teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼" type="tts">kvindelige brydere: medium teint og medium til lys teint</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | medium teint | medium til mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾" type="tts">kvindelige brydere: medium teint og medium til mørk teint</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | medium teint | mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿" type="tts">kvindelige brydere: medium teint og mørk teint</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | lys teint | medium til mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻" type="tts">kvindelige brydere: medium til mørk teint og lys teint</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | medium til lys teint | medium til mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼" type="tts">kvindelige brydere: medium til mørk teint og medium til lys teint</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | medium teint | medium til mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽" type="tts">kvindelige brydere: medium til mørk teint og medium teint</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | medium til mørk teint | mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿" type="tts">kvindelige brydere: medium til mørk teint og mørk teint</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | lys teint | mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻" type="tts">kvindelige brydere: mørk teint og lys teint</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | medium til lys teint | mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼" type="tts">kvindelige brydere: mørk teint og medium til lys teint</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | medium teint | mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽" type="tts">kvindelige brydere: mørk teint og medium teint</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | medium til mørk teint | mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾" type="tts">kvindelige brydere: mørk teint og medium til mørk teint</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻">årsdag | kærlighed | kvinde | kys | lys teint | mand | par med hjerte | romantik</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻" type="tts">kys: kvinde, mand og lys teint</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏼">årsdag | kærlighed | kvinde | kys | lys teint | mand | medium til lys teint | par med hjerte | romantik</annotation>
@@ -1197,6 +1407,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦲" type="tts">kvinde: medium til mørk teint og skaldet</annotation>
 		<annotation cp="👩🏿‍🦲">kvinde | menneske | mørk teint | person | skaldet</annotation>
 		<annotation cp="👩🏿‍🦲" type="tts">kvinde: mørk teint og skaldet</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼">dans | fest | kaninører | kvinder | kvinder med kaninører | lys teint | medium til lys teint</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼" type="tts">kvinder med kaninører: lys teint og medium til lys teint</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽">dans | fest | kaninører | kvinder | kvinder med kaninører | lys teint | medium teint</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽" type="tts">kvinder med kaninører: lys teint og medium teint</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾">dans | fest | kaninører | kvinder | kvinder med kaninører | lys teint | medium til mørk teint</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾" type="tts">kvinder med kaninører: lys teint og medium til mørk teint</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿">dans | fest | kaninører | kvinder | kvinder med kaninører | lys teint | mørk teint</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿" type="tts">kvinder med kaninører: lys teint og mørk teint</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻">dans | fest | kaninører | kvinder | kvinder med kaninører | lys teint | medium til lys teint</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻" type="tts">kvinder med kaninører: medium til lys teint og lys teint</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽">dans | fest | kaninører | kvinder | kvinder med kaninører | medium teint | medium til lys teint</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽" type="tts">kvinder med kaninører: medium til lys teint og medium teint</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾">dans | fest | kaninører | kvinder | kvinder med kaninører | medium til lys teint | medium til mørk teint</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾" type="tts">kvinder med kaninører: medium til lys teint og medium til mørk teint</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿">dans | fest | kaninører | kvinder | kvinder med kaninører | medium til lys teint | mørk teint</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿" type="tts">kvinder med kaninører: medium til lys teint og mørk teint</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻">dans | fest | kaninører | kvinder | kvinder med kaninører | lys teint | medium teint</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻" type="tts">kvinder med kaninører: medium teint og lys teint</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼">dans | fest | kaninører | kvinder | kvinder med kaninører | medium teint | medium til lys teint</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼" type="tts">kvinder med kaninører: medium teint og medium til lys teint</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾">dans | fest | kaninører | kvinder | kvinder med kaninører | medium teint | medium til mørk teint</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾" type="tts">kvinder med kaninører: medium teint og medium til mørk teint</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿">dans | fest | kaninører | kvinder | kvinder med kaninører | medium teint | mørk teint</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿" type="tts">kvinder med kaninører: medium teint og mørk teint</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻">dans | fest | kaninører | kvinder | kvinder med kaninører | lys teint | medium til mørk teint</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻" type="tts">kvinder med kaninører: medium til mørk teint og lys teint</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼">dans | fest | kaninører | kvinder | kvinder med kaninører | medium til lys teint | medium til mørk teint</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼" type="tts">kvinder med kaninører: medium til mørk teint og medium til lys teint</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽">dans | fest | kaninører | kvinder | kvinder med kaninører | medium teint | medium til mørk teint</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽" type="tts">kvinder med kaninører: medium til mørk teint og medium teint</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿">dans | fest | kaninører | kvinder | kvinder med kaninører | medium til mørk teint | mørk teint</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿" type="tts">kvinder med kaninører: medium til mørk teint og mørk teint</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻">dans | fest | kaninører | kvinder | kvinder med kaninører | lys teint | mørk teint</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻" type="tts">kvinder med kaninører: mørk teint og lys teint</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼">dans | fest | kaninører | kvinder | kvinder med kaninører | medium til lys teint | mørk teint</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼" type="tts">kvinder med kaninører: mørk teint og medium til lys teint</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽">dans | fest | kaninører | kvinder | kvinder med kaninører | medium teint | mørk teint</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽" type="tts">kvinder med kaninører: mørk teint og medium teint</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾">dans | fest | kaninører | kvinder | kvinder med kaninører | medium til mørk teint | mørk teint</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾" type="tts">kvinder med kaninører: mørk teint og medium til mørk teint</annotation>
 		<annotation cp="🧓🏻">ældre menneske | gammel person | lys teint | voksen</annotation>
 		<annotation cp="🧓🏻" type="tts">ældre menneske: lys teint</annotation>
 		<annotation cp="🧓🏼">ældre menneske | gammel person | medium til lys teint | voksen</annotation>
@@ -2687,42 +2937,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🚶🏾‍♀" type="tts">kvinde går: medium til mørk teint</annotation>
 		<annotation cp="🚶🏿‍♀">fodgænger | gå | gang | gåtur | hike | kvinde | kvinde går | mørk teint | vandre | vandretur | vandring</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">kvinde går: mørk teint</annotation>
-		<annotation cp="🚶‍➡">fodgænger | gå | gående | gående person | gang | gåtur | hike | skridt | slente | tempo | vandre | vandring</annotation>
-		<annotation cp="🚶‍➡" type="tts">fodgænger mod højre</annotation>
-		<annotation cp="🚶🏻‍➡">fodgænger | gå | gående | gående person | gang | gåtur | hike | skridt | slente | tempo | vandre | vandring</annotation>
-		<annotation cp="🚶🏻‍➡" type="tts">fodgænger mod højre</annotation>
-		<annotation cp="🚶🏼‍➡">fodgænger | gå | gående | gående person | gang | gåtur | hike | skridt | slente | tempo | vandre | vandring</annotation>
-		<annotation cp="🚶🏼‍➡" type="tts">fodgænger mod højre</annotation>
-		<annotation cp="🚶🏽‍➡">fodgænger | gå | gående | gående person | gang | gåtur | hike | skridt | slente | tempo | vandre | vandring</annotation>
-		<annotation cp="🚶🏽‍➡" type="tts">fodgænger mod højre</annotation>
-		<annotation cp="🚶🏾‍➡">fodgænger | gå | gående | gående person | gang | gåtur | hike | skridt | slente | tempo | vandre | vandring</annotation>
-		<annotation cp="🚶🏾‍➡" type="tts">fodgænger mod højre</annotation>
-		<annotation cp="🚶🏿‍➡">fodgænger | gå | gående | gående person | gang | gåtur | hike | skridt | slente | tempo | vandre | vandring</annotation>
-		<annotation cp="🚶🏿‍➡" type="tts">fodgænger mod højre</annotation>
-		<annotation cp="🚶‍♀‍➡">fodgænger | gå | gang | gåtur | hike | kvinde | kvinde går | vandre | vandretur | vandring</annotation>
-		<annotation cp="🚶‍♀‍➡" type="tts">kvinde går mod højre</annotation>
-		<annotation cp="🚶🏻‍♀‍➡">fodgænger | gå | gang | gåtur | hike | kvinde | kvinde går | vandre | vandretur | vandring</annotation>
-		<annotation cp="🚶🏻‍♀‍➡" type="tts">kvinde går mod højre</annotation>
-		<annotation cp="🚶🏼‍♀‍➡">fodgænger | gå | gang | gåtur | hike | kvinde | kvinde går | vandre | vandretur | vandring</annotation>
-		<annotation cp="🚶🏼‍♀‍➡" type="tts">kvinde går mod højre</annotation>
-		<annotation cp="🚶🏽‍♀‍➡">fodgænger | gå | gang | gåtur | hike | kvinde | kvinde går | vandre | vandretur | vandring</annotation>
-		<annotation cp="🚶🏽‍♀‍➡" type="tts">kvinde går mod højre</annotation>
-		<annotation cp="🚶🏾‍♀‍➡">fodgænger | gå | gang | gåtur | hike | kvinde | kvinde går | vandre | vandretur | vandring</annotation>
-		<annotation cp="🚶🏾‍♀‍➡" type="tts">kvinde går mod højre</annotation>
-		<annotation cp="🚶🏿‍♀‍➡">fodgænger | gå | gang | gåtur | hike | kvinde | kvinde går | vandre | vandretur | vandring</annotation>
-		<annotation cp="🚶🏿‍♀‍➡" type="tts">kvinde går mod højre</annotation>
-		<annotation cp="🚶‍♂‍➡">fodgænger | gå | gang | gåtur | hike | mand | mand går | vandre | vandretur | vandring</annotation>
-		<annotation cp="🚶‍♂‍➡" type="tts">mand går mod højre</annotation>
-		<annotation cp="🚶🏻‍♂‍➡">fodgænger | gå | gang | gåtur | hike | mand | mand går | vandre | vandretur | vandring</annotation>
-		<annotation cp="🚶🏻‍♂‍➡" type="tts">mand går mod højre</annotation>
-		<annotation cp="🚶🏼‍♂‍➡">fodgænger | gå | gang | gåtur | hike | mand | mand går | vandre | vandretur | vandring</annotation>
-		<annotation cp="🚶🏼‍♂‍➡" type="tts">mand går mod højre</annotation>
-		<annotation cp="🚶🏽‍♂‍➡">fodgænger | gå | gang | gåtur | hike | mand | mand går | vandre | vandretur | vandring</annotation>
-		<annotation cp="🚶🏽‍♂‍➡" type="tts">mand går mod højre</annotation>
-		<annotation cp="🚶🏾‍♂‍➡">fodgænger | gå | gang | gåtur | hike | mand | mand går | vandre | vandretur | vandring</annotation>
-		<annotation cp="🚶🏾‍♂‍➡" type="tts">mand går mod højre</annotation>
-		<annotation cp="🚶🏿‍♂‍➡">fodgænger | gå | gang | gåtur | hike | mand | mand går | vandre | vandretur | vandring</annotation>
-		<annotation cp="🚶🏿‍♂‍➡" type="tts">mand går mod højre</annotation>
+		<annotation cp="🚶‍➡">fodgænger | gå | gående | gående person | gang | gåtur | hike | højre | mod | skridt | slente | tempo | vandre | vandring</annotation>
+		<annotation cp="🚶‍➡" type="tts">fodgænger: mod højre</annotation>
+		<annotation cp="🚶🏻‍➡">fodgænger | gå | gående | gående person | gang | gåtur | hike | højre | lys teint | mod | skridt | slente | tempo | vandre | vandring</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">fodgænger: lys teint og mod højre</annotation>
+		<annotation cp="🚶🏼‍➡">fodgænger | gå | gående | gående person | gang | gåtur | hike | højre | medium til lys teint | mod | skridt | slente | tempo | vandre | vandring</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">fodgænger: medium til lys teint og mod højre</annotation>
+		<annotation cp="🚶🏽‍➡">fodgænger | gå | gående | gående person | gang | gåtur | hike | højre | medium teint | mod | skridt | slente | tempo | vandre | vandring</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">fodgænger: medium teint og mod højre</annotation>
+		<annotation cp="🚶🏾‍➡">fodgænger | gå | gående | gående person | gang | gåtur | hike | højre | medium til mørk teint | mod | skridt | slente | tempo | vandre | vandring</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">fodgænger: medium til mørk teint og mod højre</annotation>
+		<annotation cp="🚶🏿‍➡">fodgænger | gå | gående | gående person | gang | gåtur | hike | højre | mod | mørk teint | skridt | slente | tempo | vandre | vandring</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">fodgænger: mørk teint og mod højre</annotation>
+		<annotation cp="🚶‍♀‍➡">fodgænger | gå | gang | gåtur | hike | højre | kvinde | kvinde går | mod | vandre | vandretur | vandring</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">kvinde går: mod højre</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">fodgænger | gå | gang | gåtur | hike | højre | kvinde | kvinde går | lys teint | mod | vandre | vandretur | vandring</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">kvinde går: lys teint og mod højre</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">fodgænger | gå | gang | gåtur | hike | højre | kvinde | kvinde går | medium til lys teint | mod | vandre | vandretur | vandring</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">kvinde går: medium til lys teint og mod højre</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">fodgænger | gå | gang | gåtur | hike | højre | kvinde | kvinde går | medium teint | mod | vandre | vandretur | vandring</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">kvinde går: medium teint og mod højre</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">fodgænger | gå | gang | gåtur | hike | højre | kvinde | kvinde går | medium til mørk teint | mod | vandre | vandretur | vandring</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">kvinde går: medium til mørk teint og mod højre</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">fodgænger | gå | gang | gåtur | hike | højre | kvinde | kvinde går | mod | mørk teint | vandre | vandretur | vandring</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">kvinde går: mørk teint og mod højre</annotation>
+		<annotation cp="🚶‍♂‍➡">fodgænger | gå | gang | gåtur | hike | højre | mand | mand går | mod | vandre | vandretur | vandring</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">mand går: mod højre</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">fodgænger | gå | gang | gåtur | hike | højre | lys teint | mand | mand går | mod | vandre | vandretur | vandring</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">mand går: lys teint og mod højre</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">fodgænger | gå | gang | gåtur | hike | højre | mand | mand går | medium til lys teint | mod | vandre | vandretur | vandring</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">mand går: medium til lys teint og mod højre</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">fodgænger | gå | gang | gåtur | hike | højre | mand | mand går | medium teint | mod | vandre | vandretur | vandring</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">mand går: medium teint og mod højre</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">fodgænger | gå | gang | gåtur | hike | højre | mand | mand går | medium til mørk teint | mod | vandre | vandretur | vandring</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">mand går: medium til mørk teint og mod højre</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">fodgænger | gå | gang | gåtur | hike | højre | mand | mand går | mod | mørk teint | vandre | vandretur | vandring</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">mand går: mørk teint og mod højre</annotation>
 		<annotation cp="🧍🏻">lys teint | person | stå | stående | står</annotation>
 		<annotation cp="🧍🏻" type="tts">stående person: lys teint</annotation>
 		<annotation cp="🧍🏼">medium til lys teint | person | stå | stående | står</annotation>
@@ -2783,42 +3033,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧎🏾‍♀" type="tts">knælende kvinde: medium til mørk teint</annotation>
 		<annotation cp="🧎🏿‍♀">knælende kvinde | kvinde | mørk teint</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">knælende kvinde: mørk teint</annotation>
-		<annotation cp="🧎‍➡">knælende | knælende person | på knæ</annotation>
-		<annotation cp="🧎‍➡" type="tts">knælende person mod højre</annotation>
-		<annotation cp="🧎🏻‍➡">knælende | knælende person | på knæ</annotation>
-		<annotation cp="🧎🏻‍➡" type="tts">knælende person mod højre</annotation>
-		<annotation cp="🧎🏼‍➡">knælende | knælende person | på knæ</annotation>
-		<annotation cp="🧎🏼‍➡" type="tts">knælende person mod højre</annotation>
-		<annotation cp="🧎🏽‍➡">knælende | knælende person | på knæ</annotation>
-		<annotation cp="🧎🏽‍➡" type="tts">knælende person mod højre</annotation>
-		<annotation cp="🧎🏾‍➡">knælende | knælende person | på knæ</annotation>
-		<annotation cp="🧎🏾‍➡" type="tts">knælende person mod højre</annotation>
-		<annotation cp="🧎🏿‍➡">knælende | knælende person | på knæ</annotation>
-		<annotation cp="🧎🏿‍➡" type="tts">knælende person mod højre</annotation>
-		<annotation cp="🧎‍♀‍➡">knælende kvinde | kvinde</annotation>
-		<annotation cp="🧎‍♀‍➡" type="tts">knælende kvinde mod højre</annotation>
-		<annotation cp="🧎🏻‍♀‍➡">knælende kvinde | kvinde</annotation>
-		<annotation cp="🧎🏻‍♀‍➡" type="tts">knælende kvinde mod højre</annotation>
-		<annotation cp="🧎🏼‍♀‍➡">knælende kvinde | kvinde</annotation>
-		<annotation cp="🧎🏼‍♀‍➡" type="tts">knælende kvinde mod højre</annotation>
-		<annotation cp="🧎🏽‍♀‍➡">knælende kvinde | kvinde</annotation>
-		<annotation cp="🧎🏽‍♀‍➡" type="tts">knælende kvinde mod højre</annotation>
-		<annotation cp="🧎🏾‍♀‍➡">knælende kvinde | kvinde</annotation>
-		<annotation cp="🧎🏾‍♀‍➡" type="tts">knælende kvinde mod højre</annotation>
-		<annotation cp="🧎🏿‍♀‍➡">knælende kvinde | kvinde</annotation>
-		<annotation cp="🧎🏿‍♀‍➡" type="tts">knælende kvinde mod højre</annotation>
-		<annotation cp="🧎‍♂‍➡">knælende mand | mand</annotation>
-		<annotation cp="🧎‍♂‍➡" type="tts">knælende mand mod højre</annotation>
-		<annotation cp="🧎🏻‍♂‍➡">knælende mand | mand</annotation>
-		<annotation cp="🧎🏻‍♂‍➡" type="tts">knælende mand mod højre</annotation>
-		<annotation cp="🧎🏼‍♂‍➡">knælende mand | mand</annotation>
-		<annotation cp="🧎🏼‍♂‍➡" type="tts">knælende mand mod højre</annotation>
-		<annotation cp="🧎🏽‍♂‍➡">knælende mand | mand</annotation>
-		<annotation cp="🧎🏽‍♂‍➡" type="tts">knælende mand mod højre</annotation>
-		<annotation cp="🧎🏾‍♂‍➡">knælende mand | mand</annotation>
-		<annotation cp="🧎🏾‍♂‍➡" type="tts">knælende mand mod højre</annotation>
-		<annotation cp="🧎🏿‍♂‍➡">knælende mand | mand</annotation>
-		<annotation cp="🧎🏿‍♂‍➡" type="tts">knælende mand mod højre</annotation>
+		<annotation cp="🧎‍➡">højre | knælende | knælende person | mod | på knæ</annotation>
+		<annotation cp="🧎‍➡" type="tts">knælende person: mod højre</annotation>
+		<annotation cp="🧎🏻‍➡">højre | knælende | knælende person | lys teint | mod | på knæ</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">knælende person: lys teint og mod højre</annotation>
+		<annotation cp="🧎🏼‍➡">højre | knælende | knælende person | medium til lys teint | mod | på knæ</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">knælende person: medium til lys teint og mod højre</annotation>
+		<annotation cp="🧎🏽‍➡">højre | knælende | knælende person | medium teint | mod | på knæ</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">knælende person: medium teint og mod højre</annotation>
+		<annotation cp="🧎🏾‍➡">højre | knælende | knælende person | medium til mørk teint | mod | på knæ</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">knælende person: medium til mørk teint og mod højre</annotation>
+		<annotation cp="🧎🏿‍➡">højre | knælende | knælende person | mod | mørk teint | på knæ</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">knælende person: mørk teint og mod højre</annotation>
+		<annotation cp="🧎‍♀‍➡">højre | knælende kvinde | kvinde | mod</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">knælende kvinde: mod højre</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">højre | knælende kvinde | kvinde | lys teint | mod</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">knælende kvinde: lys teint og mod højre</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">højre | knælende kvinde | kvinde | medium til lys teint | mod</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">knælende kvinde: medium til lys teint og mod højre</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">højre | knælende kvinde | kvinde | medium teint | mod</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">knælende kvinde: medium teint og mod højre</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">højre | knælende kvinde | kvinde | medium til mørk teint | mod</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">knælende kvinde: medium til mørk teint og mod højre</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">højre | knælende kvinde | kvinde | mod | mørk teint</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">knælende kvinde: mørk teint og mod højre</annotation>
+		<annotation cp="🧎‍♂‍➡">højre | knælende mand | mand | mod</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">knælende mand: mod højre</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">højre | knælende mand | lys teint | mand | mod</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">knælende mand: lys teint og mod højre</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">højre | knælende mand | mand | medium til lys teint | mod</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">knælende mand: medium til lys teint og mod højre</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">højre | knælende mand | mand | medium teint | mod</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">knælende mand: medium teint og mod højre</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">højre | knælende mand | mand | medium til mørk teint | mod</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">knælende mand: medium til mørk teint og mod højre</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">højre | knælende mand | mand | mod | mørk teint</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">knælende mand: mørk teint og mod højre</annotation>
 		<annotation cp="🧑🏻‍🦯">adgangsforhold | blind | handicap | lys teint | person med blindestok | synshandicap</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">person med blindestok: lys teint</annotation>
 		<annotation cp="🧑🏼‍🦯">adgangsforhold | blind | handicap | medium til lys teint | person med blindestok | synshandicap</annotation>
@@ -2829,18 +3079,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦯" type="tts">person med blindestok: medium til mørk teint</annotation>
 		<annotation cp="🧑🏿‍🦯">adgangsforhold | blind | handicap | mørk teint | person med blindestok | synshandicap</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">person med blindestok: mørk teint</annotation>
-		<annotation cp="🧑‍🦯‍➡">adgangsforhold | blind | handicap | person med blindestok | synshandicap</annotation>
-		<annotation cp="🧑‍🦯‍➡" type="tts">person med blindestok mod højre</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡">adgangsforhold | blind | handicap | person med blindestok | synshandicap</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡" type="tts">person med blindestok mod højre</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡">adgangsforhold | blind | handicap | person med blindestok | synshandicap</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡" type="tts">person med blindestok mod højre</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡">adgangsforhold | blind | handicap | person med blindestok | synshandicap</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡" type="tts">person med blindestok mod højre</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡">adgangsforhold | blind | handicap | person med blindestok | synshandicap</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡" type="tts">person med blindestok mod højre</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡">adgangsforhold | blind | handicap | person med blindestok | synshandicap</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡" type="tts">person med blindestok mod højre</annotation>
+		<annotation cp="🧑‍🦯‍➡">adgangsforhold | blind | handicap | højre | mod | person med blindestok | synshandicap</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">person med blindestok: mod højre</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">adgangsforhold | blind | handicap | højre | lys teint | mod | person med blindestok | synshandicap</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">person med blindestok: lys teint og mod højre</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">adgangsforhold | blind | handicap | højre | medium til lys teint | mod | person med blindestok | synshandicap</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">person med blindestok: medium til lys teint og mod højre</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">adgangsforhold | blind | handicap | højre | medium teint | mod | person med blindestok | synshandicap</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">person med blindestok: medium teint og mod højre</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">adgangsforhold | blind | handicap | højre | medium til mørk teint | mod | person med blindestok | synshandicap</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">person med blindestok: medium til mørk teint og mod højre</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">adgangsforhold | blind | handicap | højre | mod | mørk teint | person med blindestok | synshandicap</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">person med blindestok: mørk teint og mod højre</annotation>
 		<annotation cp="👨🏻‍🦯">blind | blindestok | handicap | lys teint | mand | mand med blindestok | synshandicap | tilgængelighed</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">mand med blindestok: lys teint</annotation>
 		<annotation cp="👨🏼‍🦯">blind | blindestok | handicap | mand | mand med blindestok | medium til lys teint | synshandicap | tilgængelighed</annotation>
@@ -2851,18 +3101,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦯" type="tts">mand med blindestok: medium til mørk teint</annotation>
 		<annotation cp="👨🏿‍🦯">blind | blindestok | handicap | mand | mand med blindestok | mørk teint | synshandicap | tilgængelighed</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">mand med blindestok: mørk teint</annotation>
-		<annotation cp="👨‍🦯‍➡">blind | blindestok | handicap | mand | mand med blindestok | synshandicap | tilgængelighed</annotation>
-		<annotation cp="👨‍🦯‍➡" type="tts">mand med blindestok mod højre</annotation>
-		<annotation cp="👨🏻‍🦯‍➡">blind | blindestok | handicap | mand | mand med blindestok | synshandicap | tilgængelighed</annotation>
-		<annotation cp="👨🏻‍🦯‍➡" type="tts">mand med blindestok mod højre</annotation>
-		<annotation cp="👨🏼‍🦯‍➡">blind | blindestok | handicap | mand | mand med blindestok | synshandicap | tilgængelighed</annotation>
-		<annotation cp="👨🏼‍🦯‍➡" type="tts">mand med blindestok mod højre</annotation>
-		<annotation cp="👨🏽‍🦯‍➡">blind | blindestok | handicap | mand | mand med blindestok | synshandicap | tilgængelighed</annotation>
-		<annotation cp="👨🏽‍🦯‍➡" type="tts">mand med blindestok mod højre</annotation>
-		<annotation cp="👨🏾‍🦯‍➡">blind | blindestok | handicap | mand | mand med blindestok | synshandicap | tilgængelighed</annotation>
-		<annotation cp="👨🏾‍🦯‍➡" type="tts">mand med blindestok mod højre</annotation>
-		<annotation cp="👨🏿‍🦯‍➡">blind | blindestok | handicap | mand | mand med blindestok | synshandicap | tilgængelighed</annotation>
-		<annotation cp="👨🏿‍🦯‍➡" type="tts">mand med blindestok mod højre</annotation>
+		<annotation cp="👨‍🦯‍➡">blind | blindestok | handicap | højre | mand | mand med blindestok | mod | synshandicap | tilgængelighed</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">mand med blindestok: mod højre</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">blind | blindestok | handicap | højre | lys teint | mand | mand med blindestok | mod | synshandicap | tilgængelighed</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">mand med blindestok: lys teint og mod højre</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">blind | blindestok | handicap | højre | mand | mand med blindestok | medium til lys teint | mod | synshandicap | tilgængelighed</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">mand med blindestok: medium til lys teint og mod højre</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">blind | blindestok | handicap | højre | mand | mand med blindestok | medium teint | mod | synshandicap | tilgængelighed</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">mand med blindestok: medium teint og mod højre</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">blind | blindestok | handicap | højre | mand | mand med blindestok | medium til mørk teint | mod | synshandicap | tilgængelighed</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">mand med blindestok: medium til mørk teint og mod højre</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">blind | blindestok | handicap | højre | mand | mand med blindestok | mod | mørk teint | synshandicap | tilgængelighed</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">mand med blindestok: mørk teint og mod højre</annotation>
 		<annotation cp="👩🏻‍🦯">blind | blindestok | handicap | kvinde | kvinde med blindestok | lys teint | synshandicap | tilgængelighed</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">kvinde med blindestok: lys teint</annotation>
 		<annotation cp="👩🏼‍🦯">blind | blindestok | handicap | kvinde | kvinde med blindestok | medium til lys teint | synshandicap | tilgængelighed</annotation>
@@ -2873,18 +3123,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦯" type="tts">kvinde med blindestok: medium til mørk teint</annotation>
 		<annotation cp="👩🏿‍🦯">blind | blindestok | handicap | kvinde | kvinde med blindestok | mørk teint | synshandicap | tilgængelighed</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">kvinde med blindestok: mørk teint</annotation>
-		<annotation cp="👩‍🦯‍➡">blind | blindestok | handicap | kvinde | kvinde med blindestok | synshandicap | tilgængelighed</annotation>
-		<annotation cp="👩‍🦯‍➡" type="tts">kvinde med blindestok mod højre</annotation>
-		<annotation cp="👩🏻‍🦯‍➡">blind | blindestok | handicap | kvinde | kvinde med blindestok | synshandicap | tilgængelighed</annotation>
-		<annotation cp="👩🏻‍🦯‍➡" type="tts">kvinde med blindestok mod højre</annotation>
-		<annotation cp="👩🏼‍🦯‍➡">blind | blindestok | handicap | kvinde | kvinde med blindestok | synshandicap | tilgængelighed</annotation>
-		<annotation cp="👩🏼‍🦯‍➡" type="tts">kvinde med blindestok mod højre</annotation>
-		<annotation cp="👩🏽‍🦯‍➡">blind | blindestok | handicap | kvinde | kvinde med blindestok | synshandicap | tilgængelighed</annotation>
-		<annotation cp="👩🏽‍🦯‍➡" type="tts">kvinde med blindestok mod højre</annotation>
-		<annotation cp="👩🏾‍🦯‍➡">blind | blindestok | handicap | kvinde | kvinde med blindestok | synshandicap | tilgængelighed</annotation>
-		<annotation cp="👩🏾‍🦯‍➡" type="tts">kvinde med blindestok mod højre</annotation>
-		<annotation cp="👩🏿‍🦯‍➡">blind | blindestok | handicap | kvinde | kvinde med blindestok | synshandicap | tilgængelighed</annotation>
-		<annotation cp="👩🏿‍🦯‍➡" type="tts">kvinde med blindestok mod højre</annotation>
+		<annotation cp="👩‍🦯‍➡">blind | blindestok | handicap | højre | kvinde | kvinde med blindestok | mod | synshandicap | tilgængelighed</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">kvinde med blindestok: mod højre</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">blind | blindestok | handicap | højre | kvinde | kvinde med blindestok | lys teint | mod | synshandicap | tilgængelighed</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">kvinde med blindestok: lys teint og mod højre</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">blind | blindestok | handicap | højre | kvinde | kvinde med blindestok | medium til lys teint | mod | synshandicap | tilgængelighed</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">kvinde med blindestok: medium til lys teint og mod højre</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">blind | blindestok | handicap | højre | kvinde | kvinde med blindestok | medium teint | mod | synshandicap | tilgængelighed</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">kvinde med blindestok: medium teint og mod højre</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">blind | blindestok | handicap | højre | kvinde | kvinde med blindestok | medium til mørk teint | mod | synshandicap | tilgængelighed</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">kvinde med blindestok: medium til mørk teint og mod højre</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">blind | blindestok | handicap | højre | kvinde | kvinde med blindestok | mod | mørk teint | synshandicap | tilgængelighed</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">kvinde med blindestok: mørk teint og mod højre</annotation>
 		<annotation cp="🧑🏻‍🦼">adgang | adgangsforhold | handicap | kørestol | lys teint | person i elkørestol</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">person i elkørestol: lys teint</annotation>
 		<annotation cp="🧑🏼‍🦼">adgang | adgangsforhold | handicap | kørestol | medium til lys teint | person i elkørestol</annotation>
@@ -2895,18 +3145,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦼" type="tts">person i elkørestol: medium til mørk teint</annotation>
 		<annotation cp="🧑🏿‍🦼">adgang | adgangsforhold | handicap | kørestol | mørk teint | person i elkørestol</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">person i elkørestol: mørk teint</annotation>
-		<annotation cp="🧑‍🦼‍➡">adgang | adgangsforhold | handicap | kørestol | person i elkørestol</annotation>
-		<annotation cp="🧑‍🦼‍➡" type="tts">person i elkørestol mod højre</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡">adgang | adgangsforhold | handicap | kørestol | person i elkørestol</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡" type="tts">person i elkørestol mod højre</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡">adgang | adgangsforhold | handicap | kørestol | person i elkørestol</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡" type="tts">person i elkørestol mod højre</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡">adgang | adgangsforhold | handicap | kørestol | person i elkørestol</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡" type="tts">person i elkørestol mod højre</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡">adgang | adgangsforhold | handicap | kørestol | person i elkørestol</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡" type="tts">person i elkørestol mod højre</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡">adgang | adgangsforhold | handicap | kørestol | person i elkørestol</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡" type="tts">person i elkørestol mod højre</annotation>
+		<annotation cp="🧑‍🦼‍➡">adgang | adgangsforhold | handicap | højre | kørestol | mod | person i elkørestol</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">person i elkørestol: mod højre</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">adgang | adgangsforhold | handicap | højre | kørestol | lys teint | mod | person i elkørestol</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">person i elkørestol: lys teint og mod højre</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">adgang | adgangsforhold | handicap | højre | kørestol | medium til lys teint | mod | person i elkørestol</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">person i elkørestol: medium til lys teint og mod højre</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">adgang | adgangsforhold | handicap | højre | kørestol | medium teint | mod | person i elkørestol</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">person i elkørestol: medium teint og mod højre</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">adgang | adgangsforhold | handicap | højre | kørestol | medium til mørk teint | mod | person i elkørestol</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">person i elkørestol: medium til mørk teint og mod højre</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">adgang | adgangsforhold | handicap | højre | kørestol | mod | mørk teint | person i elkørestol</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">person i elkørestol: mørk teint og mod højre</annotation>
 		<annotation cp="👨🏻‍🦼">adgangsforhold | handicap | handikap | kørestol | lys teint | mand | mand i elektrisk kørestol | mand i elkørestol | rullestol | tilgængelighed</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">mand i elektrisk kørestol: lys teint</annotation>
 		<annotation cp="👨🏼‍🦼">adgangsforhold | handicap | handikap | kørestol | mand | mand i elektrisk kørestol | mand i elkørestol | medium til lys teint | rullestol | tilgængelighed</annotation>
@@ -2917,18 +3167,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦼" type="tts">mand i elektrisk kørestol: medium til mørk teint</annotation>
 		<annotation cp="👨🏿‍🦼">adgangsforhold | handicap | handikap | kørestol | mand | mand i elektrisk kørestol | mand i elkørestol | mørk teint | rullestol | tilgængelighed</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">mand i elektrisk kørestol: mørk teint</annotation>
-		<annotation cp="👨‍🦼‍➡">adgangsforhold | handicap | handikap | kørestol | mand | mand i elektrisk kørestol | mand i elkørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👨‍🦼‍➡" type="tts">mand i elektrisk kørestol mod højre</annotation>
-		<annotation cp="👨🏻‍🦼‍➡">adgangsforhold | handicap | handikap | kørestol | mand | mand i elektrisk kørestol | mand i elkørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👨🏻‍🦼‍➡" type="tts">mand i elektrisk kørestol mod højre</annotation>
-		<annotation cp="👨🏼‍🦼‍➡">adgangsforhold | handicap | handikap | kørestol | mand | mand i elektrisk kørestol | mand i elkørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👨🏼‍🦼‍➡" type="tts">mand i elektrisk kørestol mod højre</annotation>
-		<annotation cp="👨🏽‍🦼‍➡">adgangsforhold | handicap | handikap | kørestol | mand | mand i elektrisk kørestol | mand i elkørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👨🏽‍🦼‍➡" type="tts">mand i elektrisk kørestol mod højre</annotation>
-		<annotation cp="👨🏾‍🦼‍➡">adgangsforhold | handicap | handikap | kørestol | mand | mand i elektrisk kørestol | mand i elkørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👨🏾‍🦼‍➡" type="tts">mand i elektrisk kørestol mod højre</annotation>
-		<annotation cp="👨🏿‍🦼‍➡">adgangsforhold | handicap | handikap | kørestol | mand | mand i elektrisk kørestol | mand i elkørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👨🏿‍🦼‍➡" type="tts">mand i elektrisk kørestol mod højre</annotation>
+		<annotation cp="👨‍🦼‍➡">adgangsforhold | handicap | handikap | højre | kørestol | mand | mand i elektrisk kørestol | mand i elkørestol | mod | rullestol | tilgængelighed</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">mand i elektrisk kørestol: mod højre</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">adgangsforhold | handicap | handikap | højre | kørestol | lys teint | mand | mand i elektrisk kørestol | mand i elkørestol | mod | rullestol | tilgængelighed</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">mand i elektrisk kørestol: lys teint og mod højre</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">adgangsforhold | handicap | handikap | højre | kørestol | mand | mand i elektrisk kørestol | mand i elkørestol | medium til lys teint | mod | rullestol | tilgængelighed</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">mand i elektrisk kørestol: medium til lys teint og mod højre</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">adgangsforhold | handicap | handikap | højre | kørestol | mand | mand i elektrisk kørestol | mand i elkørestol | medium teint | mod | rullestol | tilgængelighed</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">mand i elektrisk kørestol: medium teint og mod højre</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">adgangsforhold | handicap | handikap | højre | kørestol | mand | mand i elektrisk kørestol | mand i elkørestol | medium til mørk teint | mod | rullestol | tilgængelighed</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">mand i elektrisk kørestol: medium til mørk teint og mod højre</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">adgangsforhold | handicap | handikap | højre | kørestol | mand | mand i elektrisk kørestol | mand i elkørestol | mod | mørk teint | rullestol | tilgængelighed</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">mand i elektrisk kørestol: mørk teint og mod højre</annotation>
 		<annotation cp="👩🏻‍🦼">adgangsforhold | handicap | handikap | kørestol | kvinde | kvinde i elektrisk kørestol | kvinde i elkørestol | lys teint | rullestol | tilgængelighed</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">kvinde i elektrisk kørestol: lys teint</annotation>
 		<annotation cp="👩🏼‍🦼">adgangsforhold | handicap | handikap | kørestol | kvinde | kvinde i elektrisk kørestol | kvinde i elkørestol | medium til lys teint | rullestol | tilgængelighed</annotation>
@@ -2939,18 +3189,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦼" type="tts">kvinde i elektrisk kørestol: medium til mørk teint</annotation>
 		<annotation cp="👩🏿‍🦼">adgangsforhold | handicap | handikap | kørestol | kvinde | kvinde i elektrisk kørestol | kvinde i elkørestol | mørk teint | rullestol | tilgængelighed</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">kvinde i elektrisk kørestol: mørk teint</annotation>
-		<annotation cp="👩‍🦼‍➡">adgangsforhold | handicap | handikap | kørestol | kvinde | kvinde i elektrisk kørestol | kvinde i elkørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👩‍🦼‍➡" type="tts">kvinde i elektrisk kørestol mod højre</annotation>
-		<annotation cp="👩🏻‍🦼‍➡">adgangsforhold | handicap | handikap | kørestol | kvinde | kvinde i elektrisk kørestol | kvinde i elkørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👩🏻‍🦼‍➡" type="tts">kvinde i elektrisk kørestol mod højre</annotation>
-		<annotation cp="👩🏼‍🦼‍➡">adgangsforhold | handicap | handikap | kørestol | kvinde | kvinde i elektrisk kørestol | kvinde i elkørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👩🏼‍🦼‍➡" type="tts">kvinde i elektrisk kørestol mod højre</annotation>
-		<annotation cp="👩🏽‍🦼‍➡">adgangsforhold | handicap | handikap | kørestol | kvinde | kvinde i elektrisk kørestol | kvinde i elkørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👩🏽‍🦼‍➡" type="tts">kvinde i elektrisk kørestol mod højre</annotation>
-		<annotation cp="👩🏾‍🦼‍➡">adgangsforhold | handicap | handikap | kørestol | kvinde | kvinde i elektrisk kørestol | kvinde i elkørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👩🏾‍🦼‍➡" type="tts">kvinde i elektrisk kørestol mod højre</annotation>
-		<annotation cp="👩🏿‍🦼‍➡">adgangsforhold | handicap | handikap | kørestol | kvinde | kvinde i elektrisk kørestol | kvinde i elkørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👩🏿‍🦼‍➡" type="tts">kvinde i elektrisk kørestol mod højre</annotation>
+		<annotation cp="👩‍🦼‍➡">adgangsforhold | handicap | handikap | højre | kørestol | kvinde | kvinde i elektrisk kørestol | kvinde i elkørestol | mod | rullestol | tilgængelighed</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">kvinde i elektrisk kørestol: mod højre</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">adgangsforhold | handicap | handikap | højre | kørestol | kvinde | kvinde i elektrisk kørestol | kvinde i elkørestol | lys teint | mod | rullestol | tilgængelighed</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">kvinde i elektrisk kørestol: lys teint og mod højre</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">adgangsforhold | handicap | handikap | højre | kørestol | kvinde | kvinde i elektrisk kørestol | kvinde i elkørestol | medium til lys teint | mod | rullestol | tilgængelighed</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">kvinde i elektrisk kørestol: medium til lys teint og mod højre</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">adgangsforhold | handicap | handikap | højre | kørestol | kvinde | kvinde i elektrisk kørestol | kvinde i elkørestol | medium teint | mod | rullestol | tilgængelighed</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">kvinde i elektrisk kørestol: medium teint og mod højre</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">adgangsforhold | handicap | handikap | højre | kørestol | kvinde | kvinde i elektrisk kørestol | kvinde i elkørestol | medium til mørk teint | mod | rullestol | tilgængelighed</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">kvinde i elektrisk kørestol: medium til mørk teint og mod højre</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">adgangsforhold | handicap | handikap | højre | kørestol | kvinde | kvinde i elektrisk kørestol | kvinde i elkørestol | mod | mørk teint | rullestol | tilgængelighed</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">kvinde i elektrisk kørestol: mørk teint og mod højre</annotation>
 		<annotation cp="🧑🏻‍🦽">adgang | adgangsforhold | handicap | kørestol | lys teint | person i manuel kørestol</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">person i manuel kørestol: lys teint</annotation>
 		<annotation cp="🧑🏼‍🦽">adgang | adgangsforhold | handicap | kørestol | medium til lys teint | person i manuel kørestol</annotation>
@@ -2961,18 +3211,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦽" type="tts">person i manuel kørestol: medium til mørk teint</annotation>
 		<annotation cp="🧑🏿‍🦽">adgang | adgangsforhold | handicap | kørestol | mørk teint | person i manuel kørestol</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">person i manuel kørestol: mørk teint</annotation>
-		<annotation cp="🧑‍🦽‍➡">adgang | adgangsforhold | handicap | kørestol | person i manuel kørestol</annotation>
-		<annotation cp="🧑‍🦽‍➡" type="tts">person i manuel kørestol mod højre</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡">adgang | adgangsforhold | handicap | kørestol | person i manuel kørestol</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡" type="tts">person i manuel kørestol mod højre</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡">adgang | adgangsforhold | handicap | kørestol | person i manuel kørestol</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡" type="tts">person i manuel kørestol mod højre</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡">adgang | adgangsforhold | handicap | kørestol | person i manuel kørestol</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡" type="tts">person i manuel kørestol mod højre</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡">adgang | adgangsforhold | handicap | kørestol | person i manuel kørestol</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡" type="tts">person i manuel kørestol mod højre</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡">adgang | adgangsforhold | handicap | kørestol | person i manuel kørestol</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡" type="tts">person i manuel kørestol mod højre</annotation>
+		<annotation cp="🧑‍🦽‍➡">adgang | adgangsforhold | handicap | højre | kørestol | mod | person i manuel kørestol</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">person i manuel kørestol: mod højre</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">adgang | adgangsforhold | handicap | højre | kørestol | lys teint | mod | person i manuel kørestol</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">person i manuel kørestol: lys teint og mod højre</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">adgang | adgangsforhold | handicap | højre | kørestol | medium til lys teint | mod | person i manuel kørestol</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">person i manuel kørestol: medium til lys teint og mod højre</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">adgang | adgangsforhold | handicap | højre | kørestol | medium teint | mod | person i manuel kørestol</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">person i manuel kørestol: medium teint og mod højre</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">adgang | adgangsforhold | handicap | højre | kørestol | medium til mørk teint | mod | person i manuel kørestol</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">person i manuel kørestol: medium til mørk teint og mod højre</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">adgang | adgangsforhold | handicap | højre | kørestol | mod | mørk teint | person i manuel kørestol</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">person i manuel kørestol: mørk teint og mod højre</annotation>
 		<annotation cp="👨🏻‍🦽">adgangsforhold | handicap | handikap | kørestol | lys teint | mand | mand i manuel kørestol | rullestol | tilgængelighed</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">mand i manuel kørestol: lys teint</annotation>
 		<annotation cp="👨🏼‍🦽">adgangsforhold | handicap | handikap | kørestol | mand | mand i manuel kørestol | medium til lys teint | rullestol | tilgængelighed</annotation>
@@ -2983,18 +3233,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦽" type="tts">mand i manuel kørestol: medium til mørk teint</annotation>
 		<annotation cp="👨🏿‍🦽">adgangsforhold | handicap | handikap | kørestol | mand | mand i manuel kørestol | mørk teint | rullestol | tilgængelighed</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">mand i manuel kørestol: mørk teint</annotation>
-		<annotation cp="👨‍🦽‍➡">adgangsforhold | handicap | handikap | kørestol | mand | mand i manuel kørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👨‍🦽‍➡" type="tts">mand i manuel kørestol mod højre</annotation>
-		<annotation cp="👨🏻‍🦽‍➡">adgangsforhold | handicap | handikap | kørestol | mand | mand i manuel kørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👨🏻‍🦽‍➡" type="tts">mand i manuel kørestol mod højre</annotation>
-		<annotation cp="👨🏼‍🦽‍➡">adgangsforhold | handicap | handikap | kørestol | mand | mand i manuel kørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👨🏼‍🦽‍➡" type="tts">mand i manuel kørestol mod højre</annotation>
-		<annotation cp="👨🏽‍🦽‍➡">adgangsforhold | handicap | handikap | kørestol | mand | mand i manuel kørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👨🏽‍🦽‍➡" type="tts">mand i manuel kørestol mod højre</annotation>
-		<annotation cp="👨🏾‍🦽‍➡">adgangsforhold | handicap | handikap | kørestol | mand | mand i manuel kørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👨🏾‍🦽‍➡" type="tts">mand i manuel kørestol mod højre</annotation>
-		<annotation cp="👨🏿‍🦽‍➡">adgangsforhold | handicap | handikap | kørestol | mand | mand i manuel kørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👨🏿‍🦽‍➡" type="tts">mand i manuel kørestol mod højre</annotation>
+		<annotation cp="👨‍🦽‍➡">adgangsforhold | handicap | handikap | højre | kørestol | mand | mand i manuel kørestol | mod | rullestol | tilgængelighed</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">mand i manuel kørestol: mod højre</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">adgangsforhold | handicap | handikap | højre | kørestol | lys teint | mand | mand i manuel kørestol | mod | rullestol | tilgængelighed</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">mand i manuel kørestol: lys teint og mod højre</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">adgangsforhold | handicap | handikap | højre | kørestol | mand | mand i manuel kørestol | medium til lys teint | mod | rullestol | tilgængelighed</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">mand i manuel kørestol: medium til lys teint og mod højre</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">adgangsforhold | handicap | handikap | højre | kørestol | mand | mand i manuel kørestol | medium teint | mod | rullestol | tilgængelighed</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">mand i manuel kørestol: medium teint og mod højre</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">adgangsforhold | handicap | handikap | højre | kørestol | mand | mand i manuel kørestol | medium til mørk teint | mod | rullestol | tilgængelighed</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">mand i manuel kørestol: medium til mørk teint og mod højre</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">adgangsforhold | handicap | handikap | højre | kørestol | mand | mand i manuel kørestol | mod | mørk teint | rullestol | tilgængelighed</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">mand i manuel kørestol: mørk teint og mod højre</annotation>
 		<annotation cp="👩🏻‍🦽">adgangsforhold | handicap | handikap | kørestol | kvinde | kvinde i manuel kørestol | lys teint | rullestol | tilgængelighed</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">kvinde i manuel kørestol: lys teint</annotation>
 		<annotation cp="👩🏼‍🦽">adgangsforhold | handicap | handikap | kørestol | kvinde | kvinde i manuel kørestol | medium til lys teint | rullestol | tilgængelighed</annotation>
@@ -3005,18 +3255,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦽" type="tts">kvinde i manuel kørestol: medium til mørk teint</annotation>
 		<annotation cp="👩🏿‍🦽">adgangsforhold | handicap | handikap | kørestol | kvinde | kvinde i manuel kørestol | mørk teint | rullestol | tilgængelighed</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">kvinde i manuel kørestol: mørk teint</annotation>
-		<annotation cp="👩‍🦽‍➡">adgangsforhold | handicap | handikap | kørestol | kvinde | kvinde i manuel kørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👩‍🦽‍➡" type="tts">kvinde i manuel kørestol mod højre</annotation>
-		<annotation cp="👩🏻‍🦽‍➡">adgangsforhold | handicap | handikap | kørestol | kvinde | kvinde i manuel kørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👩🏻‍🦽‍➡" type="tts">kvinde i manuel kørestol mod højre</annotation>
-		<annotation cp="👩🏼‍🦽‍➡">adgangsforhold | handicap | handikap | kørestol | kvinde | kvinde i manuel kørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👩🏼‍🦽‍➡" type="tts">kvinde i manuel kørestol mod højre</annotation>
-		<annotation cp="👩🏽‍🦽‍➡">adgangsforhold | handicap | handikap | kørestol | kvinde | kvinde i manuel kørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👩🏽‍🦽‍➡" type="tts">kvinde i manuel kørestol mod højre</annotation>
-		<annotation cp="👩🏾‍🦽‍➡">adgangsforhold | handicap | handikap | kørestol | kvinde | kvinde i manuel kørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👩🏾‍🦽‍➡" type="tts">kvinde i manuel kørestol mod højre</annotation>
-		<annotation cp="👩🏿‍🦽‍➡">adgangsforhold | handicap | handikap | kørestol | kvinde | kvinde i manuel kørestol | rullestol | tilgængelighed</annotation>
-		<annotation cp="👩🏿‍🦽‍➡" type="tts">kvinde i manuel kørestol mod højre</annotation>
+		<annotation cp="👩‍🦽‍➡">adgangsforhold | handicap | handikap | højre | kørestol | kvinde | kvinde i manuel kørestol | mod | rullestol | tilgængelighed</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">kvinde i manuel kørestol: mod højre</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">adgangsforhold | handicap | handikap | højre | kørestol | kvinde | kvinde i manuel kørestol | lys teint | mod | rullestol | tilgængelighed</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">kvinde i manuel kørestol: lys teint og mod højre</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">adgangsforhold | handicap | handikap | højre | kørestol | kvinde | kvinde i manuel kørestol | medium til lys teint | mod | rullestol | tilgængelighed</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">kvinde i manuel kørestol: medium til lys teint og mod højre</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">adgangsforhold | handicap | handikap | højre | kørestol | kvinde | kvinde i manuel kørestol | medium teint | mod | rullestol | tilgængelighed</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">kvinde i manuel kørestol: medium teint og mod højre</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">adgangsforhold | handicap | handikap | højre | kørestol | kvinde | kvinde i manuel kørestol | medium til mørk teint | mod | rullestol | tilgængelighed</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">kvinde i manuel kørestol: medium til mørk teint og mod højre</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">adgangsforhold | handicap | handikap | højre | kørestol | kvinde | kvinde i manuel kørestol | mod | mørk teint | rullestol | tilgængelighed</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">kvinde i manuel kørestol: mørk teint og mod højre</annotation>
 		<annotation cp="🏃🏻">bevægelse | bevæger | er på vej | hastighed | hurtig | hurtigt | kommer nu | løb | løbende person | løber | løbetræning | lys teint | maraton | skynd dig | sport | tempo</annotation>
 		<annotation cp="🏃🏻" type="tts">løber: lys teint</annotation>
 		<annotation cp="🏃🏼">bevægelse | bevæger | er på vej | hastighed | hurtig | hurtigt | kommer nu | løb | løbende person | løber | løbetræning | maraton | medium til lys teint | skynd dig | sport | tempo</annotation>
@@ -3047,42 +3297,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🏃🏾‍♀" type="tts">kvinde løber: medium til mørk teint</annotation>
 		<annotation cp="🏃🏿‍♀">kvinde | kvinde løber | løb | løbetræning | løbetur | maraton | mørk teint</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">kvinde løber: mørk teint</annotation>
-		<annotation cp="🏃‍➡">bevægelse | bevæger | er på vej | hastighed | hurtig | hurtigt | kommer nu | løb | løbende person | løber | løbetræning | maraton | skynd dig | sport | tempo</annotation>
-		<annotation cp="🏃‍➡" type="tts">løber mod højre</annotation>
-		<annotation cp="🏃🏻‍➡">bevægelse | bevæger | er på vej | hastighed | hurtig | hurtigt | kommer nu | løb | løbende person | løber | løbetræning | maraton | skynd dig | sport | tempo</annotation>
-		<annotation cp="🏃🏻‍➡" type="tts">løber mod højre</annotation>
-		<annotation cp="🏃🏼‍➡">bevægelse | bevæger | er på vej | hastighed | hurtig | hurtigt | kommer nu | løb | løbende person | løber | løbetræning | maraton | skynd dig | sport | tempo</annotation>
-		<annotation cp="🏃🏼‍➡" type="tts">løber mod højre</annotation>
-		<annotation cp="🏃🏽‍➡">bevægelse | bevæger | er på vej | hastighed | hurtig | hurtigt | kommer nu | løb | løbende person | løber | løbetræning | maraton | skynd dig | sport | tempo</annotation>
-		<annotation cp="🏃🏽‍➡" type="tts">løber mod højre</annotation>
-		<annotation cp="🏃🏾‍➡">bevægelse | bevæger | er på vej | hastighed | hurtig | hurtigt | kommer nu | løb | løbende person | løber | løbetræning | maraton | skynd dig | sport | tempo</annotation>
-		<annotation cp="🏃🏾‍➡" type="tts">løber mod højre</annotation>
-		<annotation cp="🏃🏿‍➡">bevægelse | bevæger | er på vej | hastighed | hurtig | hurtigt | kommer nu | løb | løbende person | løber | løbetræning | maraton | skynd dig | sport | tempo</annotation>
-		<annotation cp="🏃🏿‍➡" type="tts">løber mod højre</annotation>
-		<annotation cp="🏃‍♀‍➡">kvinde | kvinde løber | løb | løbetræning | løbetur | maraton</annotation>
-		<annotation cp="🏃‍♀‍➡" type="tts">kvinde løber mod højre</annotation>
-		<annotation cp="🏃🏻‍♀‍➡">kvinde | kvinde løber | løb | løbetræning | løbetur | maraton</annotation>
-		<annotation cp="🏃🏻‍♀‍➡" type="tts">kvinde løber mod højre</annotation>
-		<annotation cp="🏃🏼‍♀‍➡">kvinde | kvinde løber | løb | løbetræning | løbetur | maraton</annotation>
-		<annotation cp="🏃🏼‍♀‍➡" type="tts">kvinde løber mod højre</annotation>
-		<annotation cp="🏃🏽‍♀‍➡">kvinde | kvinde løber | løb | løbetræning | løbetur | maraton</annotation>
-		<annotation cp="🏃🏽‍♀‍➡" type="tts">kvinde løber mod højre</annotation>
-		<annotation cp="🏃🏾‍♀‍➡">kvinde | kvinde løber | løb | løbetræning | løbetur | maraton</annotation>
-		<annotation cp="🏃🏾‍♀‍➡" type="tts">kvinde løber mod højre</annotation>
-		<annotation cp="🏃🏿‍♀‍➡">kvinde | kvinde løber | løb | løbetræning | løbetur | maraton</annotation>
-		<annotation cp="🏃🏿‍♀‍➡" type="tts">kvinde løber mod højre</annotation>
-		<annotation cp="🏃‍♂‍➡">løb | løbetræning | løbetur | mand | mand løber | maraton</annotation>
-		<annotation cp="🏃‍♂‍➡" type="tts">mand løber mod højre</annotation>
-		<annotation cp="🏃🏻‍♂‍➡">løb | løbetræning | løbetur | mand | mand løber | maraton</annotation>
-		<annotation cp="🏃🏻‍♂‍➡" type="tts">mand løber mod højre</annotation>
-		<annotation cp="🏃🏼‍♂‍➡">løb | løbetræning | løbetur | mand | mand løber | maraton</annotation>
-		<annotation cp="🏃🏼‍♂‍➡" type="tts">mand løber mod højre</annotation>
-		<annotation cp="🏃🏽‍♂‍➡">løb | løbetræning | løbetur | mand | mand løber | maraton</annotation>
-		<annotation cp="🏃🏽‍♂‍➡" type="tts">mand løber mod højre</annotation>
-		<annotation cp="🏃🏾‍♂‍➡">løb | løbetræning | løbetur | mand | mand løber | maraton</annotation>
-		<annotation cp="🏃🏾‍♂‍➡" type="tts">mand løber mod højre</annotation>
-		<annotation cp="🏃🏿‍♂‍➡">løb | løbetræning | løbetur | mand | mand løber | maraton</annotation>
-		<annotation cp="🏃🏿‍♂‍➡" type="tts">mand løber mod højre</annotation>
+		<annotation cp="🏃‍➡">bevægelse | bevæger | er på vej | hastighed | højre | hurtig | hurtigt | kommer nu | løb | løbende person | løber | løbetræning | maraton | mod | skynd dig | sport | tempo</annotation>
+		<annotation cp="🏃‍➡" type="tts">løber: mod højre</annotation>
+		<annotation cp="🏃🏻‍➡">bevægelse | bevæger | er på vej | hastighed | højre | hurtig | hurtigt | kommer nu | løb | løbende person | løber | løbetræning | lys teint | maraton | mod | skynd dig | sport | tempo</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">løber: lys teint og mod højre</annotation>
+		<annotation cp="🏃🏼‍➡">bevægelse | bevæger | er på vej | hastighed | højre | hurtig | hurtigt | kommer nu | løb | løbende person | løber | løbetræning | maraton | medium til lys teint | mod | skynd dig | sport | tempo</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">løber: medium til lys teint og mod højre</annotation>
+		<annotation cp="🏃🏽‍➡">bevægelse | bevæger | er på vej | hastighed | højre | hurtig | hurtigt | kommer nu | løb | løbende person | løber | løbetræning | maraton | medium teint | mod | skynd dig | sport | tempo</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">løber: medium teint og mod højre</annotation>
+		<annotation cp="🏃🏾‍➡">bevægelse | bevæger | er på vej | hastighed | højre | hurtig | hurtigt | kommer nu | løb | løbende person | løber | løbetræning | maraton | medium til mørk teint | mod | skynd dig | sport | tempo</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">løber: medium til mørk teint og mod højre</annotation>
+		<annotation cp="🏃🏿‍➡">bevægelse | bevæger | er på vej | hastighed | højre | hurtig | hurtigt | kommer nu | løb | løbende person | løber | løbetræning | maraton | mod | mørk teint | skynd dig | sport | tempo</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">løber: mørk teint og mod højre</annotation>
+		<annotation cp="🏃‍♀‍➡">højre | kvinde | kvinde løber | løb | løbetræning | løbetur | maraton | mod</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">kvinde løber: mod højre</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">højre | kvinde | kvinde løber | løb | løbetræning | løbetur | lys teint | maraton | mod</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">kvinde løber: lys teint og mod højre</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">højre | kvinde | kvinde løber | løb | løbetræning | løbetur | maraton | medium til lys teint | mod</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">kvinde løber: medium til lys teint og mod højre</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">højre | kvinde | kvinde løber | løb | løbetræning | løbetur | maraton | medium teint | mod</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">kvinde løber: medium teint og mod højre</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">højre | kvinde | kvinde løber | løb | løbetræning | løbetur | maraton | medium til mørk teint | mod</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">kvinde løber: medium til mørk teint og mod højre</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">højre | kvinde | kvinde løber | løb | løbetræning | løbetur | maraton | mod | mørk teint</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">kvinde løber: mørk teint og mod højre</annotation>
+		<annotation cp="🏃‍♂‍➡">højre | løb | løbetræning | løbetur | mand | mand løber | maraton | mod</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">mand løber: mod højre</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">højre | løb | løbetræning | løbetur | lys teint | mand | mand løber | maraton | mod</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">mand løber: lys teint og mod højre</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">højre | løb | løbetræning | løbetur | mand | mand løber | maraton | medium til lys teint | mod</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">mand løber: medium til lys teint og mod højre</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">højre | løb | løbetræning | løbetur | mand | mand løber | maraton | medium teint | mod</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">mand løber: medium teint og mod højre</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">højre | løb | løbetræning | løbetur | mand | mand løber | maraton | medium til mørk teint | mod</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">mand løber: medium til mørk teint og mod højre</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">højre | løb | løbetræning | løbetur | mand | mand løber | maraton | mod | mørk teint</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">mand løber: mørk teint og mod højre</annotation>
 		<annotation cp="💃🏻">dans | danser | fest | flamenco | kvinde | lys teint | salsa | tango</annotation>
 		<annotation cp="💃🏻" type="tts">danser: lys teint</annotation>
 		<annotation cp="💃🏼">dans | danser | fest | flamenco | kvinde | medium til lys teint | salsa | tango</annotation>
@@ -3113,6 +3363,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🕴🏾" type="tts">svævende forretningsmand: medium til mørk teint</annotation>
 		<annotation cp="🕴🏿">forretning | forretningsmand | jakkesæt | mand | mørk teint | svævende forretningsmand</annotation>
 		<annotation cp="🕴🏿" type="tts">svævende forretningsmand: mørk teint</annotation>
+		<annotation cp="👯🏻">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | lys teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="👯🏻" type="tts">personer med kaninører: lys teint</annotation>
+		<annotation cp="👯🏼">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | medium til lys teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="👯🏼" type="tts">personer med kaninører: medium til lys teint</annotation>
+		<annotation cp="👯🏽">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | medium teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="👯🏽" type="tts">personer med kaninører: medium teint</annotation>
+		<annotation cp="👯🏾">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | medium til mørk teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="👯🏾" type="tts">personer med kaninører: medium til mørk teint</annotation>
+		<annotation cp="👯🏿">bedste ven | bedste veninde | bff | danser | dansere | dobbelt | fest | fester | identisk | kaninører | kvinder | mørk teint | ører | par | personer med kaninører | soulmate | tvilling | tvillinger</annotation>
+		<annotation cp="👯🏿" type="tts">personer med kaninører: mørk teint</annotation>
+		<annotation cp="👯🏻‍♀">dans | fest | kaninører | kvinder | kvinder med kaninører | lys teint</annotation>
+		<annotation cp="👯🏻‍♀" type="tts">kvinder med kaninører: lys teint</annotation>
+		<annotation cp="👯🏼‍♀">dans | fest | kaninører | kvinder | kvinder med kaninører | medium til lys teint</annotation>
+		<annotation cp="👯🏼‍♀" type="tts">kvinder med kaninører: medium til lys teint</annotation>
+		<annotation cp="👯🏽‍♀">dans | fest | kaninører | kvinder | kvinder med kaninører | medium teint</annotation>
+		<annotation cp="👯🏽‍♀" type="tts">kvinder med kaninører: medium teint</annotation>
+		<annotation cp="👯🏾‍♀">dans | fest | kaninører | kvinder | kvinder med kaninører | medium til mørk teint</annotation>
+		<annotation cp="👯🏾‍♀" type="tts">kvinder med kaninører: medium til mørk teint</annotation>
+		<annotation cp="👯🏿‍♀">dans | fest | kaninører | kvinder | kvinder med kaninører | mørk teint</annotation>
+		<annotation cp="👯🏿‍♀" type="tts">kvinder med kaninører: mørk teint</annotation>
+		<annotation cp="👯🏻‍♂">dans | fest | kaninører | lys teint | mænd | mænd med kaninører</annotation>
+		<annotation cp="👯🏻‍♂" type="tts">mænd med kaninører: lys teint</annotation>
+		<annotation cp="👯🏼‍♂">dans | fest | kaninører | mænd | mænd med kaninører | medium til lys teint</annotation>
+		<annotation cp="👯🏼‍♂" type="tts">mænd med kaninører: medium til lys teint</annotation>
+		<annotation cp="👯🏽‍♂">dans | fest | kaninører | mænd | mænd med kaninører | medium teint</annotation>
+		<annotation cp="👯🏽‍♂" type="tts">mænd med kaninører: medium teint</annotation>
+		<annotation cp="👯🏾‍♂">dans | fest | kaninører | mænd | mænd med kaninører | medium til mørk teint</annotation>
+		<annotation cp="👯🏾‍♂" type="tts">mænd med kaninører: medium til mørk teint</annotation>
+		<annotation cp="👯🏿‍♂">dans | fest | kaninører | mænd | mænd med kaninører | mørk teint</annotation>
+		<annotation cp="👯🏿‍♂" type="tts">mænd med kaninører: mørk teint</annotation>
 		<annotation cp="🧖🏻">afslappende | damp | dampbad | dampende | forkæle | forkælelse | luksuriøst | luksus | lys teint | person i dampbad | person i sauna | sauna | slapper af | spa</annotation>
 		<annotation cp="🧖🏻" type="tts">person i dampbad: lys teint</annotation>
 		<annotation cp="🧖🏼">afslappende | damp | dampbad | dampende | forkæle | forkælelse | luksuriøst | luksus | medium til lys teint | person i dampbad | person i sauna | sauna | slapper af | spa</annotation>
@@ -3463,6 +3743,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤸🏾‍♀" type="tts">kvinde slår vejrmøller: medium til mørk teint</annotation>
 		<annotation cp="🤸🏿‍♀">aktiv | glad | gymnast | gymnastik | kvinde | kvinde slår vejrmøller | mørk teint | spændt | spring | vejrmølle</annotation>
 		<annotation cp="🤸🏿‍♀" type="tts">kvinde slår vejrmøller: mørk teint</annotation>
+		<annotation cp="🤼🏻">bryder | brydere | brydeturnering | brydning | kamp | lys teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🤼🏻" type="tts">brydere: lys teint</annotation>
+		<annotation cp="🤼🏼">bryder | brydere | brydeturnering | brydning | kamp | medium til lys teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🤼🏼" type="tts">brydere: medium til lys teint</annotation>
+		<annotation cp="🤼🏽">bryder | brydere | brydeturnering | brydning | kamp | medium teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🤼🏽" type="tts">brydere: medium teint</annotation>
+		<annotation cp="🤼🏾">bryder | brydere | brydeturnering | brydning | kamp | medium til mørk teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🤼🏾" type="tts">brydere: medium til mørk teint</annotation>
+		<annotation cp="🤼🏿">bryder | brydere | brydeturnering | brydning | kamp | mørk teint | personer | sport | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🤼🏿" type="tts">brydere: mørk teint</annotation>
+		<annotation cp="🤼🏻‍♀">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | lys teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🤼🏻‍♀" type="tts">kvindelige brydere: lys teint</annotation>
+		<annotation cp="🤼🏼‍♀">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | medium til lys teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🤼🏼‍♀" type="tts">kvindelige brydere: medium til lys teint</annotation>
+		<annotation cp="🤼🏽‍♀">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | medium teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🤼🏽‍♀" type="tts">kvindelige brydere: medium teint</annotation>
+		<annotation cp="🤼🏾‍♀">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | medium til mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🤼🏾‍♀" type="tts">kvindelige brydere: medium til mørk teint</annotation>
+		<annotation cp="🤼🏿‍♀">brydere | brydeturnering | brydning | kamp | konkurrence | kvindelige brydere | kvinder | mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🤼🏿‍♀" type="tts">kvindelige brydere: mørk teint</annotation>
+		<annotation cp="🤼🏻‍♂">brydere | brydeturnering | brydning | kamp | lys teint | mænd | mandlige brydere | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🤼🏻‍♂" type="tts">mandlige brydere: lys teint</annotation>
+		<annotation cp="🤼🏼‍♂">brydere | brydeturnering | brydning | kamp | mænd | mandlige brydere | medium til lys teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🤼🏼‍♂" type="tts">mandlige brydere: medium til lys teint</annotation>
+		<annotation cp="🤼🏽‍♂">brydere | brydeturnering | brydning | kamp | mænd | mandlige brydere | medium teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🤼🏽‍♂" type="tts">mandlige brydere: medium teint</annotation>
+		<annotation cp="🤼🏾‍♂">brydere | brydeturnering | brydning | kamp | mænd | mandlige brydere | medium til mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🤼🏾‍♂" type="tts">mandlige brydere: medium til mørk teint</annotation>
+		<annotation cp="🤼🏿‍♂">brydere | brydeturnering | brydning | kamp | mænd | mandlige brydere | mørk teint | turnering | wrestle | wrestling</annotation>
+		<annotation cp="🤼🏿‍♂" type="tts">mandlige brydere: mørk teint</annotation>
 		<annotation cp="🤽🏻">lys teint | person | polo | sport | svømmer | svømning | vand | vandpolo | vandpolospiller | vandsport</annotation>
 		<annotation cp="🤽🏻" type="tts">vandpolospiller: lys teint</annotation>
 		<annotation cp="🤽🏼">medium til lys teint | person | polo | sport | svømmer | svømning | vand | vandpolo | vandpolospiller | vandsport</annotation>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -711,20 +711,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="♭" type="tts">bé</annotation>
 		<annotation cp="♯">hudba | křížek | křížek (posuvka) | noty | posuvka | zvýšený tón</annotation>
 		<annotation cp="♯" type="tts">křížek (posuvka)</annotation>
-		<annotation cp="🪉">amor | harfa | hudba | láska | nástroj | orchestr</annotation>
-		<annotation cp="🪉" type="tts">harfa</annotation>
-		<annotation cp="🪏">jáma | kopat | lopata | rostlina | rýč | sníh | zahrabat | zahrada</annotation>
-		<annotation cp="🪏" type="tts">lopata</annotation>
-		<annotation cp="🪾">bez listí | dřevo | holé | kmen | mrtvé | neplodný | strom | sucho | větve | zima</annotation>
-		<annotation cp="🪾" type="tts">strom bez listí</annotation>
-		<annotation cp="🫆">bezpečnost | detektiv | identita | kriminalistika | otisk | otisky prstů | stopa | záhada | zločin</annotation>
-		<annotation cp="🫆" type="tts">otisk prstu</annotation>
-		<annotation cp="🫜">jídlo | kořen | ředkvička | řepa | salát | tuřín | vegetariánské | zahrada | zelenina</annotation>
-		<annotation cp="🫜" type="tts">kořenová zelenina</annotation>
-		<annotation cp="🫟">barva | inkoust | kapka | nepořádek | rozlití | skvrna | tekutina</annotation>
-		<annotation cp="🫟" type="tts">skvrna</annotation>
-		<annotation cp="🫩">kruhy | obličej | oči | ospalost | pozdě | únava | váčky | vyčerpanost | znuděnost</annotation>
-		<annotation cp="🫩" type="tts">obličej s kruhy pod očima</annotation>
 		<annotation cp="😀">obličej | radostný | smajlík | smát se | smích | spokojený | šťastný | tvář | úšklebek | úsměv | veselý | výraz | výraz se širokým úsměvem | vysmátý | zubící se obličej | zuby</annotation>
 		<annotation cp="😀" type="tts">zubící se obličej</annotation>
 		<annotation cp="😃">hlasitý smích | jupí | obličej | otevřený | paráda | smajlík | spokojený | šťastný | super | tvář | úsměv | ústa | výraz | výraz s úsměvem s otevřenou pusou | zubící se obličej s velkýma očima | zuby</annotation>
@@ -839,6 +825,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🤤" type="tts">slintající obličej</annotation>
 		<annotation cp="😴">chrnět | chrr | dobrou | noc | obličej | ospalý | pochrupovat | postel | šlofík | spánek | spát | spící | tvář | unavený | usínat | utahaný | výraz | zdřímnout | zívat | zzz</annotation>
 		<annotation cp="😴" type="tts">spící obličej</annotation>
+		<annotation cp="🫩">kruhy | obličej | oči | ospalost | pozdě | únava | váčky | vyčerpanost | znuděnost</annotation>
+		<annotation cp="🫩" type="tts">obličej s kruhy pod očima</annotation>
 		<annotation cp="😷">bacily | bakterie | dermatolog | doktor | lék | lékař | maska | nachlazený | nemocný | obličej | obličej s lékařskou rouškou | prevence | rouška | rýma | smajlík | tvář | tvář s doktorskou rouškou | výraz | zubař</annotation>
 		<annotation cp="😷" type="tts">obličej s lékařskou rouškou</annotation>
 		<annotation cp="🤒">angína | chřipka | horečka | nemocný | obličej | obličej s teploměrem | smajlík | teploměr | teplota | tvář | tvář s teploměrem v puse | výraz</annotation>
@@ -893,6 +881,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="😲" type="tts">užaslý obličej</annotation>
 		<annotation cp="😳">bože | červenat | cože | ohromený | páni | překvapení | překvapený | provinilý | rozpaky | šílené | stydět | stydlivý | trapas | trapné | údiv | udivený | výraz | wow | zrudnout</annotation>
 		<annotation cp="😳" type="tts">červenající se obličej</annotation>
+		<annotation cp="🫪">nafouklý | obličej | panika | překvapený | smajlík | šokovaný | úzkost | zranitelný</annotation>
+		<annotation cp="🫪" type="tts">pokřivený obličej</annotation>
 		<annotation cp="🥺">milost | obličej | pěkně prosím | proč ne | prosba | prosebný obličej | prosící | prosit | psí oči | škemrat | slitování | smajlík | smutné oči | smutný | žadonění | žadonit</annotation>
 		<annotation cp="🥺" type="tts">prosebný obličej</annotation>
 		<annotation cp="🥹">aww | dojetí | emoce | hněv | hrdost | obdiv | obličej se slzami na krajíčku | pěkně prosím | pláč | pocity | prosík | psí oči | rozpaky | sebeovládání | slzičky | slzy na krajíčku | slzy štěstí | smutek | vděčnost</annotation>
@@ -1039,6 +1029,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="💯" type="tts">sto bodů</annotation>
 		<annotation cp="💢">hněv | japonský symbol hněvu | komiks | komiksový | manga | naštvaný | rozzlobený | úder | vztek | žíly | zloba | zlost</annotation>
 		<annotation cp="💢" type="tts">japonský symbol hněvu</annotation>
+		<annotation cp="🫯">debata | hádka | nesouhlas | povyk | roztržka | spor | zápas</annotation>
+		<annotation cp="🫯" type="tts">oblak sršící hádkou</annotation>
 		<annotation cp="💥">bomba | bum | exploze | komiks | náraz | obrázek | rána | srážka | třesk | vybouchnout | výbuch</annotation>
 		<annotation cp="💥" type="tts">srážka</annotation>
 		<annotation cp="💫">hvězda | hvězdička | hvězdičky | kometa | komiks | padající hvězda | zářivý | závrať</annotation>
@@ -1503,6 +1495,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🧟‍♀" type="tts">nemrtvá žena</annotation>
 		<annotation cp="🧌">fantasy | monstrum | nestvůra | obluda | obr | pohádka | příšera | trol | troll | trollovat | zlobr</annotation>
 		<annotation cp="🧌" type="tts">troll</annotation>
+		<annotation cp="🫈">bigfoot | chlupatý | divý člověk | kryptid | les | obr | seskveč | tajemný tvor | yetti</annotation>
+		<annotation cp="🫈" type="tts">chlupatý tvor</annotation>
 		<annotation cp="💆">bolest hlavy | masáž | masáž hlavy a obličeje | napětí | obličej | osoba na masáži obličeje | relaxační | salon | salón | spa | tvář | ukliňující | wellness | žena</annotation>
 		<annotation cp="💆" type="tts">osoba na masáži obličeje</annotation>
 		<annotation cp="💆‍♂">bolest hlavy | člověk | masáž | masáž hlavy a obličeje | muž | muž dostává masáž | muž na masáži obličeje | napětí | obličej | relaxační | salon | salón | tvář | uklidňující | výraz</annotation>
@@ -1557,6 +1551,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏃‍♂" type="tts">běžící muž</annotation>
 		<annotation cp="🏃‍♀">běh | běžící žena | běžkyně | chvátat | člověk | honem | kvapit | maraton | pádit | rychle | rychlost | spěchat | už jdu | závod | žena</annotation>
 		<annotation cp="🏃‍♀" type="tts">běžící žena</annotation>
+		<annotation cp="🧑‍🩰">balet | baletka | baletní tanečník | tanečník</annotation>
+		<annotation cp="🧑‍🩰" type="tts">baletní tanečník</annotation>
 		<annotation cp="💃">člověk | elegantní | flamenco | ples | salsa | slavnostní | smím prosit | tančící žena | tancovat | tanec | tanečnice | tango | žena</annotation>
 		<annotation cp="💃" type="tts">tanečnice</annotation>
 		<annotation cp="🕺">člověk | elegantní | flamenco | muž | salsa | slavnostní | smím prosit | talent | tančící muž | tancovat | tanec | tanečnice | tanečník | tango | žena</annotation>
@@ -1709,6 +1705,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🧑‍🧒‍🧒" type="tts">rodina: dospělý, dítě, dítě</annotation>
 		<annotation cp="👣">bosky | bosý | chodidlo | chůze | jít | naboso | neobutý | oblečení | otisk | procházka | šlápota | šlépěj | stopa | stopy | tělo</annotation>
 		<annotation cp="👣" type="tts">stopy</annotation>
+		<annotation cp="🫆">bezpečnost | detektiv | identita | kriminalistika | otisk | otisky prstů | stopa | záhada | zločin</annotation>
+		<annotation cp="🫆" type="tts">otisk prstu</annotation>
 		<annotation cp="🦰">rudé vlasy | rusé vlasy | ryšavé vlasy | zrzavé vlasy | zrzek | zrzka</annotation>
 		<annotation cp="🦰" type="tts">zrzavé vlasy</annotation>
 		<annotation cp="🦱">afro | kudrnaté vlasy | kudrny | prstýnky | vlnité vlasy</annotation>
@@ -1917,6 +1915,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🐋" type="tts">velryba</annotation>
 		<annotation cp="🐬">delfín | delfínek | moře | oceán | pláž | ploutev | skákající | zvíře</annotation>
 		<annotation cp="🐬" type="tts">delfín</annotation>
+		<annotation cp="🫍">mořský | oceán | velryba</annotation>
+		<annotation cp="🫍" type="tts">kosatka</annotation>
 		<annotation cp="🦭">lachtan | lvoun | moře | mořský lev | mrož | oceán | tuleň | živočich | zvíře</annotation>
 		<annotation cp="🦭" type="tts">tuleň</annotation>
 		<annotation cp="🐟">horoskop | moře | ryba | rybaření | rybařit | rybička | rybka | rybolov | ryby | Ryby | večeře | znamení Ryb | zvěrokruh | zvíře</annotation>
@@ -1935,6 +1935,16 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🪸" type="tts">korál</annotation>
 		<annotation cp="🪼">bezobratlí | chapadla | medúza | moře | mořská | popálení | požahání | žahavci | žahnutí | zvíře</annotation>
 		<annotation cp="🪼" type="tts">medúza</annotation>
+		<annotation cp="🦀">horoskop | krab | rak | Rak | znamení Raka | zvěrokruh | zvíře</annotation>
+		<annotation cp="🦀" type="tts">krab</annotation>
+		<annotation cp="🦞">humr | humří polévka | klepeta | korýš | langusta | plody moře | rak | zvíře</annotation>
+		<annotation cp="🦞" type="tts">humr</annotation>
+		<annotation cp="🦐">garnát | jídlo | korýš | kreveta | malý | moře | mořský | oceán | plody moře | zvíře</annotation>
+		<annotation cp="🦐" type="tts">kreveta</annotation>
+		<annotation cp="🦑">chobotnice | hlavonožec | jídlo | kalamár | kalmar | krakatice | měkkýš | mořské plody | oliheň | plody moře | sépie | zvíře</annotation>
+		<annotation cp="🦑" type="tts">oliheň</annotation>
+		<annotation cp="🦪">jídlo | perla | perleť | potápění | ústřice</annotation>
+		<annotation cp="🦪" type="tts">ústřice</annotation>
 		<annotation cp="🐌">hlemýžď | příroda | slimák | šneček | šnek | ulita | zahrada | zvíře</annotation>
 		<annotation cp="🐌" type="tts">hlemýžď</annotation>
 		<annotation cp="🦋">hmyz | krásný | modrásek | modrý motýl | motýl | zvíře</annotation>
@@ -2023,6 +2033,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🪺" type="tts">hnízdo s vejci</annotation>
 		<annotation cp="🍄">houba | hřib | hříbek | jedovatá | jedovatý | muchomůrka</annotation>
 		<annotation cp="🍄" type="tts">houba</annotation>
+		<annotation cp="🪾">bez listí | dřevo | holé | kmen | mrtvé | neplodný | strom | sucho | větve | zima</annotation>
+		<annotation cp="🪾" type="tts">strom bez listí</annotation>
 		<annotation cp="🍇">červené hrozny | Dionýsos | hrozen | hroznové víno | hrozny | jídlo | ovoce | rostlina | víno</annotation>
 		<annotation cp="🍇" type="tts">hrozny</annotation>
 		<annotation cp="🍈">ananasový meloun | cukrový meloun | jídlo | meloun | ovoce | rostlina | žlutý meloun</annotation>
@@ -2099,6 +2111,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🫛" type="tts">hrachový lusk</annotation>
 		<annotation cp="🍄‍🟫">hnědá houba | houba | houbařit | houbová | hříbek | jídlo | les | portobello | příroda | sbírat houby | shiitake | zelenina</annotation>
 		<annotation cp="🍄‍🟫" type="tts">hnědá houba</annotation>
+		<annotation cp="🫜">jídlo | kořen | ředkvička | řepa | salát | tuřín | vegetariánské | zahrada | zelenina</annotation>
+		<annotation cp="🫜" type="tts">kořenová zelenina</annotation>
 		<annotation cp="🍞">bochník | chléb | chleba | jídlo | karbohydráty | moučný | obilí | obilniny | obiloviny | pecen | pšenice | restaurace | sacharidy | toast | toastový chleba</annotation>
 		<annotation cp="🍞" type="tts">chleba</annotation>
 		<annotation cp="🥐">croissant | francouzské | francouzský | jídlo | kroasant | loupáček | loupák | pečivo | rohlík</annotation>
@@ -2201,16 +2215,6 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🥠" type="tts">čínský koláček štěstí</annotation>
 		<annotation cp="🥡">dovážka jídla | jídelní hůlky | jídlo | jídlo do domu | krabice na jídlo | krabice s jídlem | krabička | krabička na jídlo | papírová krabička | rozvoz jídla | rýže</annotation>
 		<annotation cp="🥡" type="tts">krabice na jídlo</annotation>
-		<annotation cp="🦀">horoskop | krab | rak | Rak | znamení Raka | zvěrokruh | zvíře</annotation>
-		<annotation cp="🦀" type="tts">krab</annotation>
-		<annotation cp="🦞">humr | humří polévka | klepeta | korýš | langusta | plody moře | rak | zvíře</annotation>
-		<annotation cp="🦞" type="tts">humr</annotation>
-		<annotation cp="🦐">garnát | jídlo | korýš | kreveta | malý | moře | mořský | oceán | plody moře | zvíře</annotation>
-		<annotation cp="🦐" type="tts">kreveta</annotation>
-		<annotation cp="🦑">chobotnice | hlavonožec | jídlo | kalamár | kalmar | krakatice | měkkýš | mořské plody | oliheň | plody moře | sépie | zvíře</annotation>
-		<annotation cp="🦑" type="tts">oliheň</annotation>
-		<annotation cp="🦪">jídlo | perla | perleť | potápění | ústřice</annotation>
-		<annotation cp="🦪" type="tts">ústřice</annotation>
 		<annotation cp="🍦">cukrovinka | dezert | jemný | jídlo | kornout | kornoutek | krémová zmrzlina | sladkost | sladký | točená zmrzlina | zákusek | zmrzlina | zmrzlina v kornoutku</annotation>
 		<annotation cp="🍦" type="tts">točená zmrzlina</annotation>
 		<annotation cp="🍧">cukrovinka | dezert | dřeň | jídlo | led | ledová tříšť | osvěžující | restaurace | sladkost | sladký | tříšť | zákusek | zmrzlina | zmrzlinový pohár</annotation>
@@ -2311,6 +2315,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🏔" type="tts">zasněžená hora</annotation>
 		<annotation cp="⛰">hora | horský | hory | kopec | pohoří | příroda | štít | vrch</annotation>
 		<annotation cp="⛰" type="tts">hora</annotation>
+		<annotation cp="🛘">hora | kamení | katastrofa | lavina | nebezpečí | padající kamení | pohroma | sesuv půdy | zemětřesení</annotation>
+		<annotation cp="🛘" type="tts">sesuv půdy</annotation>
 		<annotation cp="🌋">erupce | hora | láva | příroda | sopka | vulkán | výbuch</annotation>
 		<annotation cp="🌋" type="tts">sopka</annotation>
 		<annotation cp="🗻">fudži | Fudži | fuji | hora | Japonsko | příroda | sopka</annotation>
@@ -3031,14 +3037,16 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="📻" type="tts">rádio</annotation>
 		<annotation cp="🎷">dechový | hudba | hudební nástroj | nástroj | saxofon | tón | žestě | žesťový</annotation>
 		<annotation cp="🎷" type="tts">saxofon</annotation>
+		<annotation cp="🎺">dechový | hudba | hudební nástroj | nástroj | trubka | trumpeta | žestě | žesťový</annotation>
+		<annotation cp="🎺" type="tts">trubka</annotation>
+		<annotation cp="🪊">hudba | jazz | nástroj | posouvání | smutná | žesťové | žesťový</annotation>
+		<annotation cp="🪊" type="tts">pozoun</annotation>
 		<annotation cp="🪗">akordeon | dršťky | harmonika | hudba | hudební | klávesy | koncertina | muzika | nástroj | tahací | zednické piano</annotation>
 		<annotation cp="🪗" type="tts">akordeon</annotation>
 		<annotation cp="🎸">elektrická kytara | Fender | hudba | hudební nástroj | kytara | nástroj | Stratocaster</annotation>
 		<annotation cp="🎸" type="tts">kytara</annotation>
 		<annotation cp="🎹">hrát | hudba | hudební nástroj | klávesy | klaviatura | klavír | nástroj | piano | zvuk</annotation>
 		<annotation cp="🎹" type="tts">klávesy</annotation>
-		<annotation cp="🎺">dechový | hudba | hudební nástroj | nástroj | trubka | trumpeta | žestě | žesťový</annotation>
-		<annotation cp="🎺" type="tts">trubka</annotation>
 		<annotation cp="🎻">housle | hudba | hudební nástroj | nástroj | skřipky | smyčec | stradivárky</annotation>
 		<annotation cp="🎻" type="tts">housle</annotation>
 		<annotation cp="🪕">banjo | bendžo | brnkat | hudba | hudební | nástroj | strunný</annotation>
@@ -3051,6 +3059,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🪇" type="tts">rumbakoule</annotation>
 		<annotation cp="🪈">dechový nástroj | flétna | hudba | pikola | píšťala | zobcová flétna</annotation>
 		<annotation cp="🪈" type="tts">flétna</annotation>
+		<annotation cp="🪉">amor | harfa | hudba | láska | nástroj | orchestr</annotation>
+		<annotation cp="🪉" type="tts">harfa</annotation>
 		<annotation cp="📱">komunikace | mobil | mobilní | smartphone | telefon</annotation>
 		<annotation cp="📱" type="tts">mobil</annotation>
 		<annotation cp="📲">hovor | komunikace | mobil | mobil se šipkou | mobilní | příjem | přijmout | šipka | telefon | volání</annotation>
@@ -3157,10 +3167,12 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🔖" type="tts">záložka</annotation>
 		<annotation cp="🏷">cedulka | cenovka | jmenovka | štítek | visačka</annotation>
 		<annotation cp="🏷" type="tts">visačka</annotation>
-		<annotation cp="💰">banka | boháč | bohatý | cash | cena | dolary | hotovost | měšec | milion | peněz | peníze | platit | poklad | pytel | sázka | skrblík | váček | vak | vyhrát | zlato</annotation>
-		<annotation cp="💰" type="tts">pytel peněz</annotation>
 		<annotation cp="🪙">bohatý | dolar | euro | kov | mince | peníze | poklad | prachy | stříbro | zlato</annotation>
 		<annotation cp="🪙" type="tts">mince</annotation>
+		<annotation cp="💰">banka | boháč | bohatý | cash | cena | dolary | hotovost | měšec | milion | peněz | peníze | platit | poklad | pytel | sázka | skrblík | váček | vak | vyhrát | zlato</annotation>
+		<annotation cp="💰" type="tts">pytel peněz</annotation>
+		<annotation cp="🪎">bohatství | cena | cennosti | drahokam | klenoty | lup | odměna | peníze | šperky | stříbro | zlato</annotation>
+		<annotation cp="🪎" type="tts">truhla s pokladem</annotation>
 		<annotation cp="💴">banka | bankovka | čína | hotovost | jen | jenová bankovka | měna | peníze | yen</annotation>
 		<annotation cp="💴" type="tts">jenová bankovka</annotation>
 		<annotation cp="💵">banka | bankovka | dolar | dolarová bankovka | měna | peníze</annotation>
@@ -3327,6 +3339,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="🧲" type="tts">magnet</annotation>
 		<annotation cp="🪜">lezení | nářadí | příčka | schod | schůdky | šplhat | šprušel | žebřík</annotation>
 		<annotation cp="🪜" type="tts">žebřík</annotation>
+		<annotation cp="🪏">jáma | kopat | lopata | rostlina | rýč | sníh | zahrabat | zahrada</annotation>
+		<annotation cp="🪏" type="tts">lopata</annotation>
 		<annotation cp="⚗">alembik | chemie | destilace | destilační | destilační přístroj | křivule | laboratoř | náčiní | nádobí | nástroj</annotation>
 		<annotation cp="⚗" type="tts">křivule</annotation>
 		<annotation cp="🧪">chemička | chemie | chemik | experiment | kapalina | kyselina | laboratoř | pokus | věda | žíravina | zkumavka</annotation>
@@ -3699,6 +3713,8 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="®" type="tts">znak registrované ochranné známky</annotation>
 		<annotation cp="™">ochranná známka | tm | TM | trademark | značka | značka ochranné známky | znak ochranné známky</annotation>
 		<annotation cp="™" type="tts">znak ochranné známky</annotation>
+		<annotation cp="🫟">barva | inkoust | kapka | nepořádek | rozlití | skvrna | tekutina</annotation>
+		<annotation cp="🫟" type="tts">skvrna</annotation>
 		<annotation cp="🔠">ABCD | abeceda | kapitálky | klávesnice | latinka | písmena | psaní | velká písmena | velká tiskací písmena | vstup | zadávání | zadávání v latince | zadávání v latince, velká písmena</annotation>
 		<annotation cp="🔠" type="tts">zadávání v latince, velká písmena</annotation>
 		<annotation cp="🔡">abcd | abeceda | klávesnice | latinka | malá písmena | písmena | psaní | vstup | zadávání | zadávání v latince | zadávání v latince, malá písmena</annotation>
@@ -3897,6 +3913,26 @@ Warnings: All cp values have U+FE0F characters removed. See /annotationsDerived/
 		<annotation cp="₽" type="tts">rubl</annotation>
 		<annotation cp="₿">bitcoin | BTC | kryptoměna | měna</annotation>
 		<annotation cp="₿" type="tts">bitcoin</annotation>
+		<annotation cp="0⃣">0 | klávesa | nula</annotation>
+		<annotation cp="0⃣" type="tts">klávesa: 0</annotation>
+		<annotation cp="1⃣">1 | jedna | klávesa</annotation>
+		<annotation cp="1⃣" type="tts">klávesa: 1</annotation>
+		<annotation cp="2⃣">2 | dva | klávesa</annotation>
+		<annotation cp="2⃣" type="tts">klávesa: 2</annotation>
+		<annotation cp="3⃣">3 | klávesa | tři</annotation>
+		<annotation cp="3⃣" type="tts">klávesa: 3</annotation>
+		<annotation cp="4⃣">4 | čtyři | klávesa</annotation>
+		<annotation cp="4⃣" type="tts">klávesa: 4</annotation>
+		<annotation cp="5⃣">5 | klávesa | pět</annotation>
+		<annotation cp="5⃣" type="tts">klávesa: 5</annotation>
+		<annotation cp="6⃣">6 | klávesa | šest</annotation>
+		<annotation cp="6⃣" type="tts">klávesa: 6</annotation>
+		<annotation cp="7⃣">7 | klávesa | sedm</annotation>
+		<annotation cp="7⃣" type="tts">klávesa: 7</annotation>
+		<annotation cp="8⃣">8 | klávesa | osm</annotation>
+		<annotation cp="8⃣" type="tts">klávesa: 8</annotation>
+		<annotation cp="9⃣">9 | devět | klávesa</annotation>
+		<annotation cp="9⃣" type="tts">klávesa: 9</annotation>
 		<annotation cp="¹">číslice jedna jako horní index | exponent | horní index | jedna | jednička | na první</annotation>
 		<annotation cp="¹" type="tts">číslice jedna jako horní index</annotation>
 		<annotation cp="²">číslice dvě jako horní index | čtvereční | dvě | dvojka | exponent | horní index | na druhou</annotation>

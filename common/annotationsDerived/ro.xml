@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -603,6 +603,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾" type="tts">persoană blondă: ton semi‑închis al pielii</annotation>
 		<annotation cp="👱🏿">blond | față | om | păr | persoană | persoană blondă | persoană cu păr blond | ton închis al pielii</annotation>
 		<annotation cp="👱🏿" type="tts">persoană blondă: ton închis al pielii</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton deschis al pielii | ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼" type="tts">persoane care practică wrestling: ton deschis al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton deschis al pielii | ton mediu al pielii</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽" type="tts">persoane care practică wrestling: ton deschis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton deschis al pielii | ton semi‑închis al pielii</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾" type="tts">persoane care practică wrestling: ton deschis al pielii, ton semi‑închis al pielii</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton deschis al pielii | ton închis al pielii</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿" type="tts">persoane care practică wrestling: ton deschis al pielii, ton închis al pielii</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton deschis al pielii | ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻" type="tts">persoane care practică wrestling: ton semi‑deschis al pielii, ton deschis al pielii</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton mediu al pielii | ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽" type="tts">persoane care practică wrestling: ton semi‑deschis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton semi‑deschis al pielii | ton semi‑închis al pielii</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾" type="tts">persoane care practică wrestling: ton semi‑deschis al pielii, ton semi‑închis al pielii</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton închis al pielii | ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿" type="tts">persoane care practică wrestling: ton semi‑deschis al pielii, ton închis al pielii</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton deschis al pielii | ton mediu al pielii</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻" type="tts">persoane care practică wrestling: ton mediu al pielii, ton deschis al pielii</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton mediu al pielii | ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼" type="tts">persoane care practică wrestling: ton mediu al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton mediu al pielii | ton semi‑închis al pielii</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾" type="tts">persoane care practică wrestling: ton mediu al pielii, ton semi‑închis al pielii</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton închis al pielii | ton mediu al pielii</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿" type="tts">persoane care practică wrestling: ton mediu al pielii, ton închis al pielii</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton deschis al pielii | ton semi‑închis al pielii</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻" type="tts">persoane care practică wrestling: ton semi‑închis al pielii, ton deschis al pielii</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton semi‑deschis al pielii | ton semi‑închis al pielii</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼" type="tts">persoane care practică wrestling: ton semi‑închis al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton mediu al pielii | ton semi‑închis al pielii</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽" type="tts">persoane care practică wrestling: ton semi‑închis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton închis al pielii | ton semi‑închis al pielii</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿" type="tts">persoane care practică wrestling: ton semi‑închis al pielii, ton închis al pielii</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton deschis al pielii | ton închis al pielii</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻" type="tts">persoane care practică wrestling: ton închis al pielii, ton deschis al pielii</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton închis al pielii | ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼" type="tts">persoane care practică wrestling: ton închis al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton închis al pielii | ton mediu al pielii</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽" type="tts">persoane care practică wrestling: ton închis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton închis al pielii | ton semi‑închis al pielii</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾" type="tts">persoane care practică wrestling: ton închis al pielii, ton semi‑închis al pielii</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼">adult | aniversare | cuplu | dragoste | inimă | întâlnire | iubire | pupic | romantic | sărut | ton deschis al pielii | ton semi‑deschis al pielii</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼" type="tts">sărut: adult, adult, ton deschis al pielii, ton semi‑deschis al pielii</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏽">adult | aniversare | cuplu | dragoste | inimă | întâlnire | iubire | pupic | romantic | sărut | ton deschis al pielii | ton mediu al pielii</annotation>
@@ -731,6 +771,56 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦲" type="tts">adult: ton semi‑închis al pielii, chelie</annotation>
 		<annotation cp="🧑🏿‍🦲">adult | chelie | neutru | persoană | ton închis al pielii</annotation>
 		<annotation cp="🧑🏿‍🦲" type="tts">adult: ton închis al pielii, chelie</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton deschis al pielii | ton semi‑deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼" type="tts">persoane care poartă urechi de iepuraș: ton deschis al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton deschis al pielii | ton mediu al pielii | urechi de iepuraș</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽" type="tts">persoane care poartă urechi de iepuraș: ton deschis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton deschis al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾" type="tts">persoane care poartă urechi de iepuraș: ton deschis al pielii, ton semi‑închis al pielii</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton deschis al pielii | ton închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿" type="tts">persoane care poartă urechi de iepuraș: ton deschis al pielii, ton închis al pielii</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton deschis al pielii | ton semi‑deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻" type="tts">persoane care poartă urechi de iepuraș: ton semi‑deschis al pielii, ton deschis al pielii</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton mediu al pielii | ton semi‑deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽" type="tts">persoane care poartă urechi de iepuraș: ton semi‑deschis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton semi‑deschis al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾" type="tts">persoane care poartă urechi de iepuraș: ton semi‑deschis al pielii, ton semi‑închis al pielii</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton închis al pielii | ton semi‑deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿" type="tts">persoane care poartă urechi de iepuraș: ton semi‑deschis al pielii, ton închis al pielii</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton deschis al pielii | ton mediu al pielii | urechi de iepuraș</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻" type="tts">persoane care poartă urechi de iepuraș: ton mediu al pielii, ton deschis al pielii</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton mediu al pielii | ton semi‑deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼" type="tts">persoane care poartă urechi de iepuraș: ton mediu al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton mediu al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾" type="tts">persoane care poartă urechi de iepuraș: ton mediu al pielii, ton semi‑închis al pielii</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton închis al pielii | ton mediu al pielii | urechi de iepuraș</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿" type="tts">persoane care poartă urechi de iepuraș: ton mediu al pielii, ton închis al pielii</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton deschis al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻" type="tts">persoane care poartă urechi de iepuraș: ton semi‑închis al pielii, ton deschis al pielii</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton semi‑deschis al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼" type="tts">persoane care poartă urechi de iepuraș: ton semi‑închis al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton mediu al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽" type="tts">persoane care poartă urechi de iepuraș: ton semi‑închis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton închis al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿" type="tts">persoane care poartă urechi de iepuraș: ton semi‑închis al pielii, ton închis al pielii</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton deschis al pielii | ton închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻" type="tts">persoane care poartă urechi de iepuraș: ton închis al pielii, ton deschis al pielii</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton închis al pielii | ton semi‑deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼" type="tts">persoane care poartă urechi de iepuraș: ton închis al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton închis al pielii | ton mediu al pielii | urechi de iepuraș</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽" type="tts">persoane care poartă urechi de iepuraș: ton închis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton închis al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾" type="tts">persoane care poartă urechi de iepuraș: ton închis al pielii, ton semi‑închis al pielii</annotation>
+		<annotation cp="🧑🏻‍🩰">balet | dansatoare | dansator | ton deschis al pielii</annotation>
+		<annotation cp="🧑🏻‍🩰" type="tts">balerin sau balerină: ton deschis al pielii</annotation>
+		<annotation cp="🧑🏼‍🩰">balet | dansatoare | dansator | ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧑🏼‍🩰" type="tts">balerin sau balerină: ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧑🏽‍🩰">balet | dansatoare | dansator | ton mediu al pielii</annotation>
+		<annotation cp="🧑🏽‍🩰" type="tts">balerin sau balerină: ton mediu al pielii</annotation>
+		<annotation cp="🧑🏾‍🩰">balet | dansatoare | dansator | ton semi‑închis al pielii</annotation>
+		<annotation cp="🧑🏾‍🩰" type="tts">balerin sau balerină: ton semi‑închis al pielii</annotation>
+		<annotation cp="🧑🏿‍🩰">balet | dansatoare | dansator | ton închis al pielii</annotation>
+		<annotation cp="🧑🏿‍🩰" type="tts">balerin sau balerină: ton închis al pielii</annotation>
 		<annotation cp="👨🏻">adult | amic | băiat | bărbat | bro | prieten | ton deschis al pielii</annotation>
 		<annotation cp="👨🏻" type="tts">bărbat: ton deschis al pielii</annotation>
 		<annotation cp="👨🏼">adult | amic | băiat | bărbat | bro | prieten | ton semi‑deschis al pielii</annotation>
@@ -771,6 +861,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♂" type="tts">bărbat blond: ton semi‑închis al pielii</annotation>
 		<annotation cp="👱🏿‍♂">bărbat | bărbat cu păr blond | blond | păr | ton închis al pielii</annotation>
 		<annotation cp="👱🏿‍♂" type="tts">bărbat blond: ton închis al pielii</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton deschis al pielii | ton semi‑deschis al pielii | turneu | wrestling</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼" type="tts">bărbat care practică wrestling: ton deschis al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton deschis al pielii | ton mediu al pielii | turneu | wrestling</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽" type="tts">bărbat care practică wrestling: ton deschis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton deschis al pielii | ton semi‑închis al pielii | turneu | wrestling</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾" type="tts">bărbat care practică wrestling: ton deschis al pielii, ton semi‑închis al pielii</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton deschis al pielii | ton închis al pielii | turneu | wrestling</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿" type="tts">bărbat care practică wrestling: ton deschis al pielii, ton închis al pielii</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton deschis al pielii | ton semi‑deschis al pielii | turneu | wrestling</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻" type="tts">bărbat care practică wrestling: ton semi‑deschis al pielii, ton deschis al pielii</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton mediu al pielii | ton semi‑deschis al pielii | turneu | wrestling</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽" type="tts">bărbat care practică wrestling: ton semi‑deschis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton semi‑deschis al pielii | ton semi‑închis al pielii | turneu | wrestling</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾" type="tts">bărbat care practică wrestling: ton semi‑deschis al pielii, ton semi‑închis al pielii</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton închis al pielii | ton semi‑deschis al pielii | turneu | wrestling</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿" type="tts">bărbat care practică wrestling: ton semi‑deschis al pielii, ton închis al pielii</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton deschis al pielii | ton mediu al pielii | turneu | wrestling</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻" type="tts">bărbat care practică wrestling: ton mediu al pielii, ton deschis al pielii</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton mediu al pielii | ton semi‑deschis al pielii | turneu | wrestling</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼" type="tts">bărbat care practică wrestling: ton mediu al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton mediu al pielii | ton semi‑închis al pielii | turneu | wrestling</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾" type="tts">bărbat care practică wrestling: ton mediu al pielii, ton semi‑închis al pielii</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton închis al pielii | ton mediu al pielii | turneu | wrestling</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿" type="tts">bărbat care practică wrestling: ton mediu al pielii, ton închis al pielii</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton deschis al pielii | ton semi‑închis al pielii | turneu | wrestling</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻" type="tts">bărbat care practică wrestling: ton semi‑închis al pielii, ton deschis al pielii</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton semi‑deschis al pielii | ton semi‑închis al pielii | turneu | wrestling</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼" type="tts">bărbat care practică wrestling: ton semi‑închis al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton mediu al pielii | ton semi‑închis al pielii | turneu | wrestling</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽" type="tts">bărbat care practică wrestling: ton semi‑închis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton închis al pielii | ton semi‑închis al pielii | turneu | wrestling</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿" type="tts">bărbat care practică wrestling: ton semi‑închis al pielii, ton închis al pielii</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton deschis al pielii | ton închis al pielii | turneu | wrestling</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻" type="tts">bărbat care practică wrestling: ton închis al pielii, ton deschis al pielii</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton închis al pielii | ton semi‑deschis al pielii | turneu | wrestling</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼" type="tts">bărbat care practică wrestling: ton închis al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton închis al pielii | ton mediu al pielii | turneu | wrestling</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽" type="tts">bărbat care practică wrestling: ton închis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton închis al pielii | ton semi‑închis al pielii | turneu | wrestling</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾" type="tts">bărbat care practică wrestling: ton închis al pielii, ton semi‑închis al pielii</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻">aniversare | bărbat | cuplu | dragoste | inimă | întâlnire | iubire | pupic | romantic | sărut | ton deschis al pielii</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻" type="tts">sărut: bărbat, bărbat, ton deschis al pielii</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏼">aniversare | bărbat | cuplu | dragoste | inimă | întâlnire | iubire | pupic | romantic | sărut | ton deschis al pielii | ton semi‑deschis al pielii</annotation>
@@ -919,6 +1049,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦲" type="tts">bărbat: ton semi‑închis al pielii, chelie</annotation>
 		<annotation cp="👨🏿‍🦲">adult | amic | băiat | bărbat | bro | chelie | prieten | ton închis al pielii</annotation>
 		<annotation cp="👨🏿‍🦲" type="tts">bărbat: ton închis al pielii, chelie</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton deschis al pielii | ton semi‑deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼" type="tts">bărbați care poartă urechi de iepuraș: ton deschis al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton deschis al pielii | ton mediu al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽" type="tts">bărbați care poartă urechi de iepuraș: ton deschis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton deschis al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾" type="tts">bărbați care poartă urechi de iepuraș: ton deschis al pielii, ton semi‑închis al pielii</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton deschis al pielii | ton închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿" type="tts">bărbați care poartă urechi de iepuraș: ton deschis al pielii, ton închis al pielii</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton deschis al pielii | ton semi‑deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻" type="tts">bărbați care poartă urechi de iepuraș: ton semi‑deschis al pielii, ton deschis al pielii</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton mediu al pielii | ton semi‑deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽" type="tts">bărbați care poartă urechi de iepuraș: ton semi‑deschis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton semi‑deschis al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾" type="tts">bărbați care poartă urechi de iepuraș: ton semi‑deschis al pielii, ton semi‑închis al pielii</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton închis al pielii | ton semi‑deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿" type="tts">bărbați care poartă urechi de iepuraș: ton semi‑deschis al pielii, ton închis al pielii</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton deschis al pielii | ton mediu al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻" type="tts">bărbați care poartă urechi de iepuraș: ton mediu al pielii, ton deschis al pielii</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton mediu al pielii | ton semi‑deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼" type="tts">bărbați care poartă urechi de iepuraș: ton mediu al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton mediu al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾" type="tts">bărbați care poartă urechi de iepuraș: ton mediu al pielii, ton semi‑închis al pielii</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton închis al pielii | ton mediu al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿" type="tts">bărbați care poartă urechi de iepuraș: ton mediu al pielii, ton închis al pielii</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton deschis al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻" type="tts">bărbați care poartă urechi de iepuraș: ton semi‑închis al pielii, ton deschis al pielii</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton semi‑deschis al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼" type="tts">bărbați care poartă urechi de iepuraș: ton semi‑închis al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton mediu al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽" type="tts">bărbați care poartă urechi de iepuraș: ton semi‑închis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton închis al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿" type="tts">bărbați care poartă urechi de iepuraș: ton semi‑închis al pielii, ton închis al pielii</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton deschis al pielii | ton închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻" type="tts">bărbați care poartă urechi de iepuraș: ton închis al pielii, ton deschis al pielii</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton închis al pielii | ton semi‑deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼" type="tts">bărbați care poartă urechi de iepuraș: ton închis al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton închis al pielii | ton mediu al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽" type="tts">bărbați care poartă urechi de iepuraș: ton închis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton închis al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾" type="tts">bărbați care poartă urechi de iepuraș: ton închis al pielii, ton semi‑închis al pielii</annotation>
 		<annotation cp="👩🏻">adultă | blondă | blondină | coafură | doamnă | femeie | ton deschis al pielii | tunosare | tunsoare</annotation>
 		<annotation cp="👩🏻" type="tts">femeie: ton deschis al pielii</annotation>
 		<annotation cp="👩🏼">adultă | blondă | blondină | coafură | doamnă | femeie | ton semi‑deschis al pielii | tunosare | tunsoare</annotation>
@@ -949,6 +1119,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♀" type="tts">femeie blondă: ton semi‑închis al pielii</annotation>
 		<annotation cp="👱🏿‍♀">blondă | femeie | femeie cu păr blond | păr | ton închis al pielii</annotation>
 		<annotation cp="👱🏿‍♀" type="tts">femeie blondă: ton închis al pielii</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton deschis al pielii | ton semi‑deschis al pielii | wrestling</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼" type="tts">femeie care practică wrestling: ton deschis al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton deschis al pielii | ton mediu al pielii | wrestling</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽" type="tts">femeie care practică wrestling: ton deschis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton deschis al pielii | ton semi‑închis al pielii | wrestling</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾" type="tts">femeie care practică wrestling: ton deschis al pielii, ton semi‑închis al pielii</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton deschis al pielii | ton închis al pielii | wrestling</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿" type="tts">femeie care practică wrestling: ton deschis al pielii, ton închis al pielii</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton deschis al pielii | ton semi‑deschis al pielii | wrestling</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻" type="tts">femeie care practică wrestling: ton semi‑deschis al pielii, ton deschis al pielii</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton mediu al pielii | ton semi‑deschis al pielii | wrestling</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽" type="tts">femeie care practică wrestling: ton semi‑deschis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton semi‑deschis al pielii | ton semi‑închis al pielii | wrestling</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾" type="tts">femeie care practică wrestling: ton semi‑deschis al pielii, ton semi‑închis al pielii</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton închis al pielii | ton semi‑deschis al pielii | wrestling</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿" type="tts">femeie care practică wrestling: ton semi‑deschis al pielii, ton închis al pielii</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton deschis al pielii | ton mediu al pielii | wrestling</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻" type="tts">femeie care practică wrestling: ton mediu al pielii, ton deschis al pielii</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton mediu al pielii | ton semi‑deschis al pielii | wrestling</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼" type="tts">femeie care practică wrestling: ton mediu al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton mediu al pielii | ton semi‑închis al pielii | wrestling</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾" type="tts">femeie care practică wrestling: ton mediu al pielii, ton semi‑închis al pielii</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton închis al pielii | ton mediu al pielii | wrestling</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿" type="tts">femeie care practică wrestling: ton mediu al pielii, ton închis al pielii</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton deschis al pielii | ton semi‑închis al pielii | wrestling</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻" type="tts">femeie care practică wrestling: ton semi‑închis al pielii, ton deschis al pielii</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton semi‑deschis al pielii | ton semi‑închis al pielii | wrestling</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼" type="tts">femeie care practică wrestling: ton semi‑închis al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton mediu al pielii | ton semi‑închis al pielii | wrestling</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽" type="tts">femeie care practică wrestling: ton semi‑închis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton închis al pielii | ton semi‑închis al pielii | wrestling</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿" type="tts">femeie care practică wrestling: ton semi‑închis al pielii, ton închis al pielii</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton deschis al pielii | ton închis al pielii | wrestling</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻" type="tts">femeie care practică wrestling: ton închis al pielii, ton deschis al pielii</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton închis al pielii | ton semi‑deschis al pielii | wrestling</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼" type="tts">femeie care practică wrestling: ton închis al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton închis al pielii | ton mediu al pielii | wrestling</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽" type="tts">femeie care practică wrestling: ton închis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton închis al pielii | ton semi‑închis al pielii | wrestling</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾" type="tts">femeie care practică wrestling: ton închis al pielii, ton semi‑închis al pielii</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻">aniversare | bărbat | cuplu | dragoste | femeie | inimă | întâlnire | iubire | pupic | romantic | sărut | ton deschis al pielii</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻" type="tts">sărut: femeie, bărbat, ton deschis al pielii</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏼">aniversare | bărbat | cuplu | dragoste | femeie | inimă | întâlnire | iubire | pupic | romantic | sărut | ton deschis al pielii | ton semi‑deschis al pielii</annotation>
@@ -1197,6 +1407,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦲" type="tts">femeie: ton semi‑închis al pielii, chelie</annotation>
 		<annotation cp="👩🏿‍🦲">adultă | blondă | blondină | chelie | coafură | doamnă | femeie | ton închis al pielii | tunosare | tunsoare</annotation>
 		<annotation cp="👩🏿‍🦲" type="tts">femeie: ton închis al pielii, chelie</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton deschis al pielii | ton semi‑deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼" type="tts">femei care poartă urechi de iepuraș: ton deschis al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton deschis al pielii | ton mediu al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽" type="tts">femei care poartă urechi de iepuraș: ton deschis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton deschis al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾" type="tts">femei care poartă urechi de iepuraș: ton deschis al pielii, ton semi‑închis al pielii</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton deschis al pielii | ton închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿" type="tts">femei care poartă urechi de iepuraș: ton deschis al pielii, ton închis al pielii</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton deschis al pielii | ton semi‑deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻" type="tts">femei care poartă urechi de iepuraș: ton semi‑deschis al pielii, ton deschis al pielii</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton mediu al pielii | ton semi‑deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽" type="tts">femei care poartă urechi de iepuraș: ton semi‑deschis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton semi‑deschis al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾" type="tts">femei care poartă urechi de iepuraș: ton semi‑deschis al pielii, ton semi‑închis al pielii</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton închis al pielii | ton semi‑deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿" type="tts">femei care poartă urechi de iepuraș: ton semi‑deschis al pielii, ton închis al pielii</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton deschis al pielii | ton mediu al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻" type="tts">femei care poartă urechi de iepuraș: ton mediu al pielii, ton deschis al pielii</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton mediu al pielii | ton semi‑deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼" type="tts">femei care poartă urechi de iepuraș: ton mediu al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton mediu al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾" type="tts">femei care poartă urechi de iepuraș: ton mediu al pielii, ton semi‑închis al pielii</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton închis al pielii | ton mediu al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿" type="tts">femei care poartă urechi de iepuraș: ton mediu al pielii, ton închis al pielii</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton deschis al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻" type="tts">femei care poartă urechi de iepuraș: ton semi‑închis al pielii, ton deschis al pielii</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton semi‑deschis al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼" type="tts">femei care poartă urechi de iepuraș: ton semi‑închis al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton mediu al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽" type="tts">femei care poartă urechi de iepuraș: ton semi‑închis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton închis al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿" type="tts">femei care poartă urechi de iepuraș: ton semi‑închis al pielii, ton închis al pielii</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton deschis al pielii | ton închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻" type="tts">femei care poartă urechi de iepuraș: ton închis al pielii, ton deschis al pielii</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton închis al pielii | ton semi‑deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼" type="tts">femei care poartă urechi de iepuraș: ton închis al pielii, ton semi‑deschis al pielii</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton închis al pielii | ton mediu al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽" type="tts">femei care poartă urechi de iepuraș: ton închis al pielii, ton mediu al pielii</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton închis al pielii | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾" type="tts">femei care poartă urechi de iepuraș: ton închis al pielii, ton semi‑închis al pielii</annotation>
 		<annotation cp="🧓🏻">adult | bătrân | în vârstă | neutru | pensionar | persoană în vârstă | ton deschis al pielii | vârstnic</annotation>
 		<annotation cp="🧓🏻" type="tts">persoană în vârstă: ton deschis al pielii</annotation>
 		<annotation cp="🧓🏼">adult | bătrân | în vârstă | neutru | pensionar | persoană în vârstă | ton semi‑deschis al pielii | vârstnic</annotation>
@@ -2687,42 +2937,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🚶🏾‍♀" type="tts">femeie care merge: ton semi‑închis al pielii</annotation>
 		<annotation cp="🚶🏿‍♀">agale | deplasare | drumeție | femeie | femeie care merge | la pas | mers | om care merge | pas | pe jos | persoană care merge | pieton | plimbare | ton închis al pielii</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">femeie care merge: ton închis al pielii</annotation>
-		<annotation cp="🚶‍➡">agale | bărbat care merge | deplasare | drumeție | la pas | merge | mers | pe jos | persoană | persoană care merge | pieton | plimbare | ritm</annotation>
-		<annotation cp="🚶‍➡" type="tts">persoană care merge orientate spre dreapta</annotation>
-		<annotation cp="🚶🏻‍➡">agale | bărbat care merge | deplasare | drumeție | la pas | merge | mers | pe jos | persoană | persoană care merge | pieton | plimbare | ritm</annotation>
-		<annotation cp="🚶🏻‍➡" type="tts">persoană care merge orientate spre dreapta</annotation>
-		<annotation cp="🚶🏼‍➡">agale | bărbat care merge | deplasare | drumeție | la pas | merge | mers | pe jos | persoană | persoană care merge | pieton | plimbare | ritm</annotation>
-		<annotation cp="🚶🏼‍➡" type="tts">persoană care merge orientate spre dreapta</annotation>
-		<annotation cp="🚶🏽‍➡">agale | bărbat care merge | deplasare | drumeție | la pas | merge | mers | pe jos | persoană | persoană care merge | pieton | plimbare | ritm</annotation>
-		<annotation cp="🚶🏽‍➡" type="tts">persoană care merge orientate spre dreapta</annotation>
-		<annotation cp="🚶🏾‍➡">agale | bărbat care merge | deplasare | drumeție | la pas | merge | mers | pe jos | persoană | persoană care merge | pieton | plimbare | ritm</annotation>
-		<annotation cp="🚶🏾‍➡" type="tts">persoană care merge orientate spre dreapta</annotation>
-		<annotation cp="🚶🏿‍➡">agale | bărbat care merge | deplasare | drumeție | la pas | merge | mers | pe jos | persoană | persoană care merge | pieton | plimbare | ritm</annotation>
-		<annotation cp="🚶🏿‍➡" type="tts">persoană care merge orientate spre dreapta</annotation>
-		<annotation cp="🚶‍♀‍➡">agale | deplasare | drumeție | femeie | femeie care merge | la pas | mers | om care merge | pas | pe jos | persoană care merge | pieton | plimbare</annotation>
-		<annotation cp="🚶‍♀‍➡" type="tts">femeie care merge orientate spre dreapta</annotation>
-		<annotation cp="🚶🏻‍♀‍➡">agale | deplasare | drumeție | femeie | femeie care merge | la pas | mers | om care merge | pas | pe jos | persoană care merge | pieton | plimbare</annotation>
-		<annotation cp="🚶🏻‍♀‍➡" type="tts">femeie care merge orientate spre dreapta</annotation>
-		<annotation cp="🚶🏼‍♀‍➡">agale | deplasare | drumeție | femeie | femeie care merge | la pas | mers | om care merge | pas | pe jos | persoană care merge | pieton | plimbare</annotation>
-		<annotation cp="🚶🏼‍♀‍➡" type="tts">femeie care merge orientate spre dreapta</annotation>
-		<annotation cp="🚶🏽‍♀‍➡">agale | deplasare | drumeție | femeie | femeie care merge | la pas | mers | om care merge | pas | pe jos | persoană care merge | pieton | plimbare</annotation>
-		<annotation cp="🚶🏽‍♀‍➡" type="tts">femeie care merge orientate spre dreapta</annotation>
-		<annotation cp="🚶🏾‍♀‍➡">agale | deplasare | drumeție | femeie | femeie care merge | la pas | mers | om care merge | pas | pe jos | persoană care merge | pieton | plimbare</annotation>
-		<annotation cp="🚶🏾‍♀‍➡" type="tts">femeie care merge orientate spre dreapta</annotation>
-		<annotation cp="🚶🏿‍♀‍➡">agale | deplasare | drumeție | femeie | femeie care merge | la pas | mers | om care merge | pas | pe jos | persoană care merge | pieton | plimbare</annotation>
-		<annotation cp="🚶🏿‍♀‍➡" type="tts">femeie care merge orientate spre dreapta</annotation>
-		<annotation cp="🚶‍♂‍➡">bărbat | bărbat care merge | mers | plimbare</annotation>
-		<annotation cp="🚶‍♂‍➡" type="tts">bărbat care merge orientate spre dreapta</annotation>
-		<annotation cp="🚶🏻‍♂‍➡">bărbat | bărbat care merge | mers | plimbare</annotation>
-		<annotation cp="🚶🏻‍♂‍➡" type="tts">bărbat care merge orientate spre dreapta</annotation>
-		<annotation cp="🚶🏼‍♂‍➡">bărbat | bărbat care merge | mers | plimbare</annotation>
-		<annotation cp="🚶🏼‍♂‍➡" type="tts">bărbat care merge orientate spre dreapta</annotation>
-		<annotation cp="🚶🏽‍♂‍➡">bărbat | bărbat care merge | mers | plimbare</annotation>
-		<annotation cp="🚶🏽‍♂‍➡" type="tts">bărbat care merge orientate spre dreapta</annotation>
-		<annotation cp="🚶🏾‍♂‍➡">bărbat | bărbat care merge | mers | plimbare</annotation>
-		<annotation cp="🚶🏾‍♂‍➡" type="tts">bărbat care merge orientate spre dreapta</annotation>
-		<annotation cp="🚶🏿‍♂‍➡">bărbat | bărbat care merge | mers | plimbare</annotation>
-		<annotation cp="🚶🏿‍♂‍➡" type="tts">bărbat care merge orientate spre dreapta</annotation>
+		<annotation cp="🚶‍➡">agale | bărbat care merge | deplasare | dreapta | drumeție | la pas | merge | mers | orientate | pe jos | persoană | persoană care merge | pieton | plimbare | ritm | spre</annotation>
+		<annotation cp="🚶‍➡" type="tts">persoană care merge: orientate spre dreapta</annotation>
+		<annotation cp="🚶🏻‍➡">agale | bărbat care merge | deplasare | dreapta | drumeție | la pas | merge | mers | orientate | pe jos | persoană | persoană care merge | pieton | plimbare | ritm | spre | ton deschis al pielii</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">persoană care merge: ton deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🚶🏼‍➡">agale | bărbat care merge | deplasare | dreapta | drumeție | la pas | merge | mers | orientate | pe jos | persoană | persoană care merge | pieton | plimbare | ritm | spre | ton semi‑deschis al pielii</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">persoană care merge: ton semi‑deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🚶🏽‍➡">agale | bărbat care merge | deplasare | dreapta | drumeție | la pas | merge | mers | orientate | pe jos | persoană | persoană care merge | pieton | plimbare | ritm | spre | ton mediu al pielii</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">persoană care merge: ton mediu al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🚶🏾‍➡">agale | bărbat care merge | deplasare | dreapta | drumeție | la pas | merge | mers | orientate | pe jos | persoană | persoană care merge | pieton | plimbare | ritm | spre | ton semi‑închis al pielii</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">persoană care merge: ton semi‑închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🚶🏿‍➡">agale | bărbat care merge | deplasare | dreapta | drumeție | la pas | merge | mers | orientate | pe jos | persoană | persoană care merge | pieton | plimbare | ritm | spre | ton închis al pielii</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">persoană care merge: ton închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🚶‍♀‍➡">agale | deplasare | dreapta | drumeție | femeie | femeie care merge | la pas | mers | om care merge | orientate | pas | pe jos | persoană care merge | pieton | plimbare | spre</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">femeie care merge: orientate spre dreapta</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">agale | deplasare | dreapta | drumeție | femeie | femeie care merge | la pas | mers | om care merge | orientate | pas | pe jos | persoană care merge | pieton | plimbare | spre | ton deschis al pielii</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">femeie care merge: ton deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">agale | deplasare | dreapta | drumeție | femeie | femeie care merge | la pas | mers | om care merge | orientate | pas | pe jos | persoană care merge | pieton | plimbare | spre | ton semi‑deschis al pielii</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">femeie care merge: ton semi‑deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">agale | deplasare | dreapta | drumeție | femeie | femeie care merge | la pas | mers | om care merge | orientate | pas | pe jos | persoană care merge | pieton | plimbare | spre | ton mediu al pielii</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">femeie care merge: ton mediu al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">agale | deplasare | dreapta | drumeție | femeie | femeie care merge | la pas | mers | om care merge | orientate | pas | pe jos | persoană care merge | pieton | plimbare | spre | ton semi‑închis al pielii</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">femeie care merge: ton semi‑închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">agale | deplasare | dreapta | drumeție | femeie | femeie care merge | la pas | mers | om care merge | orientate | pas | pe jos | persoană care merge | pieton | plimbare | spre | ton închis al pielii</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">femeie care merge: ton închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🚶‍♂‍➡">bărbat | bărbat care merge | dreapta | mers | orientate | plimbare | spre</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">bărbat care merge: orientate spre dreapta</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">bărbat | bărbat care merge | dreapta | mers | orientate | plimbare | spre | ton deschis al pielii</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">bărbat care merge: ton deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">bărbat | bărbat care merge | dreapta | mers | orientate | plimbare | spre | ton semi‑deschis al pielii</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">bărbat care merge: ton semi‑deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">bărbat | bărbat care merge | dreapta | mers | orientate | plimbare | spre | ton mediu al pielii</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">bărbat care merge: ton mediu al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">bărbat | bărbat care merge | dreapta | mers | orientate | plimbare | spre | ton semi‑închis al pielii</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">bărbat care merge: ton semi‑închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">bărbat | bărbat care merge | dreapta | mers | orientate | plimbare | spre | ton închis al pielii</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">bărbat care merge: ton închis al pielii, orientate spre dreapta</annotation>
 		<annotation cp="🧍🏻">a sta drept | a sta în picioare | drepți | în picioare | persoană în picioare | ridicat | ton deschis al pielii</annotation>
 		<annotation cp="🧍🏻" type="tts">persoană în picioare: ton deschis al pielii</annotation>
 		<annotation cp="🧍🏼">a sta drept | a sta în picioare | drepți | în picioare | persoană în picioare | ridicat | ton semi‑deschis al pielii</annotation>
@@ -2783,42 +3033,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧎🏾‍♀" type="tts">femeie în genunchi: ton semi‑închis al pielii</annotation>
 		<annotation cp="🧎🏿‍♀">femeie | femeie în genunchi | în genunchi | îngenuncheată | îngenunchind | ton închis al pielii</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">femeie în genunchi: ton închis al pielii</annotation>
-		<annotation cp="🧎‍➡">a îngenunchea | genunchi | în genunchi | îngenunchere | persoană în genunchi</annotation>
-		<annotation cp="🧎‍➡" type="tts">persoană în genunchi orientate spre dreapta</annotation>
-		<annotation cp="🧎🏻‍➡">a îngenunchea | genunchi | în genunchi | îngenunchere | persoană în genunchi</annotation>
-		<annotation cp="🧎🏻‍➡" type="tts">persoană în genunchi orientate spre dreapta</annotation>
-		<annotation cp="🧎🏼‍➡">a îngenunchea | genunchi | în genunchi | îngenunchere | persoană în genunchi</annotation>
-		<annotation cp="🧎🏼‍➡" type="tts">persoană în genunchi orientate spre dreapta</annotation>
-		<annotation cp="🧎🏽‍➡">a îngenunchea | genunchi | în genunchi | îngenunchere | persoană în genunchi</annotation>
-		<annotation cp="🧎🏽‍➡" type="tts">persoană în genunchi orientate spre dreapta</annotation>
-		<annotation cp="🧎🏾‍➡">a îngenunchea | genunchi | în genunchi | îngenunchere | persoană în genunchi</annotation>
-		<annotation cp="🧎🏾‍➡" type="tts">persoană în genunchi orientate spre dreapta</annotation>
-		<annotation cp="🧎🏿‍➡">a îngenunchea | genunchi | în genunchi | îngenunchere | persoană în genunchi</annotation>
-		<annotation cp="🧎🏿‍➡" type="tts">persoană în genunchi orientate spre dreapta</annotation>
-		<annotation cp="🧎‍♀‍➡">femeie | femeie în genunchi | în genunchi | îngenuncheată | îngenunchind</annotation>
-		<annotation cp="🧎‍♀‍➡" type="tts">femeie în genunchi orientate spre dreapta</annotation>
-		<annotation cp="🧎🏻‍♀‍➡">femeie | femeie în genunchi | în genunchi | îngenuncheată | îngenunchind</annotation>
-		<annotation cp="🧎🏻‍♀‍➡" type="tts">femeie în genunchi orientate spre dreapta</annotation>
-		<annotation cp="🧎🏼‍♀‍➡">femeie | femeie în genunchi | în genunchi | îngenuncheată | îngenunchind</annotation>
-		<annotation cp="🧎🏼‍♀‍➡" type="tts">femeie în genunchi orientate spre dreapta</annotation>
-		<annotation cp="🧎🏽‍♀‍➡">femeie | femeie în genunchi | în genunchi | îngenuncheată | îngenunchind</annotation>
-		<annotation cp="🧎🏽‍♀‍➡" type="tts">femeie în genunchi orientate spre dreapta</annotation>
-		<annotation cp="🧎🏾‍♀‍➡">femeie | femeie în genunchi | în genunchi | îngenuncheată | îngenunchind</annotation>
-		<annotation cp="🧎🏾‍♀‍➡" type="tts">femeie în genunchi orientate spre dreapta</annotation>
-		<annotation cp="🧎🏿‍♀‍➡">femeie | femeie în genunchi | în genunchi | îngenuncheată | îngenunchind</annotation>
-		<annotation cp="🧎🏿‍♀‍➡" type="tts">femeie în genunchi orientate spre dreapta</annotation>
-		<annotation cp="🧎‍♂‍➡">bărbat | bărbat în genunchi | în genunchi | îngenuncheat | îngenunchind</annotation>
-		<annotation cp="🧎‍♂‍➡" type="tts">bărbat în genunchi orientate spre dreapta</annotation>
-		<annotation cp="🧎🏻‍♂‍➡">bărbat | bărbat în genunchi | în genunchi | îngenuncheat | îngenunchind</annotation>
-		<annotation cp="🧎🏻‍♂‍➡" type="tts">bărbat în genunchi orientate spre dreapta</annotation>
-		<annotation cp="🧎🏼‍♂‍➡">bărbat | bărbat în genunchi | în genunchi | îngenuncheat | îngenunchind</annotation>
-		<annotation cp="🧎🏼‍♂‍➡" type="tts">bărbat în genunchi orientate spre dreapta</annotation>
-		<annotation cp="🧎🏽‍♂‍➡">bărbat | bărbat în genunchi | în genunchi | îngenuncheat | îngenunchind</annotation>
-		<annotation cp="🧎🏽‍♂‍➡" type="tts">bărbat în genunchi orientate spre dreapta</annotation>
-		<annotation cp="🧎🏾‍♂‍➡">bărbat | bărbat în genunchi | în genunchi | îngenuncheat | îngenunchind</annotation>
-		<annotation cp="🧎🏾‍♂‍➡" type="tts">bărbat în genunchi orientate spre dreapta</annotation>
-		<annotation cp="🧎🏿‍♂‍➡">bărbat | bărbat în genunchi | în genunchi | îngenuncheat | îngenunchind</annotation>
-		<annotation cp="🧎🏿‍♂‍➡" type="tts">bărbat în genunchi orientate spre dreapta</annotation>
+		<annotation cp="🧎‍➡">a îngenunchea | dreapta | genunchi | în genunchi | îngenunchere | orientate | persoană în genunchi | spre</annotation>
+		<annotation cp="🧎‍➡" type="tts">persoană în genunchi: orientate spre dreapta</annotation>
+		<annotation cp="🧎🏻‍➡">a îngenunchea | dreapta | genunchi | în genunchi | îngenunchere | orientate | persoană în genunchi | spre | ton deschis al pielii</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">persoană în genunchi: ton deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧎🏼‍➡">a îngenunchea | dreapta | genunchi | în genunchi | îngenunchere | orientate | persoană în genunchi | spre | ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">persoană în genunchi: ton semi‑deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧎🏽‍➡">a îngenunchea | dreapta | genunchi | în genunchi | îngenunchere | orientate | persoană în genunchi | spre | ton mediu al pielii</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">persoană în genunchi: ton mediu al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧎🏾‍➡">a îngenunchea | dreapta | genunchi | în genunchi | îngenunchere | orientate | persoană în genunchi | spre | ton semi‑închis al pielii</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">persoană în genunchi: ton semi‑închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧎🏿‍➡">a îngenunchea | dreapta | genunchi | în genunchi | îngenunchere | orientate | persoană în genunchi | spre | ton închis al pielii</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">persoană în genunchi: ton închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧎‍♀‍➡">dreapta | femeie | femeie în genunchi | în genunchi | îngenuncheată | îngenunchind | orientate | spre</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">femeie în genunchi: orientate spre dreapta</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">dreapta | femeie | femeie în genunchi | în genunchi | îngenuncheată | îngenunchind | orientate | spre | ton deschis al pielii</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">femeie în genunchi: ton deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">dreapta | femeie | femeie în genunchi | în genunchi | îngenuncheată | îngenunchind | orientate | spre | ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">femeie în genunchi: ton semi‑deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">dreapta | femeie | femeie în genunchi | în genunchi | îngenuncheată | îngenunchind | orientate | spre | ton mediu al pielii</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">femeie în genunchi: ton mediu al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">dreapta | femeie | femeie în genunchi | în genunchi | îngenuncheată | îngenunchind | orientate | spre | ton semi‑închis al pielii</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">femeie în genunchi: ton semi‑închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">dreapta | femeie | femeie în genunchi | în genunchi | îngenuncheată | îngenunchind | orientate | spre | ton închis al pielii</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">femeie în genunchi: ton închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧎‍♂‍➡">bărbat | bărbat în genunchi | dreapta | în genunchi | îngenuncheat | îngenunchind | orientate | spre</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">bărbat în genunchi: orientate spre dreapta</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">bărbat | bărbat în genunchi | dreapta | în genunchi | îngenuncheat | îngenunchind | orientate | spre | ton deschis al pielii</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">bărbat în genunchi: ton deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">bărbat | bărbat în genunchi | dreapta | în genunchi | îngenuncheat | îngenunchind | orientate | spre | ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">bărbat în genunchi: ton semi‑deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">bărbat | bărbat în genunchi | dreapta | în genunchi | îngenuncheat | îngenunchind | orientate | spre | ton mediu al pielii</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">bărbat în genunchi: ton mediu al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">bărbat | bărbat în genunchi | dreapta | în genunchi | îngenuncheat | îngenunchind | orientate | spre | ton semi‑închis al pielii</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">bărbat în genunchi: ton semi‑închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">bărbat | bărbat în genunchi | dreapta | în genunchi | îngenuncheat | îngenunchind | orientate | spre | ton închis al pielii</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">bărbat în genunchi: ton închis al pielii, orientate spre dreapta</annotation>
 		<annotation cp="🧑🏻‍🦯">accesibilitate | nevăzător | orb | persoană cu baston pentru nevăzători | ton deschis al pielii</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">persoană cu baston pentru nevăzători: ton deschis al pielii</annotation>
 		<annotation cp="🧑🏼‍🦯">accesibilitate | nevăzător | orb | persoană cu baston pentru nevăzători | ton semi‑deschis al pielii</annotation>
@@ -2829,18 +3079,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦯" type="tts">persoană cu baston pentru nevăzători: ton semi‑închis al pielii</annotation>
 		<annotation cp="🧑🏿‍🦯">accesibilitate | nevăzător | orb | persoană cu baston pentru nevăzători | ton închis al pielii</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">persoană cu baston pentru nevăzători: ton închis al pielii</annotation>
-		<annotation cp="🧑‍🦯‍➡">accesibilitate | nevăzător | orb | persoană cu baston pentru nevăzători</annotation>
-		<annotation cp="🧑‍🦯‍➡" type="tts">persoană cu baston pentru nevăzători orientate spre dreapta</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡">accesibilitate | nevăzător | orb | persoană cu baston pentru nevăzători</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡" type="tts">persoană cu baston pentru nevăzători orientate spre dreapta</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡">accesibilitate | nevăzător | orb | persoană cu baston pentru nevăzători</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡" type="tts">persoană cu baston pentru nevăzători orientate spre dreapta</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡">accesibilitate | nevăzător | orb | persoană cu baston pentru nevăzători</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡" type="tts">persoană cu baston pentru nevăzători orientate spre dreapta</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡">accesibilitate | nevăzător | orb | persoană cu baston pentru nevăzători</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡" type="tts">persoană cu baston pentru nevăzători orientate spre dreapta</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡">accesibilitate | nevăzător | orb | persoană cu baston pentru nevăzători</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡" type="tts">persoană cu baston pentru nevăzători orientate spre dreapta</annotation>
+		<annotation cp="🧑‍🦯‍➡">accesibilitate | dreapta | nevăzător | orb | orientate | persoană cu baston pentru nevăzători | spre</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">persoană cu baston pentru nevăzători: orientate spre dreapta</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">accesibilitate | dreapta | nevăzător | orb | orientate | persoană cu baston pentru nevăzători | spre | ton deschis al pielii</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">persoană cu baston pentru nevăzători: ton deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">accesibilitate | dreapta | nevăzător | orb | orientate | persoană cu baston pentru nevăzători | spre | ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">persoană cu baston pentru nevăzători: ton semi‑deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">accesibilitate | dreapta | nevăzător | orb | orientate | persoană cu baston pentru nevăzători | spre | ton mediu al pielii</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">persoană cu baston pentru nevăzători: ton mediu al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">accesibilitate | dreapta | nevăzător | orb | orientate | persoană cu baston pentru nevăzători | spre | ton semi‑închis al pielii</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">persoană cu baston pentru nevăzători: ton semi‑închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">accesibilitate | dreapta | nevăzător | orb | orientate | persoană cu baston pentru nevăzători | spre | ton închis al pielii</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">persoană cu baston pentru nevăzători: ton închis al pielii, orientate spre dreapta</annotation>
 		<annotation cp="👨🏻‍🦯">accesibilitate | bărbat | bărbat cu baston pentru nevăzători | bărbat cu baston pentru orbi | nevăzător | orb | persoană | ton deschis al pielii</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">bărbat cu baston pentru nevăzători: ton deschis al pielii</annotation>
 		<annotation cp="👨🏼‍🦯">accesibilitate | bărbat | bărbat cu baston pentru nevăzători | bărbat cu baston pentru orbi | nevăzător | orb | persoană | ton semi‑deschis al pielii</annotation>
@@ -2851,18 +3101,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦯" type="tts">bărbat cu baston pentru nevăzători: ton semi‑închis al pielii</annotation>
 		<annotation cp="👨🏿‍🦯">accesibilitate | bărbat | bărbat cu baston pentru nevăzători | bărbat cu baston pentru orbi | nevăzător | orb | persoană | ton închis al pielii</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">bărbat cu baston pentru nevăzători: ton închis al pielii</annotation>
-		<annotation cp="👨‍🦯‍➡">accesibilitate | bărbat | bărbat cu baston pentru nevăzători | bărbat cu baston pentru orbi | nevăzător | orb | persoană</annotation>
-		<annotation cp="👨‍🦯‍➡" type="tts">bărbat cu baston pentru nevăzători orientate spre dreapta</annotation>
-		<annotation cp="👨🏻‍🦯‍➡">accesibilitate | bărbat | bărbat cu baston pentru nevăzători | bărbat cu baston pentru orbi | nevăzător | orb | persoană</annotation>
-		<annotation cp="👨🏻‍🦯‍➡" type="tts">bărbat cu baston pentru nevăzători orientate spre dreapta</annotation>
-		<annotation cp="👨🏼‍🦯‍➡">accesibilitate | bărbat | bărbat cu baston pentru nevăzători | bărbat cu baston pentru orbi | nevăzător | orb | persoană</annotation>
-		<annotation cp="👨🏼‍🦯‍➡" type="tts">bărbat cu baston pentru nevăzători orientate spre dreapta</annotation>
-		<annotation cp="👨🏽‍🦯‍➡">accesibilitate | bărbat | bărbat cu baston pentru nevăzători | bărbat cu baston pentru orbi | nevăzător | orb | persoană</annotation>
-		<annotation cp="👨🏽‍🦯‍➡" type="tts">bărbat cu baston pentru nevăzători orientate spre dreapta</annotation>
-		<annotation cp="👨🏾‍🦯‍➡">accesibilitate | bărbat | bărbat cu baston pentru nevăzători | bărbat cu baston pentru orbi | nevăzător | orb | persoană</annotation>
-		<annotation cp="👨🏾‍🦯‍➡" type="tts">bărbat cu baston pentru nevăzători orientate spre dreapta</annotation>
-		<annotation cp="👨🏿‍🦯‍➡">accesibilitate | bărbat | bărbat cu baston pentru nevăzători | bărbat cu baston pentru orbi | nevăzător | orb | persoană</annotation>
-		<annotation cp="👨🏿‍🦯‍➡" type="tts">bărbat cu baston pentru nevăzători orientate spre dreapta</annotation>
+		<annotation cp="👨‍🦯‍➡">accesibilitate | bărbat | bărbat cu baston pentru nevăzători | bărbat cu baston pentru orbi | dreapta | nevăzător | orb | orientate | persoană | spre</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">bărbat cu baston pentru nevăzători: orientate spre dreapta</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">accesibilitate | bărbat | bărbat cu baston pentru nevăzători | bărbat cu baston pentru orbi | dreapta | nevăzător | orb | orientate | persoană | spre | ton deschis al pielii</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">bărbat cu baston pentru nevăzători: ton deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">accesibilitate | bărbat | bărbat cu baston pentru nevăzători | bărbat cu baston pentru orbi | dreapta | nevăzător | orb | orientate | persoană | spre | ton semi‑deschis al pielii</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">bărbat cu baston pentru nevăzători: ton semi‑deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">accesibilitate | bărbat | bărbat cu baston pentru nevăzători | bărbat cu baston pentru orbi | dreapta | nevăzător | orb | orientate | persoană | spre | ton mediu al pielii</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">bărbat cu baston pentru nevăzători: ton mediu al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">accesibilitate | bărbat | bărbat cu baston pentru nevăzători | bărbat cu baston pentru orbi | dreapta | nevăzător | orb | orientate | persoană | spre | ton semi‑închis al pielii</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">bărbat cu baston pentru nevăzători: ton semi‑închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">accesibilitate | bărbat | bărbat cu baston pentru nevăzători | bărbat cu baston pentru orbi | dreapta | nevăzător | orb | orientate | persoană | spre | ton închis al pielii</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">bărbat cu baston pentru nevăzători: ton închis al pielii, orientate spre dreapta</annotation>
 		<annotation cp="👩🏻‍🦯">accesibilitate | femeie | femeie cu baston pentru nevăzători | femeie cu baston pentru orbi | nevăzătoare | oarbă | persoană | ton deschis al pielii</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">femeie cu baston pentru nevăzători: ton deschis al pielii</annotation>
 		<annotation cp="👩🏼‍🦯">accesibilitate | femeie | femeie cu baston pentru nevăzători | femeie cu baston pentru orbi | nevăzătoare | oarbă | persoană | ton semi‑deschis al pielii</annotation>
@@ -2873,18 +3123,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦯" type="tts">femeie cu baston pentru nevăzători: ton semi‑închis al pielii</annotation>
 		<annotation cp="👩🏿‍🦯">accesibilitate | femeie | femeie cu baston pentru nevăzători | femeie cu baston pentru orbi | nevăzătoare | oarbă | persoană | ton închis al pielii</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">femeie cu baston pentru nevăzători: ton închis al pielii</annotation>
-		<annotation cp="👩‍🦯‍➡">accesibilitate | femeie | femeie cu baston pentru nevăzători | femeie cu baston pentru orbi | nevăzătoare | oarbă | persoană</annotation>
-		<annotation cp="👩‍🦯‍➡" type="tts">femeie cu baston pentru nevăzători orientate spre dreapta</annotation>
-		<annotation cp="👩🏻‍🦯‍➡">accesibilitate | femeie | femeie cu baston pentru nevăzători | femeie cu baston pentru orbi | nevăzătoare | oarbă | persoană</annotation>
-		<annotation cp="👩🏻‍🦯‍➡" type="tts">femeie cu baston pentru nevăzători orientate spre dreapta</annotation>
-		<annotation cp="👩🏼‍🦯‍➡">accesibilitate | femeie | femeie cu baston pentru nevăzători | femeie cu baston pentru orbi | nevăzătoare | oarbă | persoană</annotation>
-		<annotation cp="👩🏼‍🦯‍➡" type="tts">femeie cu baston pentru nevăzători orientate spre dreapta</annotation>
-		<annotation cp="👩🏽‍🦯‍➡">accesibilitate | femeie | femeie cu baston pentru nevăzători | femeie cu baston pentru orbi | nevăzătoare | oarbă | persoană</annotation>
-		<annotation cp="👩🏽‍🦯‍➡" type="tts">femeie cu baston pentru nevăzători orientate spre dreapta</annotation>
-		<annotation cp="👩🏾‍🦯‍➡">accesibilitate | femeie | femeie cu baston pentru nevăzători | femeie cu baston pentru orbi | nevăzătoare | oarbă | persoană</annotation>
-		<annotation cp="👩🏾‍🦯‍➡" type="tts">femeie cu baston pentru nevăzători orientate spre dreapta</annotation>
-		<annotation cp="👩🏿‍🦯‍➡">accesibilitate | femeie | femeie cu baston pentru nevăzători | femeie cu baston pentru orbi | nevăzătoare | oarbă | persoană</annotation>
-		<annotation cp="👩🏿‍🦯‍➡" type="tts">femeie cu baston pentru nevăzători orientate spre dreapta</annotation>
+		<annotation cp="👩‍🦯‍➡">accesibilitate | dreapta | femeie | femeie cu baston pentru nevăzători | femeie cu baston pentru orbi | nevăzătoare | oarbă | orientate | persoană | spre</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">femeie cu baston pentru nevăzători: orientate spre dreapta</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">accesibilitate | dreapta | femeie | femeie cu baston pentru nevăzători | femeie cu baston pentru orbi | nevăzătoare | oarbă | orientate | persoană | spre | ton deschis al pielii</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">femeie cu baston pentru nevăzători: ton deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">accesibilitate | dreapta | femeie | femeie cu baston pentru nevăzători | femeie cu baston pentru orbi | nevăzătoare | oarbă | orientate | persoană | spre | ton semi‑deschis al pielii</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">femeie cu baston pentru nevăzători: ton semi‑deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">accesibilitate | dreapta | femeie | femeie cu baston pentru nevăzători | femeie cu baston pentru orbi | nevăzătoare | oarbă | orientate | persoană | spre | ton mediu al pielii</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">femeie cu baston pentru nevăzători: ton mediu al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">accesibilitate | dreapta | femeie | femeie cu baston pentru nevăzători | femeie cu baston pentru orbi | nevăzătoare | oarbă | orientate | persoană | spre | ton semi‑închis al pielii</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">femeie cu baston pentru nevăzători: ton semi‑închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">accesibilitate | dreapta | femeie | femeie cu baston pentru nevăzători | femeie cu baston pentru orbi | nevăzătoare | oarbă | orientate | persoană | spre | ton închis al pielii</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">femeie cu baston pentru nevăzători: ton închis al pielii, orientate spre dreapta</annotation>
 		<annotation cp="🧑🏻‍🦼">accesibilitate | persoană în scaun cu rotile motorizat | scaun cu rotile | ton deschis al pielii</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">persoană în scaun cu rotile motorizat: ton deschis al pielii</annotation>
 		<annotation cp="🧑🏼‍🦼">accesibilitate | persoană în scaun cu rotile motorizat | scaun cu rotile | ton semi‑deschis al pielii</annotation>
@@ -2895,18 +3145,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦼" type="tts">persoană în scaun cu rotile motorizat: ton semi‑închis al pielii</annotation>
 		<annotation cp="🧑🏿‍🦼">accesibilitate | persoană în scaun cu rotile motorizat | scaun cu rotile | ton închis al pielii</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">persoană în scaun cu rotile motorizat: ton închis al pielii</annotation>
-		<annotation cp="🧑‍🦼‍➡">accesibilitate | persoană în scaun cu rotile motorizat | scaun cu rotile</annotation>
-		<annotation cp="🧑‍🦼‍➡" type="tts">persoană în scaun cu rotile motorizat orientate spre dreapta</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡">accesibilitate | persoană în scaun cu rotile motorizat | scaun cu rotile</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡" type="tts">persoană în scaun cu rotile motorizat orientate spre dreapta</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡">accesibilitate | persoană în scaun cu rotile motorizat | scaun cu rotile</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡" type="tts">persoană în scaun cu rotile motorizat orientate spre dreapta</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡">accesibilitate | persoană în scaun cu rotile motorizat | scaun cu rotile</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡" type="tts">persoană în scaun cu rotile motorizat orientate spre dreapta</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡">accesibilitate | persoană în scaun cu rotile motorizat | scaun cu rotile</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡" type="tts">persoană în scaun cu rotile motorizat orientate spre dreapta</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡">accesibilitate | persoană în scaun cu rotile motorizat | scaun cu rotile</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡" type="tts">persoană în scaun cu rotile motorizat orientate spre dreapta</annotation>
+		<annotation cp="🧑‍🦼‍➡">accesibilitate | dreapta | orientate | persoană în scaun cu rotile motorizat | scaun cu rotile | spre</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">persoană în scaun cu rotile motorizat: orientate spre dreapta</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">accesibilitate | dreapta | orientate | persoană în scaun cu rotile motorizat | scaun cu rotile | spre | ton deschis al pielii</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">persoană în scaun cu rotile motorizat: ton deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">accesibilitate | dreapta | orientate | persoană în scaun cu rotile motorizat | scaun cu rotile | spre | ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">persoană în scaun cu rotile motorizat: ton semi‑deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">accesibilitate | dreapta | orientate | persoană în scaun cu rotile motorizat | scaun cu rotile | spre | ton mediu al pielii</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">persoană în scaun cu rotile motorizat: ton mediu al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">accesibilitate | dreapta | orientate | persoană în scaun cu rotile motorizat | scaun cu rotile | spre | ton semi‑închis al pielii</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">persoană în scaun cu rotile motorizat: ton semi‑închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">accesibilitate | dreapta | orientate | persoană în scaun cu rotile motorizat | scaun cu rotile | spre | ton închis al pielii</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">persoană în scaun cu rotile motorizat: ton închis al pielii, orientate spre dreapta</annotation>
 		<annotation cp="👨🏻‍🦼">accesibilitate | bărbat | bărbat în scaun cu rotile electric | bărbat în scaun cu rotile motorizat | bărbat în scaun rulant electric | persoană | scaun cu rotile | scaun rulant | ton deschis al pielii</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">bărbat în scaun cu rotile motorizat: ton deschis al pielii</annotation>
 		<annotation cp="👨🏼‍🦼">accesibilitate | bărbat | bărbat în scaun cu rotile electric | bărbat în scaun cu rotile motorizat | bărbat în scaun rulant electric | persoană | scaun cu rotile | scaun rulant | ton semi‑deschis al pielii</annotation>
@@ -2917,18 +3167,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦼" type="tts">bărbat în scaun cu rotile motorizat: ton semi‑închis al pielii</annotation>
 		<annotation cp="👨🏿‍🦼">accesibilitate | bărbat | bărbat în scaun cu rotile electric | bărbat în scaun cu rotile motorizat | bărbat în scaun rulant electric | persoană | scaun cu rotile | scaun rulant | ton închis al pielii</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">bărbat în scaun cu rotile motorizat: ton închis al pielii</annotation>
-		<annotation cp="👨‍🦼‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile electric | bărbat în scaun cu rotile motorizat | bărbat în scaun rulant electric | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👨‍🦼‍➡" type="tts">bărbat în scaun cu rotile motorizat orientate spre dreapta</annotation>
-		<annotation cp="👨🏻‍🦼‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile electric | bărbat în scaun cu rotile motorizat | bărbat în scaun rulant electric | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👨🏻‍🦼‍➡" type="tts">bărbat în scaun cu rotile motorizat orientate spre dreapta</annotation>
-		<annotation cp="👨🏼‍🦼‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile electric | bărbat în scaun cu rotile motorizat | bărbat în scaun rulant electric | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👨🏼‍🦼‍➡" type="tts">bărbat în scaun cu rotile motorizat orientate spre dreapta</annotation>
-		<annotation cp="👨🏽‍🦼‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile electric | bărbat în scaun cu rotile motorizat | bărbat în scaun rulant electric | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👨🏽‍🦼‍➡" type="tts">bărbat în scaun cu rotile motorizat orientate spre dreapta</annotation>
-		<annotation cp="👨🏾‍🦼‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile electric | bărbat în scaun cu rotile motorizat | bărbat în scaun rulant electric | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👨🏾‍🦼‍➡" type="tts">bărbat în scaun cu rotile motorizat orientate spre dreapta</annotation>
-		<annotation cp="👨🏿‍🦼‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile electric | bărbat în scaun cu rotile motorizat | bărbat în scaun rulant electric | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👨🏿‍🦼‍➡" type="tts">bărbat în scaun cu rotile motorizat orientate spre dreapta</annotation>
+		<annotation cp="👨‍🦼‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile electric | bărbat în scaun cu rotile motorizat | bărbat în scaun rulant electric | dreapta | orientate | persoană | scaun cu rotile | scaun rulant | spre</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">bărbat în scaun cu rotile motorizat: orientate spre dreapta</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile electric | bărbat în scaun cu rotile motorizat | bărbat în scaun rulant electric | dreapta | orientate | persoană | scaun cu rotile | scaun rulant | spre | ton deschis al pielii</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">bărbat în scaun cu rotile motorizat: ton deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile electric | bărbat în scaun cu rotile motorizat | bărbat în scaun rulant electric | dreapta | orientate | persoană | scaun cu rotile | scaun rulant | spre | ton semi‑deschis al pielii</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">bărbat în scaun cu rotile motorizat: ton semi‑deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile electric | bărbat în scaun cu rotile motorizat | bărbat în scaun rulant electric | dreapta | orientate | persoană | scaun cu rotile | scaun rulant | spre | ton mediu al pielii</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">bărbat în scaun cu rotile motorizat: ton mediu al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile electric | bărbat în scaun cu rotile motorizat | bărbat în scaun rulant electric | dreapta | orientate | persoană | scaun cu rotile | scaun rulant | spre | ton semi‑închis al pielii</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">bărbat în scaun cu rotile motorizat: ton semi‑închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile electric | bărbat în scaun cu rotile motorizat | bărbat în scaun rulant electric | dreapta | orientate | persoană | scaun cu rotile | scaun rulant | spre | ton închis al pielii</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">bărbat în scaun cu rotile motorizat: ton închis al pielii, orientate spre dreapta</annotation>
 		<annotation cp="👩🏻‍🦼">accesibilitate | femeie | femeie în scaun cu rotile electric | femeie în scaun cu rotile motorizat | femeie în scaun rulant electric | persoană | scaun cu rotile | scaun rulant | ton deschis al pielii</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">femeie în scaun cu rotile motorizat: ton deschis al pielii</annotation>
 		<annotation cp="👩🏼‍🦼">accesibilitate | femeie | femeie în scaun cu rotile electric | femeie în scaun cu rotile motorizat | femeie în scaun rulant electric | persoană | scaun cu rotile | scaun rulant | ton semi‑deschis al pielii</annotation>
@@ -2939,18 +3189,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦼" type="tts">femeie în scaun cu rotile motorizat: ton semi‑închis al pielii</annotation>
 		<annotation cp="👩🏿‍🦼">accesibilitate | femeie | femeie în scaun cu rotile electric | femeie în scaun cu rotile motorizat | femeie în scaun rulant electric | persoană | scaun cu rotile | scaun rulant | ton închis al pielii</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">femeie în scaun cu rotile motorizat: ton închis al pielii</annotation>
-		<annotation cp="👩‍🦼‍➡">accesibilitate | femeie | femeie în scaun cu rotile electric | femeie în scaun cu rotile motorizat | femeie în scaun rulant electric | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👩‍🦼‍➡" type="tts">femeie în scaun cu rotile motorizat orientate spre dreapta</annotation>
-		<annotation cp="👩🏻‍🦼‍➡">accesibilitate | femeie | femeie în scaun cu rotile electric | femeie în scaun cu rotile motorizat | femeie în scaun rulant electric | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👩🏻‍🦼‍➡" type="tts">femeie în scaun cu rotile motorizat orientate spre dreapta</annotation>
-		<annotation cp="👩🏼‍🦼‍➡">accesibilitate | femeie | femeie în scaun cu rotile electric | femeie în scaun cu rotile motorizat | femeie în scaun rulant electric | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👩🏼‍🦼‍➡" type="tts">femeie în scaun cu rotile motorizat orientate spre dreapta</annotation>
-		<annotation cp="👩🏽‍🦼‍➡">accesibilitate | femeie | femeie în scaun cu rotile electric | femeie în scaun cu rotile motorizat | femeie în scaun rulant electric | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👩🏽‍🦼‍➡" type="tts">femeie în scaun cu rotile motorizat orientate spre dreapta</annotation>
-		<annotation cp="👩🏾‍🦼‍➡">accesibilitate | femeie | femeie în scaun cu rotile electric | femeie în scaun cu rotile motorizat | femeie în scaun rulant electric | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👩🏾‍🦼‍➡" type="tts">femeie în scaun cu rotile motorizat orientate spre dreapta</annotation>
-		<annotation cp="👩🏿‍🦼‍➡">accesibilitate | femeie | femeie în scaun cu rotile electric | femeie în scaun cu rotile motorizat | femeie în scaun rulant electric | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👩🏿‍🦼‍➡" type="tts">femeie în scaun cu rotile motorizat orientate spre dreapta</annotation>
+		<annotation cp="👩‍🦼‍➡">accesibilitate | dreapta | femeie | femeie în scaun cu rotile electric | femeie în scaun cu rotile motorizat | femeie în scaun rulant electric | orientate | persoană | scaun cu rotile | scaun rulant | spre</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">femeie în scaun cu rotile motorizat: orientate spre dreapta</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">accesibilitate | dreapta | femeie | femeie în scaun cu rotile electric | femeie în scaun cu rotile motorizat | femeie în scaun rulant electric | orientate | persoană | scaun cu rotile | scaun rulant | spre | ton deschis al pielii</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">femeie în scaun cu rotile motorizat: ton deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">accesibilitate | dreapta | femeie | femeie în scaun cu rotile electric | femeie în scaun cu rotile motorizat | femeie în scaun rulant electric | orientate | persoană | scaun cu rotile | scaun rulant | spre | ton semi‑deschis al pielii</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">femeie în scaun cu rotile motorizat: ton semi‑deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">accesibilitate | dreapta | femeie | femeie în scaun cu rotile electric | femeie în scaun cu rotile motorizat | femeie în scaun rulant electric | orientate | persoană | scaun cu rotile | scaun rulant | spre | ton mediu al pielii</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">femeie în scaun cu rotile motorizat: ton mediu al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">accesibilitate | dreapta | femeie | femeie în scaun cu rotile electric | femeie în scaun cu rotile motorizat | femeie în scaun rulant electric | orientate | persoană | scaun cu rotile | scaun rulant | spre | ton semi‑închis al pielii</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">femeie în scaun cu rotile motorizat: ton semi‑închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">accesibilitate | dreapta | femeie | femeie în scaun cu rotile electric | femeie în scaun cu rotile motorizat | femeie în scaun rulant electric | orientate | persoană | scaun cu rotile | scaun rulant | spre | ton închis al pielii</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">femeie în scaun cu rotile motorizat: ton închis al pielii, orientate spre dreapta</annotation>
 		<annotation cp="🧑🏻‍🦽">accesibilitate | persoană în scaun cu rotile manual | scaun cu rotile | ton deschis al pielii</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">persoană în scaun cu rotile manual: ton deschis al pielii</annotation>
 		<annotation cp="🧑🏼‍🦽">accesibilitate | persoană în scaun cu rotile manual | scaun cu rotile | ton semi‑deschis al pielii</annotation>
@@ -2961,18 +3211,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦽" type="tts">persoană în scaun cu rotile manual: ton semi‑închis al pielii</annotation>
 		<annotation cp="🧑🏿‍🦽">accesibilitate | persoană în scaun cu rotile manual | scaun cu rotile | ton închis al pielii</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">persoană în scaun cu rotile manual: ton închis al pielii</annotation>
-		<annotation cp="🧑‍🦽‍➡">accesibilitate | persoană în scaun cu rotile manual | scaun cu rotile</annotation>
-		<annotation cp="🧑‍🦽‍➡" type="tts">persoană în scaun cu rotile manual orientate spre dreapta</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡">accesibilitate | persoană în scaun cu rotile manual | scaun cu rotile</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡" type="tts">persoană în scaun cu rotile manual orientate spre dreapta</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡">accesibilitate | persoană în scaun cu rotile manual | scaun cu rotile</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡" type="tts">persoană în scaun cu rotile manual orientate spre dreapta</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡">accesibilitate | persoană în scaun cu rotile manual | scaun cu rotile</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡" type="tts">persoană în scaun cu rotile manual orientate spre dreapta</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡">accesibilitate | persoană în scaun cu rotile manual | scaun cu rotile</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡" type="tts">persoană în scaun cu rotile manual orientate spre dreapta</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡">accesibilitate | persoană în scaun cu rotile manual | scaun cu rotile</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡" type="tts">persoană în scaun cu rotile manual orientate spre dreapta</annotation>
+		<annotation cp="🧑‍🦽‍➡">accesibilitate | dreapta | orientate | persoană în scaun cu rotile manual | scaun cu rotile | spre</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">persoană în scaun cu rotile manual: orientate spre dreapta</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">accesibilitate | dreapta | orientate | persoană în scaun cu rotile manual | scaun cu rotile | spre | ton deschis al pielii</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">persoană în scaun cu rotile manual: ton deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">accesibilitate | dreapta | orientate | persoană în scaun cu rotile manual | scaun cu rotile | spre | ton semi‑deschis al pielii</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">persoană în scaun cu rotile manual: ton semi‑deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">accesibilitate | dreapta | orientate | persoană în scaun cu rotile manual | scaun cu rotile | spre | ton mediu al pielii</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">persoană în scaun cu rotile manual: ton mediu al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">accesibilitate | dreapta | orientate | persoană în scaun cu rotile manual | scaun cu rotile | spre | ton semi‑închis al pielii</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">persoană în scaun cu rotile manual: ton semi‑închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">accesibilitate | dreapta | orientate | persoană în scaun cu rotile manual | scaun cu rotile | spre | ton închis al pielii</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">persoană în scaun cu rotile manual: ton închis al pielii, orientate spre dreapta</annotation>
 		<annotation cp="👨🏻‍🦽">accesibilitate | bărbat | bărbat în scaun cu rotile manual | bărbat în scaun rulant manual | persoană | scaun cu rotile | scaun rulant | ton deschis al pielii</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">bărbat în scaun cu rotile manual: ton deschis al pielii</annotation>
 		<annotation cp="👨🏼‍🦽">accesibilitate | bărbat | bărbat în scaun cu rotile manual | bărbat în scaun rulant manual | persoană | scaun cu rotile | scaun rulant | ton semi‑deschis al pielii</annotation>
@@ -2983,18 +3233,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦽" type="tts">bărbat în scaun cu rotile manual: ton semi‑închis al pielii</annotation>
 		<annotation cp="👨🏿‍🦽">accesibilitate | bărbat | bărbat în scaun cu rotile manual | bărbat în scaun rulant manual | persoană | scaun cu rotile | scaun rulant | ton închis al pielii</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">bărbat în scaun cu rotile manual: ton închis al pielii</annotation>
-		<annotation cp="👨‍🦽‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile manual | bărbat în scaun rulant manual | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👨‍🦽‍➡" type="tts">bărbat în scaun cu rotile manual orientate spre dreapta</annotation>
-		<annotation cp="👨🏻‍🦽‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile manual | bărbat în scaun rulant manual | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👨🏻‍🦽‍➡" type="tts">bărbat în scaun cu rotile manual orientate spre dreapta</annotation>
-		<annotation cp="👨🏼‍🦽‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile manual | bărbat în scaun rulant manual | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👨🏼‍🦽‍➡" type="tts">bărbat în scaun cu rotile manual orientate spre dreapta</annotation>
-		<annotation cp="👨🏽‍🦽‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile manual | bărbat în scaun rulant manual | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👨🏽‍🦽‍➡" type="tts">bărbat în scaun cu rotile manual orientate spre dreapta</annotation>
-		<annotation cp="👨🏾‍🦽‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile manual | bărbat în scaun rulant manual | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👨🏾‍🦽‍➡" type="tts">bărbat în scaun cu rotile manual orientate spre dreapta</annotation>
-		<annotation cp="👨🏿‍🦽‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile manual | bărbat în scaun rulant manual | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👨🏿‍🦽‍➡" type="tts">bărbat în scaun cu rotile manual orientate spre dreapta</annotation>
+		<annotation cp="👨‍🦽‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile manual | bărbat în scaun rulant manual | dreapta | orientate | persoană | scaun cu rotile | scaun rulant | spre</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">bărbat în scaun cu rotile manual: orientate spre dreapta</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile manual | bărbat în scaun rulant manual | dreapta | orientate | persoană | scaun cu rotile | scaun rulant | spre | ton deschis al pielii</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">bărbat în scaun cu rotile manual: ton deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile manual | bărbat în scaun rulant manual | dreapta | orientate | persoană | scaun cu rotile | scaun rulant | spre | ton semi‑deschis al pielii</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">bărbat în scaun cu rotile manual: ton semi‑deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile manual | bărbat în scaun rulant manual | dreapta | orientate | persoană | scaun cu rotile | scaun rulant | spre | ton mediu al pielii</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">bărbat în scaun cu rotile manual: ton mediu al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile manual | bărbat în scaun rulant manual | dreapta | orientate | persoană | scaun cu rotile | scaun rulant | spre | ton semi‑închis al pielii</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">bărbat în scaun cu rotile manual: ton semi‑închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">accesibilitate | bărbat | bărbat în scaun cu rotile manual | bărbat în scaun rulant manual | dreapta | orientate | persoană | scaun cu rotile | scaun rulant | spre | ton închis al pielii</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">bărbat în scaun cu rotile manual: ton închis al pielii, orientate spre dreapta</annotation>
 		<annotation cp="👩🏻‍🦽">accesibilitate | femeie | femeie în scaun cu rotile manual | femeie în scaun rulant manual | persoană | scaun cu rotile | scaun rulant | ton deschis al pielii</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">femeie în scaun cu rotile manual: ton deschis al pielii</annotation>
 		<annotation cp="👩🏼‍🦽">accesibilitate | femeie | femeie în scaun cu rotile manual | femeie în scaun rulant manual | persoană | scaun cu rotile | scaun rulant | ton semi‑deschis al pielii</annotation>
@@ -3005,18 +3255,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦽" type="tts">femeie în scaun cu rotile manual: ton semi‑închis al pielii</annotation>
 		<annotation cp="👩🏿‍🦽">accesibilitate | femeie | femeie în scaun cu rotile manual | femeie în scaun rulant manual | persoană | scaun cu rotile | scaun rulant | ton închis al pielii</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">femeie în scaun cu rotile manual: ton închis al pielii</annotation>
-		<annotation cp="👩‍🦽‍➡">accesibilitate | femeie | femeie în scaun cu rotile manual | femeie în scaun rulant manual | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👩‍🦽‍➡" type="tts">femeie în scaun cu rotile manual orientate spre dreapta</annotation>
-		<annotation cp="👩🏻‍🦽‍➡">accesibilitate | femeie | femeie în scaun cu rotile manual | femeie în scaun rulant manual | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👩🏻‍🦽‍➡" type="tts">femeie în scaun cu rotile manual orientate spre dreapta</annotation>
-		<annotation cp="👩🏼‍🦽‍➡">accesibilitate | femeie | femeie în scaun cu rotile manual | femeie în scaun rulant manual | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👩🏼‍🦽‍➡" type="tts">femeie în scaun cu rotile manual orientate spre dreapta</annotation>
-		<annotation cp="👩🏽‍🦽‍➡">accesibilitate | femeie | femeie în scaun cu rotile manual | femeie în scaun rulant manual | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👩🏽‍🦽‍➡" type="tts">femeie în scaun cu rotile manual orientate spre dreapta</annotation>
-		<annotation cp="👩🏾‍🦽‍➡">accesibilitate | femeie | femeie în scaun cu rotile manual | femeie în scaun rulant manual | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👩🏾‍🦽‍➡" type="tts">femeie în scaun cu rotile manual orientate spre dreapta</annotation>
-		<annotation cp="👩🏿‍🦽‍➡">accesibilitate | femeie | femeie în scaun cu rotile manual | femeie în scaun rulant manual | persoană | scaun cu rotile | scaun rulant</annotation>
-		<annotation cp="👩🏿‍🦽‍➡" type="tts">femeie în scaun cu rotile manual orientate spre dreapta</annotation>
+		<annotation cp="👩‍🦽‍➡">accesibilitate | dreapta | femeie | femeie în scaun cu rotile manual | femeie în scaun rulant manual | orientate | persoană | scaun cu rotile | scaun rulant | spre</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">femeie în scaun cu rotile manual: orientate spre dreapta</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">accesibilitate | dreapta | femeie | femeie în scaun cu rotile manual | femeie în scaun rulant manual | orientate | persoană | scaun cu rotile | scaun rulant | spre | ton deschis al pielii</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">femeie în scaun cu rotile manual: ton deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">accesibilitate | dreapta | femeie | femeie în scaun cu rotile manual | femeie în scaun rulant manual | orientate | persoană | scaun cu rotile | scaun rulant | spre | ton semi‑deschis al pielii</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">femeie în scaun cu rotile manual: ton semi‑deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">accesibilitate | dreapta | femeie | femeie în scaun cu rotile manual | femeie în scaun rulant manual | orientate | persoană | scaun cu rotile | scaun rulant | spre | ton mediu al pielii</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">femeie în scaun cu rotile manual: ton mediu al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">accesibilitate | dreapta | femeie | femeie în scaun cu rotile manual | femeie în scaun rulant manual | orientate | persoană | scaun cu rotile | scaun rulant | spre | ton semi‑închis al pielii</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">femeie în scaun cu rotile manual: ton semi‑închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">accesibilitate | dreapta | femeie | femeie în scaun cu rotile manual | femeie în scaun rulant manual | orientate | persoană | scaun cu rotile | scaun rulant | spre | ton închis al pielii</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">femeie în scaun cu rotile manual: ton închis al pielii, orientate spre dreapta</annotation>
 		<annotation cp="🏃🏻">alergare | cursă | fugă | grabă | grăbește-te | maraton | persoană | persoană care aleargă | rapid | repede | sport | ton deschis al pielii | vin | viteză</annotation>
 		<annotation cp="🏃🏻" type="tts">persoană care aleargă: ton deschis al pielii</annotation>
 		<annotation cp="🏃🏼">alergare | cursă | fugă | grabă | grăbește-te | maraton | persoană | persoană care aleargă | rapid | repede | sport | ton semi‑deschis al pielii | vin | viteză</annotation>
@@ -3047,42 +3297,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🏃🏾‍♀" type="tts">femeie care aleargă: ton semi‑închis al pielii</annotation>
 		<annotation cp="🏃🏿‍♀">alergare | alergător | femeie | femeie alergând | femeie care aleargă | femeie care fuge | femeie fugind | fugă | grabă | grăbește-te | maraton | rapid | repede | ton închis al pielii | vin | viteză</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">femeie care aleargă: ton închis al pielii</annotation>
-		<annotation cp="🏃‍➡">alergare | cursă | fugă | grabă | grăbește-te | maraton | persoană | persoană care aleargă | rapid | repede | sport | vin | viteză</annotation>
-		<annotation cp="🏃‍➡" type="tts">persoană care aleargă orientate spre dreapta</annotation>
-		<annotation cp="🏃🏻‍➡">alergare | cursă | fugă | grabă | grăbește-te | maraton | persoană | persoană care aleargă | rapid | repede | sport | vin | viteză</annotation>
-		<annotation cp="🏃🏻‍➡" type="tts">persoană care aleargă orientate spre dreapta</annotation>
-		<annotation cp="🏃🏼‍➡">alergare | cursă | fugă | grabă | grăbește-te | maraton | persoană | persoană care aleargă | rapid | repede | sport | vin | viteză</annotation>
-		<annotation cp="🏃🏼‍➡" type="tts">persoană care aleargă orientate spre dreapta</annotation>
-		<annotation cp="🏃🏽‍➡">alergare | cursă | fugă | grabă | grăbește-te | maraton | persoană | persoană care aleargă | rapid | repede | sport | vin | viteză</annotation>
-		<annotation cp="🏃🏽‍➡" type="tts">persoană care aleargă orientate spre dreapta</annotation>
-		<annotation cp="🏃🏾‍➡">alergare | cursă | fugă | grabă | grăbește-te | maraton | persoană | persoană care aleargă | rapid | repede | sport | vin | viteză</annotation>
-		<annotation cp="🏃🏾‍➡" type="tts">persoană care aleargă orientate spre dreapta</annotation>
-		<annotation cp="🏃🏿‍➡">alergare | cursă | fugă | grabă | grăbește-te | maraton | persoană | persoană care aleargă | rapid | repede | sport | vin | viteză</annotation>
-		<annotation cp="🏃🏿‍➡" type="tts">persoană care aleargă orientate spre dreapta</annotation>
-		<annotation cp="🏃‍♀‍➡">alergare | alergător | femeie | femeie alergând | femeie care aleargă | femeie care fuge | femeie fugind | fugă | grabă | grăbește-te | maraton | rapid | repede | vin | viteză</annotation>
-		<annotation cp="🏃‍♀‍➡" type="tts">femeie care aleargă orientate spre dreapta</annotation>
-		<annotation cp="🏃🏻‍♀‍➡">alergare | alergător | femeie | femeie alergând | femeie care aleargă | femeie care fuge | femeie fugind | fugă | grabă | grăbește-te | maraton | rapid | repede | vin | viteză</annotation>
-		<annotation cp="🏃🏻‍♀‍➡" type="tts">femeie care aleargă orientate spre dreapta</annotation>
-		<annotation cp="🏃🏼‍♀‍➡">alergare | alergător | femeie | femeie alergând | femeie care aleargă | femeie care fuge | femeie fugind | fugă | grabă | grăbește-te | maraton | rapid | repede | vin | viteză</annotation>
-		<annotation cp="🏃🏼‍♀‍➡" type="tts">femeie care aleargă orientate spre dreapta</annotation>
-		<annotation cp="🏃🏽‍♀‍➡">alergare | alergător | femeie | femeie alergând | femeie care aleargă | femeie care fuge | femeie fugind | fugă | grabă | grăbește-te | maraton | rapid | repede | vin | viteză</annotation>
-		<annotation cp="🏃🏽‍♀‍➡" type="tts">femeie care aleargă orientate spre dreapta</annotation>
-		<annotation cp="🏃🏾‍♀‍➡">alergare | alergător | femeie | femeie alergând | femeie care aleargă | femeie care fuge | femeie fugind | fugă | grabă | grăbește-te | maraton | rapid | repede | vin | viteză</annotation>
-		<annotation cp="🏃🏾‍♀‍➡" type="tts">femeie care aleargă orientate spre dreapta</annotation>
-		<annotation cp="🏃🏿‍♀‍➡">alergare | alergător | femeie | femeie alergând | femeie care aleargă | femeie care fuge | femeie fugind | fugă | grabă | grăbește-te | maraton | rapid | repede | vin | viteză</annotation>
-		<annotation cp="🏃🏿‍♀‍➡" type="tts">femeie care aleargă orientate spre dreapta</annotation>
-		<annotation cp="🏃‍♂‍➡">alergare | bărbat | bărbat care aleargă | fugă | maraton</annotation>
-		<annotation cp="🏃‍♂‍➡" type="tts">bărbat care aleargă orientate spre dreapta</annotation>
-		<annotation cp="🏃🏻‍♂‍➡">alergare | bărbat | bărbat care aleargă | fugă | maraton</annotation>
-		<annotation cp="🏃🏻‍♂‍➡" type="tts">bărbat care aleargă orientate spre dreapta</annotation>
-		<annotation cp="🏃🏼‍♂‍➡">alergare | bărbat | bărbat care aleargă | fugă | maraton</annotation>
-		<annotation cp="🏃🏼‍♂‍➡" type="tts">bărbat care aleargă orientate spre dreapta</annotation>
-		<annotation cp="🏃🏽‍♂‍➡">alergare | bărbat | bărbat care aleargă | fugă | maraton</annotation>
-		<annotation cp="🏃🏽‍♂‍➡" type="tts">bărbat care aleargă orientate spre dreapta</annotation>
-		<annotation cp="🏃🏾‍♂‍➡">alergare | bărbat | bărbat care aleargă | fugă | maraton</annotation>
-		<annotation cp="🏃🏾‍♂‍➡" type="tts">bărbat care aleargă orientate spre dreapta</annotation>
-		<annotation cp="🏃🏿‍♂‍➡">alergare | bărbat | bărbat care aleargă | fugă | maraton</annotation>
-		<annotation cp="🏃🏿‍♂‍➡" type="tts">bărbat care aleargă orientate spre dreapta</annotation>
+		<annotation cp="🏃‍➡">alergare | cursă | dreapta | fugă | grabă | grăbește-te | maraton | orientate | persoană | persoană care aleargă | rapid | repede | sport | spre | vin | viteză</annotation>
+		<annotation cp="🏃‍➡" type="tts">persoană care aleargă: orientate spre dreapta</annotation>
+		<annotation cp="🏃🏻‍➡">alergare | cursă | dreapta | fugă | grabă | grăbește-te | maraton | orientate | persoană | persoană care aleargă | rapid | repede | sport | spre | ton deschis al pielii | vin | viteză</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">persoană care aleargă: ton deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🏃🏼‍➡">alergare | cursă | dreapta | fugă | grabă | grăbește-te | maraton | orientate | persoană | persoană care aleargă | rapid | repede | sport | spre | ton semi‑deschis al pielii | vin | viteză</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">persoană care aleargă: ton semi‑deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🏃🏽‍➡">alergare | cursă | dreapta | fugă | grabă | grăbește-te | maraton | orientate | persoană | persoană care aleargă | rapid | repede | sport | spre | ton mediu al pielii | vin | viteză</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">persoană care aleargă: ton mediu al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🏃🏾‍➡">alergare | cursă | dreapta | fugă | grabă | grăbește-te | maraton | orientate | persoană | persoană care aleargă | rapid | repede | sport | spre | ton semi‑închis al pielii | vin | viteză</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">persoană care aleargă: ton semi‑închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🏃🏿‍➡">alergare | cursă | dreapta | fugă | grabă | grăbește-te | maraton | orientate | persoană | persoană care aleargă | rapid | repede | sport | spre | ton închis al pielii | vin | viteză</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">persoană care aleargă: ton închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🏃‍♀‍➡">alergare | alergător | dreapta | femeie | femeie alergând | femeie care aleargă | femeie care fuge | femeie fugind | fugă | grabă | grăbește-te | maraton | orientate | rapid | repede | spre | vin | viteză</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">femeie care aleargă: orientate spre dreapta</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">alergare | alergător | dreapta | femeie | femeie alergând | femeie care aleargă | femeie care fuge | femeie fugind | fugă | grabă | grăbește-te | maraton | orientate | rapid | repede | spre | ton deschis al pielii | vin | viteză</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">femeie care aleargă: ton deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">alergare | alergător | dreapta | femeie | femeie alergând | femeie care aleargă | femeie care fuge | femeie fugind | fugă | grabă | grăbește-te | maraton | orientate | rapid | repede | spre | ton semi‑deschis al pielii | vin | viteză</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">femeie care aleargă: ton semi‑deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">alergare | alergător | dreapta | femeie | femeie alergând | femeie care aleargă | femeie care fuge | femeie fugind | fugă | grabă | grăbește-te | maraton | orientate | rapid | repede | spre | ton mediu al pielii | vin | viteză</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">femeie care aleargă: ton mediu al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">alergare | alergător | dreapta | femeie | femeie alergând | femeie care aleargă | femeie care fuge | femeie fugind | fugă | grabă | grăbește-te | maraton | orientate | rapid | repede | spre | ton semi‑închis al pielii | vin | viteză</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">femeie care aleargă: ton semi‑închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">alergare | alergător | dreapta | femeie | femeie alergând | femeie care aleargă | femeie care fuge | femeie fugind | fugă | grabă | grăbește-te | maraton | orientate | rapid | repede | spre | ton închis al pielii | vin | viteză</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">femeie care aleargă: ton închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🏃‍♂‍➡">alergare | bărbat | bărbat care aleargă | dreapta | fugă | maraton | orientate | spre</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">bărbat care aleargă: orientate spre dreapta</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">alergare | bărbat | bărbat care aleargă | dreapta | fugă | maraton | orientate | spre | ton deschis al pielii</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">bărbat care aleargă: ton deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">alergare | bărbat | bărbat care aleargă | dreapta | fugă | maraton | orientate | spre | ton semi‑deschis al pielii</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">bărbat care aleargă: ton semi‑deschis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">alergare | bărbat | bărbat care aleargă | dreapta | fugă | maraton | orientate | spre | ton mediu al pielii</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">bărbat care aleargă: ton mediu al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">alergare | bărbat | bărbat care aleargă | dreapta | fugă | maraton | orientate | spre | ton semi‑închis al pielii</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">bărbat care aleargă: ton semi‑închis al pielii, orientate spre dreapta</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">alergare | bărbat | bărbat care aleargă | dreapta | fugă | maraton | orientate | spre | ton închis al pielii</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">bărbat care aleargă: ton închis al pielii, orientate spre dreapta</annotation>
 		<annotation cp="💃🏻">dans | dansatoare | dansator | elegant | femeie | festiv | flamenco | hai la dans | pasiune | persoană | ritm | salsa | tango | ton deschis al pielii</annotation>
 		<annotation cp="💃🏻" type="tts">dansatoare: ton deschis al pielii</annotation>
 		<annotation cp="💃🏼">dans | dansatoare | dansator | elegant | femeie | festiv | flamenco | hai la dans | pasiune | persoană | ritm | salsa | tango | ton semi‑deschis al pielii</annotation>
@@ -3113,6 +3363,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🕴🏾" type="tts">persoană în costum, levitând: ton semi‑închis al pielii</annotation>
 		<annotation cp="🕴🏿">afaceri | costum | om de afaceri | persoană | persoană în costum, care levitează | persoană în costum, care plutește | persoană la costum | persoană la costum, levitând | ton închis al pielii</annotation>
 		<annotation cp="🕴🏿" type="tts">persoană în costum, levitând: ton închis al pielii</annotation>
+		<annotation cp="👯🏻">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👯🏻" type="tts">persoane care poartă urechi de iepuraș: ton deschis al pielii</annotation>
+		<annotation cp="👯🏼">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton semi‑deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👯🏼" type="tts">persoane care poartă urechi de iepuraș: ton semi‑deschis al pielii</annotation>
+		<annotation cp="👯🏽">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton mediu al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👯🏽" type="tts">persoane care poartă urechi de iepuraș: ton mediu al pielii</annotation>
+		<annotation cp="👯🏾">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👯🏾" type="tts">persoane care poartă urechi de iepuraș: ton semi‑închis al pielii</annotation>
+		<annotation cp="👯🏿">bff | dans | dansatoare | distracție | fete petrecărețe | gemene | identice | la fel | pereche | persoane care poartă urechi de iepuraș | petrecere | suflete pereche | ton închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👯🏿" type="tts">persoane care poartă urechi de iepuraș: ton închis al pielii</annotation>
+		<annotation cp="👯🏻‍♀">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👯🏻‍♀" type="tts">femei care poartă urechi de iepuraș: ton deschis al pielii</annotation>
+		<annotation cp="👯🏼‍♀">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton semi‑deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👯🏼‍♀" type="tts">femei care poartă urechi de iepuraș: ton semi‑deschis al pielii</annotation>
+		<annotation cp="👯🏽‍♀">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton mediu al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👯🏽‍♀" type="tts">femei care poartă urechi de iepuraș: ton mediu al pielii</annotation>
+		<annotation cp="👯🏾‍♀">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👯🏾‍♀" type="tts">femei care poartă urechi de iepuraș: ton semi‑închis al pielii</annotation>
+		<annotation cp="👯🏿‍♀">dans | distracție | femei | femei care poartă urechi de iepuraș | petrecere | ton închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👯🏿‍♀" type="tts">femei care poartă urechi de iepuraș: ton închis al pielii</annotation>
+		<annotation cp="👯🏻‍♂">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👯🏻‍♂" type="tts">bărbați care poartă urechi de iepuraș: ton deschis al pielii</annotation>
+		<annotation cp="👯🏼‍♂">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton semi‑deschis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👯🏼‍♂" type="tts">bărbați care poartă urechi de iepuraș: ton semi‑deschis al pielii</annotation>
+		<annotation cp="👯🏽‍♂">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton mediu al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👯🏽‍♂" type="tts">bărbați care poartă urechi de iepuraș: ton mediu al pielii</annotation>
+		<annotation cp="👯🏾‍♂">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton semi‑închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👯🏾‍♂" type="tts">bărbați care poartă urechi de iepuraș: ton semi‑închis al pielii</annotation>
+		<annotation cp="👯🏿‍♂">bărbați | bărbați care poartă urechi de iepuraș | costum | dans | dansator | dansatori | distracție | gemeni | identici | iepuraș | la fel | petrecere | ton închis al pielii | urechi de iepuraș</annotation>
+		<annotation cp="👯🏿‍♂" type="tts">bărbați care poartă urechi de iepuraș: ton închis al pielii</annotation>
 		<annotation cp="🧖🏻">baie de aburi | baie turcească | hamam | persoană în saună | persoană la saună | relaxare | saună | ton deschis al pielii</annotation>
 		<annotation cp="🧖🏻" type="tts">persoană în saună: ton deschis al pielii</annotation>
 		<annotation cp="🧖🏼">baie de aburi | baie turcească | hamam | persoană în saună | persoană la saună | relaxare | saună | ton semi‑deschis al pielii</annotation>
@@ -3463,6 +3743,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤸🏾‍♀" type="tts">femeie care face roata: ton semi‑închis al pielii</annotation>
 		<annotation cp="🤸🏿‍♀">activă | entuziastă | face roata | femeie | femeie care face roata | gimnastă | gimnastică | roata | sport | ton închis al pielii</annotation>
 		<annotation cp="🤸🏿‍♀" type="tts">femeie care face roata: ton închis al pielii</annotation>
+		<annotation cp="🤼🏻">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton deschis al pielii</annotation>
+		<annotation cp="🤼🏻" type="tts">persoane care practică wrestling: ton deschis al pielii</annotation>
+		<annotation cp="🤼🏼">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton semi‑deschis al pielii</annotation>
+		<annotation cp="🤼🏼" type="tts">persoane care practică wrestling: ton semi‑deschis al pielii</annotation>
+		<annotation cp="🤼🏽">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton mediu al pielii</annotation>
+		<annotation cp="🤼🏽" type="tts">persoane care practică wrestling: ton mediu al pielii</annotation>
+		<annotation cp="🤼🏾">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton semi‑închis al pielii</annotation>
+		<annotation cp="🤼🏾" type="tts">persoane care practică wrestling: ton semi‑închis al pielii</annotation>
+		<annotation cp="🤼🏿">luptă | luptător | luptători | lupte | meci | om | persoane care practică wrestling | ring | sport | ton închis al pielii</annotation>
+		<annotation cp="🤼🏿" type="tts">persoane care practică wrestling: ton închis al pielii</annotation>
+		<annotation cp="🤼🏻‍♀">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton deschis al pielii | wrestling</annotation>
+		<annotation cp="🤼🏻‍♀" type="tts">femeie care practică wrestling: ton deschis al pielii</annotation>
+		<annotation cp="🤼🏼‍♀">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton semi‑deschis al pielii | wrestling</annotation>
+		<annotation cp="🤼🏼‍♀" type="tts">femeie care practică wrestling: ton semi‑deschis al pielii</annotation>
+		<annotation cp="🤼🏽‍♀">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton mediu al pielii | wrestling</annotation>
+		<annotation cp="🤼🏽‍♀" type="tts">femeie care practică wrestling: ton mediu al pielii</annotation>
+		<annotation cp="🤼🏾‍♀">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton semi‑închis al pielii | wrestling</annotation>
+		<annotation cp="🤼🏾‍♀" type="tts">femeie care practică wrestling: ton semi‑închis al pielii</annotation>
+		<annotation cp="🤼🏿‍♀">femei | femeie care practică wrestling | luptă | luptătoare | lupte | ring | sport | ton închis al pielii | wrestling</annotation>
+		<annotation cp="🤼🏿‍♀" type="tts">femeie care practică wrestling: ton închis al pielii</annotation>
+		<annotation cp="🤼🏻‍♂">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton deschis al pielii | turneu | wrestling</annotation>
+		<annotation cp="🤼🏻‍♂" type="tts">bărbat care practică wrestling: ton deschis al pielii</annotation>
+		<annotation cp="🤼🏼‍♂">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton semi‑deschis al pielii | turneu | wrestling</annotation>
+		<annotation cp="🤼🏼‍♂" type="tts">bărbat care practică wrestling: ton semi‑deschis al pielii</annotation>
+		<annotation cp="🤼🏽‍♂">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton mediu al pielii | turneu | wrestling</annotation>
+		<annotation cp="🤼🏽‍♂" type="tts">bărbat care practică wrestling: ton mediu al pielii</annotation>
+		<annotation cp="🤼🏾‍♂">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton semi‑închis al pielii | turneu | wrestling</annotation>
+		<annotation cp="🤼🏾‍♂" type="tts">bărbat care practică wrestling: ton semi‑închis al pielii</annotation>
+		<annotation cp="🤼🏿‍♂">bărbat care practică wrestling | bărbați | lupte | meci | ring | sport | ton închis al pielii | turneu | wrestling</annotation>
+		<annotation cp="🤼🏿‍♂" type="tts">bărbat care practică wrestling: ton închis al pielii</annotation>
 		<annotation cp="🤽🏻">apă | om | persoană | persoană care joacă polo pe apă | polo | polo pe apă | sport | sport acvatic | sport nautic | ton deschis al pielii</annotation>
 		<annotation cp="🤽🏻" type="tts">persoană care joacă polo pe apă: ton deschis al pielii</annotation>
 		<annotation cp="🤽🏼">apă | om | persoană | persoană care joacă polo pe apă | polo | polo pe apă | sport | sport acvatic | sport nautic | ton semi‑deschis al pielii</annotation>
@@ -3993,6 +4303,8 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🇨🇴" type="tts">steag: Columbia</annotation>
 		<annotation cp="🇨🇵">steag</annotation>
 		<annotation cp="🇨🇵" type="tts">steag: Insula Clipperton</annotation>
+		<annotation cp="🇨🇶">steag</annotation>
+		<annotation cp="🇨🇶" type="tts">steag: Sark</annotation>
 		<annotation cp="🇨🇷">steag</annotation>
 		<annotation cp="🇨🇷" type="tts">steag: Costa Rica</annotation>
 		<annotation cp="🇨🇺">steag</annotation>
@@ -4432,26 +4744,6 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="₺" type="tts">liră turcească</annotation>
 		<annotation cp="₼" type="tts">manat azer</annotation>
 		<annotation cp="₾" type="tts">lari georgian</annotation>
-		<annotation cp="0⃣">tastă</annotation>
-		<annotation cp="0⃣" type="tts">tastă: 0</annotation>
-		<annotation cp="1⃣">tastă</annotation>
-		<annotation cp="1⃣" type="tts">tastă: 1</annotation>
-		<annotation cp="2⃣">tastă</annotation>
-		<annotation cp="2⃣" type="tts">tastă: 2</annotation>
-		<annotation cp="3⃣">tastă</annotation>
-		<annotation cp="3⃣" type="tts">tastă: 3</annotation>
-		<annotation cp="4⃣">tastă</annotation>
-		<annotation cp="4⃣" type="tts">tastă: 4</annotation>
-		<annotation cp="5⃣">tastă</annotation>
-		<annotation cp="5⃣" type="tts">tastă: 5</annotation>
-		<annotation cp="6⃣">tastă</annotation>
-		<annotation cp="6⃣" type="tts">tastă: 6</annotation>
-		<annotation cp="7⃣">tastă</annotation>
-		<annotation cp="7⃣" type="tts">tastă: 7</annotation>
-		<annotation cp="8⃣">tastă</annotation>
-		<annotation cp="8⃣" type="tts">tastă: 8</annotation>
-		<annotation cp="9⃣">tastă</annotation>
-		<annotation cp="9⃣" type="tts">tastă: 9</annotation>
 		<annotation cp="₧" type="tts">pesetă spaniolă</annotation>
 	</annotations>
 </ldml>

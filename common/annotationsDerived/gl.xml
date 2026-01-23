@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -603,6 +603,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾" type="tts">persoa loura: ton de pel escuro</annotation>
 		<annotation cp="👱🏿">loiro | louro | persoa loira | persoa loura | ton de pel moi escuro</annotation>
 		<annotation cp="👱🏿" type="tts">persoa loura: ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼">deporte | loitadores | ton de pel claro | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼" type="tts">loita libre: ton de pel moi claro, ton de pel claro</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽">deporte | loitadores | ton de pel medio | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽" type="tts">loita libre: ton de pel moi claro, ton de pel medio</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾">deporte | loitadores | ton de pel escuro | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾" type="tts">loita libre: ton de pel moi claro, ton de pel escuro</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿">deporte | loitadores | ton de pel moi claro | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿" type="tts">loita libre: ton de pel moi claro, ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻">deporte | loitadores | ton de pel claro | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻" type="tts">loita libre: ton de pel claro, ton de pel moi claro</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽">deporte | loitadores | ton de pel claro | ton de pel medio</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽" type="tts">loita libre: ton de pel claro, ton de pel medio</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾">deporte | loitadores | ton de pel claro | ton de pel escuro</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾" type="tts">loita libre: ton de pel claro, ton de pel escuro</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿">deporte | loitadores | ton de pel claro | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿" type="tts">loita libre: ton de pel claro, ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻">deporte | loitadores | ton de pel medio | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻" type="tts">loita libre: ton de pel medio, ton de pel moi claro</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼">deporte | loitadores | ton de pel claro | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼" type="tts">loita libre: ton de pel medio, ton de pel claro</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾">deporte | loitadores | ton de pel escuro | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾" type="tts">loita libre: ton de pel medio, ton de pel escuro</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿">deporte | loitadores | ton de pel medio | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿" type="tts">loita libre: ton de pel medio, ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻">deporte | loitadores | ton de pel escuro | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻" type="tts">loita libre: ton de pel escuro, ton de pel moi claro</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼">deporte | loitadores | ton de pel claro | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼" type="tts">loita libre: ton de pel escuro, ton de pel claro</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽">deporte | loitadores | ton de pel escuro | ton de pel medio</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽" type="tts">loita libre: ton de pel escuro, ton de pel medio</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿">deporte | loitadores | ton de pel escuro | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿" type="tts">loita libre: ton de pel escuro, ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻">deporte | loitadores | ton de pel moi claro | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻" type="tts">loita libre: ton de pel moi escuro, ton de pel moi claro</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼">deporte | loitadores | ton de pel claro | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼" type="tts">loita libre: ton de pel moi escuro, ton de pel claro</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽">deporte | loitadores | ton de pel medio | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽" type="tts">loita libre: ton de pel moi escuro, ton de pel medio</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾">deporte | loitadores | ton de pel escuro | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾" type="tts">loita libre: ton de pel moi escuro, ton de pel escuro</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼">bico | parella | parella bicándose | persoa | ton de pel claro | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼" type="tts">parella bicándose: persoa, persoa, ton de pel moi claro, ton de pel claro</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏽">bico | parella | parella bicándose | persoa | ton de pel medio | ton de pel moi claro</annotation>
@@ -731,6 +771,56 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦲" type="tts">persoa: ton de pel escuro, sen pelo</annotation>
 		<annotation cp="🧑🏿‍🦲">adulto | identidade sexual indeterminada | persoa | sen pelo | ton de pel moi escuro | xénero neutro</annotation>
 		<annotation cp="🧑🏿‍🦲" type="tts">persoa: ton de pel moi escuro, sen pelo</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼">bailar | festa | ton de pel claro | ton de pel moi claro | xente de festa</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼" type="tts">xente de festa: ton de pel moi claro, ton de pel claro</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽">bailar | festa | ton de pel medio | ton de pel moi claro | xente de festa</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽" type="tts">xente de festa: ton de pel moi claro, ton de pel medio</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾">bailar | festa | ton de pel escuro | ton de pel moi claro | xente de festa</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾" type="tts">xente de festa: ton de pel moi claro, ton de pel escuro</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿">bailar | festa | ton de pel moi claro | ton de pel moi escuro | xente de festa</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿" type="tts">xente de festa: ton de pel moi claro, ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻">bailar | festa | ton de pel claro | ton de pel moi claro | xente de festa</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻" type="tts">xente de festa: ton de pel claro, ton de pel moi claro</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽">bailar | festa | ton de pel claro | ton de pel medio | xente de festa</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽" type="tts">xente de festa: ton de pel claro, ton de pel medio</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾">bailar | festa | ton de pel claro | ton de pel escuro | xente de festa</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾" type="tts">xente de festa: ton de pel claro, ton de pel escuro</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿">bailar | festa | ton de pel claro | ton de pel moi escuro | xente de festa</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿" type="tts">xente de festa: ton de pel claro, ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻">bailar | festa | ton de pel medio | ton de pel moi claro | xente de festa</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻" type="tts">xente de festa: ton de pel medio, ton de pel moi claro</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼">bailar | festa | ton de pel claro | ton de pel medio | xente de festa</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼" type="tts">xente de festa: ton de pel medio, ton de pel claro</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾">bailar | festa | ton de pel escuro | ton de pel medio | xente de festa</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾" type="tts">xente de festa: ton de pel medio, ton de pel escuro</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿">bailar | festa | ton de pel medio | ton de pel moi escuro | xente de festa</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿" type="tts">xente de festa: ton de pel medio, ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻">bailar | festa | ton de pel escuro | ton de pel moi claro | xente de festa</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻" type="tts">xente de festa: ton de pel escuro, ton de pel moi claro</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼">bailar | festa | ton de pel claro | ton de pel escuro | xente de festa</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼" type="tts">xente de festa: ton de pel escuro, ton de pel claro</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽">bailar | festa | ton de pel escuro | ton de pel medio | xente de festa</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽" type="tts">xente de festa: ton de pel escuro, ton de pel medio</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿">bailar | festa | ton de pel escuro | ton de pel moi escuro | xente de festa</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿" type="tts">xente de festa: ton de pel escuro, ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻">bailar | festa | ton de pel moi claro | ton de pel moi escuro | xente de festa</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻" type="tts">xente de festa: ton de pel moi escuro, ton de pel moi claro</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼">bailar | festa | ton de pel claro | ton de pel moi escuro | xente de festa</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼" type="tts">xente de festa: ton de pel moi escuro, ton de pel claro</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽">bailar | festa | ton de pel medio | ton de pel moi escuro | xente de festa</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽" type="tts">xente de festa: ton de pel moi escuro, ton de pel medio</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾">bailar | festa | ton de pel escuro | ton de pel moi escuro | xente de festa</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾" type="tts">xente de festa: ton de pel moi escuro, ton de pel escuro</annotation>
+		<annotation cp="🧑🏻‍🩰">bailarina | balé | ballet | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🩰" type="tts">intérprete de ballet: ton de pel moi claro</annotation>
+		<annotation cp="🧑🏼‍🩰">bailarina | balé | ballet | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍🩰" type="tts">intérprete de ballet: ton de pel claro</annotation>
+		<annotation cp="🧑🏽‍🩰">bailarina | balé | ballet | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🩰" type="tts">intérprete de ballet: ton de pel medio</annotation>
+		<annotation cp="🧑🏾‍🩰">bailarina | balé | ballet | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🩰" type="tts">intérprete de ballet: ton de pel escuro</annotation>
+		<annotation cp="🧑🏿‍🩰">bailarina | balé | ballet | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🩰" type="tts">intérprete de ballet: ton de pel moi escuro</annotation>
 		<annotation cp="👨🏻">adulto | home | ton de pel moi claro</annotation>
 		<annotation cp="👨🏻" type="tts">home: ton de pel moi claro</annotation>
 		<annotation cp="👨🏼">adulto | home | ton de pel claro</annotation>
@@ -771,6 +861,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♂" type="tts">home louro: ton de pel escuro</annotation>
 		<annotation cp="👱🏿‍♂">home | loiro | louro | ton de pel moi escuro</annotation>
 		<annotation cp="👱🏿‍♂" type="tts">home louro: ton de pel moi escuro</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel claro | ton de pel moi claro</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼" type="tts">homes practicando loita libre: ton de pel moi claro, ton de pel claro</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel medio | ton de pel moi claro</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽" type="tts">homes practicando loita libre: ton de pel moi claro, ton de pel medio</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel escuro | ton de pel moi claro</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾" type="tts">homes practicando loita libre: ton de pel moi claro, ton de pel escuro</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel moi claro | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿" type="tts">homes practicando loita libre: ton de pel moi claro, ton de pel moi escuro</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel claro | ton de pel moi claro</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻" type="tts">homes practicando loita libre: ton de pel claro, ton de pel moi claro</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel claro | ton de pel medio</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽" type="tts">homes practicando loita libre: ton de pel claro, ton de pel medio</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel claro | ton de pel escuro</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾" type="tts">homes practicando loita libre: ton de pel claro, ton de pel escuro</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel claro | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿" type="tts">homes practicando loita libre: ton de pel claro, ton de pel moi escuro</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel medio | ton de pel moi claro</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻" type="tts">homes practicando loita libre: ton de pel medio, ton de pel moi claro</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel claro | ton de pel medio</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼" type="tts">homes practicando loita libre: ton de pel medio, ton de pel claro</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel escuro | ton de pel medio</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾" type="tts">homes practicando loita libre: ton de pel medio, ton de pel escuro</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel medio | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿" type="tts">homes practicando loita libre: ton de pel medio, ton de pel moi escuro</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel escuro | ton de pel moi claro</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻" type="tts">homes practicando loita libre: ton de pel escuro, ton de pel moi claro</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel claro | ton de pel escuro</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼" type="tts">homes practicando loita libre: ton de pel escuro, ton de pel claro</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel escuro | ton de pel medio</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽" type="tts">homes practicando loita libre: ton de pel escuro, ton de pel medio</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel escuro | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿" type="tts">homes practicando loita libre: ton de pel escuro, ton de pel moi escuro</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel moi claro | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻" type="tts">homes practicando loita libre: ton de pel moi escuro, ton de pel moi claro</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel claro | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼" type="tts">homes practicando loita libre: ton de pel moi escuro, ton de pel claro</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel medio | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽" type="tts">homes practicando loita libre: ton de pel moi escuro, ton de pel medio</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel escuro | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾" type="tts">homes practicando loita libre: ton de pel moi escuro, ton de pel escuro</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻">bico | home | parella | parella bicándose | ton de pel moi claro</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻" type="tts">parella bicándose: home, home, ton de pel moi claro</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏼">bico | home | parella | parella bicándose | ton de pel claro | ton de pel moi claro</annotation>
@@ -919,6 +1049,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦲" type="tts">home: ton de pel escuro, sen pelo</annotation>
 		<annotation cp="👨🏿‍🦲">adulto | home | sen pelo | ton de pel moi escuro</annotation>
 		<annotation cp="👨🏿‍🦲" type="tts">home: ton de pel moi escuro, sen pelo</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel claro | ton de pel moi claro</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼" type="tts">homes de festa: ton de pel moi claro, ton de pel claro</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel medio | ton de pel moi claro</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽" type="tts">homes de festa: ton de pel moi claro, ton de pel medio</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel escuro | ton de pel moi claro</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾" type="tts">homes de festa: ton de pel moi claro, ton de pel escuro</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel moi claro | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿" type="tts">homes de festa: ton de pel moi claro, ton de pel moi escuro</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel claro | ton de pel moi claro</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻" type="tts">homes de festa: ton de pel claro, ton de pel moi claro</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel claro | ton de pel medio</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽" type="tts">homes de festa: ton de pel claro, ton de pel medio</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel claro | ton de pel escuro</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾" type="tts">homes de festa: ton de pel claro, ton de pel escuro</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel claro | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿" type="tts">homes de festa: ton de pel claro, ton de pel moi escuro</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel medio | ton de pel moi claro</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻" type="tts">homes de festa: ton de pel medio, ton de pel moi claro</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel claro | ton de pel medio</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼" type="tts">homes de festa: ton de pel medio, ton de pel claro</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel escuro | ton de pel medio</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾" type="tts">homes de festa: ton de pel medio, ton de pel escuro</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel medio | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿" type="tts">homes de festa: ton de pel medio, ton de pel moi escuro</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel escuro | ton de pel moi claro</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻" type="tts">homes de festa: ton de pel escuro, ton de pel moi claro</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel claro | ton de pel escuro</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼" type="tts">homes de festa: ton de pel escuro, ton de pel claro</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel escuro | ton de pel medio</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽" type="tts">homes de festa: ton de pel escuro, ton de pel medio</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel escuro | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿" type="tts">homes de festa: ton de pel escuro, ton de pel moi escuro</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel moi claro | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻" type="tts">homes de festa: ton de pel moi escuro, ton de pel moi claro</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel claro | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼" type="tts">homes de festa: ton de pel moi escuro, ton de pel claro</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel medio | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽" type="tts">homes de festa: ton de pel moi escuro, ton de pel medio</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel escuro | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾" type="tts">homes de festa: ton de pel moi escuro, ton de pel escuro</annotation>
 		<annotation cp="👩🏻">adulta | muller | ton de pel moi claro</annotation>
 		<annotation cp="👩🏻" type="tts">muller: ton de pel moi claro</annotation>
 		<annotation cp="👩🏼">adulta | muller | ton de pel claro</annotation>
@@ -949,6 +1119,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♀" type="tts">muller loura: ton de pel escuro</annotation>
 		<annotation cp="👱🏿‍♀">loira | loura | muller | ton de pel moi escuro</annotation>
 		<annotation cp="👱🏿‍♀" type="tts">muller loura: ton de pel moi escuro</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel claro | ton de pel moi claro</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼" type="tts">mulleres practicando loita libre: ton de pel moi claro, ton de pel claro</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel medio | ton de pel moi claro</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽" type="tts">mulleres practicando loita libre: ton de pel moi claro, ton de pel medio</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel escuro | ton de pel moi claro</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾" type="tts">mulleres practicando loita libre: ton de pel moi claro, ton de pel escuro</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel moi claro | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿" type="tts">mulleres practicando loita libre: ton de pel moi claro, ton de pel moi escuro</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel claro | ton de pel moi claro</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻" type="tts">mulleres practicando loita libre: ton de pel claro, ton de pel moi claro</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel claro | ton de pel medio</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽" type="tts">mulleres practicando loita libre: ton de pel claro, ton de pel medio</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel claro | ton de pel escuro</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾" type="tts">mulleres practicando loita libre: ton de pel claro, ton de pel escuro</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel claro | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿" type="tts">mulleres practicando loita libre: ton de pel claro, ton de pel moi escuro</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel medio | ton de pel moi claro</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻" type="tts">mulleres practicando loita libre: ton de pel medio, ton de pel moi claro</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel claro | ton de pel medio</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼" type="tts">mulleres practicando loita libre: ton de pel medio, ton de pel claro</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel escuro | ton de pel medio</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾" type="tts">mulleres practicando loita libre: ton de pel medio, ton de pel escuro</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel medio | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿" type="tts">mulleres practicando loita libre: ton de pel medio, ton de pel moi escuro</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel escuro | ton de pel moi claro</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻" type="tts">mulleres practicando loita libre: ton de pel escuro, ton de pel moi claro</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel claro | ton de pel escuro</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼" type="tts">mulleres practicando loita libre: ton de pel escuro, ton de pel claro</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel escuro | ton de pel medio</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽" type="tts">mulleres practicando loita libre: ton de pel escuro, ton de pel medio</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel escuro | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿" type="tts">mulleres practicando loita libre: ton de pel escuro, ton de pel moi escuro</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel moi claro | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻" type="tts">mulleres practicando loita libre: ton de pel moi escuro, ton de pel moi claro</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel claro | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼" type="tts">mulleres practicando loita libre: ton de pel moi escuro, ton de pel claro</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel medio | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽" type="tts">mulleres practicando loita libre: ton de pel moi escuro, ton de pel medio</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel escuro | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾" type="tts">mulleres practicando loita libre: ton de pel moi escuro, ton de pel escuro</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻">bico | home | muller | parella | parella bicándose | ton de pel moi claro</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻" type="tts">parella bicándose: muller, home, ton de pel moi claro</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏼">bico | home | muller | parella | parella bicándose | ton de pel claro | ton de pel moi claro</annotation>
@@ -1197,6 +1407,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦲" type="tts">muller: ton de pel escuro, sen pelo</annotation>
 		<annotation cp="👩🏿‍🦲">adulta | muller | sen pelo | ton de pel moi escuro</annotation>
 		<annotation cp="👩🏿‍🦲" type="tts">muller: ton de pel moi escuro, sen pelo</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel claro | ton de pel moi claro</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼" type="tts">mulleres de festa: ton de pel moi claro, ton de pel claro</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel medio | ton de pel moi claro</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽" type="tts">mulleres de festa: ton de pel moi claro, ton de pel medio</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel escuro | ton de pel moi claro</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾" type="tts">mulleres de festa: ton de pel moi claro, ton de pel escuro</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel moi claro | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿" type="tts">mulleres de festa: ton de pel moi claro, ton de pel moi escuro</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel claro | ton de pel moi claro</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻" type="tts">mulleres de festa: ton de pel claro, ton de pel moi claro</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel claro | ton de pel medio</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽" type="tts">mulleres de festa: ton de pel claro, ton de pel medio</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel claro | ton de pel escuro</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾" type="tts">mulleres de festa: ton de pel claro, ton de pel escuro</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel claro | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿" type="tts">mulleres de festa: ton de pel claro, ton de pel moi escuro</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel medio | ton de pel moi claro</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻" type="tts">mulleres de festa: ton de pel medio, ton de pel moi claro</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel claro | ton de pel medio</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼" type="tts">mulleres de festa: ton de pel medio, ton de pel claro</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel escuro | ton de pel medio</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾" type="tts">mulleres de festa: ton de pel medio, ton de pel escuro</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel medio | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿" type="tts">mulleres de festa: ton de pel medio, ton de pel moi escuro</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel escuro | ton de pel moi claro</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻" type="tts">mulleres de festa: ton de pel escuro, ton de pel moi claro</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel claro | ton de pel escuro</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼" type="tts">mulleres de festa: ton de pel escuro, ton de pel claro</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel escuro | ton de pel medio</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽" type="tts">mulleres de festa: ton de pel escuro, ton de pel medio</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel escuro | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿" type="tts">mulleres de festa: ton de pel escuro, ton de pel moi escuro</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel moi claro | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻" type="tts">mulleres de festa: ton de pel moi escuro, ton de pel moi claro</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel claro | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼" type="tts">mulleres de festa: ton de pel moi escuro, ton de pel claro</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel medio | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽" type="tts">mulleres de festa: ton de pel moi escuro, ton de pel medio</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel escuro | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾" type="tts">mulleres de festa: ton de pel moi escuro, ton de pel escuro</annotation>
 		<annotation cp="🧓🏻">ancián | persoa maior | ton de pel moi claro | vello | xénero neutro</annotation>
 		<annotation cp="🧓🏻" type="tts">persoa maior: ton de pel moi claro</annotation>
 		<annotation cp="🧓🏼">ancián | persoa maior | ton de pel claro | vello | xénero neutro</annotation>
@@ -2687,42 +2937,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🚶🏾‍♀" type="tts">muller andando: ton de pel escuro</annotation>
 		<annotation cp="🚶🏿‍♀">andar | camiñar | muller | muller andando | pasear | ton de pel moi escuro</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">muller andando: ton de pel moi escuro</annotation>
-		<annotation cp="🚶‍➡">andar | camiñar | pasear | persoa andando</annotation>
-		<annotation cp="🚶‍➡" type="tts">persoa andando cara á dereita</annotation>
-		<annotation cp="🚶🏻‍➡">andar | camiñar | pasear | persoa andando</annotation>
-		<annotation cp="🚶🏻‍➡" type="tts">persoa andando cara á dereita</annotation>
-		<annotation cp="🚶🏼‍➡">andar | camiñar | pasear | persoa andando</annotation>
-		<annotation cp="🚶🏼‍➡" type="tts">persoa andando cara á dereita</annotation>
-		<annotation cp="🚶🏽‍➡">andar | camiñar | pasear | persoa andando</annotation>
-		<annotation cp="🚶🏽‍➡" type="tts">persoa andando cara á dereita</annotation>
-		<annotation cp="🚶🏾‍➡">andar | camiñar | pasear | persoa andando</annotation>
-		<annotation cp="🚶🏾‍➡" type="tts">persoa andando cara á dereita</annotation>
-		<annotation cp="🚶🏿‍➡">andar | camiñar | pasear | persoa andando</annotation>
-		<annotation cp="🚶🏿‍➡" type="tts">persoa andando cara á dereita</annotation>
-		<annotation cp="🚶‍♀‍➡">andar | camiñar | muller | muller andando | pasear</annotation>
-		<annotation cp="🚶‍♀‍➡" type="tts">muller andando cara á dereita</annotation>
-		<annotation cp="🚶🏻‍♀‍➡">andar | camiñar | muller | muller andando | pasear</annotation>
-		<annotation cp="🚶🏻‍♀‍➡" type="tts">muller andando cara á dereita</annotation>
-		<annotation cp="🚶🏼‍♀‍➡">andar | camiñar | muller | muller andando | pasear</annotation>
-		<annotation cp="🚶🏼‍♀‍➡" type="tts">muller andando cara á dereita</annotation>
-		<annotation cp="🚶🏽‍♀‍➡">andar | camiñar | muller | muller andando | pasear</annotation>
-		<annotation cp="🚶🏽‍♀‍➡" type="tts">muller andando cara á dereita</annotation>
-		<annotation cp="🚶🏾‍♀‍➡">andar | camiñar | muller | muller andando | pasear</annotation>
-		<annotation cp="🚶🏾‍♀‍➡" type="tts">muller andando cara á dereita</annotation>
-		<annotation cp="🚶🏿‍♀‍➡">andar | camiñar | muller | muller andando | pasear</annotation>
-		<annotation cp="🚶🏿‍♀‍➡" type="tts">muller andando cara á dereita</annotation>
-		<annotation cp="🚶‍♂‍➡">andar | camiñar | home | home andando | pasear</annotation>
-		<annotation cp="🚶‍♂‍➡" type="tts">home andando cara á dereita</annotation>
-		<annotation cp="🚶🏻‍♂‍➡">andar | camiñar | home | home andando | pasear</annotation>
-		<annotation cp="🚶🏻‍♂‍➡" type="tts">home andando cara á dereita</annotation>
-		<annotation cp="🚶🏼‍♂‍➡">andar | camiñar | home | home andando | pasear</annotation>
-		<annotation cp="🚶🏼‍♂‍➡" type="tts">home andando cara á dereita</annotation>
-		<annotation cp="🚶🏽‍♂‍➡">andar | camiñar | home | home andando | pasear</annotation>
-		<annotation cp="🚶🏽‍♂‍➡" type="tts">home andando cara á dereita</annotation>
-		<annotation cp="🚶🏾‍♂‍➡">andar | camiñar | home | home andando | pasear</annotation>
-		<annotation cp="🚶🏾‍♂‍➡" type="tts">home andando cara á dereita</annotation>
-		<annotation cp="🚶🏿‍♂‍➡">andar | camiñar | home | home andando | pasear</annotation>
-		<annotation cp="🚶🏿‍♂‍➡" type="tts">home andando cara á dereita</annotation>
+		<annotation cp="🚶‍➡">á | andar | camiñar | cara | dereita | pasear | persoa andando</annotation>
+		<annotation cp="🚶‍➡" type="tts">persoa andando: cara á dereita</annotation>
+		<annotation cp="🚶🏻‍➡">á | andar | camiñar | cara | dereita | pasear | persoa andando | ton de pel moi claro</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">persoa andando: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🚶🏼‍➡">á | andar | camiñar | cara | dereita | pasear | persoa andando | ton de pel claro</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">persoa andando: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🚶🏽‍➡">á | andar | camiñar | cara | dereita | pasear | persoa andando | ton de pel medio</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">persoa andando: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🚶🏾‍➡">á | andar | camiñar | cara | dereita | pasear | persoa andando | ton de pel escuro</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">persoa andando: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🚶🏿‍➡">á | andar | camiñar | cara | dereita | pasear | persoa andando | ton de pel moi escuro</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">persoa andando: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="🚶‍♀‍➡">á | andar | camiñar | cara | dereita | muller | muller andando | pasear</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">muller andando: cara á dereita</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">á | andar | camiñar | cara | dereita | muller | muller andando | pasear | ton de pel moi claro</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">muller andando: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">á | andar | camiñar | cara | dereita | muller | muller andando | pasear | ton de pel claro</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">muller andando: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">á | andar | camiñar | cara | dereita | muller | muller andando | pasear | ton de pel medio</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">muller andando: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">á | andar | camiñar | cara | dereita | muller | muller andando | pasear | ton de pel escuro</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">muller andando: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">á | andar | camiñar | cara | dereita | muller | muller andando | pasear | ton de pel moi escuro</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">muller andando: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="🚶‍♂‍➡">á | andar | camiñar | cara | dereita | home | home andando | pasear</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">home andando: cara á dereita</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">á | andar | camiñar | cara | dereita | home | home andando | pasear | ton de pel moi claro</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">home andando: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">á | andar | camiñar | cara | dereita | home | home andando | pasear | ton de pel claro</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">home andando: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">á | andar | camiñar | cara | dereita | home | home andando | pasear | ton de pel medio</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">home andando: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">á | andar | camiñar | cara | dereita | home | home andando | pasear | ton de pel escuro</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">home andando: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">á | andar | camiñar | cara | dereita | home | home andando | pasear | ton de pel moi escuro</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">home andando: ton de pel moi escuro, cara á dereita</annotation>
 		<annotation cp="🧍🏻">de pé | levantarse | ton de pel moi claro</annotation>
 		<annotation cp="🧍🏻" type="tts">persoa de pé: ton de pel moi claro</annotation>
 		<annotation cp="🧍🏼">de pé | levantarse | ton de pel claro</annotation>
@@ -2783,42 +3033,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧎🏾‍♀" type="tts">muller axeonllada: ton de pel escuro</annotation>
 		<annotation cp="🧎🏿‍♀">axeonllar | ton de pel moi escuro | xeonllos</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">muller axeonllada: ton de pel moi escuro</annotation>
-		<annotation cp="🧎‍➡">axeonllar | xeonllos</annotation>
-		<annotation cp="🧎‍➡" type="tts">persoa axeonllada cara á dereita</annotation>
-		<annotation cp="🧎🏻‍➡">axeonllar | xeonllos</annotation>
-		<annotation cp="🧎🏻‍➡" type="tts">persoa axeonllada cara á dereita</annotation>
-		<annotation cp="🧎🏼‍➡">axeonllar | xeonllos</annotation>
-		<annotation cp="🧎🏼‍➡" type="tts">persoa axeonllada cara á dereita</annotation>
-		<annotation cp="🧎🏽‍➡">axeonllar | xeonllos</annotation>
-		<annotation cp="🧎🏽‍➡" type="tts">persoa axeonllada cara á dereita</annotation>
-		<annotation cp="🧎🏾‍➡">axeonllar | xeonllos</annotation>
-		<annotation cp="🧎🏾‍➡" type="tts">persoa axeonllada cara á dereita</annotation>
-		<annotation cp="🧎🏿‍➡">axeonllar | xeonllos</annotation>
-		<annotation cp="🧎🏿‍➡" type="tts">persoa axeonllada cara á dereita</annotation>
-		<annotation cp="🧎‍♀‍➡">axeonllar | xeonllos</annotation>
-		<annotation cp="🧎‍♀‍➡" type="tts">muller axeonllada cara á dereita</annotation>
-		<annotation cp="🧎🏻‍♀‍➡">axeonllar | xeonllos</annotation>
-		<annotation cp="🧎🏻‍♀‍➡" type="tts">muller axeonllada cara á dereita</annotation>
-		<annotation cp="🧎🏼‍♀‍➡">axeonllar | xeonllos</annotation>
-		<annotation cp="🧎🏼‍♀‍➡" type="tts">muller axeonllada cara á dereita</annotation>
-		<annotation cp="🧎🏽‍♀‍➡">axeonllar | xeonllos</annotation>
-		<annotation cp="🧎🏽‍♀‍➡" type="tts">muller axeonllada cara á dereita</annotation>
-		<annotation cp="🧎🏾‍♀‍➡">axeonllar | xeonllos</annotation>
-		<annotation cp="🧎🏾‍♀‍➡" type="tts">muller axeonllada cara á dereita</annotation>
-		<annotation cp="🧎🏿‍♀‍➡">axeonllar | xeonllos</annotation>
-		<annotation cp="🧎🏿‍♀‍➡" type="tts">muller axeonllada cara á dereita</annotation>
-		<annotation cp="🧎‍♂‍➡">axeonllar | xeonllos</annotation>
-		<annotation cp="🧎‍♂‍➡" type="tts">home axeonllado cara á dereita</annotation>
-		<annotation cp="🧎🏻‍♂‍➡">axeonllar | xeonllos</annotation>
-		<annotation cp="🧎🏻‍♂‍➡" type="tts">home axeonllado cara á dereita</annotation>
-		<annotation cp="🧎🏼‍♂‍➡">axeonllar | xeonllos</annotation>
-		<annotation cp="🧎🏼‍♂‍➡" type="tts">home axeonllado cara á dereita</annotation>
-		<annotation cp="🧎🏽‍♂‍➡">axeonllar | xeonllos</annotation>
-		<annotation cp="🧎🏽‍♂‍➡" type="tts">home axeonllado cara á dereita</annotation>
-		<annotation cp="🧎🏾‍♂‍➡">axeonllar | xeonllos</annotation>
-		<annotation cp="🧎🏾‍♂‍➡" type="tts">home axeonllado cara á dereita</annotation>
-		<annotation cp="🧎🏿‍♂‍➡">axeonllar | xeonllos</annotation>
-		<annotation cp="🧎🏿‍♂‍➡" type="tts">home axeonllado cara á dereita</annotation>
+		<annotation cp="🧎‍➡">á | axeonllar | cara | dereita | xeonllos</annotation>
+		<annotation cp="🧎‍➡" type="tts">persoa axeonllada: cara á dereita</annotation>
+		<annotation cp="🧎🏻‍➡">á | axeonllar | cara | dereita | ton de pel moi claro | xeonllos</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">persoa axeonllada: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🧎🏼‍➡">á | axeonllar | cara | dereita | ton de pel claro | xeonllos</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">persoa axeonllada: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🧎🏽‍➡">á | axeonllar | cara | dereita | ton de pel medio | xeonllos</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">persoa axeonllada: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🧎🏾‍➡">á | axeonllar | cara | dereita | ton de pel escuro | xeonllos</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">persoa axeonllada: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🧎🏿‍➡">á | axeonllar | cara | dereita | ton de pel moi escuro | xeonllos</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">persoa axeonllada: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="🧎‍♀‍➡">á | axeonllar | cara | dereita | xeonllos</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">muller axeonllada: cara á dereita</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">á | axeonllar | cara | dereita | ton de pel moi claro | xeonllos</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">muller axeonllada: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">á | axeonllar | cara | dereita | ton de pel claro | xeonllos</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">muller axeonllada: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">á | axeonllar | cara | dereita | ton de pel medio | xeonllos</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">muller axeonllada: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">á | axeonllar | cara | dereita | ton de pel escuro | xeonllos</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">muller axeonllada: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">á | axeonllar | cara | dereita | ton de pel moi escuro | xeonllos</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">muller axeonllada: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="🧎‍♂‍➡">á | axeonllar | cara | dereita | xeonllos</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">home axeonllado: cara á dereita</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">á | axeonllar | cara | dereita | ton de pel moi claro | xeonllos</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">home axeonllado: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">á | axeonllar | cara | dereita | ton de pel claro | xeonllos</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">home axeonllado: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">á | axeonllar | cara | dereita | ton de pel medio | xeonllos</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">home axeonllado: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">á | axeonllar | cara | dereita | ton de pel escuro | xeonllos</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">home axeonllado: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">á | axeonllar | cara | dereita | ton de pel moi escuro | xeonllos</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">home axeonllado: ton de pel moi escuro, cara á dereita</annotation>
 		<annotation cp="🧑🏻‍🦯">bastón guía | cego | discapacidade | invidente | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">persoa cun bastón guía: ton de pel moi claro</annotation>
 		<annotation cp="🧑🏼‍🦯">bastón guía | cego | discapacidade | invidente | ton de pel claro</annotation>
@@ -2829,18 +3079,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦯" type="tts">persoa cun bastón guía: ton de pel escuro</annotation>
 		<annotation cp="🧑🏿‍🦯">bastón guía | cego | discapacidade | invidente | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">persoa cun bastón guía: ton de pel moi escuro</annotation>
-		<annotation cp="🧑‍🦯‍➡">bastón guía | cego | discapacidade | invidente</annotation>
-		<annotation cp="🧑‍🦯‍➡" type="tts">persoa cun bastón guía cara á dereita</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡">bastón guía | cego | discapacidade | invidente</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡" type="tts">persoa cun bastón guía cara á dereita</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡">bastón guía | cego | discapacidade | invidente</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡" type="tts">persoa cun bastón guía cara á dereita</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡">bastón guía | cego | discapacidade | invidente</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡" type="tts">persoa cun bastón guía cara á dereita</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡">bastón guía | cego | discapacidade | invidente</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡" type="tts">persoa cun bastón guía cara á dereita</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡">bastón guía | cego | discapacidade | invidente</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡" type="tts">persoa cun bastón guía cara á dereita</annotation>
+		<annotation cp="🧑‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">persoa cun bastón guía: cara á dereita</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">persoa cun bastón guía: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">persoa cun bastón guía: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">persoa cun bastón guía: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">persoa cun bastón guía: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">persoa cun bastón guía: ton de pel moi escuro, cara á dereita</annotation>
 		<annotation cp="👨🏻‍🦯">bastón guía | cego | discapacidade | invidente | ton de pel moi claro</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">home cun bastón guía: ton de pel moi claro</annotation>
 		<annotation cp="👨🏼‍🦯">bastón guía | cego | discapacidade | invidente | ton de pel claro</annotation>
@@ -2851,18 +3101,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦯" type="tts">home cun bastón guía: ton de pel escuro</annotation>
 		<annotation cp="👨🏿‍🦯">bastón guía | cego | discapacidade | invidente | ton de pel moi escuro</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">home cun bastón guía: ton de pel moi escuro</annotation>
-		<annotation cp="👨‍🦯‍➡">bastón guía | cego | discapacidade | invidente</annotation>
-		<annotation cp="👨‍🦯‍➡" type="tts">home cun bastón guía cara á dereita</annotation>
-		<annotation cp="👨🏻‍🦯‍➡">bastón guía | cego | discapacidade | invidente</annotation>
-		<annotation cp="👨🏻‍🦯‍➡" type="tts">home cun bastón guía cara á dereita</annotation>
-		<annotation cp="👨🏼‍🦯‍➡">bastón guía | cego | discapacidade | invidente</annotation>
-		<annotation cp="👨🏼‍🦯‍➡" type="tts">home cun bastón guía cara á dereita</annotation>
-		<annotation cp="👨🏽‍🦯‍➡">bastón guía | cego | discapacidade | invidente</annotation>
-		<annotation cp="👨🏽‍🦯‍➡" type="tts">home cun bastón guía cara á dereita</annotation>
-		<annotation cp="👨🏾‍🦯‍➡">bastón guía | cego | discapacidade | invidente</annotation>
-		<annotation cp="👨🏾‍🦯‍➡" type="tts">home cun bastón guía cara á dereita</annotation>
-		<annotation cp="👨🏿‍🦯‍➡">bastón guía | cego | discapacidade | invidente</annotation>
-		<annotation cp="👨🏿‍🦯‍➡" type="tts">home cun bastón guía cara á dereita</annotation>
+		<annotation cp="👨‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">home cun bastón guía: cara á dereita</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente | ton de pel moi claro</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">home cun bastón guía: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente | ton de pel claro</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">home cun bastón guía: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente | ton de pel medio</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">home cun bastón guía: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente | ton de pel escuro</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">home cun bastón guía: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">á | bastón guía | cara | cego | dereita | discapacidade | invidente | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">home cun bastón guía: ton de pel moi escuro, cara á dereita</annotation>
 		<annotation cp="👩🏻‍🦯">bastón guía | cega | discapacidade | invidente | ton de pel moi claro</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">muller cun bastón guía: ton de pel moi claro</annotation>
 		<annotation cp="👩🏼‍🦯">bastón guía | cega | discapacidade | invidente | ton de pel claro</annotation>
@@ -2873,18 +3123,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦯" type="tts">muller cun bastón guía: ton de pel escuro</annotation>
 		<annotation cp="👩🏿‍🦯">bastón guía | cega | discapacidade | invidente | ton de pel moi escuro</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">muller cun bastón guía: ton de pel moi escuro</annotation>
-		<annotation cp="👩‍🦯‍➡">bastón guía | cega | discapacidade | invidente</annotation>
-		<annotation cp="👩‍🦯‍➡" type="tts">muller cun bastón guía cara á dereita</annotation>
-		<annotation cp="👩🏻‍🦯‍➡">bastón guía | cega | discapacidade | invidente</annotation>
-		<annotation cp="👩🏻‍🦯‍➡" type="tts">muller cun bastón guía cara á dereita</annotation>
-		<annotation cp="👩🏼‍🦯‍➡">bastón guía | cega | discapacidade | invidente</annotation>
-		<annotation cp="👩🏼‍🦯‍➡" type="tts">muller cun bastón guía cara á dereita</annotation>
-		<annotation cp="👩🏽‍🦯‍➡">bastón guía | cega | discapacidade | invidente</annotation>
-		<annotation cp="👩🏽‍🦯‍➡" type="tts">muller cun bastón guía cara á dereita</annotation>
-		<annotation cp="👩🏾‍🦯‍➡">bastón guía | cega | discapacidade | invidente</annotation>
-		<annotation cp="👩🏾‍🦯‍➡" type="tts">muller cun bastón guía cara á dereita</annotation>
-		<annotation cp="👩🏿‍🦯‍➡">bastón guía | cega | discapacidade | invidente</annotation>
-		<annotation cp="👩🏿‍🦯‍➡" type="tts">muller cun bastón guía cara á dereita</annotation>
+		<annotation cp="👩‍🦯‍➡">á | bastón guía | cara | cega | dereita | discapacidade | invidente</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">muller cun bastón guía: cara á dereita</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">á | bastón guía | cara | cega | dereita | discapacidade | invidente | ton de pel moi claro</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">muller cun bastón guía: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">á | bastón guía | cara | cega | dereita | discapacidade | invidente | ton de pel claro</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">muller cun bastón guía: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">á | bastón guía | cara | cega | dereita | discapacidade | invidente | ton de pel medio</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">muller cun bastón guía: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">á | bastón guía | cara | cega | dereita | discapacidade | invidente | ton de pel escuro</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">muller cun bastón guía: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">á | bastón guía | cara | cega | dereita | discapacidade | invidente | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">muller cun bastón guía: ton de pel moi escuro, cara á dereita</annotation>
 		<annotation cp="🧑🏻‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">persoa en cadeira de rodas motorizada: ton de pel moi claro</annotation>
 		<annotation cp="🧑🏼‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel claro</annotation>
@@ -2895,18 +3145,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦼" type="tts">persoa en cadeira de rodas motorizada: ton de pel escuro</annotation>
 		<annotation cp="🧑🏿‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">persoa en cadeira de rodas motorizada: ton de pel moi escuro</annotation>
-		<annotation cp="🧑‍🦼‍➡">cadeira de rodas | cadeira motorizada | discapacidade</annotation>
-		<annotation cp="🧑‍🦼‍➡" type="tts">persoa en cadeira de rodas motorizada cara á dereita</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡">cadeira de rodas | cadeira motorizada | discapacidade</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡" type="tts">persoa en cadeira de rodas motorizada cara á dereita</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡">cadeira de rodas | cadeira motorizada | discapacidade</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡" type="tts">persoa en cadeira de rodas motorizada cara á dereita</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡">cadeira de rodas | cadeira motorizada | discapacidade</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡" type="tts">persoa en cadeira de rodas motorizada cara á dereita</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡">cadeira de rodas | cadeira motorizada | discapacidade</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡" type="tts">persoa en cadeira de rodas motorizada cara á dereita</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡">cadeira de rodas | cadeira motorizada | discapacidade</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡" type="tts">persoa en cadeira de rodas motorizada cara á dereita</annotation>
+		<annotation cp="🧑‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">persoa en cadeira de rodas motorizada: cara á dereita</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">persoa en cadeira de rodas motorizada: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">persoa en cadeira de rodas motorizada: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">persoa en cadeira de rodas motorizada: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">persoa en cadeira de rodas motorizada: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">persoa en cadeira de rodas motorizada: ton de pel moi escuro, cara á dereita</annotation>
 		<annotation cp="👨🏻‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel moi claro</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">home en cadeira de rodas motorizada: ton de pel moi claro</annotation>
 		<annotation cp="👨🏼‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel claro</annotation>
@@ -2917,18 +3167,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦼" type="tts">home en cadeira de rodas motorizada: ton de pel escuro</annotation>
 		<annotation cp="👨🏿‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel moi escuro</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">home en cadeira de rodas motorizada: ton de pel moi escuro</annotation>
-		<annotation cp="👨‍🦼‍➡">cadeira de rodas | cadeira motorizada | discapacidade</annotation>
-		<annotation cp="👨‍🦼‍➡" type="tts">home en cadeira de rodas motorizada cara á dereita</annotation>
-		<annotation cp="👨🏻‍🦼‍➡">cadeira de rodas | cadeira motorizada | discapacidade</annotation>
-		<annotation cp="👨🏻‍🦼‍➡" type="tts">home en cadeira de rodas motorizada cara á dereita</annotation>
-		<annotation cp="👨🏼‍🦼‍➡">cadeira de rodas | cadeira motorizada | discapacidade</annotation>
-		<annotation cp="👨🏼‍🦼‍➡" type="tts">home en cadeira de rodas motorizada cara á dereita</annotation>
-		<annotation cp="👨🏽‍🦼‍➡">cadeira de rodas | cadeira motorizada | discapacidade</annotation>
-		<annotation cp="👨🏽‍🦼‍➡" type="tts">home en cadeira de rodas motorizada cara á dereita</annotation>
-		<annotation cp="👨🏾‍🦼‍➡">cadeira de rodas | cadeira motorizada | discapacidade</annotation>
-		<annotation cp="👨🏾‍🦼‍➡" type="tts">home en cadeira de rodas motorizada cara á dereita</annotation>
-		<annotation cp="👨🏿‍🦼‍➡">cadeira de rodas | cadeira motorizada | discapacidade</annotation>
-		<annotation cp="👨🏿‍🦼‍➡" type="tts">home en cadeira de rodas motorizada cara á dereita</annotation>
+		<annotation cp="👨‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">home en cadeira de rodas motorizada: cara á dereita</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel moi claro</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">home en cadeira de rodas motorizada: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel claro</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">home en cadeira de rodas motorizada: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel medio</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">home en cadeira de rodas motorizada: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel escuro</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">home en cadeira de rodas motorizada: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">home en cadeira de rodas motorizada: ton de pel moi escuro, cara á dereita</annotation>
 		<annotation cp="👩🏻‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel moi claro</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">muller en cadeira de rodas motorizada: ton de pel moi claro</annotation>
 		<annotation cp="👩🏼‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel claro</annotation>
@@ -2939,18 +3189,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦼" type="tts">muller en cadeira de rodas motorizada: ton de pel escuro</annotation>
 		<annotation cp="👩🏿‍🦼">cadeira de rodas | cadeira motorizada | discapacidade | ton de pel moi escuro</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">muller en cadeira de rodas motorizada: ton de pel moi escuro</annotation>
-		<annotation cp="👩‍🦼‍➡">cadeira de rodas | cadeira motorizada | discapacidade</annotation>
-		<annotation cp="👩‍🦼‍➡" type="tts">muller en cadeira de rodas motorizada cara á dereita</annotation>
-		<annotation cp="👩🏻‍🦼‍➡">cadeira de rodas | cadeira motorizada | discapacidade</annotation>
-		<annotation cp="👩🏻‍🦼‍➡" type="tts">muller en cadeira de rodas motorizada cara á dereita</annotation>
-		<annotation cp="👩🏼‍🦼‍➡">cadeira de rodas | cadeira motorizada | discapacidade</annotation>
-		<annotation cp="👩🏼‍🦼‍➡" type="tts">muller en cadeira de rodas motorizada cara á dereita</annotation>
-		<annotation cp="👩🏽‍🦼‍➡">cadeira de rodas | cadeira motorizada | discapacidade</annotation>
-		<annotation cp="👩🏽‍🦼‍➡" type="tts">muller en cadeira de rodas motorizada cara á dereita</annotation>
-		<annotation cp="👩🏾‍🦼‍➡">cadeira de rodas | cadeira motorizada | discapacidade</annotation>
-		<annotation cp="👩🏾‍🦼‍➡" type="tts">muller en cadeira de rodas motorizada cara á dereita</annotation>
-		<annotation cp="👩🏿‍🦼‍➡">cadeira de rodas | cadeira motorizada | discapacidade</annotation>
-		<annotation cp="👩🏿‍🦼‍➡" type="tts">muller en cadeira de rodas motorizada cara á dereita</annotation>
+		<annotation cp="👩‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">muller en cadeira de rodas motorizada: cara á dereita</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel moi claro</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">muller en cadeira de rodas motorizada: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel claro</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">muller en cadeira de rodas motorizada: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel medio</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">muller en cadeira de rodas motorizada: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel escuro</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">muller en cadeira de rodas motorizada: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">á | cadeira de rodas | cadeira motorizada | cara | dereita | discapacidade | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">muller en cadeira de rodas motorizada: ton de pel moi escuro, cara á dereita</annotation>
 		<annotation cp="🧑🏻‍🦽">cadeira de rodas | discapacidade | ton de pel moi claro</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">persoa en cadeira de rodas: ton de pel moi claro</annotation>
 		<annotation cp="🧑🏼‍🦽">cadeira de rodas | discapacidade | ton de pel claro</annotation>
@@ -2961,18 +3211,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦽" type="tts">persoa en cadeira de rodas: ton de pel escuro</annotation>
 		<annotation cp="🧑🏿‍🦽">cadeira de rodas | discapacidade | ton de pel moi escuro</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">persoa en cadeira de rodas: ton de pel moi escuro</annotation>
-		<annotation cp="🧑‍🦽‍➡">cadeira de rodas | discapacidade</annotation>
-		<annotation cp="🧑‍🦽‍➡" type="tts">persoa en cadeira de rodas cara á dereita</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡">cadeira de rodas | discapacidade</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡" type="tts">persoa en cadeira de rodas cara á dereita</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡">cadeira de rodas | discapacidade</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡" type="tts">persoa en cadeira de rodas cara á dereita</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡">cadeira de rodas | discapacidade</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡" type="tts">persoa en cadeira de rodas cara á dereita</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡">cadeira de rodas | discapacidade</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡" type="tts">persoa en cadeira de rodas cara á dereita</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡">cadeira de rodas | discapacidade</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡" type="tts">persoa en cadeira de rodas cara á dereita</annotation>
+		<annotation cp="🧑‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">persoa en cadeira de rodas: cara á dereita</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel moi claro</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">persoa en cadeira de rodas: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel claro</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">persoa en cadeira de rodas: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel medio</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">persoa en cadeira de rodas: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel escuro</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">persoa en cadeira de rodas: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel moi escuro</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">persoa en cadeira de rodas: ton de pel moi escuro, cara á dereita</annotation>
 		<annotation cp="👨🏻‍🦽">cadeira de rodas | discapacidade | ton de pel moi claro</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">home en cadeira de rodas: ton de pel moi claro</annotation>
 		<annotation cp="👨🏼‍🦽">cadeira de rodas | discapacidade | ton de pel claro</annotation>
@@ -2983,18 +3233,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦽" type="tts">home en cadeira de rodas: ton de pel escuro</annotation>
 		<annotation cp="👨🏿‍🦽">cadeira de rodas | discapacidade | ton de pel moi escuro</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">home en cadeira de rodas: ton de pel moi escuro</annotation>
-		<annotation cp="👨‍🦽‍➡">cadeira de rodas | discapacidade</annotation>
-		<annotation cp="👨‍🦽‍➡" type="tts">home en cadeira de rodas cara á dereita</annotation>
-		<annotation cp="👨🏻‍🦽‍➡">cadeira de rodas | discapacidade</annotation>
-		<annotation cp="👨🏻‍🦽‍➡" type="tts">home en cadeira de rodas cara á dereita</annotation>
-		<annotation cp="👨🏼‍🦽‍➡">cadeira de rodas | discapacidade</annotation>
-		<annotation cp="👨🏼‍🦽‍➡" type="tts">home en cadeira de rodas cara á dereita</annotation>
-		<annotation cp="👨🏽‍🦽‍➡">cadeira de rodas | discapacidade</annotation>
-		<annotation cp="👨🏽‍🦽‍➡" type="tts">home en cadeira de rodas cara á dereita</annotation>
-		<annotation cp="👨🏾‍🦽‍➡">cadeira de rodas | discapacidade</annotation>
-		<annotation cp="👨🏾‍🦽‍➡" type="tts">home en cadeira de rodas cara á dereita</annotation>
-		<annotation cp="👨🏿‍🦽‍➡">cadeira de rodas | discapacidade</annotation>
-		<annotation cp="👨🏿‍🦽‍➡" type="tts">home en cadeira de rodas cara á dereita</annotation>
+		<annotation cp="👨‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">home en cadeira de rodas: cara á dereita</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel moi claro</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">home en cadeira de rodas: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel claro</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">home en cadeira de rodas: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel medio</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">home en cadeira de rodas: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel escuro</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">home en cadeira de rodas: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel moi escuro</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">home en cadeira de rodas: ton de pel moi escuro, cara á dereita</annotation>
 		<annotation cp="👩🏻‍🦽">cadeira de rodas | discapacidade | ton de pel moi claro</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">muller en cadeira de rodas: ton de pel moi claro</annotation>
 		<annotation cp="👩🏼‍🦽">cadeira de rodas | discapacidade | ton de pel claro</annotation>
@@ -3005,18 +3255,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦽" type="tts">muller en cadeira de rodas: ton de pel escuro</annotation>
 		<annotation cp="👩🏿‍🦽">cadeira de rodas | discapacidade | ton de pel moi escuro</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">muller en cadeira de rodas: ton de pel moi escuro</annotation>
-		<annotation cp="👩‍🦽‍➡">cadeira de rodas | discapacidade</annotation>
-		<annotation cp="👩‍🦽‍➡" type="tts">muller en cadeira de rodas cara á dereita</annotation>
-		<annotation cp="👩🏻‍🦽‍➡">cadeira de rodas | discapacidade</annotation>
-		<annotation cp="👩🏻‍🦽‍➡" type="tts">muller en cadeira de rodas cara á dereita</annotation>
-		<annotation cp="👩🏼‍🦽‍➡">cadeira de rodas | discapacidade</annotation>
-		<annotation cp="👩🏼‍🦽‍➡" type="tts">muller en cadeira de rodas cara á dereita</annotation>
-		<annotation cp="👩🏽‍🦽‍➡">cadeira de rodas | discapacidade</annotation>
-		<annotation cp="👩🏽‍🦽‍➡" type="tts">muller en cadeira de rodas cara á dereita</annotation>
-		<annotation cp="👩🏾‍🦽‍➡">cadeira de rodas | discapacidade</annotation>
-		<annotation cp="👩🏾‍🦽‍➡" type="tts">muller en cadeira de rodas cara á dereita</annotation>
-		<annotation cp="👩🏿‍🦽‍➡">cadeira de rodas | discapacidade</annotation>
-		<annotation cp="👩🏿‍🦽‍➡" type="tts">muller en cadeira de rodas cara á dereita</annotation>
+		<annotation cp="👩‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">muller en cadeira de rodas: cara á dereita</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel moi claro</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">muller en cadeira de rodas: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel claro</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">muller en cadeira de rodas: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel medio</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">muller en cadeira de rodas: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel escuro</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">muller en cadeira de rodas: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">á | cadeira de rodas | cara | dereita | discapacidade | ton de pel moi escuro</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">muller en cadeira de rodas: ton de pel moi escuro, cara á dereita</annotation>
 		<annotation cp="🏃🏻">correr | maratón | persoa correndo | ton de pel moi claro</annotation>
 		<annotation cp="🏃🏻" type="tts">persoa correndo: ton de pel moi claro</annotation>
 		<annotation cp="🏃🏼">correr | maratón | persoa correndo | ton de pel claro</annotation>
@@ -3047,42 +3297,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🏃🏾‍♀" type="tts">muller correndo: ton de pel escuro</annotation>
 		<annotation cp="🏃🏿‍♀">correr | maratón | muller | muller correndo | ton de pel moi escuro</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">muller correndo: ton de pel moi escuro</annotation>
-		<annotation cp="🏃‍➡">correr | maratón | persoa correndo</annotation>
-		<annotation cp="🏃‍➡" type="tts">persoa correndo cara á dereita</annotation>
-		<annotation cp="🏃🏻‍➡">correr | maratón | persoa correndo</annotation>
-		<annotation cp="🏃🏻‍➡" type="tts">persoa correndo cara á dereita</annotation>
-		<annotation cp="🏃🏼‍➡">correr | maratón | persoa correndo</annotation>
-		<annotation cp="🏃🏼‍➡" type="tts">persoa correndo cara á dereita</annotation>
-		<annotation cp="🏃🏽‍➡">correr | maratón | persoa correndo</annotation>
-		<annotation cp="🏃🏽‍➡" type="tts">persoa correndo cara á dereita</annotation>
-		<annotation cp="🏃🏾‍➡">correr | maratón | persoa correndo</annotation>
-		<annotation cp="🏃🏾‍➡" type="tts">persoa correndo cara á dereita</annotation>
-		<annotation cp="🏃🏿‍➡">correr | maratón | persoa correndo</annotation>
-		<annotation cp="🏃🏿‍➡" type="tts">persoa correndo cara á dereita</annotation>
-		<annotation cp="🏃‍♀‍➡">correr | maratón | muller | muller correndo</annotation>
-		<annotation cp="🏃‍♀‍➡" type="tts">muller correndo cara á dereita</annotation>
-		<annotation cp="🏃🏻‍♀‍➡">correr | maratón | muller | muller correndo</annotation>
-		<annotation cp="🏃🏻‍♀‍➡" type="tts">muller correndo cara á dereita</annotation>
-		<annotation cp="🏃🏼‍♀‍➡">correr | maratón | muller | muller correndo</annotation>
-		<annotation cp="🏃🏼‍♀‍➡" type="tts">muller correndo cara á dereita</annotation>
-		<annotation cp="🏃🏽‍♀‍➡">correr | maratón | muller | muller correndo</annotation>
-		<annotation cp="🏃🏽‍♀‍➡" type="tts">muller correndo cara á dereita</annotation>
-		<annotation cp="🏃🏾‍♀‍➡">correr | maratón | muller | muller correndo</annotation>
-		<annotation cp="🏃🏾‍♀‍➡" type="tts">muller correndo cara á dereita</annotation>
-		<annotation cp="🏃🏿‍♀‍➡">correr | maratón | muller | muller correndo</annotation>
-		<annotation cp="🏃🏿‍♀‍➡" type="tts">muller correndo cara á dereita</annotation>
-		<annotation cp="🏃‍♂‍➡">correr | home | home correndo | maratón</annotation>
-		<annotation cp="🏃‍♂‍➡" type="tts">home correndo cara á dereita</annotation>
-		<annotation cp="🏃🏻‍♂‍➡">correr | home | home correndo | maratón</annotation>
-		<annotation cp="🏃🏻‍♂‍➡" type="tts">home correndo cara á dereita</annotation>
-		<annotation cp="🏃🏼‍♂‍➡">correr | home | home correndo | maratón</annotation>
-		<annotation cp="🏃🏼‍♂‍➡" type="tts">home correndo cara á dereita</annotation>
-		<annotation cp="🏃🏽‍♂‍➡">correr | home | home correndo | maratón</annotation>
-		<annotation cp="🏃🏽‍♂‍➡" type="tts">home correndo cara á dereita</annotation>
-		<annotation cp="🏃🏾‍♂‍➡">correr | home | home correndo | maratón</annotation>
-		<annotation cp="🏃🏾‍♂‍➡" type="tts">home correndo cara á dereita</annotation>
-		<annotation cp="🏃🏿‍♂‍➡">correr | home | home correndo | maratón</annotation>
-		<annotation cp="🏃🏿‍♂‍➡" type="tts">home correndo cara á dereita</annotation>
+		<annotation cp="🏃‍➡">á | cara | correr | dereita | maratón | persoa correndo</annotation>
+		<annotation cp="🏃‍➡" type="tts">persoa correndo: cara á dereita</annotation>
+		<annotation cp="🏃🏻‍➡">á | cara | correr | dereita | maratón | persoa correndo | ton de pel moi claro</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">persoa correndo: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🏃🏼‍➡">á | cara | correr | dereita | maratón | persoa correndo | ton de pel claro</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">persoa correndo: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🏃🏽‍➡">á | cara | correr | dereita | maratón | persoa correndo | ton de pel medio</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">persoa correndo: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🏃🏾‍➡">á | cara | correr | dereita | maratón | persoa correndo | ton de pel escuro</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">persoa correndo: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🏃🏿‍➡">á | cara | correr | dereita | maratón | persoa correndo | ton de pel moi escuro</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">persoa correndo: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="🏃‍♀‍➡">á | cara | correr | dereita | maratón | muller | muller correndo</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">muller correndo: cara á dereita</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">á | cara | correr | dereita | maratón | muller | muller correndo | ton de pel moi claro</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">muller correndo: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">á | cara | correr | dereita | maratón | muller | muller correndo | ton de pel claro</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">muller correndo: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">á | cara | correr | dereita | maratón | muller | muller correndo | ton de pel medio</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">muller correndo: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">á | cara | correr | dereita | maratón | muller | muller correndo | ton de pel escuro</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">muller correndo: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">á | cara | correr | dereita | maratón | muller | muller correndo | ton de pel moi escuro</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">muller correndo: ton de pel moi escuro, cara á dereita</annotation>
+		<annotation cp="🏃‍♂‍➡">á | cara | correr | dereita | home | home correndo | maratón</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">home correndo: cara á dereita</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">á | cara | correr | dereita | home | home correndo | maratón | ton de pel moi claro</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">home correndo: ton de pel moi claro, cara á dereita</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">á | cara | correr | dereita | home | home correndo | maratón | ton de pel claro</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">home correndo: ton de pel claro, cara á dereita</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">á | cara | correr | dereita | home | home correndo | maratón | ton de pel medio</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">home correndo: ton de pel medio, cara á dereita</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">á | cara | correr | dereita | home | home correndo | maratón | ton de pel escuro</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">home correndo: ton de pel escuro, cara á dereita</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">á | cara | correr | dereita | home | home correndo | maratón | ton de pel moi escuro</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">home correndo: ton de pel moi escuro, cara á dereita</annotation>
 		<annotation cp="💃🏻">bailar | bailarina | muller | ton de pel moi claro</annotation>
 		<annotation cp="💃🏻" type="tts">bailarina: ton de pel moi claro</annotation>
 		<annotation cp="💃🏼">bailar | bailarina | muller | ton de pel claro</annotation>
@@ -3113,6 +3363,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🕴🏾" type="tts">home de negocios: ton de pel escuro</annotation>
 		<annotation cp="🕴🏿">home | home de negocios | negocios | ton de pel moi escuro | traxe</annotation>
 		<annotation cp="🕴🏿" type="tts">home de negocios: ton de pel moi escuro</annotation>
+		<annotation cp="👯🏻">bailar | festa | ton de pel moi claro | xente de festa</annotation>
+		<annotation cp="👯🏻" type="tts">xente de festa: ton de pel moi claro</annotation>
+		<annotation cp="👯🏼">bailar | festa | ton de pel claro | xente de festa</annotation>
+		<annotation cp="👯🏼" type="tts">xente de festa: ton de pel claro</annotation>
+		<annotation cp="👯🏽">bailar | festa | ton de pel medio | xente de festa</annotation>
+		<annotation cp="👯🏽" type="tts">xente de festa: ton de pel medio</annotation>
+		<annotation cp="👯🏾">bailar | festa | ton de pel escuro | xente de festa</annotation>
+		<annotation cp="👯🏾" type="tts">xente de festa: ton de pel escuro</annotation>
+		<annotation cp="👯🏿">bailar | festa | ton de pel moi escuro | xente de festa</annotation>
+		<annotation cp="👯🏿" type="tts">xente de festa: ton de pel moi escuro</annotation>
+		<annotation cp="👯🏻‍♀">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel moi claro</annotation>
+		<annotation cp="👯🏻‍♀" type="tts">mulleres de festa: ton de pel moi claro</annotation>
+		<annotation cp="👯🏼‍♀">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel claro</annotation>
+		<annotation cp="👯🏼‍♀" type="tts">mulleres de festa: ton de pel claro</annotation>
+		<annotation cp="👯🏽‍♀">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel medio</annotation>
+		<annotation cp="👯🏽‍♀" type="tts">mulleres de festa: ton de pel medio</annotation>
+		<annotation cp="👯🏾‍♀">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel escuro</annotation>
+		<annotation cp="👯🏾‍♀" type="tts">mulleres de festa: ton de pel escuro</annotation>
+		<annotation cp="👯🏿‍♀">bailar | despedida de solteira | festa | mulleres | mulleres de festa | ton de pel moi escuro</annotation>
+		<annotation cp="👯🏿‍♀" type="tts">mulleres de festa: ton de pel moi escuro</annotation>
+		<annotation cp="👯🏻‍♂">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel moi claro</annotation>
+		<annotation cp="👯🏻‍♂" type="tts">homes de festa: ton de pel moi claro</annotation>
+		<annotation cp="👯🏼‍♂">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel claro</annotation>
+		<annotation cp="👯🏼‍♂" type="tts">homes de festa: ton de pel claro</annotation>
+		<annotation cp="👯🏽‍♂">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel medio</annotation>
+		<annotation cp="👯🏽‍♂" type="tts">homes de festa: ton de pel medio</annotation>
+		<annotation cp="👯🏾‍♂">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel escuro</annotation>
+		<annotation cp="👯🏾‍♂" type="tts">homes de festa: ton de pel escuro</annotation>
+		<annotation cp="👯🏿‍♂">bailar | despedida de solteiro | festa | homes | homes de festa | ton de pel moi escuro</annotation>
+		<annotation cp="👯🏿‍♂" type="tts">homes de festa: ton de pel moi escuro</annotation>
 		<annotation cp="🧖🏻">baño de vapor | sauna | ton de pel moi claro</annotation>
 		<annotation cp="🧖🏻" type="tts">baño de vapor: ton de pel moi claro</annotation>
 		<annotation cp="🧖🏼">baño de vapor | sauna | ton de pel claro</annotation>
@@ -3463,6 +3743,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤸🏾‍♀" type="tts">muller facendo unha viravolta lateral: ton de pel escuro</annotation>
 		<annotation cp="🤸🏿‍♀">muller | muller facendo unha viravolta lateral | ton de pel moi escuro | viravolta | ximnasia</annotation>
 		<annotation cp="🤸🏿‍♀" type="tts">muller facendo unha viravolta lateral: ton de pel moi escuro</annotation>
+		<annotation cp="🤼🏻">deporte | loitadores | ton de pel moi claro</annotation>
+		<annotation cp="🤼🏻" type="tts">loita libre: ton de pel moi claro</annotation>
+		<annotation cp="🤼🏼">deporte | loitadores | ton de pel claro</annotation>
+		<annotation cp="🤼🏼" type="tts">loita libre: ton de pel claro</annotation>
+		<annotation cp="🤼🏽">deporte | loitadores | ton de pel medio</annotation>
+		<annotation cp="🤼🏽" type="tts">loita libre: ton de pel medio</annotation>
+		<annotation cp="🤼🏾">deporte | loitadores | ton de pel escuro</annotation>
+		<annotation cp="🤼🏾" type="tts">loita libre: ton de pel escuro</annotation>
+		<annotation cp="🤼🏿">deporte | loitadores | ton de pel moi escuro</annotation>
+		<annotation cp="🤼🏿" type="tts">loita libre: ton de pel moi escuro</annotation>
+		<annotation cp="🤼🏻‍♀">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel moi claro</annotation>
+		<annotation cp="🤼🏻‍♀" type="tts">mulleres practicando loita libre: ton de pel moi claro</annotation>
+		<annotation cp="🤼🏼‍♀">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel claro</annotation>
+		<annotation cp="🤼🏼‍♀" type="tts">mulleres practicando loita libre: ton de pel claro</annotation>
+		<annotation cp="🤼🏽‍♀">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel medio</annotation>
+		<annotation cp="🤼🏽‍♀" type="tts">mulleres practicando loita libre: ton de pel medio</annotation>
+		<annotation cp="🤼🏾‍♀">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel escuro</annotation>
+		<annotation cp="🤼🏾‍♀" type="tts">mulleres practicando loita libre: ton de pel escuro</annotation>
+		<annotation cp="🤼🏿‍♀">deporte | loita | loitadoras | mulleres | mulleres practicando loita libre | ton de pel moi escuro</annotation>
+		<annotation cp="🤼🏿‍♀" type="tts">mulleres practicando loita libre: ton de pel moi escuro</annotation>
+		<annotation cp="🤼🏻‍♂">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel moi claro</annotation>
+		<annotation cp="🤼🏻‍♂" type="tts">homes practicando loita libre: ton de pel moi claro</annotation>
+		<annotation cp="🤼🏼‍♂">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel claro</annotation>
+		<annotation cp="🤼🏼‍♂" type="tts">homes practicando loita libre: ton de pel claro</annotation>
+		<annotation cp="🤼🏽‍♂">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel medio</annotation>
+		<annotation cp="🤼🏽‍♂" type="tts">homes practicando loita libre: ton de pel medio</annotation>
+		<annotation cp="🤼🏾‍♂">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel escuro</annotation>
+		<annotation cp="🤼🏾‍♂" type="tts">homes practicando loita libre: ton de pel escuro</annotation>
+		<annotation cp="🤼🏿‍♂">deporte | homes | homes practicando loita libre | loita | loitadores | ton de pel moi escuro</annotation>
+		<annotation cp="🤼🏿‍♂" type="tts">homes practicando loita libre: ton de pel moi escuro</annotation>
 		<annotation cp="🤽🏻">auga | deporte | ton de pel moi claro | wáter-polo</annotation>
 		<annotation cp="🤽🏻" type="tts">wáter-polo: ton de pel moi claro</annotation>
 		<annotation cp="🤽🏼">auga | deporte | ton de pel claro | wáter-polo</annotation>
@@ -3993,6 +4303,8 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🇨🇴" type="tts">bandeira: Colombia</annotation>
 		<annotation cp="🇨🇵">bandeira</annotation>
 		<annotation cp="🇨🇵" type="tts">bandeira: Illa Clipperton</annotation>
+		<annotation cp="🇨🇶">bandeira</annotation>
+		<annotation cp="🇨🇶" type="tts">bandeira: Sark</annotation>
 		<annotation cp="🇨🇷">bandeira</annotation>
 		<annotation cp="🇨🇷" type="tts">bandeira: Costa Rica</annotation>
 		<annotation cp="🇨🇺">bandeira</annotation>
@@ -4432,26 +4744,6 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="₺" type="tts">lira turca</annotation>
 		<annotation cp="₼" type="tts">manat acerbaixano</annotation>
 		<annotation cp="₾" type="tts">lari xeorxiano</annotation>
-		<annotation cp="0⃣">tecla</annotation>
-		<annotation cp="0⃣" type="tts">tecla: 0</annotation>
-		<annotation cp="1⃣">tecla</annotation>
-		<annotation cp="1⃣" type="tts">tecla: 1</annotation>
-		<annotation cp="2⃣">tecla</annotation>
-		<annotation cp="2⃣" type="tts">tecla: 2</annotation>
-		<annotation cp="3⃣">tecla</annotation>
-		<annotation cp="3⃣" type="tts">tecla: 3</annotation>
-		<annotation cp="4⃣">tecla</annotation>
-		<annotation cp="4⃣" type="tts">tecla: 4</annotation>
-		<annotation cp="5⃣">tecla</annotation>
-		<annotation cp="5⃣" type="tts">tecla: 5</annotation>
-		<annotation cp="6⃣">tecla</annotation>
-		<annotation cp="6⃣" type="tts">tecla: 6</annotation>
-		<annotation cp="7⃣">tecla</annotation>
-		<annotation cp="7⃣" type="tts">tecla: 7</annotation>
-		<annotation cp="8⃣">tecla</annotation>
-		<annotation cp="8⃣" type="tts">tecla: 8</annotation>
-		<annotation cp="9⃣">tecla</annotation>
-		<annotation cp="9⃣" type="tts">tecla: 9</annotation>
 		<annotation cp="₧" type="tts">Peseta española</annotation>
 	</annotations>
 </ldml>

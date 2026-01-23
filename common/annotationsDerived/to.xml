@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -603,6 +603,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾" type="tts">tokotaha ʻulu kelo: kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="👱🏿">ʻulu | kelo | kili ʻuliʻuli | tokotaha</annotation>
 		<annotation cp="👱🏿" type="tts">tokotaha ʻulu kelo: kili ʻuliʻuli</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼">fangatua | kakai fangatua | kili hinehina | kili kelokelo</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼" type="tts">kakai fangatua: kili hinehina mo e kili kelokelo</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽">fangatua | kakai fangatua | kili hinehina | kili melomelo</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽" type="tts">kakai fangatua: kili hinehina mo e kili melomelo</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾">fangatua | kakai fangatua | kili hinehina | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾" type="tts">kakai fangatua: kili hinehina mo e kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿">fangatua | kakai fangatua | kili hinehina | kili ʻuliʻuli</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿" type="tts">kakai fangatua: kili hinehina mo e kili ʻuliʻuli</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻">fangatua | kakai fangatua | kili hinehina | kili kelokelo</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻" type="tts">kakai fangatua: kili kelokelo mo e kili hinehina</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽">fangatua | kakai fangatua | kili kelokelo | kili melomelo</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽" type="tts">kakai fangatua: kili kelokelo mo e kili melomelo</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾">fangatua | kakai fangatua | kili kelokelo | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾" type="tts">kakai fangatua: kili kelokelo mo e kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿">fangatua | kakai fangatua | kili ʻuliʻuli | kili kelokelo</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿" type="tts">kakai fangatua: kili kelokelo mo e kili ʻuliʻuli</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻">fangatua | kakai fangatua | kili hinehina | kili melomelo</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻" type="tts">kakai fangatua: kili melomelo mo e kili hinehina</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼">fangatua | kakai fangatua | kili kelokelo | kili melomelo</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼" type="tts">kakai fangatua: kili melomelo mo e kili kelokelo</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾">fangatua | kakai fangatua | kili melomelo | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾" type="tts">kakai fangatua: kili melomelo mo e kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿">fangatua | kakai fangatua | kili ʻuliʻuli | kili melomelo</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿" type="tts">kakai fangatua: kili melomelo mo e kili ʻuliʻuli</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻">fangatua | kakai fangatua | kili hinehina | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻" type="tts">kakai fangatua: kili melomelo-ʻuliʻuli mo e kili hinehina</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼">fangatua | kakai fangatua | kili kelokelo | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼" type="tts">kakai fangatua: kili melomelo-ʻuliʻuli mo e kili kelokelo</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽">fangatua | kakai fangatua | kili melomelo | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽" type="tts">kakai fangatua: kili melomelo-ʻuliʻuli mo e kili melomelo</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿">fangatua | kakai fangatua | kili ʻuliʻuli | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿" type="tts">kakai fangatua: kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻">fangatua | kakai fangatua | kili hinehina | kili ʻuliʻuli</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻" type="tts">kakai fangatua: kili ʻuliʻuli mo e kili hinehina</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼">fangatua | kakai fangatua | kili ʻuliʻuli | kili kelokelo</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼" type="tts">kakai fangatua: kili ʻuliʻuli mo e kili kelokelo</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽">fangatua | kakai fangatua | kili ʻuliʻuli | kili melomelo</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽" type="tts">kakai fangatua: kili ʻuliʻuli mo e kili melomelo</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾">fangatua | kakai fangatua | kili ʻuliʻuli | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾" type="tts">kakai fangatua: kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼">ʻuma | kakai lalahi | kili hinehina | kili kelokelo</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼" type="tts">ʻuma: kakai lalahi, kakai lalahi, kili hinehina mo e kili kelokelo</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏽">ʻuma | kakai lalahi | kili hinehina | kili melomelo</annotation>
@@ -731,6 +771,56 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦲" type="tts">kakai lalahi: kili melomelo-ʻuliʻuli mo e ʻulu tula</annotation>
 		<annotation cp="🧑🏿‍🦲">ʻulu tula | kakai lalahi | kili ʻuliʻuli</annotation>
 		<annotation cp="🧑🏿‍🦲" type="tts">kakai lalahi: kili ʻuliʻuli mo e ʻulu tula</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼">kili hinehina | kili kelokelo | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼" type="tts">tokoua telinga-lāpisi: kili hinehina mo e kili kelokelo</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽">kili hinehina | kili melomelo | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽" type="tts">tokoua telinga-lāpisi: kili hinehina mo e kili melomelo</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾">kili hinehina | kili melomelo-ʻuliʻuli | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾" type="tts">tokoua telinga-lāpisi: kili hinehina mo e kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿">kili hinehina | kili ʻuliʻuli | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿" type="tts">tokoua telinga-lāpisi: kili hinehina mo e kili ʻuliʻuli</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻">kili hinehina | kili kelokelo | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻" type="tts">tokoua telinga-lāpisi: kili kelokelo mo e kili hinehina</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽">kili kelokelo | kili melomelo | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽" type="tts">tokoua telinga-lāpisi: kili kelokelo mo e kili melomelo</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾">kili kelokelo | kili melomelo-ʻuliʻuli | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾" type="tts">tokoua telinga-lāpisi: kili kelokelo mo e kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿">kili ʻuliʻuli | kili kelokelo | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿" type="tts">tokoua telinga-lāpisi: kili kelokelo mo e kili ʻuliʻuli</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻">kili hinehina | kili melomelo | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻" type="tts">tokoua telinga-lāpisi: kili melomelo mo e kili hinehina</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼">kili kelokelo | kili melomelo | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼" type="tts">tokoua telinga-lāpisi: kili melomelo mo e kili kelokelo</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾">kili melomelo | kili melomelo-ʻuliʻuli | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾" type="tts">tokoua telinga-lāpisi: kili melomelo mo e kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿">kili ʻuliʻuli | kili melomelo | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿" type="tts">tokoua telinga-lāpisi: kili melomelo mo e kili ʻuliʻuli</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻">kili hinehina | kili melomelo-ʻuliʻuli | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻" type="tts">tokoua telinga-lāpisi: kili melomelo-ʻuliʻuli mo e kili hinehina</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼">kili kelokelo | kili melomelo-ʻuliʻuli | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼" type="tts">tokoua telinga-lāpisi: kili melomelo-ʻuliʻuli mo e kili kelokelo</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽">kili melomelo | kili melomelo-ʻuliʻuli | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽" type="tts">tokoua telinga-lāpisi: kili melomelo-ʻuliʻuli mo e kili melomelo</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿">kili ʻuliʻuli | kili melomelo-ʻuliʻuli | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿" type="tts">tokoua telinga-lāpisi: kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻">kili hinehina | kili ʻuliʻuli | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻" type="tts">tokoua telinga-lāpisi: kili ʻuliʻuli mo e kili hinehina</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼">kili ʻuliʻuli | kili kelokelo | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼" type="tts">tokoua telinga-lāpisi: kili ʻuliʻuli mo e kili kelokelo</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽">kili ʻuliʻuli | kili melomelo | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽" type="tts">tokoua telinga-lāpisi: kili ʻuliʻuli mo e kili melomelo</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾">kili ʻuliʻuli | kili melomelo-ʻuliʻuli | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾" type="tts">tokoua telinga-lāpisi: kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🧑🏻‍🩰">faiva | fakahulohula | kili hinehina</annotation>
+		<annotation cp="🧑🏻‍🩰" type="tts">tokotaha fakahulohula: kili hinehina</annotation>
+		<annotation cp="🧑🏼‍🩰">faiva | fakahulohula | kili kelokelo</annotation>
+		<annotation cp="🧑🏼‍🩰" type="tts">tokotaha fakahulohula: kili kelokelo</annotation>
+		<annotation cp="🧑🏽‍🩰">faiva | fakahulohula | kili melomelo</annotation>
+		<annotation cp="🧑🏽‍🩰" type="tts">tokotaha fakahulohula: kili melomelo</annotation>
+		<annotation cp="🧑🏾‍🩰">faiva | fakahulohula | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🧑🏾‍🩰" type="tts">tokotaha fakahulohula: kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🧑🏿‍🩰">faiva | fakahulohula | kili ʻuliʻuli</annotation>
+		<annotation cp="🧑🏿‍🩰" type="tts">tokotaha fakahulohula: kili ʻuliʻuli</annotation>
 		<annotation cp="👨🏻">kili hinehina | tangata</annotation>
 		<annotation cp="👨🏻" type="tts">tangata: kili hinehina</annotation>
 		<annotation cp="👨🏼">kili kelokelo | tangata</annotation>
@@ -771,6 +861,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♂" type="tts">tangata ʻulu kelo: kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="👱🏿‍♂">kili ʻuliʻuli | tangata ʻulu kelo</annotation>
 		<annotation cp="👱🏿‍♂" type="tts">tangata ʻulu kelo: kili ʻuliʻuli</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼">kili hinehina | kili kelokelo | ongo tangata fangatua</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼" type="tts">ongo tangata fangatua: kili hinehina mo e kili kelokelo</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽">kili hinehina | kili melomelo | ongo tangata fangatua</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽" type="tts">ongo tangata fangatua: kili hinehina mo e kili melomelo</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾">kili hinehina | kili melomelo-ʻuliʻuli | ongo tangata fangatua</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾" type="tts">ongo tangata fangatua: kili hinehina mo e kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿">kili hinehina | kili ʻuliʻuli | ongo tangata fangatua</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿" type="tts">ongo tangata fangatua: kili hinehina mo e kili ʻuliʻuli</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻">kili hinehina | kili kelokelo | ongo tangata fangatua</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻" type="tts">ongo tangata fangatua: kili kelokelo mo e kili hinehina</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽">kili kelokelo | kili melomelo | ongo tangata fangatua</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽" type="tts">ongo tangata fangatua: kili kelokelo mo e kili melomelo</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾">kili kelokelo | kili melomelo-ʻuliʻuli | ongo tangata fangatua</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾" type="tts">ongo tangata fangatua: kili kelokelo mo e kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿">kili ʻuliʻuli | kili kelokelo | ongo tangata fangatua</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿" type="tts">ongo tangata fangatua: kili kelokelo mo e kili ʻuliʻuli</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻">kili hinehina | kili melomelo | ongo tangata fangatua</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻" type="tts">ongo tangata fangatua: kili melomelo mo e kili hinehina</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼">kili kelokelo | kili melomelo | ongo tangata fangatua</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼" type="tts">ongo tangata fangatua: kili melomelo mo e kili kelokelo</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾">kili melomelo | kili melomelo-ʻuliʻuli | ongo tangata fangatua</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾" type="tts">ongo tangata fangatua: kili melomelo mo e kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿">kili ʻuliʻuli | kili melomelo | ongo tangata fangatua</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿" type="tts">ongo tangata fangatua: kili melomelo mo e kili ʻuliʻuli</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻">kili hinehina | kili melomelo-ʻuliʻuli | ongo tangata fangatua</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻" type="tts">ongo tangata fangatua: kili melomelo-ʻuliʻuli mo e kili hinehina</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼">kili kelokelo | kili melomelo-ʻuliʻuli | ongo tangata fangatua</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼" type="tts">ongo tangata fangatua: kili melomelo-ʻuliʻuli mo e kili kelokelo</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽">kili melomelo | kili melomelo-ʻuliʻuli | ongo tangata fangatua</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽" type="tts">ongo tangata fangatua: kili melomelo-ʻuliʻuli mo e kili melomelo</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿">kili ʻuliʻuli | kili melomelo-ʻuliʻuli | ongo tangata fangatua</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿" type="tts">ongo tangata fangatua: kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻">kili hinehina | kili ʻuliʻuli | ongo tangata fangatua</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻" type="tts">ongo tangata fangatua: kili ʻuliʻuli mo e kili hinehina</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼">kili ʻuliʻuli | kili kelokelo | ongo tangata fangatua</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼" type="tts">ongo tangata fangatua: kili ʻuliʻuli mo e kili kelokelo</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽">kili ʻuliʻuli | kili melomelo | ongo tangata fangatua</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽" type="tts">ongo tangata fangatua: kili ʻuliʻuli mo e kili melomelo</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾">kili ʻuliʻuli | kili melomelo-ʻuliʻuli | ongo tangata fangatua</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾" type="tts">ongo tangata fangatua: kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻">ʻuma | kili hinehina | tangata</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻" type="tts">ʻuma: tangata, tangata mo e kili hinehina</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏼">ʻuma | kili hinehina | kili kelokelo | tangata</annotation>
@@ -919,6 +1049,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦲" type="tts">tangata: kili melomelo-ʻuliʻuli mo e ʻulu tula</annotation>
 		<annotation cp="👨🏿‍🦲">ʻulu tula | kili ʻuliʻuli | tangata</annotation>
 		<annotation cp="👨🏿‍🦲" type="tts">tangata: kili ʻuliʻuli mo e ʻulu tula</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼">kili hinehina | kili kelokelo | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼" type="tts">ongo tangata telinga-lāpisi: kili hinehina mo e kili kelokelo</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽">kili hinehina | kili melomelo | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽" type="tts">ongo tangata telinga-lāpisi: kili hinehina mo e kili melomelo</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾">kili hinehina | kili melomelo-ʻuliʻuli | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾" type="tts">ongo tangata telinga-lāpisi: kili hinehina mo e kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿">kili hinehina | kili ʻuliʻuli | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿" type="tts">ongo tangata telinga-lāpisi: kili hinehina mo e kili ʻuliʻuli</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻">kili hinehina | kili kelokelo | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻" type="tts">ongo tangata telinga-lāpisi: kili kelokelo mo e kili hinehina</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽">kili kelokelo | kili melomelo | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽" type="tts">ongo tangata telinga-lāpisi: kili kelokelo mo e kili melomelo</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾">kili kelokelo | kili melomelo-ʻuliʻuli | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾" type="tts">ongo tangata telinga-lāpisi: kili kelokelo mo e kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿">kili ʻuliʻuli | kili kelokelo | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿" type="tts">ongo tangata telinga-lāpisi: kili kelokelo mo e kili ʻuliʻuli</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻">kili hinehina | kili melomelo | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻" type="tts">ongo tangata telinga-lāpisi: kili melomelo mo e kili hinehina</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼">kili kelokelo | kili melomelo | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼" type="tts">ongo tangata telinga-lāpisi: kili melomelo mo e kili kelokelo</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾">kili melomelo | kili melomelo-ʻuliʻuli | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾" type="tts">ongo tangata telinga-lāpisi: kili melomelo mo e kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿">kili ʻuliʻuli | kili melomelo | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿" type="tts">ongo tangata telinga-lāpisi: kili melomelo mo e kili ʻuliʻuli</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻">kili hinehina | kili melomelo-ʻuliʻuli | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻" type="tts">ongo tangata telinga-lāpisi: kili melomelo-ʻuliʻuli mo e kili hinehina</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼">kili kelokelo | kili melomelo-ʻuliʻuli | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼" type="tts">ongo tangata telinga-lāpisi: kili melomelo-ʻuliʻuli mo e kili kelokelo</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽">kili melomelo | kili melomelo-ʻuliʻuli | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽" type="tts">ongo tangata telinga-lāpisi: kili melomelo-ʻuliʻuli mo e kili melomelo</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿">kili ʻuliʻuli | kili melomelo-ʻuliʻuli | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿" type="tts">ongo tangata telinga-lāpisi: kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻">kili hinehina | kili ʻuliʻuli | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻" type="tts">ongo tangata telinga-lāpisi: kili ʻuliʻuli mo e kili hinehina</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼">kili ʻuliʻuli | kili kelokelo | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼" type="tts">ongo tangata telinga-lāpisi: kili ʻuliʻuli mo e kili kelokelo</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽">kili ʻuliʻuli | kili melomelo | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽" type="tts">ongo tangata telinga-lāpisi: kili ʻuliʻuli mo e kili melomelo</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾">kili ʻuliʻuli | kili melomelo-ʻuliʻuli | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾" type="tts">ongo tangata telinga-lāpisi: kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="👩🏻">fefine | kili hinehina</annotation>
 		<annotation cp="👩🏻" type="tts">fefine: kili hinehina</annotation>
 		<annotation cp="👩🏼">fefine | kili kelokelo</annotation>
@@ -949,6 +1119,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♀" type="tts">fefine ʻulu kelo: kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="👱🏿‍♀">fefine ʻulu kelo | kili ʻuliʻuli</annotation>
 		<annotation cp="👱🏿‍♀" type="tts">fefine ʻulu kelo: kili ʻuliʻuli</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼">fafine fangatua | kili hinehina | kili kelokelo</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼" type="tts">fafine fangatua: kili hinehina mo e kili kelokelo</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽">fafine fangatua | kili hinehina | kili melomelo</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽" type="tts">fafine fangatua: kili hinehina mo e kili melomelo</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾">fafine fangatua | kili hinehina | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾" type="tts">fafine fangatua: kili hinehina mo e kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿">fafine fangatua | kili hinehina | kili ʻuliʻuli</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿" type="tts">fafine fangatua: kili hinehina mo e kili ʻuliʻuli</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻">fafine fangatua | kili hinehina | kili kelokelo</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻" type="tts">fafine fangatua: kili kelokelo mo e kili hinehina</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽">fafine fangatua | kili kelokelo | kili melomelo</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽" type="tts">fafine fangatua: kili kelokelo mo e kili melomelo</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾">fafine fangatua | kili kelokelo | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾" type="tts">fafine fangatua: kili kelokelo mo e kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿">fafine fangatua | kili ʻuliʻuli | kili kelokelo</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿" type="tts">fafine fangatua: kili kelokelo mo e kili ʻuliʻuli</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻">fafine fangatua | kili hinehina | kili melomelo</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻" type="tts">fafine fangatua: kili melomelo mo e kili hinehina</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼">fafine fangatua | kili kelokelo | kili melomelo</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼" type="tts">fafine fangatua: kili melomelo mo e kili kelokelo</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾">fafine fangatua | kili melomelo | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾" type="tts">fafine fangatua: kili melomelo mo e kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿">fafine fangatua | kili ʻuliʻuli | kili melomelo</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿" type="tts">fafine fangatua: kili melomelo mo e kili ʻuliʻuli</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻">fafine fangatua | kili hinehina | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻" type="tts">fafine fangatua: kili melomelo-ʻuliʻuli mo e kili hinehina</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼">fafine fangatua | kili kelokelo | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼" type="tts">fafine fangatua: kili melomelo-ʻuliʻuli mo e kili kelokelo</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽">fafine fangatua | kili melomelo | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽" type="tts">fafine fangatua: kili melomelo-ʻuliʻuli mo e kili melomelo</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿">fafine fangatua | kili ʻuliʻuli | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿" type="tts">fafine fangatua: kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻">fafine fangatua | kili hinehina | kili ʻuliʻuli</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻" type="tts">fafine fangatua: kili ʻuliʻuli mo e kili hinehina</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼">fafine fangatua | kili ʻuliʻuli | kili kelokelo</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼" type="tts">fafine fangatua: kili ʻuliʻuli mo e kili kelokelo</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽">fafine fangatua | kili ʻuliʻuli | kili melomelo</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽" type="tts">fafine fangatua: kili ʻuliʻuli mo e kili melomelo</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾">fafine fangatua | kili ʻuliʻuli | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾" type="tts">fafine fangatua: kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻">fefine | ʻuma | kili hinehina | tangata</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻" type="tts">ʻuma: fefine, tangata mo e kili hinehina</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏼">fefine | ʻuma | kili hinehina | kili kelokelo | tangata</annotation>
@@ -1197,6 +1407,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦲" type="tts">fefine: kili melomelo-ʻuliʻuli mo e ʻulu tula</annotation>
 		<annotation cp="👩🏿‍🦲">fefine | ʻulu tula | kili ʻuliʻuli</annotation>
 		<annotation cp="👩🏿‍🦲" type="tts">fefine: kili ʻuliʻuli mo e ʻulu tula</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼">fafine telinga-lāpisi | kili hinehina | kili kelokelo</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼" type="tts">fafine telinga-lāpisi: kili hinehina mo e kili kelokelo</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽">fafine telinga-lāpisi | kili hinehina | kili melomelo</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽" type="tts">fafine telinga-lāpisi: kili hinehina mo e kili melomelo</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾">fafine telinga-lāpisi | kili hinehina | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾" type="tts">fafine telinga-lāpisi: kili hinehina mo e kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿">fafine telinga-lāpisi | kili hinehina | kili ʻuliʻuli</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿" type="tts">fafine telinga-lāpisi: kili hinehina mo e kili ʻuliʻuli</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻">fafine telinga-lāpisi | kili hinehina | kili kelokelo</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻" type="tts">fafine telinga-lāpisi: kili kelokelo mo e kili hinehina</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽">fafine telinga-lāpisi | kili kelokelo | kili melomelo</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽" type="tts">fafine telinga-lāpisi: kili kelokelo mo e kili melomelo</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾">fafine telinga-lāpisi | kili kelokelo | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾" type="tts">fafine telinga-lāpisi: kili kelokelo mo e kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿">fafine telinga-lāpisi | kili ʻuliʻuli | kili kelokelo</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿" type="tts">fafine telinga-lāpisi: kili kelokelo mo e kili ʻuliʻuli</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻">fafine telinga-lāpisi | kili hinehina | kili melomelo</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻" type="tts">fafine telinga-lāpisi: kili melomelo mo e kili hinehina</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼">fafine telinga-lāpisi | kili kelokelo | kili melomelo</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼" type="tts">fafine telinga-lāpisi: kili melomelo mo e kili kelokelo</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾">fafine telinga-lāpisi | kili melomelo | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾" type="tts">fafine telinga-lāpisi: kili melomelo mo e kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿">fafine telinga-lāpisi | kili ʻuliʻuli | kili melomelo</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿" type="tts">fafine telinga-lāpisi: kili melomelo mo e kili ʻuliʻuli</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻">fafine telinga-lāpisi | kili hinehina | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻" type="tts">fafine telinga-lāpisi: kili melomelo-ʻuliʻuli mo e kili hinehina</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼">fafine telinga-lāpisi | kili kelokelo | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼" type="tts">fafine telinga-lāpisi: kili melomelo-ʻuliʻuli mo e kili kelokelo</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽">fafine telinga-lāpisi | kili melomelo | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽" type="tts">fafine telinga-lāpisi: kili melomelo-ʻuliʻuli mo e kili melomelo</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿">fafine telinga-lāpisi | kili ʻuliʻuli | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿" type="tts">fafine telinga-lāpisi: kili melomelo-ʻuliʻuli mo e kili ʻuliʻuli</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻">fafine telinga-lāpisi | kili hinehina | kili ʻuliʻuli</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻" type="tts">fafine telinga-lāpisi: kili ʻuliʻuli mo e kili hinehina</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼">fafine telinga-lāpisi | kili ʻuliʻuli | kili kelokelo</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼" type="tts">fafine telinga-lāpisi: kili ʻuliʻuli mo e kili kelokelo</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽">fafine telinga-lāpisi | kili ʻuliʻuli | kili melomelo</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽" type="tts">fafine telinga-lāpisi: kili ʻuliʻuli mo e kili melomelo</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾">fafine telinga-lāpisi | kili ʻuliʻuli | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾" type="tts">fafine telinga-lāpisi: kili ʻuliʻuli mo e kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="🧓🏻">kili hinehina | motuʻa | tokotaha motuʻa</annotation>
 		<annotation cp="🧓🏻" type="tts">tokotaha motuʻa: kili hinehina</annotation>
 		<annotation cp="🧓🏼">kili kelokelo | motuʻa | tokotaha motuʻa</annotation>
@@ -2687,42 +2937,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🚶🏾‍♀" type="tts">fefine lue: kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="🚶🏿‍♀">fefine lue | kili ʻuliʻuli</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">fefine lue: kili ʻuliʻuli</annotation>
-		<annotation cp="🚶‍➡">laka | lue | tokotaha lue</annotation>
-		<annotation cp="🚶‍➡" type="tts">tokotaha lue hangamataʻu</annotation>
-		<annotation cp="🚶🏻‍➡">laka | lue | tokotaha lue</annotation>
-		<annotation cp="🚶🏻‍➡" type="tts">tokotaha lue hangamataʻu</annotation>
-		<annotation cp="🚶🏼‍➡">laka | lue | tokotaha lue</annotation>
-		<annotation cp="🚶🏼‍➡" type="tts">tokotaha lue hangamataʻu</annotation>
-		<annotation cp="🚶🏽‍➡">laka | lue | tokotaha lue</annotation>
-		<annotation cp="🚶🏽‍➡" type="tts">tokotaha lue hangamataʻu</annotation>
-		<annotation cp="🚶🏾‍➡">laka | lue | tokotaha lue</annotation>
-		<annotation cp="🚶🏾‍➡" type="tts">tokotaha lue hangamataʻu</annotation>
-		<annotation cp="🚶🏿‍➡">laka | lue | tokotaha lue</annotation>
-		<annotation cp="🚶🏿‍➡" type="tts">tokotaha lue hangamataʻu</annotation>
-		<annotation cp="🚶‍♀‍➡">fefine lue</annotation>
-		<annotation cp="🚶‍♀‍➡" type="tts">fefine lue hangamataʻu</annotation>
-		<annotation cp="🚶🏻‍♀‍➡">fefine lue</annotation>
-		<annotation cp="🚶🏻‍♀‍➡" type="tts">fefine lue hangamataʻu</annotation>
-		<annotation cp="🚶🏼‍♀‍➡">fefine lue</annotation>
-		<annotation cp="🚶🏼‍♀‍➡" type="tts">fefine lue hangamataʻu</annotation>
-		<annotation cp="🚶🏽‍♀‍➡">fefine lue</annotation>
-		<annotation cp="🚶🏽‍♀‍➡" type="tts">fefine lue hangamataʻu</annotation>
-		<annotation cp="🚶🏾‍♀‍➡">fefine lue</annotation>
-		<annotation cp="🚶🏾‍♀‍➡" type="tts">fefine lue hangamataʻu</annotation>
-		<annotation cp="🚶🏿‍♀‍➡">fefine lue</annotation>
-		<annotation cp="🚶🏿‍♀‍➡" type="tts">fefine lue hangamataʻu</annotation>
-		<annotation cp="🚶‍♂‍➡">tangata lue</annotation>
-		<annotation cp="🚶‍♂‍➡" type="tts">tangata lue hangamataʻu</annotation>
-		<annotation cp="🚶🏻‍♂‍➡">tangata lue</annotation>
-		<annotation cp="🚶🏻‍♂‍➡" type="tts">tangata lue hangamataʻu</annotation>
-		<annotation cp="🚶🏼‍♂‍➡">tangata lue</annotation>
-		<annotation cp="🚶🏼‍♂‍➡" type="tts">tangata lue hangamataʻu</annotation>
-		<annotation cp="🚶🏽‍♂‍➡">tangata lue</annotation>
-		<annotation cp="🚶🏽‍♂‍➡" type="tts">tangata lue hangamataʻu</annotation>
-		<annotation cp="🚶🏾‍♂‍➡">tangata lue</annotation>
-		<annotation cp="🚶🏾‍♂‍➡" type="tts">tangata lue hangamataʻu</annotation>
-		<annotation cp="🚶🏿‍♂‍➡">tangata lue</annotation>
-		<annotation cp="🚶🏿‍♂‍➡" type="tts">tangata lue hangamataʻu</annotation>
+		<annotation cp="🚶‍➡">hangamataʻu | laka | lue | tokotaha lue</annotation>
+		<annotation cp="🚶‍➡" type="tts">tokotaha lue: hangamataʻu</annotation>
+		<annotation cp="🚶🏻‍➡">hangamataʻu | kili hinehina | laka | lue | tokotaha lue</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">tokotaha lue: kili hinehina mo e hangamataʻu</annotation>
+		<annotation cp="🚶🏼‍➡">hangamataʻu | kili kelokelo | laka | lue | tokotaha lue</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">tokotaha lue: kili kelokelo mo e hangamataʻu</annotation>
+		<annotation cp="🚶🏽‍➡">hangamataʻu | kili melomelo | laka | lue | tokotaha lue</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">tokotaha lue: kili melomelo mo e hangamataʻu</annotation>
+		<annotation cp="🚶🏾‍➡">hangamataʻu | kili melomelo-ʻuliʻuli | laka | lue | tokotaha lue</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">tokotaha lue: kili melomelo-ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="🚶🏿‍➡">hangamataʻu | kili ʻuliʻuli | laka | lue | tokotaha lue</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">tokotaha lue: kili ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="🚶‍♀‍➡">fefine lue | hangamataʻu</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">fefine lue: hangamataʻu</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">fefine lue | hangamataʻu | kili hinehina</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">fefine lue: kili hinehina mo e hangamataʻu</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">fefine lue | hangamataʻu | kili kelokelo</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">fefine lue: kili kelokelo mo e hangamataʻu</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">fefine lue | hangamataʻu | kili melomelo</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">fefine lue: kili melomelo mo e hangamataʻu</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">fefine lue | hangamataʻu | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">fefine lue: kili melomelo-ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">fefine lue | hangamataʻu | kili ʻuliʻuli</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">fefine lue: kili ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="🚶‍♂‍➡">hangamataʻu | tangata lue</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">tangata lue: hangamataʻu</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">hangamataʻu | kili hinehina | tangata lue</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">tangata lue: kili hinehina mo e hangamataʻu</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">hangamataʻu | kili kelokelo | tangata lue</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">tangata lue: kili kelokelo mo e hangamataʻu</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">hangamataʻu | kili melomelo | tangata lue</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">tangata lue: kili melomelo mo e hangamataʻu</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">hangamataʻu | kili melomelo-ʻuliʻuli | tangata lue</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">tangata lue: kili melomelo-ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">hangamataʻu | kili ʻuliʻuli | tangata lue</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">tangata lue: kili ʻuliʻuli mo e hangamataʻu</annotation>
 		<annotation cp="🧍🏻">kili hinehina | tokotaha tuʻu | tuʻu</annotation>
 		<annotation cp="🧍🏻" type="tts">tokotaha tuʻu: kili hinehina</annotation>
 		<annotation cp="🧍🏼">kili kelokelo | tokotaha tuʻu | tuʻu</annotation>
@@ -2783,42 +3033,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧎🏾‍♀" type="tts">fefine tūʻulutui: kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="🧎🏿‍♀">fefine tūʻulutui | kili ʻuliʻuli</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">fefine tūʻulutui: kili ʻuliʻuli</annotation>
-		<annotation cp="🧎‍➡">tokotaha tūʻulutui | tūʻulutui | tui</annotation>
-		<annotation cp="🧎‍➡" type="tts">tokotaha tūʻulutui hangamataʻu</annotation>
-		<annotation cp="🧎🏻‍➡">tokotaha tūʻulutui | tūʻulutui | tui</annotation>
-		<annotation cp="🧎🏻‍➡" type="tts">tokotaha tūʻulutui hangamataʻu</annotation>
-		<annotation cp="🧎🏼‍➡">tokotaha tūʻulutui | tūʻulutui | tui</annotation>
-		<annotation cp="🧎🏼‍➡" type="tts">tokotaha tūʻulutui hangamataʻu</annotation>
-		<annotation cp="🧎🏽‍➡">tokotaha tūʻulutui | tūʻulutui | tui</annotation>
-		<annotation cp="🧎🏽‍➡" type="tts">tokotaha tūʻulutui hangamataʻu</annotation>
-		<annotation cp="🧎🏾‍➡">tokotaha tūʻulutui | tūʻulutui | tui</annotation>
-		<annotation cp="🧎🏾‍➡" type="tts">tokotaha tūʻulutui hangamataʻu</annotation>
-		<annotation cp="🧎🏿‍➡">tokotaha tūʻulutui | tūʻulutui | tui</annotation>
-		<annotation cp="🧎🏿‍➡" type="tts">tokotaha tūʻulutui hangamataʻu</annotation>
-		<annotation cp="🧎‍♀‍➡">fefine tūʻulutui</annotation>
-		<annotation cp="🧎‍♀‍➡" type="tts">fefine tūʻulutui hangamataʻu</annotation>
-		<annotation cp="🧎🏻‍♀‍➡">fefine tūʻulutui</annotation>
-		<annotation cp="🧎🏻‍♀‍➡" type="tts">fefine tūʻulutui hangamataʻu</annotation>
-		<annotation cp="🧎🏼‍♀‍➡">fefine tūʻulutui</annotation>
-		<annotation cp="🧎🏼‍♀‍➡" type="tts">fefine tūʻulutui hangamataʻu</annotation>
-		<annotation cp="🧎🏽‍♀‍➡">fefine tūʻulutui</annotation>
-		<annotation cp="🧎🏽‍♀‍➡" type="tts">fefine tūʻulutui hangamataʻu</annotation>
-		<annotation cp="🧎🏾‍♀‍➡">fefine tūʻulutui</annotation>
-		<annotation cp="🧎🏾‍♀‍➡" type="tts">fefine tūʻulutui hangamataʻu</annotation>
-		<annotation cp="🧎🏿‍♀‍➡">fefine tūʻulutui</annotation>
-		<annotation cp="🧎🏿‍♀‍➡" type="tts">fefine tūʻulutui hangamataʻu</annotation>
-		<annotation cp="🧎‍♂‍➡">tangata tūʻulutui</annotation>
-		<annotation cp="🧎‍♂‍➡" type="tts">tangata tūʻulutui hangamataʻu</annotation>
-		<annotation cp="🧎🏻‍♂‍➡">tangata tūʻulutui</annotation>
-		<annotation cp="🧎🏻‍♂‍➡" type="tts">tangata tūʻulutui hangamataʻu</annotation>
-		<annotation cp="🧎🏼‍♂‍➡">tangata tūʻulutui</annotation>
-		<annotation cp="🧎🏼‍♂‍➡" type="tts">tangata tūʻulutui hangamataʻu</annotation>
-		<annotation cp="🧎🏽‍♂‍➡">tangata tūʻulutui</annotation>
-		<annotation cp="🧎🏽‍♂‍➡" type="tts">tangata tūʻulutui hangamataʻu</annotation>
-		<annotation cp="🧎🏾‍♂‍➡">tangata tūʻulutui</annotation>
-		<annotation cp="🧎🏾‍♂‍➡" type="tts">tangata tūʻulutui hangamataʻu</annotation>
-		<annotation cp="🧎🏿‍♂‍➡">tangata tūʻulutui</annotation>
-		<annotation cp="🧎🏿‍♂‍➡" type="tts">tangata tūʻulutui hangamataʻu</annotation>
+		<annotation cp="🧎‍➡">hangamataʻu | tokotaha tūʻulutui | tūʻulutui | tui</annotation>
+		<annotation cp="🧎‍➡" type="tts">tokotaha tūʻulutui: hangamataʻu</annotation>
+		<annotation cp="🧎🏻‍➡">hangamataʻu | kili hinehina | tokotaha tūʻulutui | tūʻulutui | tui</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">tokotaha tūʻulutui: kili hinehina mo e hangamataʻu</annotation>
+		<annotation cp="🧎🏼‍➡">hangamataʻu | kili kelokelo | tokotaha tūʻulutui | tūʻulutui | tui</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">tokotaha tūʻulutui: kili kelokelo mo e hangamataʻu</annotation>
+		<annotation cp="🧎🏽‍➡">hangamataʻu | kili melomelo | tokotaha tūʻulutui | tūʻulutui | tui</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">tokotaha tūʻulutui: kili melomelo mo e hangamataʻu</annotation>
+		<annotation cp="🧎🏾‍➡">hangamataʻu | kili melomelo-ʻuliʻuli | tokotaha tūʻulutui | tūʻulutui | tui</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">tokotaha tūʻulutui: kili melomelo-ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="🧎🏿‍➡">hangamataʻu | kili ʻuliʻuli | tokotaha tūʻulutui | tūʻulutui | tui</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">tokotaha tūʻulutui: kili ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="🧎‍♀‍➡">fefine tūʻulutui | hangamataʻu</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">fefine tūʻulutui: hangamataʻu</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">fefine tūʻulutui | hangamataʻu | kili hinehina</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">fefine tūʻulutui: kili hinehina mo e hangamataʻu</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">fefine tūʻulutui | hangamataʻu | kili kelokelo</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">fefine tūʻulutui: kili kelokelo mo e hangamataʻu</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">fefine tūʻulutui | hangamataʻu | kili melomelo</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">fefine tūʻulutui: kili melomelo mo e hangamataʻu</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">fefine tūʻulutui | hangamataʻu | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">fefine tūʻulutui: kili melomelo-ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">fefine tūʻulutui | hangamataʻu | kili ʻuliʻuli</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">fefine tūʻulutui: kili ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="🧎‍♂‍➡">hangamataʻu | tangata tūʻulutui</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">tangata tūʻulutui: hangamataʻu</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">hangamataʻu | kili hinehina | tangata tūʻulutui</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">tangata tūʻulutui: kili hinehina mo e hangamataʻu</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">hangamataʻu | kili kelokelo | tangata tūʻulutui</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">tangata tūʻulutui: kili kelokelo mo e hangamataʻu</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">hangamataʻu | kili melomelo | tangata tūʻulutui</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">tangata tūʻulutui: kili melomelo mo e hangamataʻu</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">hangamataʻu | kili melomelo-ʻuliʻuli | tangata tūʻulutui</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">tangata tūʻulutui: kili melomelo-ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">hangamataʻu | kili ʻuliʻuli | tangata tūʻulutui</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">tangata tūʻulutui: kili ʻuliʻuli mo e hangamataʻu</annotation>
 		<annotation cp="🧑🏻‍🦯">kili hinehina | kui | tokotaha | tokotaha moe tokotokokui | tokotoko</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">tokotaha moe tokotokokui: kili hinehina</annotation>
 		<annotation cp="🧑🏼‍🦯">kili kelokelo | kui | tokotaha | tokotaha moe tokotokokui | tokotoko</annotation>
@@ -2829,18 +3079,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦯" type="tts">tokotaha moe tokotokokui: kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="🧑🏿‍🦯">kili ʻuliʻuli | kui | tokotaha | tokotaha moe tokotokokui | tokotoko</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">tokotaha moe tokotokokui: kili ʻuliʻuli</annotation>
-		<annotation cp="🧑‍🦯‍➡">kui | tokotaha | tokotaha moe tokotokokui | tokotoko</annotation>
-		<annotation cp="🧑‍🦯‍➡" type="tts">tokotaha moe tokotokokui hangamataʻu</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡">kui | tokotaha | tokotaha moe tokotokokui | tokotoko</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡" type="tts">tokotaha moe tokotokokui hangamataʻu</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡">kui | tokotaha | tokotaha moe tokotokokui | tokotoko</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡" type="tts">tokotaha moe tokotokokui hangamataʻu</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡">kui | tokotaha | tokotaha moe tokotokokui | tokotoko</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡" type="tts">tokotaha moe tokotokokui hangamataʻu</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡">kui | tokotaha | tokotaha moe tokotokokui | tokotoko</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡" type="tts">tokotaha moe tokotokokui hangamataʻu</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡">kui | tokotaha | tokotaha moe tokotokokui | tokotoko</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡" type="tts">tokotaha moe tokotokokui hangamataʻu</annotation>
+		<annotation cp="🧑‍🦯‍➡">hangamataʻu | kui | tokotaha | tokotaha moe tokotokokui | tokotoko</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">tokotaha moe tokotokokui: hangamataʻu</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">hangamataʻu | kili hinehina | kui | tokotaha | tokotaha moe tokotokokui | tokotoko</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">tokotaha moe tokotokokui: kili hinehina mo e hangamataʻu</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">hangamataʻu | kili kelokelo | kui | tokotaha | tokotaha moe tokotokokui | tokotoko</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">tokotaha moe tokotokokui: kili kelokelo mo e hangamataʻu</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">hangamataʻu | kili melomelo | kui | tokotaha | tokotaha moe tokotokokui | tokotoko</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">tokotaha moe tokotokokui: kili melomelo mo e hangamataʻu</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">hangamataʻu | kili melomelo-ʻuliʻuli | kui | tokotaha | tokotaha moe tokotokokui | tokotoko</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">tokotaha moe tokotokokui: kili melomelo-ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">hangamataʻu | kili ʻuliʻuli | kui | tokotaha | tokotaha moe tokotokokui | tokotoko</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">tokotaha moe tokotokokui: kili ʻuliʻuli mo e hangamataʻu</annotation>
 		<annotation cp="👨🏻‍🦯">kili hinehina | kui | tangata | tangata moe tokotokokui | tokotoko</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">tangata moe tokotokokui: kili hinehina</annotation>
 		<annotation cp="👨🏼‍🦯">kili kelokelo | kui | tangata | tangata moe tokotokokui | tokotoko</annotation>
@@ -2851,18 +3101,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦯" type="tts">tangata moe tokotokokui: kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="👨🏿‍🦯">kili ʻuliʻuli | kui | tangata | tangata moe tokotokokui | tokotoko</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">tangata moe tokotokokui: kili ʻuliʻuli</annotation>
-		<annotation cp="👨‍🦯‍➡">kui | tangata | tangata moe tokotokokui | tokotoko</annotation>
-		<annotation cp="👨‍🦯‍➡" type="tts">tangata moe tokotokokui hangamataʻu</annotation>
-		<annotation cp="👨🏻‍🦯‍➡">kui | tangata | tangata moe tokotokokui | tokotoko</annotation>
-		<annotation cp="👨🏻‍🦯‍➡" type="tts">tangata moe tokotokokui hangamataʻu</annotation>
-		<annotation cp="👨🏼‍🦯‍➡">kui | tangata | tangata moe tokotokokui | tokotoko</annotation>
-		<annotation cp="👨🏼‍🦯‍➡" type="tts">tangata moe tokotokokui hangamataʻu</annotation>
-		<annotation cp="👨🏽‍🦯‍➡">kui | tangata | tangata moe tokotokokui | tokotoko</annotation>
-		<annotation cp="👨🏽‍🦯‍➡" type="tts">tangata moe tokotokokui hangamataʻu</annotation>
-		<annotation cp="👨🏾‍🦯‍➡">kui | tangata | tangata moe tokotokokui | tokotoko</annotation>
-		<annotation cp="👨🏾‍🦯‍➡" type="tts">tangata moe tokotokokui hangamataʻu</annotation>
-		<annotation cp="👨🏿‍🦯‍➡">kui | tangata | tangata moe tokotokokui | tokotoko</annotation>
-		<annotation cp="👨🏿‍🦯‍➡" type="tts">tangata moe tokotokokui hangamataʻu</annotation>
+		<annotation cp="👨‍🦯‍➡">hangamataʻu | kui | tangata | tangata moe tokotokokui | tokotoko</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">tangata moe tokotokokui: hangamataʻu</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">hangamataʻu | kili hinehina | kui | tangata | tangata moe tokotokokui | tokotoko</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">tangata moe tokotokokui: kili hinehina mo e hangamataʻu</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">hangamataʻu | kili kelokelo | kui | tangata | tangata moe tokotokokui | tokotoko</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">tangata moe tokotokokui: kili kelokelo mo e hangamataʻu</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">hangamataʻu | kili melomelo | kui | tangata | tangata moe tokotokokui | tokotoko</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">tangata moe tokotokokui: kili melomelo mo e hangamataʻu</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">hangamataʻu | kili melomelo-ʻuliʻuli | kui | tangata | tangata moe tokotokokui | tokotoko</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">tangata moe tokotokokui: kili melomelo-ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">hangamataʻu | kili ʻuliʻuli | kui | tangata | tangata moe tokotokokui | tokotoko</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">tangata moe tokotokokui: kili ʻuliʻuli mo e hangamataʻu</annotation>
 		<annotation cp="👩🏻‍🦯">fefine | fefine moe tokotokokui | kili hinehina | kui | tokotoko</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">fefine moe tokotokokui: kili hinehina</annotation>
 		<annotation cp="👩🏼‍🦯">fefine | fefine moe tokotokokui | kili kelokelo | kui | tokotoko</annotation>
@@ -2873,18 +3123,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦯" type="tts">fefine moe tokotokokui: kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="👩🏿‍🦯">fefine | fefine moe tokotokokui | kili ʻuliʻuli | kui | tokotoko</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">fefine moe tokotokokui: kili ʻuliʻuli</annotation>
-		<annotation cp="👩‍🦯‍➡">fefine | fefine moe tokotokokui | kui | tokotoko</annotation>
-		<annotation cp="👩‍🦯‍➡" type="tts">fefine moe tokotokokui hangamataʻu</annotation>
-		<annotation cp="👩🏻‍🦯‍➡">fefine | fefine moe tokotokokui | kui | tokotoko</annotation>
-		<annotation cp="👩🏻‍🦯‍➡" type="tts">fefine moe tokotokokui hangamataʻu</annotation>
-		<annotation cp="👩🏼‍🦯‍➡">fefine | fefine moe tokotokokui | kui | tokotoko</annotation>
-		<annotation cp="👩🏼‍🦯‍➡" type="tts">fefine moe tokotokokui hangamataʻu</annotation>
-		<annotation cp="👩🏽‍🦯‍➡">fefine | fefine moe tokotokokui | kui | tokotoko</annotation>
-		<annotation cp="👩🏽‍🦯‍➡" type="tts">fefine moe tokotokokui hangamataʻu</annotation>
-		<annotation cp="👩🏾‍🦯‍➡">fefine | fefine moe tokotokokui | kui | tokotoko</annotation>
-		<annotation cp="👩🏾‍🦯‍➡" type="tts">fefine moe tokotokokui hangamataʻu</annotation>
-		<annotation cp="👩🏿‍🦯‍➡">fefine | fefine moe tokotokokui | kui | tokotoko</annotation>
-		<annotation cp="👩🏿‍🦯‍➡" type="tts">fefine moe tokotokokui hangamataʻu</annotation>
+		<annotation cp="👩‍🦯‍➡">fefine | fefine moe tokotokokui | hangamataʻu | kui | tokotoko</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">fefine moe tokotokokui: hangamataʻu</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">fefine | fefine moe tokotokokui | hangamataʻu | kili hinehina | kui | tokotoko</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">fefine moe tokotokokui: kili hinehina mo e hangamataʻu</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">fefine | fefine moe tokotokokui | hangamataʻu | kili kelokelo | kui | tokotoko</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">fefine moe tokotokokui: kili kelokelo mo e hangamataʻu</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">fefine | fefine moe tokotokokui | hangamataʻu | kili melomelo | kui | tokotoko</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">fefine moe tokotokokui: kili melomelo mo e hangamataʻu</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">fefine | fefine moe tokotokokui | hangamataʻu | kili melomelo-ʻuliʻuli | kui | tokotoko</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">fefine moe tokotokokui: kili melomelo-ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">fefine | fefine moe tokotokokui | hangamataʻu | kili ʻuliʻuli | kui | tokotoko</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">fefine moe tokotokokui: kili ʻuliʻuli mo e hangamataʻu</annotation>
 		<annotation cp="🧑🏻‍🦼">kili hinehina | sāliote falemahaki mīsini | tokotaha ʻihe sāliote falemahaki mīsini</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">tokotaha ʻihe sāliote falemahaki mīsini: kili hinehina</annotation>
 		<annotation cp="🧑🏼‍🦼">kili kelokelo | sāliote falemahaki mīsini | tokotaha ʻihe sāliote falemahaki mīsini</annotation>
@@ -2895,18 +3145,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦼" type="tts">tokotaha ʻihe sāliote falemahaki mīsini: kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="🧑🏿‍🦼">kili ʻuliʻuli | sāliote falemahaki mīsini | tokotaha ʻihe sāliote falemahaki mīsini</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">tokotaha ʻihe sāliote falemahaki mīsini: kili ʻuliʻuli</annotation>
-		<annotation cp="🧑‍🦼‍➡">sāliote falemahaki mīsini | tokotaha ʻihe sāliote falemahaki mīsini</annotation>
-		<annotation cp="🧑‍🦼‍➡" type="tts">tokotaha ʻihe sāliote falemahaki mīsini hangamataʻu</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡">sāliote falemahaki mīsini | tokotaha ʻihe sāliote falemahaki mīsini</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡" type="tts">tokotaha ʻihe sāliote falemahaki mīsini hangamataʻu</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡">sāliote falemahaki mīsini | tokotaha ʻihe sāliote falemahaki mīsini</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡" type="tts">tokotaha ʻihe sāliote falemahaki mīsini hangamataʻu</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡">sāliote falemahaki mīsini | tokotaha ʻihe sāliote falemahaki mīsini</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡" type="tts">tokotaha ʻihe sāliote falemahaki mīsini hangamataʻu</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡">sāliote falemahaki mīsini | tokotaha ʻihe sāliote falemahaki mīsini</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡" type="tts">tokotaha ʻihe sāliote falemahaki mīsini hangamataʻu</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡">sāliote falemahaki mīsini | tokotaha ʻihe sāliote falemahaki mīsini</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡" type="tts">tokotaha ʻihe sāliote falemahaki mīsini hangamataʻu</annotation>
+		<annotation cp="🧑‍🦼‍➡">hangamataʻu | sāliote falemahaki mīsini | tokotaha ʻihe sāliote falemahaki mīsini</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">tokotaha ʻihe sāliote falemahaki mīsini: hangamataʻu</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">hangamataʻu | kili hinehina | sāliote falemahaki mīsini | tokotaha ʻihe sāliote falemahaki mīsini</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">tokotaha ʻihe sāliote falemahaki mīsini: kili hinehina mo e hangamataʻu</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">hangamataʻu | kili kelokelo | sāliote falemahaki mīsini | tokotaha ʻihe sāliote falemahaki mīsini</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">tokotaha ʻihe sāliote falemahaki mīsini: kili kelokelo mo e hangamataʻu</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">hangamataʻu | kili melomelo | sāliote falemahaki mīsini | tokotaha ʻihe sāliote falemahaki mīsini</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">tokotaha ʻihe sāliote falemahaki mīsini: kili melomelo mo e hangamataʻu</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">hangamataʻu | kili melomelo-ʻuliʻuli | sāliote falemahaki mīsini | tokotaha ʻihe sāliote falemahaki mīsini</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">tokotaha ʻihe sāliote falemahaki mīsini: kili melomelo-ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">hangamataʻu | kili ʻuliʻuli | sāliote falemahaki mīsini | tokotaha ʻihe sāliote falemahaki mīsini</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">tokotaha ʻihe sāliote falemahaki mīsini: kili ʻuliʻuli mo e hangamataʻu</annotation>
 		<annotation cp="👨🏻‍🦼">falemahaki | kili hinehina | mīsini | sāliote | tangata | tangata ʻihe sāliote falemahaki mīsini</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">tangata ʻihe sāliote falemahaki mīsini: kili hinehina</annotation>
 		<annotation cp="👨🏼‍🦼">falemahaki | kili kelokelo | mīsini | sāliote | tangata | tangata ʻihe sāliote falemahaki mīsini</annotation>
@@ -2917,18 +3167,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦼" type="tts">tangata ʻihe sāliote falemahaki mīsini: kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="👨🏿‍🦼">falemahaki | kili ʻuliʻuli | mīsini | sāliote | tangata | tangata ʻihe sāliote falemahaki mīsini</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">tangata ʻihe sāliote falemahaki mīsini: kili ʻuliʻuli</annotation>
-		<annotation cp="👨‍🦼‍➡">falemahaki | mīsini | sāliote | tangata | tangata ʻihe sāliote falemahaki mīsini</annotation>
-		<annotation cp="👨‍🦼‍➡" type="tts">tangata ʻihe sāliote falemahaki mīsini hangamataʻu</annotation>
-		<annotation cp="👨🏻‍🦼‍➡">falemahaki | mīsini | sāliote | tangata | tangata ʻihe sāliote falemahaki mīsini</annotation>
-		<annotation cp="👨🏻‍🦼‍➡" type="tts">tangata ʻihe sāliote falemahaki mīsini hangamataʻu</annotation>
-		<annotation cp="👨🏼‍🦼‍➡">falemahaki | mīsini | sāliote | tangata | tangata ʻihe sāliote falemahaki mīsini</annotation>
-		<annotation cp="👨🏼‍🦼‍➡" type="tts">tangata ʻihe sāliote falemahaki mīsini hangamataʻu</annotation>
-		<annotation cp="👨🏽‍🦼‍➡">falemahaki | mīsini | sāliote | tangata | tangata ʻihe sāliote falemahaki mīsini</annotation>
-		<annotation cp="👨🏽‍🦼‍➡" type="tts">tangata ʻihe sāliote falemahaki mīsini hangamataʻu</annotation>
-		<annotation cp="👨🏾‍🦼‍➡">falemahaki | mīsini | sāliote | tangata | tangata ʻihe sāliote falemahaki mīsini</annotation>
-		<annotation cp="👨🏾‍🦼‍➡" type="tts">tangata ʻihe sāliote falemahaki mīsini hangamataʻu</annotation>
-		<annotation cp="👨🏿‍🦼‍➡">falemahaki | mīsini | sāliote | tangata | tangata ʻihe sāliote falemahaki mīsini</annotation>
-		<annotation cp="👨🏿‍🦼‍➡" type="tts">tangata ʻihe sāliote falemahaki mīsini hangamataʻu</annotation>
+		<annotation cp="👨‍🦼‍➡">falemahaki | hangamataʻu | mīsini | sāliote | tangata | tangata ʻihe sāliote falemahaki mīsini</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">tangata ʻihe sāliote falemahaki mīsini: hangamataʻu</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">falemahaki | hangamataʻu | kili hinehina | mīsini | sāliote | tangata | tangata ʻihe sāliote falemahaki mīsini</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">tangata ʻihe sāliote falemahaki mīsini: kili hinehina mo e hangamataʻu</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">falemahaki | hangamataʻu | kili kelokelo | mīsini | sāliote | tangata | tangata ʻihe sāliote falemahaki mīsini</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">tangata ʻihe sāliote falemahaki mīsini: kili kelokelo mo e hangamataʻu</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">falemahaki | hangamataʻu | kili melomelo | mīsini | sāliote | tangata | tangata ʻihe sāliote falemahaki mīsini</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">tangata ʻihe sāliote falemahaki mīsini: kili melomelo mo e hangamataʻu</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">falemahaki | hangamataʻu | kili melomelo-ʻuliʻuli | mīsini | sāliote | tangata | tangata ʻihe sāliote falemahaki mīsini</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">tangata ʻihe sāliote falemahaki mīsini: kili melomelo-ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">falemahaki | hangamataʻu | kili ʻuliʻuli | mīsini | sāliote | tangata | tangata ʻihe sāliote falemahaki mīsini</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">tangata ʻihe sāliote falemahaki mīsini: kili ʻuliʻuli mo e hangamataʻu</annotation>
 		<annotation cp="👩🏻‍🦼">falemahaki | fefine | fefine ʻihe sāliote falemahaki mīsini | kili hinehina | mīsini | sāliote</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">fefine ʻihe sāliote falemahaki mīsini: kili hinehina</annotation>
 		<annotation cp="👩🏼‍🦼">falemahaki | fefine | fefine ʻihe sāliote falemahaki mīsini | kili kelokelo | mīsini | sāliote</annotation>
@@ -2939,18 +3189,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦼" type="tts">fefine ʻihe sāliote falemahaki mīsini: kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="👩🏿‍🦼">falemahaki | fefine | fefine ʻihe sāliote falemahaki mīsini | kili ʻuliʻuli | mīsini | sāliote</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">fefine ʻihe sāliote falemahaki mīsini: kili ʻuliʻuli</annotation>
-		<annotation cp="👩‍🦼‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki mīsini | mīsini | sāliote</annotation>
-		<annotation cp="👩‍🦼‍➡" type="tts">fefine ʻihe sāliote falemahaki mīsini hangamataʻu</annotation>
-		<annotation cp="👩🏻‍🦼‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki mīsini | mīsini | sāliote</annotation>
-		<annotation cp="👩🏻‍🦼‍➡" type="tts">fefine ʻihe sāliote falemahaki mīsini hangamataʻu</annotation>
-		<annotation cp="👩🏼‍🦼‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki mīsini | mīsini | sāliote</annotation>
-		<annotation cp="👩🏼‍🦼‍➡" type="tts">fefine ʻihe sāliote falemahaki mīsini hangamataʻu</annotation>
-		<annotation cp="👩🏽‍🦼‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki mīsini | mīsini | sāliote</annotation>
-		<annotation cp="👩🏽‍🦼‍➡" type="tts">fefine ʻihe sāliote falemahaki mīsini hangamataʻu</annotation>
-		<annotation cp="👩🏾‍🦼‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki mīsini | mīsini | sāliote</annotation>
-		<annotation cp="👩🏾‍🦼‍➡" type="tts">fefine ʻihe sāliote falemahaki mīsini hangamataʻu</annotation>
-		<annotation cp="👩🏿‍🦼‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki mīsini | mīsini | sāliote</annotation>
-		<annotation cp="👩🏿‍🦼‍➡" type="tts">fefine ʻihe sāliote falemahaki mīsini hangamataʻu</annotation>
+		<annotation cp="👩‍🦼‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki mīsini | hangamataʻu | mīsini | sāliote</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">fefine ʻihe sāliote falemahaki mīsini: hangamataʻu</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki mīsini | hangamataʻu | kili hinehina | mīsini | sāliote</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">fefine ʻihe sāliote falemahaki mīsini: kili hinehina mo e hangamataʻu</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki mīsini | hangamataʻu | kili kelokelo | mīsini | sāliote</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">fefine ʻihe sāliote falemahaki mīsini: kili kelokelo mo e hangamataʻu</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki mīsini | hangamataʻu | kili melomelo | mīsini | sāliote</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">fefine ʻihe sāliote falemahaki mīsini: kili melomelo mo e hangamataʻu</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki mīsini | hangamataʻu | kili melomelo-ʻuliʻuli | mīsini | sāliote</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">fefine ʻihe sāliote falemahaki mīsini: kili melomelo-ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki mīsini | hangamataʻu | kili ʻuliʻuli | mīsini | sāliote</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">fefine ʻihe sāliote falemahaki mīsini: kili ʻuliʻuli mo e hangamataʻu</annotation>
 		<annotation cp="🧑🏻‍🦽">falemahaki | kili hinehina | sāliote | tokotaha ʻihe sāliote falemahaki</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">tokotaha ʻihe sāliote falemahaki: kili hinehina</annotation>
 		<annotation cp="🧑🏼‍🦽">falemahaki | kili kelokelo | sāliote | tokotaha ʻihe sāliote falemahaki</annotation>
@@ -2961,18 +3211,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦽" type="tts">tokotaha ʻihe sāliote falemahaki: kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="🧑🏿‍🦽">falemahaki | kili ʻuliʻuli | sāliote | tokotaha ʻihe sāliote falemahaki</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">tokotaha ʻihe sāliote falemahaki: kili ʻuliʻuli</annotation>
-		<annotation cp="🧑‍🦽‍➡">falemahaki | sāliote | tokotaha ʻihe sāliote falemahaki</annotation>
-		<annotation cp="🧑‍🦽‍➡" type="tts">tokotaha ʻihe sāliote falemahaki hangamataʻu</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡">falemahaki | sāliote | tokotaha ʻihe sāliote falemahaki</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡" type="tts">tokotaha ʻihe sāliote falemahaki hangamataʻu</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡">falemahaki | sāliote | tokotaha ʻihe sāliote falemahaki</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡" type="tts">tokotaha ʻihe sāliote falemahaki hangamataʻu</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡">falemahaki | sāliote | tokotaha ʻihe sāliote falemahaki</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡" type="tts">tokotaha ʻihe sāliote falemahaki hangamataʻu</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡">falemahaki | sāliote | tokotaha ʻihe sāliote falemahaki</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡" type="tts">tokotaha ʻihe sāliote falemahaki hangamataʻu</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡">falemahaki | sāliote | tokotaha ʻihe sāliote falemahaki</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡" type="tts">tokotaha ʻihe sāliote falemahaki hangamataʻu</annotation>
+		<annotation cp="🧑‍🦽‍➡">falemahaki | hangamataʻu | sāliote | tokotaha ʻihe sāliote falemahaki</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">tokotaha ʻihe sāliote falemahaki: hangamataʻu</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">falemahaki | hangamataʻu | kili hinehina | sāliote | tokotaha ʻihe sāliote falemahaki</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">tokotaha ʻihe sāliote falemahaki: kili hinehina mo e hangamataʻu</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">falemahaki | hangamataʻu | kili kelokelo | sāliote | tokotaha ʻihe sāliote falemahaki</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">tokotaha ʻihe sāliote falemahaki: kili kelokelo mo e hangamataʻu</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">falemahaki | hangamataʻu | kili melomelo | sāliote | tokotaha ʻihe sāliote falemahaki</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">tokotaha ʻihe sāliote falemahaki: kili melomelo mo e hangamataʻu</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">falemahaki | hangamataʻu | kili melomelo-ʻuliʻuli | sāliote | tokotaha ʻihe sāliote falemahaki</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">tokotaha ʻihe sāliote falemahaki: kili melomelo-ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">falemahaki | hangamataʻu | kili ʻuliʻuli | sāliote | tokotaha ʻihe sāliote falemahaki</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">tokotaha ʻihe sāliote falemahaki: kili ʻuliʻuli mo e hangamataʻu</annotation>
 		<annotation cp="👨🏻‍🦽">falemahaki | kili hinehina | sāliote | tangata | tangata ʻihe sāliote falemahaki</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">tangata ʻihe sāliote falemahaki: kili hinehina</annotation>
 		<annotation cp="👨🏼‍🦽">falemahaki | kili kelokelo | sāliote | tangata | tangata ʻihe sāliote falemahaki</annotation>
@@ -2983,18 +3233,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦽" type="tts">tangata ʻihe sāliote falemahaki: kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="👨🏿‍🦽">falemahaki | kili ʻuliʻuli | sāliote | tangata | tangata ʻihe sāliote falemahaki</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">tangata ʻihe sāliote falemahaki: kili ʻuliʻuli</annotation>
-		<annotation cp="👨‍🦽‍➡">falemahaki | sāliote | tangata | tangata ʻihe sāliote falemahaki</annotation>
-		<annotation cp="👨‍🦽‍➡" type="tts">tangata ʻihe sāliote falemahaki hangamataʻu</annotation>
-		<annotation cp="👨🏻‍🦽‍➡">falemahaki | sāliote | tangata | tangata ʻihe sāliote falemahaki</annotation>
-		<annotation cp="👨🏻‍🦽‍➡" type="tts">tangata ʻihe sāliote falemahaki hangamataʻu</annotation>
-		<annotation cp="👨🏼‍🦽‍➡">falemahaki | sāliote | tangata | tangata ʻihe sāliote falemahaki</annotation>
-		<annotation cp="👨🏼‍🦽‍➡" type="tts">tangata ʻihe sāliote falemahaki hangamataʻu</annotation>
-		<annotation cp="👨🏽‍🦽‍➡">falemahaki | sāliote | tangata | tangata ʻihe sāliote falemahaki</annotation>
-		<annotation cp="👨🏽‍🦽‍➡" type="tts">tangata ʻihe sāliote falemahaki hangamataʻu</annotation>
-		<annotation cp="👨🏾‍🦽‍➡">falemahaki | sāliote | tangata | tangata ʻihe sāliote falemahaki</annotation>
-		<annotation cp="👨🏾‍🦽‍➡" type="tts">tangata ʻihe sāliote falemahaki hangamataʻu</annotation>
-		<annotation cp="👨🏿‍🦽‍➡">falemahaki | sāliote | tangata | tangata ʻihe sāliote falemahaki</annotation>
-		<annotation cp="👨🏿‍🦽‍➡" type="tts">tangata ʻihe sāliote falemahaki hangamataʻu</annotation>
+		<annotation cp="👨‍🦽‍➡">falemahaki | hangamataʻu | sāliote | tangata | tangata ʻihe sāliote falemahaki</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">tangata ʻihe sāliote falemahaki: hangamataʻu</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">falemahaki | hangamataʻu | kili hinehina | sāliote | tangata | tangata ʻihe sāliote falemahaki</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">tangata ʻihe sāliote falemahaki: kili hinehina mo e hangamataʻu</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">falemahaki | hangamataʻu | kili kelokelo | sāliote | tangata | tangata ʻihe sāliote falemahaki</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">tangata ʻihe sāliote falemahaki: kili kelokelo mo e hangamataʻu</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">falemahaki | hangamataʻu | kili melomelo | sāliote | tangata | tangata ʻihe sāliote falemahaki</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">tangata ʻihe sāliote falemahaki: kili melomelo mo e hangamataʻu</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">falemahaki | hangamataʻu | kili melomelo-ʻuliʻuli | sāliote | tangata | tangata ʻihe sāliote falemahaki</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">tangata ʻihe sāliote falemahaki: kili melomelo-ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">falemahaki | hangamataʻu | kili ʻuliʻuli | sāliote | tangata | tangata ʻihe sāliote falemahaki</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">tangata ʻihe sāliote falemahaki: kili ʻuliʻuli mo e hangamataʻu</annotation>
 		<annotation cp="👩🏻‍🦽">falemahaki | fefine | fefine ʻihe sāliote falemahaki | kili hinehina | sāliote</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">fefine ʻihe sāliote falemahaki: kili hinehina</annotation>
 		<annotation cp="👩🏼‍🦽">falemahaki | fefine | fefine ʻihe sāliote falemahaki | kili kelokelo | sāliote</annotation>
@@ -3005,18 +3255,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦽" type="tts">fefine ʻihe sāliote falemahaki: kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="👩🏿‍🦽">falemahaki | fefine | fefine ʻihe sāliote falemahaki | kili ʻuliʻuli | sāliote</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">fefine ʻihe sāliote falemahaki: kili ʻuliʻuli</annotation>
-		<annotation cp="👩‍🦽‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki | sāliote</annotation>
-		<annotation cp="👩‍🦽‍➡" type="tts">fefine ʻihe sāliote falemahaki hangamataʻu</annotation>
-		<annotation cp="👩🏻‍🦽‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki | sāliote</annotation>
-		<annotation cp="👩🏻‍🦽‍➡" type="tts">fefine ʻihe sāliote falemahaki hangamataʻu</annotation>
-		<annotation cp="👩🏼‍🦽‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki | sāliote</annotation>
-		<annotation cp="👩🏼‍🦽‍➡" type="tts">fefine ʻihe sāliote falemahaki hangamataʻu</annotation>
-		<annotation cp="👩🏽‍🦽‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki | sāliote</annotation>
-		<annotation cp="👩🏽‍🦽‍➡" type="tts">fefine ʻihe sāliote falemahaki hangamataʻu</annotation>
-		<annotation cp="👩🏾‍🦽‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki | sāliote</annotation>
-		<annotation cp="👩🏾‍🦽‍➡" type="tts">fefine ʻihe sāliote falemahaki hangamataʻu</annotation>
-		<annotation cp="👩🏿‍🦽‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki | sāliote</annotation>
-		<annotation cp="👩🏿‍🦽‍➡" type="tts">fefine ʻihe sāliote falemahaki hangamataʻu</annotation>
+		<annotation cp="👩‍🦽‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki | hangamataʻu | sāliote</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">fefine ʻihe sāliote falemahaki: hangamataʻu</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki | hangamataʻu | kili hinehina | sāliote</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">fefine ʻihe sāliote falemahaki: kili hinehina mo e hangamataʻu</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki | hangamataʻu | kili kelokelo | sāliote</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">fefine ʻihe sāliote falemahaki: kili kelokelo mo e hangamataʻu</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki | hangamataʻu | kili melomelo | sāliote</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">fefine ʻihe sāliote falemahaki: kili melomelo mo e hangamataʻu</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki | hangamataʻu | kili melomelo-ʻuliʻuli | sāliote</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">fefine ʻihe sāliote falemahaki: kili melomelo-ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">falemahaki | fefine | fefine ʻihe sāliote falemahaki | hangamataʻu | kili ʻuliʻuli | sāliote</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">fefine ʻihe sāliote falemahaki: kili ʻuliʻuli mo e hangamataʻu</annotation>
 		<annotation cp="🏃🏻">kili hinehina | lele | tokotaha lele</annotation>
 		<annotation cp="🏃🏻" type="tts">tokotaha lele: kili hinehina</annotation>
 		<annotation cp="🏃🏼">kili kelokelo | lele | tokotaha lele</annotation>
@@ -3047,42 +3297,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🏃🏾‍♀" type="tts">fefine lele: kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="🏃🏿‍♀">fefine lele | kili ʻuliʻuli</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">fefine lele: kili ʻuliʻuli</annotation>
-		<annotation cp="🏃‍➡">lele | tokotaha lele</annotation>
-		<annotation cp="🏃‍➡" type="tts">tokotaha lele hangamataʻu</annotation>
-		<annotation cp="🏃🏻‍➡">lele | tokotaha lele</annotation>
-		<annotation cp="🏃🏻‍➡" type="tts">tokotaha lele hangamataʻu</annotation>
-		<annotation cp="🏃🏼‍➡">lele | tokotaha lele</annotation>
-		<annotation cp="🏃🏼‍➡" type="tts">tokotaha lele hangamataʻu</annotation>
-		<annotation cp="🏃🏽‍➡">lele | tokotaha lele</annotation>
-		<annotation cp="🏃🏽‍➡" type="tts">tokotaha lele hangamataʻu</annotation>
-		<annotation cp="🏃🏾‍➡">lele | tokotaha lele</annotation>
-		<annotation cp="🏃🏾‍➡" type="tts">tokotaha lele hangamataʻu</annotation>
-		<annotation cp="🏃🏿‍➡">lele | tokotaha lele</annotation>
-		<annotation cp="🏃🏿‍➡" type="tts">tokotaha lele hangamataʻu</annotation>
-		<annotation cp="🏃‍♀‍➡">fefine lele</annotation>
-		<annotation cp="🏃‍♀‍➡" type="tts">fefine lele hangamataʻu</annotation>
-		<annotation cp="🏃🏻‍♀‍➡">fefine lele</annotation>
-		<annotation cp="🏃🏻‍♀‍➡" type="tts">fefine lele hangamataʻu</annotation>
-		<annotation cp="🏃🏼‍♀‍➡">fefine lele</annotation>
-		<annotation cp="🏃🏼‍♀‍➡" type="tts">fefine lele hangamataʻu</annotation>
-		<annotation cp="🏃🏽‍♀‍➡">fefine lele</annotation>
-		<annotation cp="🏃🏽‍♀‍➡" type="tts">fefine lele hangamataʻu</annotation>
-		<annotation cp="🏃🏾‍♀‍➡">fefine lele</annotation>
-		<annotation cp="🏃🏾‍♀‍➡" type="tts">fefine lele hangamataʻu</annotation>
-		<annotation cp="🏃🏿‍♀‍➡">fefine lele</annotation>
-		<annotation cp="🏃🏿‍♀‍➡" type="tts">fefine lele hangamataʻu</annotation>
-		<annotation cp="🏃‍♂‍➡">tangata lele</annotation>
-		<annotation cp="🏃‍♂‍➡" type="tts">tangata lele hangamataʻu</annotation>
-		<annotation cp="🏃🏻‍♂‍➡">tangata lele</annotation>
-		<annotation cp="🏃🏻‍♂‍➡" type="tts">tangata lele hangamataʻu</annotation>
-		<annotation cp="🏃🏼‍♂‍➡">tangata lele</annotation>
-		<annotation cp="🏃🏼‍♂‍➡" type="tts">tangata lele hangamataʻu</annotation>
-		<annotation cp="🏃🏽‍♂‍➡">tangata lele</annotation>
-		<annotation cp="🏃🏽‍♂‍➡" type="tts">tangata lele hangamataʻu</annotation>
-		<annotation cp="🏃🏾‍♂‍➡">tangata lele</annotation>
-		<annotation cp="🏃🏾‍♂‍➡" type="tts">tangata lele hangamataʻu</annotation>
-		<annotation cp="🏃🏿‍♂‍➡">tangata lele</annotation>
-		<annotation cp="🏃🏿‍♂‍➡" type="tts">tangata lele hangamataʻu</annotation>
+		<annotation cp="🏃‍➡">hangamataʻu | lele | tokotaha lele</annotation>
+		<annotation cp="🏃‍➡" type="tts">tokotaha lele: hangamataʻu</annotation>
+		<annotation cp="🏃🏻‍➡">hangamataʻu | kili hinehina | lele | tokotaha lele</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">tokotaha lele: kili hinehina mo e hangamataʻu</annotation>
+		<annotation cp="🏃🏼‍➡">hangamataʻu | kili kelokelo | lele | tokotaha lele</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">tokotaha lele: kili kelokelo mo e hangamataʻu</annotation>
+		<annotation cp="🏃🏽‍➡">hangamataʻu | kili melomelo | lele | tokotaha lele</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">tokotaha lele: kili melomelo mo e hangamataʻu</annotation>
+		<annotation cp="🏃🏾‍➡">hangamataʻu | kili melomelo-ʻuliʻuli | lele | tokotaha lele</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">tokotaha lele: kili melomelo-ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="🏃🏿‍➡">hangamataʻu | kili ʻuliʻuli | lele | tokotaha lele</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">tokotaha lele: kili ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="🏃‍♀‍➡">fefine lele | hangamataʻu</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">fefine lele: hangamataʻu</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">fefine lele | hangamataʻu | kili hinehina</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">fefine lele: kili hinehina mo e hangamataʻu</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">fefine lele | hangamataʻu | kili kelokelo</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">fefine lele: kili kelokelo mo e hangamataʻu</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">fefine lele | hangamataʻu | kili melomelo</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">fefine lele: kili melomelo mo e hangamataʻu</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">fefine lele | hangamataʻu | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">fefine lele: kili melomelo-ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">fefine lele | hangamataʻu | kili ʻuliʻuli</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">fefine lele: kili ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="🏃‍♂‍➡">hangamataʻu | tangata lele</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">tangata lele: hangamataʻu</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">hangamataʻu | kili hinehina | tangata lele</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">tangata lele: kili hinehina mo e hangamataʻu</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">hangamataʻu | kili kelokelo | tangata lele</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">tangata lele: kili kelokelo mo e hangamataʻu</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">hangamataʻu | kili melomelo | tangata lele</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">tangata lele: kili melomelo mo e hangamataʻu</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">hangamataʻu | kili melomelo-ʻuliʻuli | tangata lele</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">tangata lele: kili melomelo-ʻuliʻuli mo e hangamataʻu</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">hangamataʻu | kili ʻuliʻuli | tangata lele</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">tangata lele: kili ʻuliʻuli mo e hangamataʻu</annotation>
 		<annotation cp="💃🏻">fefine | kili hinehina | meʻe</annotation>
 		<annotation cp="💃🏻" type="tts">fefine meʻe: kili hinehina</annotation>
 		<annotation cp="💃🏼">fefine | kili kelokelo | meʻe</annotation>
@@ -3113,6 +3363,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🕴🏾" type="tts">tangata ʻi vala tangata kakato ʻoku maʻanu: kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="🕴🏿">kili ʻuliʻuli | maʻanu | tangata | tangata ʻi vala tangata kakato ʻoku maʻanu | vala tangata kakato</annotation>
 		<annotation cp="🕴🏿" type="tts">tangata ʻi vala tangata kakato ʻoku maʻanu: kili ʻuliʻuli</annotation>
+		<annotation cp="👯🏻">kili hinehina | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="👯🏻" type="tts">tokoua telinga-lāpisi: kili hinehina</annotation>
+		<annotation cp="👯🏼">kili kelokelo | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="👯🏼" type="tts">tokoua telinga-lāpisi: kili kelokelo</annotation>
+		<annotation cp="👯🏽">kili melomelo | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="👯🏽" type="tts">tokoua telinga-lāpisi: kili melomelo</annotation>
+		<annotation cp="👯🏾">kili melomelo-ʻuliʻuli | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="👯🏾" type="tts">tokoua telinga-lāpisi: kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👯🏿">kili ʻuliʻuli | lāpisi | ongo | telinga | tokoua telinga-lāpisi</annotation>
+		<annotation cp="👯🏿" type="tts">tokoua telinga-lāpisi: kili ʻuliʻuli</annotation>
+		<annotation cp="👯🏻‍♀">fafine telinga-lāpisi | kili hinehina</annotation>
+		<annotation cp="👯🏻‍♀" type="tts">fafine telinga-lāpisi: kili hinehina</annotation>
+		<annotation cp="👯🏼‍♀">fafine telinga-lāpisi | kili kelokelo</annotation>
+		<annotation cp="👯🏼‍♀" type="tts">fafine telinga-lāpisi: kili kelokelo</annotation>
+		<annotation cp="👯🏽‍♀">fafine telinga-lāpisi | kili melomelo</annotation>
+		<annotation cp="👯🏽‍♀" type="tts">fafine telinga-lāpisi: kili melomelo</annotation>
+		<annotation cp="👯🏾‍♀">fafine telinga-lāpisi | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👯🏾‍♀" type="tts">fafine telinga-lāpisi: kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👯🏿‍♀">fafine telinga-lāpisi | kili ʻuliʻuli</annotation>
+		<annotation cp="👯🏿‍♀" type="tts">fafine telinga-lāpisi: kili ʻuliʻuli</annotation>
+		<annotation cp="👯🏻‍♂">kili hinehina | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👯🏻‍♂" type="tts">ongo tangata telinga-lāpisi: kili hinehina</annotation>
+		<annotation cp="👯🏼‍♂">kili kelokelo | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👯🏼‍♂" type="tts">ongo tangata telinga-lāpisi: kili kelokelo</annotation>
+		<annotation cp="👯🏽‍♂">kili melomelo | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👯🏽‍♂" type="tts">ongo tangata telinga-lāpisi: kili melomelo</annotation>
+		<annotation cp="👯🏾‍♂">kili melomelo-ʻuliʻuli | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👯🏾‍♂" type="tts">ongo tangata telinga-lāpisi: kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="👯🏿‍♂">kili ʻuliʻuli | ongo tangata telinga-lāpisi</annotation>
+		<annotation cp="👯🏿‍♂" type="tts">ongo tangata telinga-lāpisi: kili ʻuliʻuli</annotation>
 		<annotation cp="🧖🏻">kili hinehina | mao | tokotaha ʻi loki mao</annotation>
 		<annotation cp="🧖🏻" type="tts">tokotaha ʻi loki mao: kili hinehina</annotation>
 		<annotation cp="🧖🏼">kili kelokelo | mao | tokotaha ʻi loki mao</annotation>
@@ -3463,6 +3743,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤸🏾‍♀" type="tts">fefine tākisi: kili melomelo-ʻuliʻuli</annotation>
 		<annotation cp="🤸🏿‍♀">fefine tākisi | kili ʻuliʻuli</annotation>
 		<annotation cp="🤸🏿‍♀" type="tts">fefine tākisi: kili ʻuliʻuli</annotation>
+		<annotation cp="🤼🏻">fangatua | kakai fangatua | kili hinehina</annotation>
+		<annotation cp="🤼🏻" type="tts">kakai fangatua: kili hinehina</annotation>
+		<annotation cp="🤼🏼">fangatua | kakai fangatua | kili kelokelo</annotation>
+		<annotation cp="🤼🏼" type="tts">kakai fangatua: kili kelokelo</annotation>
+		<annotation cp="🤼🏽">fangatua | kakai fangatua | kili melomelo</annotation>
+		<annotation cp="🤼🏽" type="tts">kakai fangatua: kili melomelo</annotation>
+		<annotation cp="🤼🏾">fangatua | kakai fangatua | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🤼🏾" type="tts">kakai fangatua: kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🤼🏿">fangatua | kakai fangatua | kili ʻuliʻuli</annotation>
+		<annotation cp="🤼🏿" type="tts">kakai fangatua: kili ʻuliʻuli</annotation>
+		<annotation cp="🤼🏻‍♀">fafine fangatua | kili hinehina</annotation>
+		<annotation cp="🤼🏻‍♀" type="tts">fafine fangatua: kili hinehina</annotation>
+		<annotation cp="🤼🏼‍♀">fafine fangatua | kili kelokelo</annotation>
+		<annotation cp="🤼🏼‍♀" type="tts">fafine fangatua: kili kelokelo</annotation>
+		<annotation cp="🤼🏽‍♀">fafine fangatua | kili melomelo</annotation>
+		<annotation cp="🤼🏽‍♀" type="tts">fafine fangatua: kili melomelo</annotation>
+		<annotation cp="🤼🏾‍♀">fafine fangatua | kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🤼🏾‍♀" type="tts">fafine fangatua: kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🤼🏿‍♀">fafine fangatua | kili ʻuliʻuli</annotation>
+		<annotation cp="🤼🏿‍♀" type="tts">fafine fangatua: kili ʻuliʻuli</annotation>
+		<annotation cp="🤼🏻‍♂">kili hinehina | ongo tangata fangatua</annotation>
+		<annotation cp="🤼🏻‍♂" type="tts">ongo tangata fangatua: kili hinehina</annotation>
+		<annotation cp="🤼🏼‍♂">kili kelokelo | ongo tangata fangatua</annotation>
+		<annotation cp="🤼🏼‍♂" type="tts">ongo tangata fangatua: kili kelokelo</annotation>
+		<annotation cp="🤼🏽‍♂">kili melomelo | ongo tangata fangatua</annotation>
+		<annotation cp="🤼🏽‍♂" type="tts">ongo tangata fangatua: kili melomelo</annotation>
+		<annotation cp="🤼🏾‍♂">kili melomelo-ʻuliʻuli | ongo tangata fangatua</annotation>
+		<annotation cp="🤼🏾‍♂" type="tts">ongo tangata fangatua: kili melomelo-ʻuliʻuli</annotation>
+		<annotation cp="🤼🏿‍♂">kili ʻuliʻuli | ongo tangata fangatua</annotation>
+		<annotation cp="🤼🏿‍♂" type="tts">ongo tangata fangatua: kili ʻuliʻuli</annotation>
 		<annotation cp="🤽🏻">kili hinehina | polo | tokotaha polovai | vai</annotation>
 		<annotation cp="🤽🏻" type="tts">tokotaha polovai: kili hinehina</annotation>
 		<annotation cp="🤽🏼">kili kelokelo | polo | tokotaha polovai | vai</annotation>
@@ -4410,25 +4720,5 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🇿🇼">fuka</annotation>
 		<annotation cp="🇿🇼" type="tts">fuka: Simipapuei</annotation>
 		<annotation cp="¤" type="tts">Pa’anga Ta’e’ilo</annotation>
-		<annotation cp="0⃣">tatā foʻi kī</annotation>
-		<annotation cp="0⃣" type="tts">tatā foʻi kī: 0</annotation>
-		<annotation cp="1⃣">tatā foʻi kī</annotation>
-		<annotation cp="1⃣" type="tts">tatā foʻi kī: 1</annotation>
-		<annotation cp="2⃣">tatā foʻi kī</annotation>
-		<annotation cp="2⃣" type="tts">tatā foʻi kī: 2</annotation>
-		<annotation cp="3⃣">tatā foʻi kī</annotation>
-		<annotation cp="3⃣" type="tts">tatā foʻi kī: 3</annotation>
-		<annotation cp="4⃣">tatā foʻi kī</annotation>
-		<annotation cp="4⃣" type="tts">tatā foʻi kī: 4</annotation>
-		<annotation cp="5⃣">tatā foʻi kī</annotation>
-		<annotation cp="5⃣" type="tts">tatā foʻi kī: 5</annotation>
-		<annotation cp="6⃣">tatā foʻi kī</annotation>
-		<annotation cp="6⃣" type="tts">tatā foʻi kī: 6</annotation>
-		<annotation cp="7⃣">tatā foʻi kī</annotation>
-		<annotation cp="7⃣" type="tts">tatā foʻi kī: 7</annotation>
-		<annotation cp="8⃣">tatā foʻi kī</annotation>
-		<annotation cp="8⃣" type="tts">tatā foʻi kī: 8</annotation>
-		<annotation cp="9⃣">tatā foʻi kī</annotation>
-		<annotation cp="9⃣" type="tts">tatā foʻi kī: 9</annotation>
 	</annotations>
 </ldml>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -939,6 +939,12 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🐙" type="tts">igikoko cyo mumazi</annotation>
 		<annotation cp="🐚">Igikonoshwa</annotation>
 		<annotation cp="🐚" type="tts">igikonoshwa</annotation>
+		<annotation cp="🦀">kanseri | karabu | zodiyake</annotation>
+		<annotation cp="🦀" type="tts">karabu</annotation>
+		<annotation cp="🦐">gitoya | ibiribwa | igihore cyo mu mazi | igikonoshwa cy’ifi | kerevete</annotation>
+		<annotation cp="🦐" type="tts">kerevete</annotation>
+		<annotation cp="🦑">ibiribwa | ifi nyamahembe | ikinyamunjonjorerwa | sikwidi</annotation>
+		<annotation cp="🦑" type="tts">sikwidi</annotation>
 		<annotation cp="🐌">ikinyamunjonjorerwa</annotation>
 		<annotation cp="🐌" type="tts">ikinyamunjonjorerwa</annotation>
 		<annotation cp="🦋">agakoko | cyiza | ikinyugunyugu</annotation>
@@ -1141,12 +1147,6 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🥠" type="tts">igisuguti</annotation>
 		<annotation cp="🥡">agakarito batwaramo ibiryo | agakarito kajyamo ibifwera</annotation>
 		<annotation cp="🥡" type="tts">agakarito batwaramo ibiryo</annotation>
-		<annotation cp="🦀">kanseri | karabu | zodiyake</annotation>
-		<annotation cp="🦀" type="tts">karabu</annotation>
-		<annotation cp="🦐">gitoya | ibiribwa | igihore cyo mu mazi | igikonoshwa cy’ifi | kerevete</annotation>
-		<annotation cp="🦐" type="tts">kerevete</annotation>
-		<annotation cp="🦑">ibiribwa | ifi nyamahembe | ikinyamunjonjorerwa | sikwidi</annotation>
-		<annotation cp="🦑" type="tts">sikwidi</annotation>
 		<annotation cp="🍦">ayisikirimu yoroheje | balafu | deseri | iryoshye | ise sikirimu | kereme | yoroshye</annotation>
 		<annotation cp="🍦" type="tts">ayisikirimu yoroheje</annotation>
 		<annotation cp="🍧">balafue | deseri | iryoshye | itariho urufuro | urubura rusennye neza</annotation>
@@ -1849,12 +1849,12 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="📻" type="tts">radiyo</annotation>
 		<annotation cp="🎷">igikoresho | umuziki | umwirongi</annotation>
 		<annotation cp="🎷" type="tts">umwirongi</annotation>
+		<annotation cp="🎺">igikoresho | umuduri | umuziki</annotation>
+		<annotation cp="🎺" type="tts">umuduri</annotation>
 		<annotation cp="🎸">gitari | igikoresho | umuziki</annotation>
 		<annotation cp="🎸" type="tts">gitari</annotation>
 		<annotation cp="🎹">igikoresho | mwandikisho | piyano | sentetizeri | umuziki</annotation>
 		<annotation cp="🎹" type="tts">sentetizeri</annotation>
-		<annotation cp="🎺">igikoresho | umuduri | umuziki</annotation>
-		<annotation cp="🎺" type="tts">umuduri</annotation>
 		<annotation cp="🎻">igikoresho | inanga | umuziki</annotation>
 		<annotation cp="🎻" type="tts">inanga</annotation>
 		<annotation cp="🥁">imirishyo | ingoma | umuziki</annotation>

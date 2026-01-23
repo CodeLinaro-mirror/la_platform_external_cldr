@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -1073,6 +1073,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="fr972" draft="provisional">मार्टिनिक</subdivision>
 			<subdivision type="fr973" draft="provisional">फ्रेंच गयाना</subdivision>
 			<subdivision type="fr974" draft="provisional">रेयूनियों</subdivision>
+			<subdivision type="fr976" draft="provisional">मायोत</subdivision>
 			<subdivision type="frara" draft="provisional">ऑव्हेर्न्य-रोन-आल्प</subdivision>
 			<subdivision type="frbfc" draft="provisional">बूर्गान्य-फ्रांश-कोंते</subdivision>
 			<subdivision type="frbre" draft="provisional">ब्रत्तान्य</subdivision>
@@ -1111,7 +1112,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="gbdor" draft="provisional">डॉर्सेट</subdivision>
 			<subdivision type="gbdur" draft="provisional">ड्युरॅम</subdivision>
 			<subdivision type="gbedh" draft="provisional">एडिनबरा</subdivision>
-			<subdivision type="gbeng" draft="provisional">इंग्लंड</subdivision>
+			<subdivision type="gbeng">इंग्लंड</subdivision>
 			<subdivision type="gbery" draft="provisional">ईस्ट रायडिंग ऑफ यॉर्कशायर</subdivision>
 			<subdivision type="gbess" draft="provisional">एसेक्स</subdivision>
 			<subdivision type="gbesx" draft="provisional">ईस्ट ससेक्स</subdivision>
@@ -1152,7 +1153,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="gbpte" draft="provisional">पीटरबॉरो</subdivision>
 			<subdivision type="gbric" draft="provisional">रिचमंड अपॉन थेम्स</subdivision>
 			<subdivision type="gbrut" draft="provisional">रटलँड</subdivision>
-			<subdivision type="gbsct" draft="provisional">स्कॉटलंड</subdivision>
+			<subdivision type="gbsct">स्कॉटलंड</subdivision>
 			<subdivision type="gbsfk" draft="provisional">सफोक</subdivision>
 			<subdivision type="gbshf" draft="provisional">शेफील्ड</subdivision>
 			<subdivision type="gbshr" draft="provisional">श्रॉपशायर</subdivision>
@@ -1165,7 +1166,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="gbukm" draft="provisional">युनायटेड किंग्डम</subdivision>
 			<subdivision type="gbwar" draft="provisional">वॉरविकशायर</subdivision>
 			<subdivision type="gbwil" draft="provisional">विल्टशायर</subdivision>
-			<subdivision type="gbwls" draft="provisional">वेल्स</subdivision>
+			<subdivision type="gbwls">वेल्स</subdivision>
 			<subdivision type="gbwlv" draft="provisional">वोल्वरहॅम्प्टन</subdivision>
 			<subdivision type="gbwor" draft="provisional">वूस्टरशायर</subdivision>
 			<subdivision type="gbwsm" draft="provisional">सिटी ऑफ वेस्टमिन्स्टर</subdivision>
@@ -1845,7 +1846,6 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="kz71" draft="provisional">अस्ताना</subdivision>
 			<subdivision type="kz75" draft="provisional">अल्माटी²</subdivision>
 			<subdivision type="kz79" draft="provisional">शिमकेंत</subdivision>
-			<subdivision type="kzalm" draft="provisional">अल्माटी²</subdivision>
 			<subdivision type="kzbay" draft="provisional">बैकोनूर</subdivision>
 			<subdivision type="laat" draft="provisional">अटापु प्रांत</subdivision>
 			<subdivision type="labk" draft="provisional">बोको प्रांत</subdivision>
@@ -2304,6 +2304,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="mt23" draft="provisional">किर्कोप</subdivision>
 			<subdivision type="mt24" draft="provisional">लीजा</subdivision>
 			<subdivision type="mt25" draft="provisional">लुका</subdivision>
+			<subdivision type="mt26" draft="provisional">मार्सा</subdivision>
 			<subdivision type="mt27" draft="provisional">मार्सस्कॅला</subdivision>
 			<subdivision type="mt28" draft="provisional">मार्सक्सलोक</subdivision>
 			<subdivision type="mt29" draft="provisional">एमडीना</subdivision>

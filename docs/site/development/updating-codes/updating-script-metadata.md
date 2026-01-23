@@ -61,23 +61,28 @@ For example,
 		1. Copy the latest version of https://www.iana.org/assignments/language-subtag-registry/language-subtag-registry to {CLDR}/tools/cldr\-code/src/main/resources/org/unicode/cldr/util/data/language\-subtag\-registry
 		2. Consider copying only the new script subtags (and making a note near the top of the CLDR file, or lines like "Comments: Unicode 14 script manually added 2021\-06\-01") to avoid having to update other parts of CLDR.
 	8. Run GenerateValidityXML.java like this:
-		1. See [Update Validity XML](https://cldr.unicode.org/development/updating-codes/update-validity-xml)
+		1. See [Update Validity XML](/development/updating-codes/update-validity-xml)
 		2. This needs the previous version of CLDR in a sibling folder.
-			1. see [Creating the Archive](https://cldr.unicode.org/development/creating-the-archive) for details on running the CheckoutArchive tool
+			1. see [Creating the Archive](/development/creating-the-archive) for details on running the CheckoutArchive tool
 		3. Now run GenerateValidityXML.java
 		4. If this crashes with a NullPointerException trying to create a Validity object, check that ToolConstants.LAST\_RELEASE\_VERSION is set to the actual last release.
 			1. Currently, the CHART\_VERSION must be a simple integer, no ".1" suffix.
 	9. At least script.xml should show the new scripts. The generator overwrites the source data file; use ```git diff``` or ```git difftool``` to make sure the new scripts have been added.
-	10. Run GenerateMaximalLocales, [as described on the likelysubtags page](https://cldr.unicode.org/development/updating-codes/likelysubtags-and-default-content), which generates another two files.
-	11. Compare the latest git master files with the generated ones:  meld  common/supplemental  ../Generated/cldr/supplemental
-		1. Copy likelySubtags.xml and supplementalMetadata.xml to the latest git master if they have changes.
-	12. Compare generated files with previous versions for sanity check.
-	13. Run the CLDR unit tests.
+	10. Run GenerateLikelySubtags, [as described on the likelysubtags page](/development/updating-codes/likelysubtags-and-default-content), which generates another two files.
+	11. It modifies repo files directly. Compare generated files with previous versions for reasonable changes.
+	    1. Watch for new mappings changing ones tagged with `origin="sil1"` (beyond losing this tag).
+	       These might be over-eager inversions of script metadata script-to-language mappings
+	       becoming language-to-script mappings.
+	       Check with Lorna Evans and other sources for
+	       whether a new script should really become the default script for the language.
+	       If the SIL mapping should be preserved, or if we need a different mapping,
+	       then try to work with `GenerateLikelySubtags.MAX_ADDITIONS`.
+	12. Run the CLDR unit tests.
 		1. Project cldr\-core: Debug As \> Maven test
-	14. These tests have sometimes failed:
+	13. These tests have sometimes failed:
 		1. LikelySubtagsTest
 		2. TestInheritance
-		3. They may need special adjustments, for example in GenerateMaximalLocales.java adding an extra entry to its MAX\_ADDITIONS or LANGUAGE\_OVERRIDES.
+		3. They may need special adjustments, for example in GenerateLikelySubtags.java adding an extra entry to its `MAX_ADDITIONS` or `LANGUAGE_OVERRIDES`.
 4. Check in the updated files.
 
 Problems are typically because a non\-standard name is used for a territory name. That can be fixed and the process rerun.

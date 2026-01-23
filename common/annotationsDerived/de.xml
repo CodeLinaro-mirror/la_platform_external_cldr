@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -603,6 +603,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾" type="tts">Person: mitteldunkle Hautfarbe, blondes Haar</annotation>
 		<annotation cp="👱🏿">blond | blondes Haar | blondhaarig | dunkle Hautfarbe | Gesicht | Mensch | Person</annotation>
 		<annotation cp="👱🏿" type="tts">Person: dunkle Hautfarbe, blondes Haar</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼">Catchen | Catcher | helle Hautfarbe | mittelhelle Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼" type="tts">Ringer(in): helle Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽">Catchen | Catcher | helle Hautfarbe | mittlere Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽" type="tts">Ringer(in): helle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾">Catchen | Catcher | helle Hautfarbe | mitteldunkle Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾" type="tts">Ringer(in): helle Hautfarbe, mitteldunkle Hautfarbe</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿">Catchen | Catcher | dunkle Hautfarbe | helle Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿" type="tts">Ringer(in): helle Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻">Catchen | Catcher | helle Hautfarbe | mittelhelle Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻" type="tts">Ringer(in): mittelhelle Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽">Catchen | Catcher | mittelhelle Hautfarbe | mittlere Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽" type="tts">Ringer(in): mittelhelle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾">Catchen | Catcher | mitteldunkle Hautfarbe | mittelhelle Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾" type="tts">Ringer(in): mittelhelle Hautfarbe, mitteldunkle Hautfarbe</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿">Catchen | Catcher | dunkle Hautfarbe | mittelhelle Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿" type="tts">Ringer(in): mittelhelle Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻">Catchen | Catcher | helle Hautfarbe | mittlere Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻" type="tts">Ringer(in): mittlere Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼">Catchen | Catcher | mittelhelle Hautfarbe | mittlere Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼" type="tts">Ringer(in): mittlere Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾">Catchen | Catcher | mitteldunkle Hautfarbe | mittlere Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾" type="tts">Ringer(in): mittlere Hautfarbe, mitteldunkle Hautfarbe</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿">Catchen | Catcher | dunkle Hautfarbe | mittlere Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿" type="tts">Ringer(in): mittlere Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻">Catchen | Catcher | helle Hautfarbe | mitteldunkle Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻" type="tts">Ringer(in): mitteldunkle Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼">Catchen | Catcher | mitteldunkle Hautfarbe | mittelhelle Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼" type="tts">Ringer(in): mitteldunkle Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽">Catchen | Catcher | mitteldunkle Hautfarbe | mittlere Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽" type="tts">Ringer(in): mitteldunkle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿">Catchen | Catcher | dunkle Hautfarbe | mitteldunkle Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿" type="tts">Ringer(in): mitteldunkle Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻">Catchen | Catcher | dunkle Hautfarbe | helle Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻" type="tts">Ringer(in): dunkle Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼">Catchen | Catcher | dunkle Hautfarbe | mittelhelle Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼" type="tts">Ringer(in): dunkle Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽">Catchen | Catcher | dunkle Hautfarbe | mittlere Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽" type="tts">Ringer(in): dunkle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾">Catchen | Catcher | dunkle Hautfarbe | mitteldunkle Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾" type="tts">Ringer(in): dunkle Hautfarbe, mitteldunkle Hautfarbe</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼">Frau | helle Hautfarbe | Herz | Kuss | küssen | Küssendes Paar | Mann | mittelhelle Hautfarbe | Person | sich küssendes Paar</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼" type="tts">sich küssendes Paar: Person, Person, helle Hautfarbe und mittelhelle Hautfarbe</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏽">Frau | helle Hautfarbe | Herz | Kuss | küssen | Küssendes Paar | Mann | mittlere Hautfarbe | Person | sich küssendes Paar</annotation>
@@ -731,6 +771,56 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦲" type="tts">Person: mitteldunkle Hautfarbe, Glatze</annotation>
 		<annotation cp="🧑🏿‍🦲">dunkle Hautfarbe | erwachsen | erwachsene Person | Glatze | Mensch | Person</annotation>
 		<annotation cp="🧑🏿‍🦲" type="tts">Person: dunkle Hautfarbe, Glatze</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼">Bunny | Bunnys | doppelt | Hasenohren | helle Hautfarbe | Leute | mittelhelle Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼" type="tts">Personen mit Hasenohren: helle Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽">Bunny | Bunnys | doppelt | Hasenohren | helle Hautfarbe | Leute | mittlere Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽" type="tts">Personen mit Hasenohren: helle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾">Bunny | Bunnys | doppelt | Hasenohren | helle Hautfarbe | Leute | mitteldunkle Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾" type="tts">Personen mit Hasenohren: helle Hautfarbe, mitteldunkle Hautfarbe</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿">Bunny | Bunnys | doppelt | dunkle Hautfarbe | Hasenohren | helle Hautfarbe | Leute | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿" type="tts">Personen mit Hasenohren: helle Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻">Bunny | Bunnys | doppelt | Hasenohren | helle Hautfarbe | Leute | mittelhelle Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻" type="tts">Personen mit Hasenohren: mittelhelle Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽">Bunny | Bunnys | doppelt | Hasenohren | Leute | mittelhelle Hautfarbe | mittlere Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽" type="tts">Personen mit Hasenohren: mittelhelle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾">Bunny | Bunnys | doppelt | Hasenohren | Leute | mitteldunkle Hautfarbe | mittelhelle Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾" type="tts">Personen mit Hasenohren: mittelhelle Hautfarbe, mitteldunkle Hautfarbe</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿">Bunny | Bunnys | doppelt | dunkle Hautfarbe | Hasenohren | Leute | mittelhelle Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿" type="tts">Personen mit Hasenohren: mittelhelle Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻">Bunny | Bunnys | doppelt | Hasenohren | helle Hautfarbe | Leute | mittlere Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻" type="tts">Personen mit Hasenohren: mittlere Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼">Bunny | Bunnys | doppelt | Hasenohren | Leute | mittelhelle Hautfarbe | mittlere Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼" type="tts">Personen mit Hasenohren: mittlere Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾">Bunny | Bunnys | doppelt | Hasenohren | Leute | mitteldunkle Hautfarbe | mittlere Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾" type="tts">Personen mit Hasenohren: mittlere Hautfarbe, mitteldunkle Hautfarbe</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿">Bunny | Bunnys | doppelt | dunkle Hautfarbe | Hasenohren | Leute | mittlere Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿" type="tts">Personen mit Hasenohren: mittlere Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻">Bunny | Bunnys | doppelt | Hasenohren | helle Hautfarbe | Leute | mitteldunkle Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻" type="tts">Personen mit Hasenohren: mitteldunkle Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼">Bunny | Bunnys | doppelt | Hasenohren | Leute | mitteldunkle Hautfarbe | mittelhelle Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼" type="tts">Personen mit Hasenohren: mitteldunkle Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽">Bunny | Bunnys | doppelt | Hasenohren | Leute | mitteldunkle Hautfarbe | mittlere Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽" type="tts">Personen mit Hasenohren: mitteldunkle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿">Bunny | Bunnys | doppelt | dunkle Hautfarbe | Hasenohren | Leute | mitteldunkle Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿" type="tts">Personen mit Hasenohren: mitteldunkle Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻">Bunny | Bunnys | doppelt | dunkle Hautfarbe | Hasenohren | helle Hautfarbe | Leute | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻" type="tts">Personen mit Hasenohren: dunkle Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼">Bunny | Bunnys | doppelt | dunkle Hautfarbe | Hasenohren | Leute | mittelhelle Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼" type="tts">Personen mit Hasenohren: dunkle Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽">Bunny | Bunnys | doppelt | dunkle Hautfarbe | Hasenohren | Leute | mittlere Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽" type="tts">Personen mit Hasenohren: dunkle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾">Bunny | Bunnys | doppelt | dunkle Hautfarbe | Hasenohren | Leute | mitteldunkle Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾" type="tts">Personen mit Hasenohren: dunkle Hautfarbe, mitteldunkle Hautfarbe</annotation>
+		<annotation cp="🧑🏻‍🩰">Ballett | helle Hautfarbe | Tänzerin</annotation>
+		<annotation cp="🧑🏻‍🩰" type="tts">Balletttänzerin: helle Hautfarbe</annotation>
+		<annotation cp="🧑🏼‍🩰">Ballett | mittelhelle Hautfarbe | Tänzerin</annotation>
+		<annotation cp="🧑🏼‍🩰" type="tts">Balletttänzerin: mittelhelle Hautfarbe</annotation>
+		<annotation cp="🧑🏽‍🩰">Ballett | mittlere Hautfarbe | Tänzerin</annotation>
+		<annotation cp="🧑🏽‍🩰" type="tts">Balletttänzerin: mittlere Hautfarbe</annotation>
+		<annotation cp="🧑🏾‍🩰">Ballett | mitteldunkle Hautfarbe | Tänzerin</annotation>
+		<annotation cp="🧑🏾‍🩰" type="tts">Balletttänzerin: mitteldunkle Hautfarbe</annotation>
+		<annotation cp="🧑🏿‍🩰">Ballett | dunkle Hautfarbe | Tänzerin</annotation>
+		<annotation cp="🧑🏿‍🩰" type="tts">Balletttänzerin: dunkle Hautfarbe</annotation>
 		<annotation cp="👨🏻">erwachsen | Gesicht | helle Hautfarbe | Mann</annotation>
 		<annotation cp="👨🏻" type="tts">Mann: helle Hautfarbe</annotation>
 		<annotation cp="👨🏼">erwachsen | Gesicht | Mann | mittelhelle Hautfarbe</annotation>
@@ -771,6 +861,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♂" type="tts">Mann: mitteldunkle Hautfarbe, blond</annotation>
 		<annotation cp="👱🏿‍♂">blond | blonder Mann | dunkle Hautfarbe | Gesicht | Haar | Mann | Mann: blond</annotation>
 		<annotation cp="👱🏿‍♂" type="tts">Mann: dunkle Hautfarbe, blond</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼">Catchen | Catcher | helle Hautfarbe | Männer | mittelhelle Hautfarbe | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼" type="tts">ringende Männer: helle Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽">Catchen | Catcher | helle Hautfarbe | Männer | mittlere Hautfarbe | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽" type="tts">ringende Männer: helle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾">Catchen | Catcher | helle Hautfarbe | Männer | mitteldunkle Hautfarbe | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾" type="tts">ringende Männer: helle Hautfarbe, mitteldunkle Hautfarbe</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿">Catchen | Catcher | dunkle Hautfarbe | helle Hautfarbe | Männer | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿" type="tts">ringende Männer: helle Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻">Catchen | Catcher | helle Hautfarbe | Männer | mittelhelle Hautfarbe | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻" type="tts">ringende Männer: mittelhelle Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽">Catchen | Catcher | Männer | mittelhelle Hautfarbe | mittlere Hautfarbe | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽" type="tts">ringende Männer: mittelhelle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾">Catchen | Catcher | Männer | mitteldunkle Hautfarbe | mittelhelle Hautfarbe | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾" type="tts">ringende Männer: mittelhelle Hautfarbe, mitteldunkle Hautfarbe</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿">Catchen | Catcher | dunkle Hautfarbe | Männer | mittelhelle Hautfarbe | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿" type="tts">ringende Männer: mittelhelle Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻">Catchen | Catcher | helle Hautfarbe | Männer | mittlere Hautfarbe | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻" type="tts">ringende Männer: mittlere Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼">Catchen | Catcher | Männer | mittelhelle Hautfarbe | mittlere Hautfarbe | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼" type="tts">ringende Männer: mittlere Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾">Catchen | Catcher | Männer | mitteldunkle Hautfarbe | mittlere Hautfarbe | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾" type="tts">ringende Männer: mittlere Hautfarbe, mitteldunkle Hautfarbe</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿">Catchen | Catcher | dunkle Hautfarbe | Männer | mittlere Hautfarbe | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿" type="tts">ringende Männer: mittlere Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻">Catchen | Catcher | helle Hautfarbe | Männer | mitteldunkle Hautfarbe | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻" type="tts">ringende Männer: mitteldunkle Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼">Catchen | Catcher | Männer | mitteldunkle Hautfarbe | mittelhelle Hautfarbe | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼" type="tts">ringende Männer: mitteldunkle Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽">Catchen | Catcher | Männer | mitteldunkle Hautfarbe | mittlere Hautfarbe | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽" type="tts">ringende Männer: mitteldunkle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿">Catchen | Catcher | dunkle Hautfarbe | Männer | mitteldunkle Hautfarbe | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿" type="tts">ringende Männer: mitteldunkle Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻">Catchen | Catcher | dunkle Hautfarbe | helle Hautfarbe | Männer | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻" type="tts">ringende Männer: dunkle Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼">Catchen | Catcher | dunkle Hautfarbe | Männer | mittelhelle Hautfarbe | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼" type="tts">ringende Männer: dunkle Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽">Catchen | Catcher | dunkle Hautfarbe | Männer | mittlere Hautfarbe | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽" type="tts">ringende Männer: dunkle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾">Catchen | Catcher | dunkle Hautfarbe | Männer | mitteldunkle Hautfarbe | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾" type="tts">ringende Männer: dunkle Hautfarbe, mitteldunkle Hautfarbe</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻">Frau | helle Hautfarbe | Herz | Kuss | küssen | Küssendes Paar | Mann | sich küssendes Paar</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻" type="tts">sich küssendes Paar: Mann, Mann und helle Hautfarbe</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏼">Frau | helle Hautfarbe | Herz | Kuss | küssen | Küssendes Paar | Mann | mittelhelle Hautfarbe | sich küssendes Paar</annotation>
@@ -919,6 +1049,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦲" type="tts">Mann: mitteldunkle Hautfarbe, Glatze</annotation>
 		<annotation cp="👨🏿‍🦲">dunkle Hautfarbe | erwachsen | Gesicht | Glatze | Mann</annotation>
 		<annotation cp="👨🏿‍🦲" type="tts">Mann: dunkle Hautfarbe, Glatze</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼">Bunnys | Hasenohren | helle Hautfarbe | Männer | Männer mit Hasenohren | mittelhelle Hautfarbe | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼" type="tts">Männer mit Hasenohren: helle Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽">Bunnys | Hasenohren | helle Hautfarbe | Männer | Männer mit Hasenohren | mittlere Hautfarbe | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽" type="tts">Männer mit Hasenohren: helle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾">Bunnys | Hasenohren | helle Hautfarbe | Männer | Männer mit Hasenohren | mitteldunkle Hautfarbe | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾" type="tts">Männer mit Hasenohren: helle Hautfarbe, mitteldunkle Hautfarbe</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿">Bunnys | dunkle Hautfarbe | Hasenohren | helle Hautfarbe | Männer | Männer mit Hasenohren | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿" type="tts">Männer mit Hasenohren: helle Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻">Bunnys | Hasenohren | helle Hautfarbe | Männer | Männer mit Hasenohren | mittelhelle Hautfarbe | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻" type="tts">Männer mit Hasenohren: mittelhelle Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽">Bunnys | Hasenohren | Männer | Männer mit Hasenohren | mittelhelle Hautfarbe | mittlere Hautfarbe | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽" type="tts">Männer mit Hasenohren: mittelhelle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾">Bunnys | Hasenohren | Männer | Männer mit Hasenohren | mitteldunkle Hautfarbe | mittelhelle Hautfarbe | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾" type="tts">Männer mit Hasenohren: mittelhelle Hautfarbe, mitteldunkle Hautfarbe</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿">Bunnys | dunkle Hautfarbe | Hasenohren | Männer | Männer mit Hasenohren | mittelhelle Hautfarbe | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿" type="tts">Männer mit Hasenohren: mittelhelle Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻">Bunnys | Hasenohren | helle Hautfarbe | Männer | Männer mit Hasenohren | mittlere Hautfarbe | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻" type="tts">Männer mit Hasenohren: mittlere Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼">Bunnys | Hasenohren | Männer | Männer mit Hasenohren | mittelhelle Hautfarbe | mittlere Hautfarbe | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼" type="tts">Männer mit Hasenohren: mittlere Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾">Bunnys | Hasenohren | Männer | Männer mit Hasenohren | mitteldunkle Hautfarbe | mittlere Hautfarbe | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾" type="tts">Männer mit Hasenohren: mittlere Hautfarbe, mitteldunkle Hautfarbe</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿">Bunnys | dunkle Hautfarbe | Hasenohren | Männer | Männer mit Hasenohren | mittlere Hautfarbe | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿" type="tts">Männer mit Hasenohren: mittlere Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻">Bunnys | Hasenohren | helle Hautfarbe | Männer | Männer mit Hasenohren | mitteldunkle Hautfarbe | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻" type="tts">Männer mit Hasenohren: mitteldunkle Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼">Bunnys | Hasenohren | Männer | Männer mit Hasenohren | mitteldunkle Hautfarbe | mittelhelle Hautfarbe | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼" type="tts">Männer mit Hasenohren: mitteldunkle Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽">Bunnys | Hasenohren | Männer | Männer mit Hasenohren | mitteldunkle Hautfarbe | mittlere Hautfarbe | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽" type="tts">Männer mit Hasenohren: mitteldunkle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿">Bunnys | dunkle Hautfarbe | Hasenohren | Männer | Männer mit Hasenohren | mitteldunkle Hautfarbe | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿" type="tts">Männer mit Hasenohren: mitteldunkle Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻">Bunnys | dunkle Hautfarbe | Hasenohren | helle Hautfarbe | Männer | Männer mit Hasenohren | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻" type="tts">Männer mit Hasenohren: dunkle Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼">Bunnys | dunkle Hautfarbe | Hasenohren | Männer | Männer mit Hasenohren | mittelhelle Hautfarbe | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼" type="tts">Männer mit Hasenohren: dunkle Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽">Bunnys | dunkle Hautfarbe | Hasenohren | Männer | Männer mit Hasenohren | mittlere Hautfarbe | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽" type="tts">Männer mit Hasenohren: dunkle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾">Bunnys | dunkle Hautfarbe | Hasenohren | Männer | Männer mit Hasenohren | mitteldunkle Hautfarbe | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾" type="tts">Männer mit Hasenohren: dunkle Hautfarbe, mitteldunkle Hautfarbe</annotation>
 		<annotation cp="👩🏻">erwachsen | Frau | Gesicht | helle Hautfarbe</annotation>
 		<annotation cp="👩🏻" type="tts">Frau: helle Hautfarbe</annotation>
 		<annotation cp="👩🏼">erwachsen | Frau | Gesicht | mittelhelle Hautfarbe</annotation>
@@ -949,6 +1119,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♀" type="tts">Frau: mitteldunkle Hautfarbe, blond</annotation>
 		<annotation cp="👱🏿‍♀">blond | blonde Frau | dunkle Hautfarbe | Frau | Frau: blond | Gesicht | Haar</annotation>
 		<annotation cp="👱🏿‍♀" type="tts">Frau: dunkle Hautfarbe, blond</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼">catchen | Catcherin | helle Hautfarbe | mittelhelle Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼" type="tts">ringende Frauen: helle Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽">catchen | Catcherin | helle Hautfarbe | mittlere Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽" type="tts">ringende Frauen: helle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾">catchen | Catcherin | helle Hautfarbe | mitteldunkle Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾" type="tts">ringende Frauen: helle Hautfarbe, mitteldunkle Hautfarbe</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿">catchen | Catcherin | dunkle Hautfarbe | helle Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿" type="tts">ringende Frauen: helle Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻">catchen | Catcherin | helle Hautfarbe | mittelhelle Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻" type="tts">ringende Frauen: mittelhelle Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽">catchen | Catcherin | mittelhelle Hautfarbe | mittlere Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽" type="tts">ringende Frauen: mittelhelle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾">catchen | Catcherin | mitteldunkle Hautfarbe | mittelhelle Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾" type="tts">ringende Frauen: mittelhelle Hautfarbe, mitteldunkle Hautfarbe</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿">catchen | Catcherin | dunkle Hautfarbe | mittelhelle Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿" type="tts">ringende Frauen: mittelhelle Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻">catchen | Catcherin | helle Hautfarbe | mittlere Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻" type="tts">ringende Frauen: mittlere Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼">catchen | Catcherin | mittelhelle Hautfarbe | mittlere Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼" type="tts">ringende Frauen: mittlere Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾">catchen | Catcherin | mitteldunkle Hautfarbe | mittlere Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾" type="tts">ringende Frauen: mittlere Hautfarbe, mitteldunkle Hautfarbe</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿">catchen | Catcherin | dunkle Hautfarbe | mittlere Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿" type="tts">ringende Frauen: mittlere Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻">catchen | Catcherin | helle Hautfarbe | mitteldunkle Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻" type="tts">ringende Frauen: mitteldunkle Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼">catchen | Catcherin | mitteldunkle Hautfarbe | mittelhelle Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼" type="tts">ringende Frauen: mitteldunkle Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽">catchen | Catcherin | mitteldunkle Hautfarbe | mittlere Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽" type="tts">ringende Frauen: mitteldunkle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿">catchen | Catcherin | dunkle Hautfarbe | mitteldunkle Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿" type="tts">ringende Frauen: mitteldunkle Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻">catchen | Catcherin | dunkle Hautfarbe | helle Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻" type="tts">ringende Frauen: dunkle Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼">catchen | Catcherin | dunkle Hautfarbe | mittelhelle Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼" type="tts">ringende Frauen: dunkle Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽">catchen | Catcherin | dunkle Hautfarbe | mittlere Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽" type="tts">ringende Frauen: dunkle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾">catchen | Catcherin | dunkle Hautfarbe | mitteldunkle Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾" type="tts">ringende Frauen: dunkle Hautfarbe, mitteldunkle Hautfarbe</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻">Frau | helle Hautfarbe | Herz | Kuss | küssen | Küssendes Paar | Mann | sich küssendes Paar</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻" type="tts">sich küssendes Paar: Frau, Mann und helle Hautfarbe</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏼">Frau | helle Hautfarbe | Herz | Kuss | küssen | Küssendes Paar | Mann | mittelhelle Hautfarbe | sich küssendes Paar</annotation>
@@ -1197,6 +1407,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦲" type="tts">Frau: mitteldunkle Hautfarbe, Glatze</annotation>
 		<annotation cp="👩🏿‍🦲">dunkle Hautfarbe | erwachsen | Frau | Gesicht | Glatze</annotation>
 		<annotation cp="👩🏿‍🦲" type="tts">Frau: dunkle Hautfarbe, Glatze</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼">Bunnys | Frauen | Frauen mit Hasenohren | Hasenohren | helle Hautfarbe | mittelhelle Hautfarbe | Party</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼" type="tts">Frauen mit Hasenohren: helle Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽">Bunnys | Frauen | Frauen mit Hasenohren | Hasenohren | helle Hautfarbe | mittlere Hautfarbe | Party</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽" type="tts">Frauen mit Hasenohren: helle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾">Bunnys | Frauen | Frauen mit Hasenohren | Hasenohren | helle Hautfarbe | mitteldunkle Hautfarbe | Party</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾" type="tts">Frauen mit Hasenohren: helle Hautfarbe, mitteldunkle Hautfarbe</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿">Bunnys | dunkle Hautfarbe | Frauen | Frauen mit Hasenohren | Hasenohren | helle Hautfarbe | Party</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿" type="tts">Frauen mit Hasenohren: helle Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻">Bunnys | Frauen | Frauen mit Hasenohren | Hasenohren | helle Hautfarbe | mittelhelle Hautfarbe | Party</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻" type="tts">Frauen mit Hasenohren: mittelhelle Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽">Bunnys | Frauen | Frauen mit Hasenohren | Hasenohren | mittelhelle Hautfarbe | mittlere Hautfarbe | Party</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽" type="tts">Frauen mit Hasenohren: mittelhelle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾">Bunnys | Frauen | Frauen mit Hasenohren | Hasenohren | mitteldunkle Hautfarbe | mittelhelle Hautfarbe | Party</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾" type="tts">Frauen mit Hasenohren: mittelhelle Hautfarbe, mitteldunkle Hautfarbe</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿">Bunnys | dunkle Hautfarbe | Frauen | Frauen mit Hasenohren | Hasenohren | mittelhelle Hautfarbe | Party</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿" type="tts">Frauen mit Hasenohren: mittelhelle Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻">Bunnys | Frauen | Frauen mit Hasenohren | Hasenohren | helle Hautfarbe | mittlere Hautfarbe | Party</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻" type="tts">Frauen mit Hasenohren: mittlere Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼">Bunnys | Frauen | Frauen mit Hasenohren | Hasenohren | mittelhelle Hautfarbe | mittlere Hautfarbe | Party</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼" type="tts">Frauen mit Hasenohren: mittlere Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾">Bunnys | Frauen | Frauen mit Hasenohren | Hasenohren | mitteldunkle Hautfarbe | mittlere Hautfarbe | Party</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾" type="tts">Frauen mit Hasenohren: mittlere Hautfarbe, mitteldunkle Hautfarbe</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿">Bunnys | dunkle Hautfarbe | Frauen | Frauen mit Hasenohren | Hasenohren | mittlere Hautfarbe | Party</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿" type="tts">Frauen mit Hasenohren: mittlere Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻">Bunnys | Frauen | Frauen mit Hasenohren | Hasenohren | helle Hautfarbe | mitteldunkle Hautfarbe | Party</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻" type="tts">Frauen mit Hasenohren: mitteldunkle Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼">Bunnys | Frauen | Frauen mit Hasenohren | Hasenohren | mitteldunkle Hautfarbe | mittelhelle Hautfarbe | Party</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼" type="tts">Frauen mit Hasenohren: mitteldunkle Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽">Bunnys | Frauen | Frauen mit Hasenohren | Hasenohren | mitteldunkle Hautfarbe | mittlere Hautfarbe | Party</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽" type="tts">Frauen mit Hasenohren: mitteldunkle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿">Bunnys | dunkle Hautfarbe | Frauen | Frauen mit Hasenohren | Hasenohren | mitteldunkle Hautfarbe | Party</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿" type="tts">Frauen mit Hasenohren: mitteldunkle Hautfarbe, dunkle Hautfarbe</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻">Bunnys | dunkle Hautfarbe | Frauen | Frauen mit Hasenohren | Hasenohren | helle Hautfarbe | Party</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻" type="tts">Frauen mit Hasenohren: dunkle Hautfarbe, helle Hautfarbe</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼">Bunnys | dunkle Hautfarbe | Frauen | Frauen mit Hasenohren | Hasenohren | mittelhelle Hautfarbe | Party</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼" type="tts">Frauen mit Hasenohren: dunkle Hautfarbe, mittelhelle Hautfarbe</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽">Bunnys | dunkle Hautfarbe | Frauen | Frauen mit Hasenohren | Hasenohren | mittlere Hautfarbe | Party</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽" type="tts">Frauen mit Hasenohren: dunkle Hautfarbe, mittlere Hautfarbe</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾">Bunnys | dunkle Hautfarbe | Frauen | Frauen mit Hasenohren | Hasenohren | mitteldunkle Hautfarbe | Party</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾" type="tts">Frauen mit Hasenohren: dunkle Hautfarbe, mitteldunkle Hautfarbe</annotation>
 		<annotation cp="🧓🏻">alt | älter | erwachsen | Großeltern | helle Hautfarbe | Mensch | Person | weise</annotation>
 		<annotation cp="🧓🏻" type="tts">ältere Person: helle Hautfarbe</annotation>
 		<annotation cp="🧓🏼">alt | älter | erwachsen | Großeltern | Mensch | mittelhelle Hautfarbe | Person | weise</annotation>
@@ -2327,25 +2577,25 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🍼" type="tts">Frau, die Baby die Flasche gibt: mitteldunkle Hautfarbe</annotation>
 		<annotation cp="👩🏿‍🍼">Baby | dunkle Hautfarbe | Eltern | Flasche geben | Flasche gebende Frau | Frau | füttern | Mama | Milch | Mutter | Neugeborenes | Person | Säugling</annotation>
 		<annotation cp="👩🏿‍🍼" type="tts">Frau, die Baby die Flasche gibt: dunkle Hautfarbe</annotation>
-		<annotation cp="👨🏻‍🍼">Baby | der Baby die Flasche gibt | Eltern | Flasche geben | Flasche gebender Mann | füttern | helle Hautfarbe | Kind | Mann | Mann, der Baby die Flasche gibt | männlich | Milch | Neugeborenes | Papa | Person | Säugling | Vater</annotation>
+		<annotation cp="👨🏻‍🍼">Baby | Flasche geben | Flasche gebender Mann | füttern | helle Hautfarbe | Mann</annotation>
 		<annotation cp="👨🏻‍🍼" type="tts">Mann, der Baby die Flasche gibt: helle Hautfarbe</annotation>
-		<annotation cp="👨🏼‍🍼">Baby | der Baby die Flasche gibt | Eltern | Flasche geben | Flasche gebender Mann | füttern | Kind | Mann | Mann, der Baby die Flasche gibt | männlich | Milch | mittelhelle Hautfarbe | Neugeborenes | Papa | Person | Säugling | Vater</annotation>
+		<annotation cp="👨🏼‍🍼">Baby | Flasche geben | Flasche gebender Mann | füttern | Mann | mittelhelle Hautfarbe</annotation>
 		<annotation cp="👨🏼‍🍼" type="tts">Mann, der Baby die Flasche gibt: mittelhelle Hautfarbe</annotation>
-		<annotation cp="👨🏽‍🍼">Baby | der Baby die Flasche gibt | Eltern | Flasche geben | Flasche gebender Mann | füttern | Kind | Mann | Mann, der Baby die Flasche gibt | männlich | Milch | mittlere Hautfarbe | Neugeborenes | Papa | Person | Säugling | Vater</annotation>
+		<annotation cp="👨🏽‍🍼">Baby | Flasche geben | Flasche gebender Mann | füttern | Mann | mittlere Hautfarbe</annotation>
 		<annotation cp="👨🏽‍🍼" type="tts">Mann, der Baby die Flasche gibt: mittlere Hautfarbe</annotation>
-		<annotation cp="👨🏾‍🍼">Baby | der Baby die Flasche gibt | Eltern | Flasche geben | Flasche gebender Mann | füttern | Kind | Mann | Mann, der Baby die Flasche gibt | männlich | Milch | mitteldunkle Hautfarbe | Neugeborenes | Papa | Person | Säugling | Vater</annotation>
+		<annotation cp="👨🏾‍🍼">Baby | Flasche geben | Flasche gebender Mann | füttern | Mann | mitteldunkle Hautfarbe</annotation>
 		<annotation cp="👨🏾‍🍼" type="tts">Mann, der Baby die Flasche gibt: mitteldunkle Hautfarbe</annotation>
-		<annotation cp="👨🏿‍🍼">Baby | der Baby die Flasche gibt | dunkle Hautfarbe | Eltern | Flasche geben | Flasche gebender Mann | füttern | Kind | Mann | Mann, der Baby die Flasche gibt | männlich | Milch | Neugeborenes | Papa | Person | Säugling | Vater</annotation>
+		<annotation cp="👨🏿‍🍼">Baby | dunkle Hautfarbe | Flasche geben | Flasche gebender Mann | füttern | Mann</annotation>
 		<annotation cp="👨🏿‍🍼" type="tts">Mann, der Baby die Flasche gibt: dunkle Hautfarbe</annotation>
-		<annotation cp="🧑🏻‍🍼">Baby | die Baby die Flasche gibt | Flasche geben | Flasche gebende Person | Frau | füttern | helle Hautfarbe | Mama | Mann | Neugeborenes | Papa | Person | Person, die Baby die Flasche gibt | Säugling | Vater</annotation>
+		<annotation cp="🧑🏻‍🍼">Baby | Flasche geben | Flasche gebende Person | helle Hautfarbe | Person</annotation>
 		<annotation cp="🧑🏻‍🍼" type="tts">Person, die Baby die Flasche gibt: helle Hautfarbe</annotation>
-		<annotation cp="🧑🏼‍🍼">Baby | die Baby die Flasche gibt | Flasche geben | Flasche gebende Person | Frau | füttern | Mama | Mann | mittelhelle Hautfarbe | Neugeborenes | Papa | Person | Person, die Baby die Flasche gibt | Säugling | Vater</annotation>
+		<annotation cp="🧑🏼‍🍼">Baby | Flasche geben | Flasche gebende Person | mittelhelle Hautfarbe | Person</annotation>
 		<annotation cp="🧑🏼‍🍼" type="tts">Person, die Baby die Flasche gibt: mittelhelle Hautfarbe</annotation>
-		<annotation cp="🧑🏽‍🍼">Baby | die Baby die Flasche gibt | Flasche geben | Flasche gebende Person | Frau | füttern | Mama | Mann | mittlere Hautfarbe | Neugeborenes | Papa | Person | Person, die Baby die Flasche gibt | Säugling | Vater</annotation>
+		<annotation cp="🧑🏽‍🍼">Baby | Flasche geben | Flasche gebende Person | mittlere Hautfarbe | Person</annotation>
 		<annotation cp="🧑🏽‍🍼" type="tts">Person, die Baby die Flasche gibt: mittlere Hautfarbe</annotation>
-		<annotation cp="🧑🏾‍🍼">Baby | die Baby die Flasche gibt | Flasche geben | Flasche gebende Person | Frau | füttern | Mama | Mann | mitteldunkle Hautfarbe | Neugeborenes | Papa | Person | Person, die Baby die Flasche gibt | Säugling | Vater</annotation>
+		<annotation cp="🧑🏾‍🍼">Baby | Flasche geben | Flasche gebende Person | mitteldunkle Hautfarbe | Person</annotation>
 		<annotation cp="🧑🏾‍🍼" type="tts">Person, die Baby die Flasche gibt: mitteldunkle Hautfarbe</annotation>
-		<annotation cp="🧑🏿‍🍼">Baby | die Baby die Flasche gibt | dunkle Hautfarbe | Flasche geben | Flasche gebende Person | Frau | füttern | Mama | Mann | Neugeborenes | Papa | Person | Person, die Baby die Flasche gibt | Säugling | Vater</annotation>
+		<annotation cp="🧑🏿‍🍼">Baby | dunkle Hautfarbe | Flasche geben | Flasche gebende Person | Person</annotation>
 		<annotation cp="🧑🏿‍🍼" type="tts">Person, die Baby die Flasche gibt: dunkle Hautfarbe</annotation>
 		<annotation cp="👼🏻">Engel | Gesicht | helle Hautfarbe | Kind | Märchen | Putte</annotation>
 		<annotation cp="👼🏻" type="tts">Putte: helle Hautfarbe</annotation>
@@ -2617,15 +2867,15 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="💆🏾‍♂" type="tts">Mann, der eine Kopfmassage bekommt: mitteldunkle Hautfarbe</annotation>
 		<annotation cp="💆🏿‍♂">der eine Kopfmassage bekommt | dunkle Hautfarbe | entspannen | Kopfmassage | Kopfschmerzen | Mann | Mann, der eine Kopfmassage bekommt | Massage | Salon</annotation>
 		<annotation cp="💆🏿‍♂" type="tts">Mann, der eine Kopfmassage bekommt: dunkle Hautfarbe</annotation>
-		<annotation cp="💆🏻‍♀">die eine Kopfmassage bekommt | Frau | Frau, die eine Kopfmassage bekommt | helle Hautfarbe | Kopfmassage</annotation>
+		<annotation cp="💆🏻‍♀">Behandlung | entspannen | entspannend | Frau | Gesicht | helle Hautfarbe | Kopf | Kopfmassage | Kopfschmerzen | Kopfweh | lindern | Massage | relaxen | Salon | Spa | Therapie | Verspannung</annotation>
 		<annotation cp="💆🏻‍♀" type="tts">Frau, die eine Kopfmassage bekommt: helle Hautfarbe</annotation>
-		<annotation cp="💆🏼‍♀">die eine Kopfmassage bekommt | Frau | Frau, die eine Kopfmassage bekommt | Kopfmassage | mittelhelle Hautfarbe</annotation>
+		<annotation cp="💆🏼‍♀">Behandlung | entspannen | entspannend | Frau | Gesicht | Kopf | Kopfmassage | Kopfschmerzen | Kopfweh | lindern | Massage | mittelhelle Hautfarbe | relaxen | Salon | Spa | Therapie | Verspannung</annotation>
 		<annotation cp="💆🏼‍♀" type="tts">Frau, die eine Kopfmassage bekommt: mittelhelle Hautfarbe</annotation>
-		<annotation cp="💆🏽‍♀">die eine Kopfmassage bekommt | Frau | Frau, die eine Kopfmassage bekommt | Kopfmassage | mittlere Hautfarbe</annotation>
+		<annotation cp="💆🏽‍♀">Behandlung | entspannen | entspannend | Frau | Gesicht | Kopf | Kopfmassage | Kopfschmerzen | Kopfweh | lindern | Massage | mittlere Hautfarbe | relaxen | Salon | Spa | Therapie | Verspannung</annotation>
 		<annotation cp="💆🏽‍♀" type="tts">Frau, die eine Kopfmassage bekommt: mittlere Hautfarbe</annotation>
-		<annotation cp="💆🏾‍♀">die eine Kopfmassage bekommt | Frau | Frau, die eine Kopfmassage bekommt | Kopfmassage | mitteldunkle Hautfarbe</annotation>
+		<annotation cp="💆🏾‍♀">Behandlung | entspannen | entspannend | Frau | Gesicht | Kopf | Kopfmassage | Kopfschmerzen | Kopfweh | lindern | Massage | mitteldunkle Hautfarbe | relaxen | Salon | Spa | Therapie | Verspannung</annotation>
 		<annotation cp="💆🏾‍♀" type="tts">Frau, die eine Kopfmassage bekommt: mitteldunkle Hautfarbe</annotation>
-		<annotation cp="💆🏿‍♀">die eine Kopfmassage bekommt | dunkle Hautfarbe | Frau | Frau, die eine Kopfmassage bekommt | Kopfmassage</annotation>
+		<annotation cp="💆🏿‍♀">Behandlung | dunkle Hautfarbe | entspannen | entspannend | Frau | Gesicht | Kopf | Kopfmassage | Kopfschmerzen | Kopfweh | lindern | Massage | relaxen | Salon | Spa | Therapie | Verspannung</annotation>
 		<annotation cp="💆🏿‍♀" type="tts">Frau, die eine Kopfmassage bekommt: dunkle Hautfarbe</annotation>
 		<annotation cp="💇🏻">Friseur | Friseurin | Friseuse | Frisör | Frisörin | Frisur | Haare | Haarschnitt | helle Hautfarbe | Person | Person beim Haareschneiden | Schere</annotation>
 		<annotation cp="💇🏻" type="tts">Person beim Haareschneiden: helle Hautfarbe</annotation>
@@ -2687,42 +2937,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🚶🏾‍♀" type="tts">Fußgängerin: mitteldunkle Hautfarbe</annotation>
 		<annotation cp="🚶🏿‍♀">dunkle Hautfarbe | Frau | Fußgängerin | gehen | Gehen | Schlendern | Spazieren | Spaziergang</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">Fußgängerin: dunkle Hautfarbe</annotation>
-		<annotation cp="🚶‍➡">Fußgänger | Fußgänger(in) | Fußgängerin | gehen | gehend | Person | schlendern | schlurfen | wandern</annotation>
-		<annotation cp="🚶‍➡" type="tts">Fußgänger(in) nach rechts</annotation>
-		<annotation cp="🚶🏻‍➡">Fußgänger | Fußgänger(in) | Fußgängerin | gehen | gehend | Person | schlendern | schlurfen | wandern</annotation>
-		<annotation cp="🚶🏻‍➡" type="tts">Fußgänger(in) nach rechts</annotation>
-		<annotation cp="🚶🏼‍➡">Fußgänger | Fußgänger(in) | Fußgängerin | gehen | gehend | Person | schlendern | schlurfen | wandern</annotation>
-		<annotation cp="🚶🏼‍➡" type="tts">Fußgänger(in) nach rechts</annotation>
-		<annotation cp="🚶🏽‍➡">Fußgänger | Fußgänger(in) | Fußgängerin | gehen | gehend | Person | schlendern | schlurfen | wandern</annotation>
-		<annotation cp="🚶🏽‍➡" type="tts">Fußgänger(in) nach rechts</annotation>
-		<annotation cp="🚶🏾‍➡">Fußgänger | Fußgänger(in) | Fußgängerin | gehen | gehend | Person | schlendern | schlurfen | wandern</annotation>
-		<annotation cp="🚶🏾‍➡" type="tts">Fußgänger(in) nach rechts</annotation>
-		<annotation cp="🚶🏿‍➡">Fußgänger | Fußgänger(in) | Fußgängerin | gehen | gehend | Person | schlendern | schlurfen | wandern</annotation>
-		<annotation cp="🚶🏿‍➡" type="tts">Fußgänger(in) nach rechts</annotation>
-		<annotation cp="🚶‍♀‍➡">Frau | Fußgängerin | gehen | Gehen | Schlendern | Spazieren | Spaziergang</annotation>
-		<annotation cp="🚶‍♀‍➡" type="tts">Fußgängerin nach rechts</annotation>
-		<annotation cp="🚶🏻‍♀‍➡">Frau | Fußgängerin | gehen | Gehen | Schlendern | Spazieren | Spaziergang</annotation>
-		<annotation cp="🚶🏻‍♀‍➡" type="tts">Fußgängerin nach rechts</annotation>
-		<annotation cp="🚶🏼‍♀‍➡">Frau | Fußgängerin | gehen | Gehen | Schlendern | Spazieren | Spaziergang</annotation>
-		<annotation cp="🚶🏼‍♀‍➡" type="tts">Fußgängerin nach rechts</annotation>
-		<annotation cp="🚶🏽‍♀‍➡">Frau | Fußgängerin | gehen | Gehen | Schlendern | Spazieren | Spaziergang</annotation>
-		<annotation cp="🚶🏽‍♀‍➡" type="tts">Fußgängerin nach rechts</annotation>
-		<annotation cp="🚶🏾‍♀‍➡">Frau | Fußgängerin | gehen | Gehen | Schlendern | Spazieren | Spaziergang</annotation>
-		<annotation cp="🚶🏾‍♀‍➡" type="tts">Fußgängerin nach rechts</annotation>
-		<annotation cp="🚶🏿‍♀‍➡">Frau | Fußgängerin | gehen | Gehen | Schlendern | Spazieren | Spaziergang</annotation>
-		<annotation cp="🚶🏿‍♀‍➡" type="tts">Fußgängerin nach rechts</annotation>
-		<annotation cp="🚶‍♂‍➡">Fußgänger | gehen | Mann | Spaziergang</annotation>
-		<annotation cp="🚶‍♂‍➡" type="tts">Fußgänger nach rechts</annotation>
-		<annotation cp="🚶🏻‍♂‍➡">Fußgänger | gehen | Mann | Spaziergang</annotation>
-		<annotation cp="🚶🏻‍♂‍➡" type="tts">Fußgänger nach rechts</annotation>
-		<annotation cp="🚶🏼‍♂‍➡">Fußgänger | gehen | Mann | Spaziergang</annotation>
-		<annotation cp="🚶🏼‍♂‍➡" type="tts">Fußgänger nach rechts</annotation>
-		<annotation cp="🚶🏽‍♂‍➡">Fußgänger | gehen | Mann | Spaziergang</annotation>
-		<annotation cp="🚶🏽‍♂‍➡" type="tts">Fußgänger nach rechts</annotation>
-		<annotation cp="🚶🏾‍♂‍➡">Fußgänger | gehen | Mann | Spaziergang</annotation>
-		<annotation cp="🚶🏾‍♂‍➡" type="tts">Fußgänger nach rechts</annotation>
-		<annotation cp="🚶🏿‍♂‍➡">Fußgänger | gehen | Mann | Spaziergang</annotation>
-		<annotation cp="🚶🏿‍♂‍➡" type="tts">Fußgänger nach rechts</annotation>
+		<annotation cp="🚶‍➡">Fußgänger | Fußgänger(in) | Fußgängerin | gehen | gehend | nach | Person | rechts | schlendern | schlurfen | wandern</annotation>
+		<annotation cp="🚶‍➡" type="tts">Fußgänger(in): nach rechts</annotation>
+		<annotation cp="🚶🏻‍➡">Fußgänger | Fußgänger(in) | Fußgängerin | gehen | gehend | helle Hautfarbe | nach | Person | rechts | schlendern | schlurfen | wandern</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">Fußgänger(in): helle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏼‍➡">Fußgänger | Fußgänger(in) | Fußgängerin | gehen | gehend | mittelhelle Hautfarbe | nach | Person | rechts | schlendern | schlurfen | wandern</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">Fußgänger(in): mittelhelle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏽‍➡">Fußgänger | Fußgänger(in) | Fußgängerin | gehen | gehend | mittlere Hautfarbe | nach | Person | rechts | schlendern | schlurfen | wandern</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">Fußgänger(in): mittlere Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏾‍➡">Fußgänger | Fußgänger(in) | Fußgängerin | gehen | gehend | mitteldunkle Hautfarbe | nach | Person | rechts | schlendern | schlurfen | wandern</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">Fußgänger(in): mitteldunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏿‍➡">dunkle Hautfarbe | Fußgänger | Fußgänger(in) | Fußgängerin | gehen | gehend | nach | Person | rechts | schlendern | schlurfen | wandern</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">Fußgänger(in): dunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶‍♀‍➡">Frau | Fußgängerin | gehen | Gehen | nach | rechts | Schlendern | Spazieren | Spaziergang</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">Fußgängerin: nach rechts</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">Frau | Fußgängerin | gehen | Gehen | helle Hautfarbe | nach | rechts | Schlendern | Spazieren | Spaziergang</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">Fußgängerin: helle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">Frau | Fußgängerin | gehen | Gehen | mittelhelle Hautfarbe | nach | rechts | Schlendern | Spazieren | Spaziergang</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">Fußgängerin: mittelhelle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">Frau | Fußgängerin | gehen | Gehen | mittlere Hautfarbe | nach | rechts | Schlendern | Spazieren | Spaziergang</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">Fußgängerin: mittlere Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">Frau | Fußgängerin | gehen | Gehen | mitteldunkle Hautfarbe | nach | rechts | Schlendern | Spazieren | Spaziergang</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">Fußgängerin: mitteldunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">dunkle Hautfarbe | Frau | Fußgängerin | gehen | Gehen | nach | rechts | Schlendern | Spazieren | Spaziergang</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">Fußgängerin: dunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶‍♂‍➡">Fußgänger | gehen | Mann | nach | rechts | Spaziergang</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">Fußgänger: nach rechts</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">Fußgänger | gehen | helle Hautfarbe | Mann | nach | rechts | Spaziergang</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">Fußgänger: helle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">Fußgänger | gehen | Mann | mittelhelle Hautfarbe | nach | rechts | Spaziergang</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">Fußgänger: mittelhelle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">Fußgänger | gehen | Mann | mittlere Hautfarbe | nach | rechts | Spaziergang</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">Fußgänger: mittlere Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">Fußgänger | gehen | Mann | mitteldunkle Hautfarbe | nach | rechts | Spaziergang</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">Fußgänger: mitteldunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">dunkle Hautfarbe | Fußgänger | gehen | Mann | nach | rechts | Spaziergang</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">Fußgänger: dunkle Hautfarbe, nach rechts</annotation>
 		<annotation cp="🧍🏻">helle Hautfarbe | Mensch | Person | Stand | stehen | stehende Person</annotation>
 		<annotation cp="🧍🏻" type="tts">stehende Person: helle Hautfarbe</annotation>
 		<annotation cp="🧍🏼">Mensch | mittelhelle Hautfarbe | Person | Stand | stehen | stehende Person</annotation>
@@ -2783,42 +3033,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧎🏾‍♀" type="tts">kniende Frau: mitteldunkle Hautfarbe</annotation>
 		<annotation cp="🧎🏿‍♀">dunkle Hautfarbe | Frau | kniend | kniende Frau</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">kniende Frau: dunkle Hautfarbe</annotation>
-		<annotation cp="🧎‍➡">Fersensitz | knien | kniend | kniende Person | Meditation | meditieren | Mensch | Person | Seiza | Zazen</annotation>
-		<annotation cp="🧎‍➡" type="tts">kniende Person nach rechts</annotation>
-		<annotation cp="🧎🏻‍➡">Fersensitz | knien | kniend | kniende Person | Meditation | meditieren | Mensch | Person | Seiza | Zazen</annotation>
-		<annotation cp="🧎🏻‍➡" type="tts">kniende Person nach rechts</annotation>
-		<annotation cp="🧎🏼‍➡">Fersensitz | knien | kniend | kniende Person | Meditation | meditieren | Mensch | Person | Seiza | Zazen</annotation>
-		<annotation cp="🧎🏼‍➡" type="tts">kniende Person nach rechts</annotation>
-		<annotation cp="🧎🏽‍➡">Fersensitz | knien | kniend | kniende Person | Meditation | meditieren | Mensch | Person | Seiza | Zazen</annotation>
-		<annotation cp="🧎🏽‍➡" type="tts">kniende Person nach rechts</annotation>
-		<annotation cp="🧎🏾‍➡">Fersensitz | knien | kniend | kniende Person | Meditation | meditieren | Mensch | Person | Seiza | Zazen</annotation>
-		<annotation cp="🧎🏾‍➡" type="tts">kniende Person nach rechts</annotation>
-		<annotation cp="🧎🏿‍➡">Fersensitz | knien | kniend | kniende Person | Meditation | meditieren | Mensch | Person | Seiza | Zazen</annotation>
-		<annotation cp="🧎🏿‍➡" type="tts">kniende Person nach rechts</annotation>
-		<annotation cp="🧎‍♀‍➡">Frau | kniend | kniende Frau</annotation>
-		<annotation cp="🧎‍♀‍➡" type="tts">kniende Frau nach rechts</annotation>
-		<annotation cp="🧎🏻‍♀‍➡">Frau | kniend | kniende Frau</annotation>
-		<annotation cp="🧎🏻‍♀‍➡" type="tts">kniende Frau nach rechts</annotation>
-		<annotation cp="🧎🏼‍♀‍➡">Frau | kniend | kniende Frau</annotation>
-		<annotation cp="🧎🏼‍♀‍➡" type="tts">kniende Frau nach rechts</annotation>
-		<annotation cp="🧎🏽‍♀‍➡">Frau | kniend | kniende Frau</annotation>
-		<annotation cp="🧎🏽‍♀‍➡" type="tts">kniende Frau nach rechts</annotation>
-		<annotation cp="🧎🏾‍♀‍➡">Frau | kniend | kniende Frau</annotation>
-		<annotation cp="🧎🏾‍♀‍➡" type="tts">kniende Frau nach rechts</annotation>
-		<annotation cp="🧎🏿‍♀‍➡">Frau | kniend | kniende Frau</annotation>
-		<annotation cp="🧎🏿‍♀‍➡" type="tts">kniende Frau nach rechts</annotation>
-		<annotation cp="🧎‍♂‍➡">kniend | kniender Mann | Mann</annotation>
-		<annotation cp="🧎‍♂‍➡" type="tts">kniender Mann nach rechts</annotation>
-		<annotation cp="🧎🏻‍♂‍➡">kniend | kniender Mann | Mann</annotation>
-		<annotation cp="🧎🏻‍♂‍➡" type="tts">kniender Mann nach rechts</annotation>
-		<annotation cp="🧎🏼‍♂‍➡">kniend | kniender Mann | Mann</annotation>
-		<annotation cp="🧎🏼‍♂‍➡" type="tts">kniender Mann nach rechts</annotation>
-		<annotation cp="🧎🏽‍♂‍➡">kniend | kniender Mann | Mann</annotation>
-		<annotation cp="🧎🏽‍♂‍➡" type="tts">kniender Mann nach rechts</annotation>
-		<annotation cp="🧎🏾‍♂‍➡">kniend | kniender Mann | Mann</annotation>
-		<annotation cp="🧎🏾‍♂‍➡" type="tts">kniender Mann nach rechts</annotation>
-		<annotation cp="🧎🏿‍♂‍➡">kniend | kniender Mann | Mann</annotation>
-		<annotation cp="🧎🏿‍♂‍➡" type="tts">kniender Mann nach rechts</annotation>
+		<annotation cp="🧎‍➡">Fersensitz | knien | kniend | kniende Person | Meditation | meditieren | Mensch | nach | Person | rechts | Seiza | Zazen</annotation>
+		<annotation cp="🧎‍➡" type="tts">kniende Person: nach rechts</annotation>
+		<annotation cp="🧎🏻‍➡">Fersensitz | helle Hautfarbe | knien | kniend | kniende Person | Meditation | meditieren | Mensch | nach | Person | rechts | Seiza | Zazen</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">kniende Person: helle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧎🏼‍➡">Fersensitz | knien | kniend | kniende Person | Meditation | meditieren | Mensch | mittelhelle Hautfarbe | nach | Person | rechts | Seiza | Zazen</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">kniende Person: mittelhelle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧎🏽‍➡">Fersensitz | knien | kniend | kniende Person | Meditation | meditieren | Mensch | mittlere Hautfarbe | nach | Person | rechts | Seiza | Zazen</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">kniende Person: mittlere Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧎🏾‍➡">Fersensitz | knien | kniend | kniende Person | Meditation | meditieren | Mensch | mitteldunkle Hautfarbe | nach | Person | rechts | Seiza | Zazen</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">kniende Person: mitteldunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧎🏿‍➡">dunkle Hautfarbe | Fersensitz | knien | kniend | kniende Person | Meditation | meditieren | Mensch | nach | Person | rechts | Seiza | Zazen</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">kniende Person: dunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧎‍♀‍➡">Frau | kniend | kniende Frau | nach | rechts</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">kniende Frau: nach rechts</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">Frau | helle Hautfarbe | kniend | kniende Frau | nach | rechts</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">kniende Frau: helle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">Frau | kniend | kniende Frau | mittelhelle Hautfarbe | nach | rechts</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">kniende Frau: mittelhelle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">Frau | kniend | kniende Frau | mittlere Hautfarbe | nach | rechts</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">kniende Frau: mittlere Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">Frau | kniend | kniende Frau | mitteldunkle Hautfarbe | nach | rechts</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">kniende Frau: mitteldunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">dunkle Hautfarbe | Frau | kniend | kniende Frau | nach | rechts</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">kniende Frau: dunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧎‍♂‍➡">kniend | kniender Mann | Mann | nach | rechts</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">kniender Mann: nach rechts</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">helle Hautfarbe | kniend | kniender Mann | Mann | nach | rechts</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">kniender Mann: helle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">kniend | kniender Mann | Mann | mittelhelle Hautfarbe | nach | rechts</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">kniender Mann: mittelhelle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">kniend | kniender Mann | Mann | mittlere Hautfarbe | nach | rechts</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">kniender Mann: mittlere Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">kniend | kniender Mann | Mann | mitteldunkle Hautfarbe | nach | rechts</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">kniender Mann: mitteldunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">dunkle Hautfarbe | kniend | kniender Mann | Mann | nach | rechts</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">kniender Mann: dunkle Hautfarbe, nach rechts</annotation>
 		<annotation cp="🧑🏻‍🦯">Barrierefreiheit | blind | helle Hautfarbe | Person mit Blindenstock | Person mit Langstock</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">Person mit Langstock: helle Hautfarbe</annotation>
 		<annotation cp="🧑🏼‍🦯">Barrierefreiheit | blind | mittelhelle Hautfarbe | Person mit Blindenstock | Person mit Langstock</annotation>
@@ -2829,18 +3079,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦯" type="tts">Person mit Langstock: mitteldunkle Hautfarbe</annotation>
 		<annotation cp="🧑🏿‍🦯">Barrierefreiheit | blind | dunkle Hautfarbe | Person mit Blindenstock | Person mit Langstock</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">Person mit Langstock: dunkle Hautfarbe</annotation>
-		<annotation cp="🧑‍🦯‍➡">Barrierefreiheit | blind | Person mit Blindenstock | Person mit Langstock</annotation>
-		<annotation cp="🧑‍🦯‍➡" type="tts">Person mit Langstock nach rechts</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡">Barrierefreiheit | blind | Person mit Blindenstock | Person mit Langstock</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡" type="tts">Person mit Langstock nach rechts</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡">Barrierefreiheit | blind | Person mit Blindenstock | Person mit Langstock</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡" type="tts">Person mit Langstock nach rechts</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡">Barrierefreiheit | blind | Person mit Blindenstock | Person mit Langstock</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡" type="tts">Person mit Langstock nach rechts</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡">Barrierefreiheit | blind | Person mit Blindenstock | Person mit Langstock</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡" type="tts">Person mit Langstock nach rechts</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡">Barrierefreiheit | blind | Person mit Blindenstock | Person mit Langstock</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡" type="tts">Person mit Langstock nach rechts</annotation>
+		<annotation cp="🧑‍🦯‍➡">Barrierefreiheit | blind | nach | Person mit Blindenstock | Person mit Langstock | rechts</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">Person mit Langstock: nach rechts</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">Barrierefreiheit | blind | helle Hautfarbe | nach | Person mit Blindenstock | Person mit Langstock | rechts</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">Person mit Langstock: helle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">Barrierefreiheit | blind | mittelhelle Hautfarbe | nach | Person mit Blindenstock | Person mit Langstock | rechts</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">Person mit Langstock: mittelhelle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">Barrierefreiheit | blind | mittlere Hautfarbe | nach | Person mit Blindenstock | Person mit Langstock | rechts</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">Person mit Langstock: mittlere Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">Barrierefreiheit | blind | mitteldunkle Hautfarbe | nach | Person mit Blindenstock | Person mit Langstock | rechts</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">Person mit Langstock: mitteldunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">Barrierefreiheit | blind | dunkle Hautfarbe | nach | Person mit Blindenstock | Person mit Langstock | rechts</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">Person mit Langstock: dunkle Hautfarbe, nach rechts</annotation>
 		<annotation cp="👨🏻‍🦯">Barrierefreiheit | Behinderung | blind | helle Hautfarbe | Mann | Mann mit Blindenstock | Mann mit Gehstock | Mann mit Langstock | Mensch | Person | sehbehindert</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">Mann mit Langstock: helle Hautfarbe</annotation>
 		<annotation cp="👨🏼‍🦯">Barrierefreiheit | Behinderung | blind | Mann | Mann mit Blindenstock | Mann mit Gehstock | Mann mit Langstock | Mensch | mittelhelle Hautfarbe | Person | sehbehindert</annotation>
@@ -2851,18 +3101,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦯" type="tts">Mann mit Langstock: mitteldunkle Hautfarbe</annotation>
 		<annotation cp="👨🏿‍🦯">Barrierefreiheit | Behinderung | blind | dunkle Hautfarbe | Mann | Mann mit Blindenstock | Mann mit Gehstock | Mann mit Langstock | Mensch | Person | sehbehindert</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">Mann mit Langstock: dunkle Hautfarbe</annotation>
-		<annotation cp="👨‍🦯‍➡">Barrierefreiheit | Behinderung | blind | Mann | Mann mit Blindenstock | Mann mit Gehstock | Mann mit Langstock | Mensch | Person | sehbehindert</annotation>
-		<annotation cp="👨‍🦯‍➡" type="tts">Mann mit Langstock nach rechts</annotation>
-		<annotation cp="👨🏻‍🦯‍➡">Barrierefreiheit | Behinderung | blind | Mann | Mann mit Blindenstock | Mann mit Gehstock | Mann mit Langstock | Mensch | Person | sehbehindert</annotation>
-		<annotation cp="👨🏻‍🦯‍➡" type="tts">Mann mit Langstock nach rechts</annotation>
-		<annotation cp="👨🏼‍🦯‍➡">Barrierefreiheit | Behinderung | blind | Mann | Mann mit Blindenstock | Mann mit Gehstock | Mann mit Langstock | Mensch | Person | sehbehindert</annotation>
-		<annotation cp="👨🏼‍🦯‍➡" type="tts">Mann mit Langstock nach rechts</annotation>
-		<annotation cp="👨🏽‍🦯‍➡">Barrierefreiheit | Behinderung | blind | Mann | Mann mit Blindenstock | Mann mit Gehstock | Mann mit Langstock | Mensch | Person | sehbehindert</annotation>
-		<annotation cp="👨🏽‍🦯‍➡" type="tts">Mann mit Langstock nach rechts</annotation>
-		<annotation cp="👨🏾‍🦯‍➡">Barrierefreiheit | Behinderung | blind | Mann | Mann mit Blindenstock | Mann mit Gehstock | Mann mit Langstock | Mensch | Person | sehbehindert</annotation>
-		<annotation cp="👨🏾‍🦯‍➡" type="tts">Mann mit Langstock nach rechts</annotation>
-		<annotation cp="👨🏿‍🦯‍➡">Barrierefreiheit | Behinderung | blind | Mann | Mann mit Blindenstock | Mann mit Gehstock | Mann mit Langstock | Mensch | Person | sehbehindert</annotation>
-		<annotation cp="👨🏿‍🦯‍➡" type="tts">Mann mit Langstock nach rechts</annotation>
+		<annotation cp="👨‍🦯‍➡">Barrierefreiheit | Behinderung | blind | Mann | Mann mit Blindenstock | Mann mit Gehstock | Mann mit Langstock | Mensch | nach | Person | rechts | sehbehindert</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">Mann mit Langstock: nach rechts</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">Barrierefreiheit | Behinderung | blind | helle Hautfarbe | Mann | Mann mit Blindenstock | Mann mit Gehstock | Mann mit Langstock | Mensch | nach | Person | rechts | sehbehindert</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">Mann mit Langstock: helle Hautfarbe, nach rechts</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">Barrierefreiheit | Behinderung | blind | Mann | Mann mit Blindenstock | Mann mit Gehstock | Mann mit Langstock | Mensch | mittelhelle Hautfarbe | nach | Person | rechts | sehbehindert</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">Mann mit Langstock: mittelhelle Hautfarbe, nach rechts</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">Barrierefreiheit | Behinderung | blind | Mann | Mann mit Blindenstock | Mann mit Gehstock | Mann mit Langstock | Mensch | mittlere Hautfarbe | nach | Person | rechts | sehbehindert</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">Mann mit Langstock: mittlere Hautfarbe, nach rechts</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">Barrierefreiheit | Behinderung | blind | Mann | Mann mit Blindenstock | Mann mit Gehstock | Mann mit Langstock | Mensch | mitteldunkle Hautfarbe | nach | Person | rechts | sehbehindert</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">Mann mit Langstock: mitteldunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">Barrierefreiheit | Behinderung | blind | dunkle Hautfarbe | Mann | Mann mit Blindenstock | Mann mit Gehstock | Mann mit Langstock | Mensch | nach | Person | rechts | sehbehindert</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">Mann mit Langstock: dunkle Hautfarbe, nach rechts</annotation>
 		<annotation cp="👩🏻‍🦯">Barrierefreiheit | Behinderung | blind | Frau | Frau mit Blindenstock | Frau mit Gehstock | Frau mit Langstock | helle Hautfarbe | Mensch | Person</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">Frau mit Langstock: helle Hautfarbe</annotation>
 		<annotation cp="👩🏼‍🦯">Barrierefreiheit | Behinderung | blind | Frau | Frau mit Blindenstock | Frau mit Gehstock | Frau mit Langstock | Mensch | mittelhelle Hautfarbe | Person</annotation>
@@ -2873,18 +3123,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦯" type="tts">Frau mit Langstock: mitteldunkle Hautfarbe</annotation>
 		<annotation cp="👩🏿‍🦯">Barrierefreiheit | Behinderung | blind | dunkle Hautfarbe | Frau | Frau mit Blindenstock | Frau mit Gehstock | Frau mit Langstock | Mensch | Person</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">Frau mit Langstock: dunkle Hautfarbe</annotation>
-		<annotation cp="👩‍🦯‍➡">Barrierefreiheit | Behinderung | blind | Frau | Frau mit Blindenstock | Frau mit Gehstock | Frau mit Langstock | Mensch | Person</annotation>
-		<annotation cp="👩‍🦯‍➡" type="tts">Frau mit Langstock nach rechts</annotation>
-		<annotation cp="👩🏻‍🦯‍➡">Barrierefreiheit | Behinderung | blind | Frau | Frau mit Blindenstock | Frau mit Gehstock | Frau mit Langstock | Mensch | Person</annotation>
-		<annotation cp="👩🏻‍🦯‍➡" type="tts">Frau mit Langstock nach rechts</annotation>
-		<annotation cp="👩🏼‍🦯‍➡">Barrierefreiheit | Behinderung | blind | Frau | Frau mit Blindenstock | Frau mit Gehstock | Frau mit Langstock | Mensch | Person</annotation>
-		<annotation cp="👩🏼‍🦯‍➡" type="tts">Frau mit Langstock nach rechts</annotation>
-		<annotation cp="👩🏽‍🦯‍➡">Barrierefreiheit | Behinderung | blind | Frau | Frau mit Blindenstock | Frau mit Gehstock | Frau mit Langstock | Mensch | Person</annotation>
-		<annotation cp="👩🏽‍🦯‍➡" type="tts">Frau mit Langstock nach rechts</annotation>
-		<annotation cp="👩🏾‍🦯‍➡">Barrierefreiheit | Behinderung | blind | Frau | Frau mit Blindenstock | Frau mit Gehstock | Frau mit Langstock | Mensch | Person</annotation>
-		<annotation cp="👩🏾‍🦯‍➡" type="tts">Frau mit Langstock nach rechts</annotation>
-		<annotation cp="👩🏿‍🦯‍➡">Barrierefreiheit | Behinderung | blind | Frau | Frau mit Blindenstock | Frau mit Gehstock | Frau mit Langstock | Mensch | Person</annotation>
-		<annotation cp="👩🏿‍🦯‍➡" type="tts">Frau mit Langstock nach rechts</annotation>
+		<annotation cp="👩‍🦯‍➡">Barrierefreiheit | Behinderung | blind | Frau | Frau mit Blindenstock | Frau mit Gehstock | Frau mit Langstock | Mensch | nach | Person | rechts</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">Frau mit Langstock: nach rechts</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">Barrierefreiheit | Behinderung | blind | Frau | Frau mit Blindenstock | Frau mit Gehstock | Frau mit Langstock | helle Hautfarbe | Mensch | nach | Person | rechts</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">Frau mit Langstock: helle Hautfarbe, nach rechts</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">Barrierefreiheit | Behinderung | blind | Frau | Frau mit Blindenstock | Frau mit Gehstock | Frau mit Langstock | Mensch | mittelhelle Hautfarbe | nach | Person | rechts</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">Frau mit Langstock: mittelhelle Hautfarbe, nach rechts</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">Barrierefreiheit | Behinderung | blind | Frau | Frau mit Blindenstock | Frau mit Gehstock | Frau mit Langstock | Mensch | mittlere Hautfarbe | nach | Person | rechts</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">Frau mit Langstock: mittlere Hautfarbe, nach rechts</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">Barrierefreiheit | Behinderung | blind | Frau | Frau mit Blindenstock | Frau mit Gehstock | Frau mit Langstock | Mensch | mitteldunkle Hautfarbe | nach | Person | rechts</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">Frau mit Langstock: mitteldunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">Barrierefreiheit | Behinderung | blind | dunkle Hautfarbe | Frau | Frau mit Blindenstock | Frau mit Gehstock | Frau mit Langstock | Mensch | nach | Person | rechts</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">Frau mit Langstock: dunkle Hautfarbe, nach rechts</annotation>
 		<annotation cp="🧑🏻‍🦼">Barrierefreiheit | helle Hautfarbe | Person in elektrischem Rollstuhl | Rollstuhl</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">Person in elektrischem Rollstuhl: helle Hautfarbe</annotation>
 		<annotation cp="🧑🏼‍🦼">Barrierefreiheit | mittelhelle Hautfarbe | Person in elektrischem Rollstuhl | Rollstuhl</annotation>
@@ -2895,18 +3145,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦼" type="tts">Person in elektrischem Rollstuhl: mitteldunkle Hautfarbe</annotation>
 		<annotation cp="🧑🏿‍🦼">Barrierefreiheit | dunkle Hautfarbe | Person in elektrischem Rollstuhl | Rollstuhl</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">Person in elektrischem Rollstuhl: dunkle Hautfarbe</annotation>
-		<annotation cp="🧑‍🦼‍➡">Barrierefreiheit | Person in elektrischem Rollstuhl | Rollstuhl</annotation>
-		<annotation cp="🧑‍🦼‍➡" type="tts">Person in elektrischem Rollstuhl nach rechts</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡">Barrierefreiheit | Person in elektrischem Rollstuhl | Rollstuhl</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡" type="tts">Person in elektrischem Rollstuhl nach rechts</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡">Barrierefreiheit | Person in elektrischem Rollstuhl | Rollstuhl</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡" type="tts">Person in elektrischem Rollstuhl nach rechts</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡">Barrierefreiheit | Person in elektrischem Rollstuhl | Rollstuhl</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡" type="tts">Person in elektrischem Rollstuhl nach rechts</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡">Barrierefreiheit | Person in elektrischem Rollstuhl | Rollstuhl</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡" type="tts">Person in elektrischem Rollstuhl nach rechts</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡">Barrierefreiheit | Person in elektrischem Rollstuhl | Rollstuhl</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡" type="tts">Person in elektrischem Rollstuhl nach rechts</annotation>
+		<annotation cp="🧑‍🦼‍➡">Barrierefreiheit | nach | Person in elektrischem Rollstuhl | rechts | Rollstuhl</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">Person in elektrischem Rollstuhl: nach rechts</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">Barrierefreiheit | helle Hautfarbe | nach | Person in elektrischem Rollstuhl | rechts | Rollstuhl</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">Person in elektrischem Rollstuhl: helle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">Barrierefreiheit | mittelhelle Hautfarbe | nach | Person in elektrischem Rollstuhl | rechts | Rollstuhl</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">Person in elektrischem Rollstuhl: mittelhelle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">Barrierefreiheit | mittlere Hautfarbe | nach | Person in elektrischem Rollstuhl | rechts | Rollstuhl</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">Person in elektrischem Rollstuhl: mittlere Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">Barrierefreiheit | mitteldunkle Hautfarbe | nach | Person in elektrischem Rollstuhl | rechts | Rollstuhl</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">Person in elektrischem Rollstuhl: mitteldunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">Barrierefreiheit | dunkle Hautfarbe | nach | Person in elektrischem Rollstuhl | rechts | Rollstuhl</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">Person in elektrischem Rollstuhl: dunkle Hautfarbe, nach rechts</annotation>
 		<annotation cp="👨🏻‍🦼">Barrierefreiheit | Behinderung | helle Hautfarbe | Mann | Mann in elektrischem Rollstuhl | Mann in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">Mann in elektrischem Rollstuhl: helle Hautfarbe</annotation>
 		<annotation cp="👨🏼‍🦼">Barrierefreiheit | Behinderung | Mann | Mann in elektrischem Rollstuhl | Mann in Rollstuhl | Mensch | mittelhelle Hautfarbe | Person | Rollstuhl</annotation>
@@ -2917,18 +3167,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦼" type="tts">Mann in elektrischem Rollstuhl: mitteldunkle Hautfarbe</annotation>
 		<annotation cp="👨🏿‍🦼">Barrierefreiheit | Behinderung | dunkle Hautfarbe | Mann | Mann in elektrischem Rollstuhl | Mann in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">Mann in elektrischem Rollstuhl: dunkle Hautfarbe</annotation>
-		<annotation cp="👨‍🦼‍➡">Barrierefreiheit | Behinderung | Mann | Mann in elektrischem Rollstuhl | Mann in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👨‍🦼‍➡" type="tts">Mann in elektrischem Rollstuhl nach rechts</annotation>
-		<annotation cp="👨🏻‍🦼‍➡">Barrierefreiheit | Behinderung | Mann | Mann in elektrischem Rollstuhl | Mann in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👨🏻‍🦼‍➡" type="tts">Mann in elektrischem Rollstuhl nach rechts</annotation>
-		<annotation cp="👨🏼‍🦼‍➡">Barrierefreiheit | Behinderung | Mann | Mann in elektrischem Rollstuhl | Mann in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👨🏼‍🦼‍➡" type="tts">Mann in elektrischem Rollstuhl nach rechts</annotation>
-		<annotation cp="👨🏽‍🦼‍➡">Barrierefreiheit | Behinderung | Mann | Mann in elektrischem Rollstuhl | Mann in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👨🏽‍🦼‍➡" type="tts">Mann in elektrischem Rollstuhl nach rechts</annotation>
-		<annotation cp="👨🏾‍🦼‍➡">Barrierefreiheit | Behinderung | Mann | Mann in elektrischem Rollstuhl | Mann in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👨🏾‍🦼‍➡" type="tts">Mann in elektrischem Rollstuhl nach rechts</annotation>
-		<annotation cp="👨🏿‍🦼‍➡">Barrierefreiheit | Behinderung | Mann | Mann in elektrischem Rollstuhl | Mann in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👨🏿‍🦼‍➡" type="tts">Mann in elektrischem Rollstuhl nach rechts</annotation>
+		<annotation cp="👨‍🦼‍➡">Barrierefreiheit | Behinderung | Mann | Mann in elektrischem Rollstuhl | Mann in Rollstuhl | Mensch | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">Mann in elektrischem Rollstuhl: nach rechts</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">Barrierefreiheit | Behinderung | helle Hautfarbe | Mann | Mann in elektrischem Rollstuhl | Mann in Rollstuhl | Mensch | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">Mann in elektrischem Rollstuhl: helle Hautfarbe, nach rechts</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">Barrierefreiheit | Behinderung | Mann | Mann in elektrischem Rollstuhl | Mann in Rollstuhl | Mensch | mittelhelle Hautfarbe | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">Mann in elektrischem Rollstuhl: mittelhelle Hautfarbe, nach rechts</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">Barrierefreiheit | Behinderung | Mann | Mann in elektrischem Rollstuhl | Mann in Rollstuhl | Mensch | mittlere Hautfarbe | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">Mann in elektrischem Rollstuhl: mittlere Hautfarbe, nach rechts</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">Barrierefreiheit | Behinderung | Mann | Mann in elektrischem Rollstuhl | Mann in Rollstuhl | Mensch | mitteldunkle Hautfarbe | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">Mann in elektrischem Rollstuhl: mitteldunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">Barrierefreiheit | Behinderung | dunkle Hautfarbe | Mann | Mann in elektrischem Rollstuhl | Mann in Rollstuhl | Mensch | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">Mann in elektrischem Rollstuhl: dunkle Hautfarbe, nach rechts</annotation>
 		<annotation cp="👩🏻‍🦼">Barrierefreiheit | Behinderung | Frau | Frau in elektrischem Rollstuhl | Frau in Rollstuhl | helle Hautfarbe | Mensch | Person | Rollstuhl</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">Frau in elektrischem Rollstuhl: helle Hautfarbe</annotation>
 		<annotation cp="👩🏼‍🦼">Barrierefreiheit | Behinderung | Frau | Frau in elektrischem Rollstuhl | Frau in Rollstuhl | Mensch | mittelhelle Hautfarbe | Person | Rollstuhl</annotation>
@@ -2939,18 +3189,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦼" type="tts">Frau in elektrischem Rollstuhl: mitteldunkle Hautfarbe</annotation>
 		<annotation cp="👩🏿‍🦼">Barrierefreiheit | Behinderung | dunkle Hautfarbe | Frau | Frau in elektrischem Rollstuhl | Frau in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">Frau in elektrischem Rollstuhl: dunkle Hautfarbe</annotation>
-		<annotation cp="👩‍🦼‍➡">Barrierefreiheit | Behinderung | Frau | Frau in elektrischem Rollstuhl | Frau in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👩‍🦼‍➡" type="tts">Frau in elektrischem Rollstuhl nach rechts</annotation>
-		<annotation cp="👩🏻‍🦼‍➡">Barrierefreiheit | Behinderung | Frau | Frau in elektrischem Rollstuhl | Frau in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👩🏻‍🦼‍➡" type="tts">Frau in elektrischem Rollstuhl nach rechts</annotation>
-		<annotation cp="👩🏼‍🦼‍➡">Barrierefreiheit | Behinderung | Frau | Frau in elektrischem Rollstuhl | Frau in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👩🏼‍🦼‍➡" type="tts">Frau in elektrischem Rollstuhl nach rechts</annotation>
-		<annotation cp="👩🏽‍🦼‍➡">Barrierefreiheit | Behinderung | Frau | Frau in elektrischem Rollstuhl | Frau in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👩🏽‍🦼‍➡" type="tts">Frau in elektrischem Rollstuhl nach rechts</annotation>
-		<annotation cp="👩🏾‍🦼‍➡">Barrierefreiheit | Behinderung | Frau | Frau in elektrischem Rollstuhl | Frau in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👩🏾‍🦼‍➡" type="tts">Frau in elektrischem Rollstuhl nach rechts</annotation>
-		<annotation cp="👩🏿‍🦼‍➡">Barrierefreiheit | Behinderung | Frau | Frau in elektrischem Rollstuhl | Frau in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👩🏿‍🦼‍➡" type="tts">Frau in elektrischem Rollstuhl nach rechts</annotation>
+		<annotation cp="👩‍🦼‍➡">Barrierefreiheit | Behinderung | Frau | Frau in elektrischem Rollstuhl | Frau in Rollstuhl | Mensch | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">Frau in elektrischem Rollstuhl: nach rechts</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">Barrierefreiheit | Behinderung | Frau | Frau in elektrischem Rollstuhl | Frau in Rollstuhl | helle Hautfarbe | Mensch | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">Frau in elektrischem Rollstuhl: helle Hautfarbe, nach rechts</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">Barrierefreiheit | Behinderung | Frau | Frau in elektrischem Rollstuhl | Frau in Rollstuhl | Mensch | mittelhelle Hautfarbe | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">Frau in elektrischem Rollstuhl: mittelhelle Hautfarbe, nach rechts</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">Barrierefreiheit | Behinderung | Frau | Frau in elektrischem Rollstuhl | Frau in Rollstuhl | Mensch | mittlere Hautfarbe | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">Frau in elektrischem Rollstuhl: mittlere Hautfarbe, nach rechts</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">Barrierefreiheit | Behinderung | Frau | Frau in elektrischem Rollstuhl | Frau in Rollstuhl | Mensch | mitteldunkle Hautfarbe | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">Frau in elektrischem Rollstuhl: mitteldunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">Barrierefreiheit | Behinderung | dunkle Hautfarbe | Frau | Frau in elektrischem Rollstuhl | Frau in Rollstuhl | Mensch | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">Frau in elektrischem Rollstuhl: dunkle Hautfarbe, nach rechts</annotation>
 		<annotation cp="🧑🏻‍🦽">Barrierefreiheit | helle Hautfarbe | Person in manuellem Rollstuhl | Rollstuhl</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">Person in manuellem Rollstuhl: helle Hautfarbe</annotation>
 		<annotation cp="🧑🏼‍🦽">Barrierefreiheit | mittelhelle Hautfarbe | Person in manuellem Rollstuhl | Rollstuhl</annotation>
@@ -2961,18 +3211,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦽" type="tts">Person in manuellem Rollstuhl: mitteldunkle Hautfarbe</annotation>
 		<annotation cp="🧑🏿‍🦽">Barrierefreiheit | dunkle Hautfarbe | Person in manuellem Rollstuhl | Rollstuhl</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">Person in manuellem Rollstuhl: dunkle Hautfarbe</annotation>
-		<annotation cp="🧑‍🦽‍➡">Barrierefreiheit | Person in manuellem Rollstuhl | Rollstuhl</annotation>
-		<annotation cp="🧑‍🦽‍➡" type="tts">Person in manuellem Rollstuhl nach rechts</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡">Barrierefreiheit | Person in manuellem Rollstuhl | Rollstuhl</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡" type="tts">Person in manuellem Rollstuhl nach rechts</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡">Barrierefreiheit | Person in manuellem Rollstuhl | Rollstuhl</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡" type="tts">Person in manuellem Rollstuhl nach rechts</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡">Barrierefreiheit | Person in manuellem Rollstuhl | Rollstuhl</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡" type="tts">Person in manuellem Rollstuhl nach rechts</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡">Barrierefreiheit | Person in manuellem Rollstuhl | Rollstuhl</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡" type="tts">Person in manuellem Rollstuhl nach rechts</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡">Barrierefreiheit | Person in manuellem Rollstuhl | Rollstuhl</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡" type="tts">Person in manuellem Rollstuhl nach rechts</annotation>
+		<annotation cp="🧑‍🦽‍➡">Barrierefreiheit | nach | Person in manuellem Rollstuhl | rechts | Rollstuhl</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">Person in manuellem Rollstuhl: nach rechts</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">Barrierefreiheit | helle Hautfarbe | nach | Person in manuellem Rollstuhl | rechts | Rollstuhl</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">Person in manuellem Rollstuhl: helle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">Barrierefreiheit | mittelhelle Hautfarbe | nach | Person in manuellem Rollstuhl | rechts | Rollstuhl</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">Person in manuellem Rollstuhl: mittelhelle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">Barrierefreiheit | mittlere Hautfarbe | nach | Person in manuellem Rollstuhl | rechts | Rollstuhl</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">Person in manuellem Rollstuhl: mittlere Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">Barrierefreiheit | mitteldunkle Hautfarbe | nach | Person in manuellem Rollstuhl | rechts | Rollstuhl</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">Person in manuellem Rollstuhl: mitteldunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">Barrierefreiheit | dunkle Hautfarbe | nach | Person in manuellem Rollstuhl | rechts | Rollstuhl</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">Person in manuellem Rollstuhl: dunkle Hautfarbe, nach rechts</annotation>
 		<annotation cp="👨🏻‍🦽">Barrierefreiheit | Behinderung | helle Hautfarbe | Mann | Mann in manuellem Rollstuhl | Mann in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">Mann in manuellem Rollstuhl: helle Hautfarbe</annotation>
 		<annotation cp="👨🏼‍🦽">Barrierefreiheit | Behinderung | Mann | Mann in manuellem Rollstuhl | Mann in Rollstuhl | Mensch | mittelhelle Hautfarbe | Person | Rollstuhl</annotation>
@@ -2983,18 +3233,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦽" type="tts">Mann in manuellem Rollstuhl: mitteldunkle Hautfarbe</annotation>
 		<annotation cp="👨🏿‍🦽">Barrierefreiheit | Behinderung | dunkle Hautfarbe | Mann | Mann in manuellem Rollstuhl | Mann in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">Mann in manuellem Rollstuhl: dunkle Hautfarbe</annotation>
-		<annotation cp="👨‍🦽‍➡">Barrierefreiheit | Behinderung | Mann | Mann in manuellem Rollstuhl | Mann in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👨‍🦽‍➡" type="tts">Mann in manuellem Rollstuhl nach rechts</annotation>
-		<annotation cp="👨🏻‍🦽‍➡">Barrierefreiheit | Behinderung | Mann | Mann in manuellem Rollstuhl | Mann in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👨🏻‍🦽‍➡" type="tts">Mann in manuellem Rollstuhl nach rechts</annotation>
-		<annotation cp="👨🏼‍🦽‍➡">Barrierefreiheit | Behinderung | Mann | Mann in manuellem Rollstuhl | Mann in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👨🏼‍🦽‍➡" type="tts">Mann in manuellem Rollstuhl nach rechts</annotation>
-		<annotation cp="👨🏽‍🦽‍➡">Barrierefreiheit | Behinderung | Mann | Mann in manuellem Rollstuhl | Mann in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👨🏽‍🦽‍➡" type="tts">Mann in manuellem Rollstuhl nach rechts</annotation>
-		<annotation cp="👨🏾‍🦽‍➡">Barrierefreiheit | Behinderung | Mann | Mann in manuellem Rollstuhl | Mann in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👨🏾‍🦽‍➡" type="tts">Mann in manuellem Rollstuhl nach rechts</annotation>
-		<annotation cp="👨🏿‍🦽‍➡">Barrierefreiheit | Behinderung | Mann | Mann in manuellem Rollstuhl | Mann in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👨🏿‍🦽‍➡" type="tts">Mann in manuellem Rollstuhl nach rechts</annotation>
+		<annotation cp="👨‍🦽‍➡">Barrierefreiheit | Behinderung | Mann | Mann in manuellem Rollstuhl | Mann in Rollstuhl | Mensch | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">Mann in manuellem Rollstuhl: nach rechts</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">Barrierefreiheit | Behinderung | helle Hautfarbe | Mann | Mann in manuellem Rollstuhl | Mann in Rollstuhl | Mensch | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">Mann in manuellem Rollstuhl: helle Hautfarbe, nach rechts</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">Barrierefreiheit | Behinderung | Mann | Mann in manuellem Rollstuhl | Mann in Rollstuhl | Mensch | mittelhelle Hautfarbe | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">Mann in manuellem Rollstuhl: mittelhelle Hautfarbe, nach rechts</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">Barrierefreiheit | Behinderung | Mann | Mann in manuellem Rollstuhl | Mann in Rollstuhl | Mensch | mittlere Hautfarbe | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">Mann in manuellem Rollstuhl: mittlere Hautfarbe, nach rechts</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">Barrierefreiheit | Behinderung | Mann | Mann in manuellem Rollstuhl | Mann in Rollstuhl | Mensch | mitteldunkle Hautfarbe | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">Mann in manuellem Rollstuhl: mitteldunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">Barrierefreiheit | Behinderung | dunkle Hautfarbe | Mann | Mann in manuellem Rollstuhl | Mann in Rollstuhl | Mensch | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">Mann in manuellem Rollstuhl: dunkle Hautfarbe, nach rechts</annotation>
 		<annotation cp="👩🏻‍🦽">Barrierefreiheit | Behinderung | Frau | Frau in manuellem Rollstuhl | Frau in Rollstuhl | helle Hautfarbe | Mensch | Person | Rollstuhl</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">Frau in manuellem Rollstuhl: helle Hautfarbe</annotation>
 		<annotation cp="👩🏼‍🦽">Barrierefreiheit | Behinderung | Frau | Frau in manuellem Rollstuhl | Frau in Rollstuhl | Mensch | mittelhelle Hautfarbe | Person | Rollstuhl</annotation>
@@ -3005,18 +3255,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦽" type="tts">Frau in manuellem Rollstuhl: mitteldunkle Hautfarbe</annotation>
 		<annotation cp="👩🏿‍🦽">Barrierefreiheit | Behinderung | dunkle Hautfarbe | Frau | Frau in manuellem Rollstuhl | Frau in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">Frau in manuellem Rollstuhl: dunkle Hautfarbe</annotation>
-		<annotation cp="👩‍🦽‍➡">Barrierefreiheit | Behinderung | Frau | Frau in manuellem Rollstuhl | Frau in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👩‍🦽‍➡" type="tts">Frau in manuellem Rollstuhl nach rechts</annotation>
-		<annotation cp="👩🏻‍🦽‍➡">Barrierefreiheit | Behinderung | Frau | Frau in manuellem Rollstuhl | Frau in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👩🏻‍🦽‍➡" type="tts">Frau in manuellem Rollstuhl nach rechts</annotation>
-		<annotation cp="👩🏼‍🦽‍➡">Barrierefreiheit | Behinderung | Frau | Frau in manuellem Rollstuhl | Frau in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👩🏼‍🦽‍➡" type="tts">Frau in manuellem Rollstuhl nach rechts</annotation>
-		<annotation cp="👩🏽‍🦽‍➡">Barrierefreiheit | Behinderung | Frau | Frau in manuellem Rollstuhl | Frau in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👩🏽‍🦽‍➡" type="tts">Frau in manuellem Rollstuhl nach rechts</annotation>
-		<annotation cp="👩🏾‍🦽‍➡">Barrierefreiheit | Behinderung | Frau | Frau in manuellem Rollstuhl | Frau in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👩🏾‍🦽‍➡" type="tts">Frau in manuellem Rollstuhl nach rechts</annotation>
-		<annotation cp="👩🏿‍🦽‍➡">Barrierefreiheit | Behinderung | Frau | Frau in manuellem Rollstuhl | Frau in Rollstuhl | Mensch | Person | Rollstuhl</annotation>
-		<annotation cp="👩🏿‍🦽‍➡" type="tts">Frau in manuellem Rollstuhl nach rechts</annotation>
+		<annotation cp="👩‍🦽‍➡">Barrierefreiheit | Behinderung | Frau | Frau in manuellem Rollstuhl | Frau in Rollstuhl | Mensch | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">Frau in manuellem Rollstuhl: nach rechts</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">Barrierefreiheit | Behinderung | Frau | Frau in manuellem Rollstuhl | Frau in Rollstuhl | helle Hautfarbe | Mensch | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">Frau in manuellem Rollstuhl: helle Hautfarbe, nach rechts</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">Barrierefreiheit | Behinderung | Frau | Frau in manuellem Rollstuhl | Frau in Rollstuhl | Mensch | mittelhelle Hautfarbe | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">Frau in manuellem Rollstuhl: mittelhelle Hautfarbe, nach rechts</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">Barrierefreiheit | Behinderung | Frau | Frau in manuellem Rollstuhl | Frau in Rollstuhl | Mensch | mittlere Hautfarbe | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">Frau in manuellem Rollstuhl: mittlere Hautfarbe, nach rechts</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">Barrierefreiheit | Behinderung | Frau | Frau in manuellem Rollstuhl | Frau in Rollstuhl | Mensch | mitteldunkle Hautfarbe | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">Frau in manuellem Rollstuhl: mitteldunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">Barrierefreiheit | Behinderung | dunkle Hautfarbe | Frau | Frau in manuellem Rollstuhl | Frau in Rollstuhl | Mensch | nach | Person | rechts | Rollstuhl</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">Frau in manuellem Rollstuhl: dunkle Hautfarbe, nach rechts</annotation>
 		<annotation cp="🏃🏻">eilig | helle Hautfarbe | joggen | laufen | Laufen | laufende Person | Läufer | Läuferin | Marathon | Person | rennen | schnell | Sport</annotation>
 		<annotation cp="🏃🏻" type="tts">laufende Person: helle Hautfarbe</annotation>
 		<annotation cp="🏃🏼">eilig | joggen | laufen | Laufen | laufende Person | Läufer | Läuferin | Marathon | mittelhelle Hautfarbe | Person | rennen | schnell | Sport</annotation>
@@ -3047,61 +3297,61 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🏃🏾‍♀" type="tts">laufende Frau: mitteldunkle Hautfarbe</annotation>
 		<annotation cp="🏃🏿‍♀">Athlet | Athletin | dunkle Hautfarbe | Frau | joggen | Joggerin | laufen | Laufen | laufende Frau | Läufer | Läuferin | Marathon | rennen | Renner | Rennerin | rennt | schell</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">laufende Frau: dunkle Hautfarbe</annotation>
-		<annotation cp="🏃‍➡">eilig | joggen | laufen | Laufen | laufende Person | Läufer | Läuferin | Marathon | Person | rennen | schnell | Sport</annotation>
-		<annotation cp="🏃‍➡" type="tts">laufende Person nach rechts</annotation>
-		<annotation cp="🏃🏻‍➡">eilig | joggen | laufen | Laufen | laufende Person | Läufer | Läuferin | Marathon | Person | rennen | schnell | Sport</annotation>
-		<annotation cp="🏃🏻‍➡" type="tts">laufende Person nach rechts</annotation>
-		<annotation cp="🏃🏼‍➡">eilig | joggen | laufen | Laufen | laufende Person | Läufer | Läuferin | Marathon | Person | rennen | schnell | Sport</annotation>
-		<annotation cp="🏃🏼‍➡" type="tts">laufende Person nach rechts</annotation>
-		<annotation cp="🏃🏽‍➡">eilig | joggen | laufen | Laufen | laufende Person | Läufer | Läuferin | Marathon | Person | rennen | schnell | Sport</annotation>
-		<annotation cp="🏃🏽‍➡" type="tts">laufende Person nach rechts</annotation>
-		<annotation cp="🏃🏾‍➡">eilig | joggen | laufen | Laufen | laufende Person | Läufer | Läuferin | Marathon | Person | rennen | schnell | Sport</annotation>
-		<annotation cp="🏃🏾‍➡" type="tts">laufende Person nach rechts</annotation>
-		<annotation cp="🏃🏿‍➡">eilig | joggen | laufen | Laufen | laufende Person | Läufer | Läuferin | Marathon | Person | rennen | schnell | Sport</annotation>
-		<annotation cp="🏃🏿‍➡" type="tts">laufende Person nach rechts</annotation>
-		<annotation cp="🏃‍♀‍➡">Athlet | Athletin | Frau | joggen | Joggerin | laufen | Laufen | laufende Frau | Läufer | Läuferin | Marathon | rennen | Renner | Rennerin | rennt | schell</annotation>
-		<annotation cp="🏃‍♀‍➡" type="tts">laufende Frau nach rechts</annotation>
-		<annotation cp="🏃🏻‍♀‍➡">Athlet | Athletin | Frau | joggen | Joggerin | laufen | Laufen | laufende Frau | Läufer | Läuferin | Marathon | rennen | Renner | Rennerin | rennt | schell</annotation>
-		<annotation cp="🏃🏻‍♀‍➡" type="tts">laufende Frau nach rechts</annotation>
-		<annotation cp="🏃🏼‍♀‍➡">Athlet | Athletin | Frau | joggen | Joggerin | laufen | Laufen | laufende Frau | Läufer | Läuferin | Marathon | rennen | Renner | Rennerin | rennt | schell</annotation>
-		<annotation cp="🏃🏼‍♀‍➡" type="tts">laufende Frau nach rechts</annotation>
-		<annotation cp="🏃🏽‍♀‍➡">Athlet | Athletin | Frau | joggen | Joggerin | laufen | Laufen | laufende Frau | Läufer | Läuferin | Marathon | rennen | Renner | Rennerin | rennt | schell</annotation>
-		<annotation cp="🏃🏽‍♀‍➡" type="tts">laufende Frau nach rechts</annotation>
-		<annotation cp="🏃🏾‍♀‍➡">Athlet | Athletin | Frau | joggen | Joggerin | laufen | Laufen | laufende Frau | Läufer | Läuferin | Marathon | rennen | Renner | Rennerin | rennt | schell</annotation>
-		<annotation cp="🏃🏾‍♀‍➡" type="tts">laufende Frau nach rechts</annotation>
-		<annotation cp="🏃🏿‍♀‍➡">Athlet | Athletin | Frau | joggen | Joggerin | laufen | Laufen | laufende Frau | Läufer | Läuferin | Marathon | rennen | Renner | Rennerin | rennt | schell</annotation>
-		<annotation cp="🏃🏿‍♀‍➡" type="tts">laufende Frau nach rechts</annotation>
-		<annotation cp="🏃‍♂‍➡">joggen | Jogger | laufen | laufender Mann | Marathon</annotation>
-		<annotation cp="🏃‍♂‍➡" type="tts">laufender Mann nach rechts</annotation>
-		<annotation cp="🏃🏻‍♂‍➡">joggen | Jogger | laufen | laufender Mann | Marathon</annotation>
-		<annotation cp="🏃🏻‍♂‍➡" type="tts">laufender Mann nach rechts</annotation>
-		<annotation cp="🏃🏼‍♂‍➡">joggen | Jogger | laufen | laufender Mann | Marathon</annotation>
-		<annotation cp="🏃🏼‍♂‍➡" type="tts">laufender Mann nach rechts</annotation>
-		<annotation cp="🏃🏽‍♂‍➡">joggen | Jogger | laufen | laufender Mann | Marathon</annotation>
-		<annotation cp="🏃🏽‍♂‍➡" type="tts">laufender Mann nach rechts</annotation>
-		<annotation cp="🏃🏾‍♂‍➡">joggen | Jogger | laufen | laufender Mann | Marathon</annotation>
-		<annotation cp="🏃🏾‍♂‍➡" type="tts">laufender Mann nach rechts</annotation>
-		<annotation cp="🏃🏿‍♂‍➡">joggen | Jogger | laufen | laufender Mann | Marathon</annotation>
-		<annotation cp="🏃🏿‍♂‍➡" type="tts">laufender Mann nach rechts</annotation>
-		<annotation cp="💃🏻">Frau | helle Hautfarbe | Tanz | tanzen | tanzende Frau | Tänzerin</annotation>
+		<annotation cp="🏃‍➡">eilig | joggen | laufen | Laufen | laufende Person | Läufer | Läuferin | Marathon | nach | Person | rechts | rennen | schnell | Sport</annotation>
+		<annotation cp="🏃‍➡" type="tts">laufende Person: nach rechts</annotation>
+		<annotation cp="🏃🏻‍➡">eilig | helle Hautfarbe | joggen | laufen | Laufen | laufende Person | Läufer | Läuferin | Marathon | nach | Person | rechts | rennen | schnell | Sport</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">laufende Person: helle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🏃🏼‍➡">eilig | joggen | laufen | Laufen | laufende Person | Läufer | Läuferin | Marathon | mittelhelle Hautfarbe | nach | Person | rechts | rennen | schnell | Sport</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">laufende Person: mittelhelle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🏃🏽‍➡">eilig | joggen | laufen | Laufen | laufende Person | Läufer | Läuferin | Marathon | mittlere Hautfarbe | nach | Person | rechts | rennen | schnell | Sport</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">laufende Person: mittlere Hautfarbe, nach rechts</annotation>
+		<annotation cp="🏃🏾‍➡">eilig | joggen | laufen | Laufen | laufende Person | Läufer | Läuferin | Marathon | mitteldunkle Hautfarbe | nach | Person | rechts | rennen | schnell | Sport</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">laufende Person: mitteldunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🏃🏿‍➡">dunkle Hautfarbe | eilig | joggen | laufen | Laufen | laufende Person | Läufer | Läuferin | Marathon | nach | Person | rechts | rennen | schnell | Sport</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">laufende Person: dunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🏃‍♀‍➡">Athlet | Athletin | Frau | joggen | Joggerin | laufen | Laufen | laufende Frau | Läufer | Läuferin | Marathon | nach | rechts | rennen | Renner | Rennerin | rennt | schell</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">laufende Frau: nach rechts</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">Athlet | Athletin | Frau | helle Hautfarbe | joggen | Joggerin | laufen | Laufen | laufende Frau | Läufer | Läuferin | Marathon | nach | rechts | rennen | Renner | Rennerin | rennt | schell</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">laufende Frau: helle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">Athlet | Athletin | Frau | joggen | Joggerin | laufen | Laufen | laufende Frau | Läufer | Läuferin | Marathon | mittelhelle Hautfarbe | nach | rechts | rennen | Renner | Rennerin | rennt | schell</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">laufende Frau: mittelhelle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">Athlet | Athletin | Frau | joggen | Joggerin | laufen | Laufen | laufende Frau | Läufer | Läuferin | Marathon | mittlere Hautfarbe | nach | rechts | rennen | Renner | Rennerin | rennt | schell</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">laufende Frau: mittlere Hautfarbe, nach rechts</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">Athlet | Athletin | Frau | joggen | Joggerin | laufen | Laufen | laufende Frau | Läufer | Läuferin | Marathon | mitteldunkle Hautfarbe | nach | rechts | rennen | Renner | Rennerin | rennt | schell</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">laufende Frau: mitteldunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">Athlet | Athletin | dunkle Hautfarbe | Frau | joggen | Joggerin | laufen | Laufen | laufende Frau | Läufer | Läuferin | Marathon | nach | rechts | rennen | Renner | Rennerin | rennt | schell</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">laufende Frau: dunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🏃‍♂‍➡">joggen | Jogger | laufen | laufender Mann | Marathon | nach | rechts</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">laufender Mann: nach rechts</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">helle Hautfarbe | joggen | Jogger | laufen | laufender Mann | Marathon | nach | rechts</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">laufender Mann: helle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">joggen | Jogger | laufen | laufender Mann | Marathon | mittelhelle Hautfarbe | nach | rechts</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">laufender Mann: mittelhelle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">joggen | Jogger | laufen | laufender Mann | Marathon | mittlere Hautfarbe | nach | rechts</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">laufender Mann: mittlere Hautfarbe, nach rechts</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">joggen | Jogger | laufen | laufender Mann | Marathon | mitteldunkle Hautfarbe | nach | rechts</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">laufender Mann: mitteldunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">dunkle Hautfarbe | joggen | Jogger | laufen | laufender Mann | Marathon | nach | rechts</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">laufender Mann: dunkle Hautfarbe, nach rechts</annotation>
+		<annotation cp="💃🏻">elegant | festlich | Flair | Flamenco | Frau | helle Hautfarbe | Salsa | Schwung | Tango | Tanz | Tanzen | Tänzerin</annotation>
 		<annotation cp="💃🏻" type="tts">tanzende Frau: helle Hautfarbe</annotation>
-		<annotation cp="💃🏼">Frau | mittelhelle Hautfarbe | Tanz | tanzen | tanzende Frau | Tänzerin</annotation>
+		<annotation cp="💃🏼">elegant | festlich | Flair | Flamenco | Frau | mittelhelle Hautfarbe | Salsa | Schwung | Tango | Tanz | Tanzen | Tänzerin</annotation>
 		<annotation cp="💃🏼" type="tts">tanzende Frau: mittelhelle Hautfarbe</annotation>
-		<annotation cp="💃🏽">Frau | mittlere Hautfarbe | Tanz | tanzen | tanzende Frau | Tänzerin</annotation>
+		<annotation cp="💃🏽">elegant | festlich | Flair | Flamenco | Frau | mittlere Hautfarbe | Salsa | Schwung | Tango | Tanz | Tanzen | Tänzerin</annotation>
 		<annotation cp="💃🏽" type="tts">tanzende Frau: mittlere Hautfarbe</annotation>
-		<annotation cp="💃🏾">Frau | mitteldunkle Hautfarbe | Tanz | tanzen | tanzende Frau | Tänzerin</annotation>
+		<annotation cp="💃🏾">elegant | festlich | Flair | Flamenco | Frau | mitteldunkle Hautfarbe | Salsa | Schwung | Tango | Tanz | Tanzen | Tänzerin</annotation>
 		<annotation cp="💃🏾" type="tts">tanzende Frau: mitteldunkle Hautfarbe</annotation>
-		<annotation cp="💃🏿">dunkle Hautfarbe | Frau | Tanz | tanzen | tanzende Frau | Tänzerin</annotation>
+		<annotation cp="💃🏿">dunkle Hautfarbe | elegant | festlich | Flair | Flamenco | Frau | Salsa | Schwung | Tango | Tanz | Tanzen | Tänzerin</annotation>
 		<annotation cp="💃🏿" type="tts">tanzende Frau: dunkle Hautfarbe</annotation>
-		<annotation cp="🕺🏻">helle Hautfarbe | Mann | tanzen | tanzender Mann</annotation>
+		<annotation cp="🕺🏻">elegant | festlich | Flair | Flamenco | helle Hautfarbe | Mann | Salsa | Schwung | Tango | Tanz | Tanzen | Tänzer</annotation>
 		<annotation cp="🕺🏻" type="tts">tanzender Mann: helle Hautfarbe</annotation>
-		<annotation cp="🕺🏼">Mann | mittelhelle Hautfarbe | tanzen | tanzender Mann</annotation>
+		<annotation cp="🕺🏼">elegant | festlich | Flair | Flamenco | Mann | mittelhelle Hautfarbe | Salsa | Schwung | Tango | Tanz | Tanzen | Tänzer</annotation>
 		<annotation cp="🕺🏼" type="tts">tanzender Mann: mittelhelle Hautfarbe</annotation>
-		<annotation cp="🕺🏽">Mann | mittlere Hautfarbe | tanzen | tanzender Mann</annotation>
+		<annotation cp="🕺🏽">elegant | festlich | Flair | Flamenco | Mann | mittlere Hautfarbe | Salsa | Schwung | Tango | Tanz | Tanzen | Tänzer</annotation>
 		<annotation cp="🕺🏽" type="tts">tanzender Mann: mittlere Hautfarbe</annotation>
-		<annotation cp="🕺🏾">Mann | mitteldunkle Hautfarbe | tanzen | tanzender Mann</annotation>
+		<annotation cp="🕺🏾">elegant | festlich | Flair | Flamenco | Mann | mitteldunkle Hautfarbe | Salsa | Schwung | Tango | Tanz | Tanzen | Tänzer</annotation>
 		<annotation cp="🕺🏾" type="tts">tanzender Mann: mitteldunkle Hautfarbe</annotation>
-		<annotation cp="🕺🏿">dunkle Hautfarbe | Mann | tanzen | tanzender Mann</annotation>
+		<annotation cp="🕺🏿">dunkle Hautfarbe | elegant | festlich | Flair | Flamenco | Mann | Salsa | Schwung | Tango | Tanz | Tanzen | Tänzer</annotation>
 		<annotation cp="🕺🏿" type="tts">tanzender Mann: dunkle Hautfarbe</annotation>
 		<annotation cp="🕴🏻">Anzug | geschäftlich | helle Hautfarbe | Mann | schwebender Mann im Anzug | Schwebender Mann im Anzug</annotation>
 		<annotation cp="🕴🏻" type="tts">schwebender Mann im Anzug: helle Hautfarbe</annotation>
@@ -3113,6 +3363,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🕴🏾" type="tts">schwebender Mann im Anzug: mitteldunkle Hautfarbe</annotation>
 		<annotation cp="🕴🏿">Anzug | dunkle Hautfarbe | geschäftlich | Mann | schwebender Mann im Anzug | Schwebender Mann im Anzug</annotation>
 		<annotation cp="🕴🏿" type="tts">schwebender Mann im Anzug: dunkle Hautfarbe</annotation>
+		<annotation cp="👯🏻">Bunny | Bunnys | doppelt | Hasenohren | helle Hautfarbe | Leute | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="👯🏻" type="tts">Personen mit Hasenohren: helle Hautfarbe</annotation>
+		<annotation cp="👯🏼">Bunny | Bunnys | doppelt | Hasenohren | Leute | mittelhelle Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="👯🏼" type="tts">Personen mit Hasenohren: mittelhelle Hautfarbe</annotation>
+		<annotation cp="👯🏽">Bunny | Bunnys | doppelt | Hasenohren | Leute | mittlere Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="👯🏽" type="tts">Personen mit Hasenohren: mittlere Hautfarbe</annotation>
+		<annotation cp="👯🏾">Bunny | Bunnys | doppelt | Hasenohren | Leute | mitteldunkle Hautfarbe | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="👯🏾" type="tts">Personen mit Hasenohren: mitteldunkle Hautfarbe</annotation>
+		<annotation cp="👯🏿">Bunny | Bunnys | doppelt | dunkle Hautfarbe | Hasenohren | Leute | Party | Person | Personen mit Hasenohren | seelenverwandt | Tanzen | Tänzerinnen | Zwillinge</annotation>
+		<annotation cp="👯🏿" type="tts">Personen mit Hasenohren: dunkle Hautfarbe</annotation>
+		<annotation cp="👯🏻‍♀">Bunnys | Frauen | Frauen mit Hasenohren | Hasenohren | helle Hautfarbe | Party</annotation>
+		<annotation cp="👯🏻‍♀" type="tts">Frauen mit Hasenohren: helle Hautfarbe</annotation>
+		<annotation cp="👯🏼‍♀">Bunnys | Frauen | Frauen mit Hasenohren | Hasenohren | mittelhelle Hautfarbe | Party</annotation>
+		<annotation cp="👯🏼‍♀" type="tts">Frauen mit Hasenohren: mittelhelle Hautfarbe</annotation>
+		<annotation cp="👯🏽‍♀">Bunnys | Frauen | Frauen mit Hasenohren | Hasenohren | mittlere Hautfarbe | Party</annotation>
+		<annotation cp="👯🏽‍♀" type="tts">Frauen mit Hasenohren: mittlere Hautfarbe</annotation>
+		<annotation cp="👯🏾‍♀">Bunnys | Frauen | Frauen mit Hasenohren | Hasenohren | mitteldunkle Hautfarbe | Party</annotation>
+		<annotation cp="👯🏾‍♀" type="tts">Frauen mit Hasenohren: mitteldunkle Hautfarbe</annotation>
+		<annotation cp="👯🏿‍♀">Bunnys | dunkle Hautfarbe | Frauen | Frauen mit Hasenohren | Hasenohren | Party</annotation>
+		<annotation cp="👯🏿‍♀" type="tts">Frauen mit Hasenohren: dunkle Hautfarbe</annotation>
+		<annotation cp="👯🏻‍♂">Bunnys | Hasenohren | helle Hautfarbe | Männer | Männer mit Hasenohren | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👯🏻‍♂" type="tts">Männer mit Hasenohren: helle Hautfarbe</annotation>
+		<annotation cp="👯🏼‍♂">Bunnys | Hasenohren | Männer | Männer mit Hasenohren | mittelhelle Hautfarbe | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👯🏼‍♂" type="tts">Männer mit Hasenohren: mittelhelle Hautfarbe</annotation>
+		<annotation cp="👯🏽‍♂">Bunnys | Hasenohren | Männer | Männer mit Hasenohren | mittlere Hautfarbe | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👯🏽‍♂" type="tts">Männer mit Hasenohren: mittlere Hautfarbe</annotation>
+		<annotation cp="👯🏾‍♂">Bunnys | Hasenohren | Männer | Männer mit Hasenohren | mitteldunkle Hautfarbe | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👯🏾‍♂" type="tts">Männer mit Hasenohren: mitteldunkle Hautfarbe</annotation>
+		<annotation cp="👯🏿‍♂">Bunnys | dunkle Hautfarbe | Hasenohren | Männer | Männer mit Hasenohren | Party | tanzen | Zwillinge</annotation>
+		<annotation cp="👯🏿‍♂" type="tts">Männer mit Hasenohren: dunkle Hautfarbe</annotation>
 		<annotation cp="🧖🏻">abschalten | Dampfbad | Dampfsauna | entspannen | Frau | helle Hautfarbe | luxuriös | Person | Person in Dampfsauna | Relaxen | Sauna | Spa</annotation>
 		<annotation cp="🧖🏻" type="tts">Person in Dampfsauna: helle Hautfarbe</annotation>
 		<annotation cp="🧖🏼">abschalten | Dampfbad | Dampfsauna | entspannen | Frau | luxuriös | mittelhelle Hautfarbe | Person | Person in Dampfsauna | Relaxen | Sauna | Spa</annotation>
@@ -3463,6 +3743,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤸🏾‍♀" type="tts">Rad schlagende Frau: mitteldunkle Hautfarbe</annotation>
 		<annotation cp="🤸🏿‍♀">Akrobatik | Bodenturnen | dunkle Hautfarbe | Frau | Gymnastik | Person | Rad | Rad schlagen | Rad schlagende Frau | Radschlag | Sport | Turnerin</annotation>
 		<annotation cp="🤸🏿‍♀" type="tts">Rad schlagende Frau: dunkle Hautfarbe</annotation>
+		<annotation cp="🤼🏻">Catchen | Catcher | helle Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🤼🏻" type="tts">Ringer(in): helle Hautfarbe</annotation>
+		<annotation cp="🤼🏼">Catchen | Catcher | mittelhelle Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🤼🏼" type="tts">Ringer(in): mittelhelle Hautfarbe</annotation>
+		<annotation cp="🤼🏽">Catchen | Catcher | mittlere Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🤼🏽" type="tts">Ringer(in): mittlere Hautfarbe</annotation>
+		<annotation cp="🤼🏾">Catchen | Catcher | mitteldunkle Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🤼🏾" type="tts">Ringer(in): mitteldunkle Hautfarbe</annotation>
+		<annotation cp="🤼🏿">Catchen | Catcher | dunkle Hautfarbe | Person | ringen | Ringer | Ringer(in) | Ringkampf | Sport | Sportler | Wrestler | Wrestling</annotation>
+		<annotation cp="🤼🏿" type="tts">Ringer(in): dunkle Hautfarbe</annotation>
+		<annotation cp="🤼🏻‍♀">catchen | Catcherin | helle Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="🤼🏻‍♀" type="tts">ringende Frauen: helle Hautfarbe</annotation>
+		<annotation cp="🤼🏼‍♀">catchen | Catcherin | mittelhelle Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="🤼🏼‍♀" type="tts">ringende Frauen: mittelhelle Hautfarbe</annotation>
+		<annotation cp="🤼🏽‍♀">catchen | Catcherin | mittlere Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="🤼🏽‍♀" type="tts">ringende Frauen: mittlere Hautfarbe</annotation>
+		<annotation cp="🤼🏾‍♀">catchen | Catcherin | mitteldunkle Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="🤼🏾‍♀" type="tts">ringende Frauen: mitteldunkle Hautfarbe</annotation>
+		<annotation cp="🤼🏿‍♀">catchen | Catcherin | dunkle Hautfarbe | Person | ringen | ringende Frauen | Ringer | Ringerin | Ringkampf | Sport | Wrestlerin | Wrestling</annotation>
+		<annotation cp="🤼🏿‍♀" type="tts">ringende Frauen: dunkle Hautfarbe</annotation>
+		<annotation cp="🤼🏻‍♂">Catchen | Catcher | helle Hautfarbe | Männer | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="🤼🏻‍♂" type="tts">ringende Männer: helle Hautfarbe</annotation>
+		<annotation cp="🤼🏼‍♂">Catchen | Catcher | Männer | mittelhelle Hautfarbe | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="🤼🏼‍♂" type="tts">ringende Männer: mittelhelle Hautfarbe</annotation>
+		<annotation cp="🤼🏽‍♂">Catchen | Catcher | Männer | mittlere Hautfarbe | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="🤼🏽‍♂" type="tts">ringende Männer: mittlere Hautfarbe</annotation>
+		<annotation cp="🤼🏾‍♂">Catchen | Catcher | Männer | mitteldunkle Hautfarbe | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="🤼🏾‍♂" type="tts">ringende Männer: mitteldunkle Hautfarbe</annotation>
+		<annotation cp="🤼🏿‍♂">Catchen | Catcher | dunkle Hautfarbe | Männer | ringen | Ringer | Ringkampf | Sport | Wrestler | Wrestling</annotation>
+		<annotation cp="🤼🏿‍♂" type="tts">ringende Männer: dunkle Hautfarbe</annotation>
 		<annotation cp="🤽🏻">helle Hautfarbe | Person | Schwimmsport | Sport | Sportler | Sportlerin | Wasser | Wasserball | Wasserballspieler | Wasserballspieler(in) | Wasserballspielerin | Wassersport</annotation>
 		<annotation cp="🤽🏻" type="tts">Wasserballspieler(in): helle Hautfarbe</annotation>
 		<annotation cp="🤽🏼">mittelhelle Hautfarbe | Person | Schwimmsport | Sport | Sportler | Sportlerin | Wasser | Wasserball | Wasserballspieler | Wasserballspieler(in) | Wasserballspielerin | Wassersport</annotation>
@@ -3993,6 +4303,8 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🇨🇴" type="tts">Flagge: Kolumbien</annotation>
 		<annotation cp="🇨🇵">Flagge</annotation>
 		<annotation cp="🇨🇵" type="tts">Flagge: Clipperton-Insel</annotation>
+		<annotation cp="🇨🇶">Flagge</annotation>
+		<annotation cp="🇨🇶" type="tts">Flagge: Sark</annotation>
 		<annotation cp="🇨🇷">Flagge</annotation>
 		<annotation cp="🇨🇷" type="tts">Flagge: Costa Rica</annotation>
 		<annotation cp="🇨🇺">Flagge</annotation>
@@ -4432,26 +4744,6 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="₺" type="tts">Türkische Lira</annotation>
 		<annotation cp="₼" type="tts">Aserbaidschan-Manat</annotation>
 		<annotation cp="₾" type="tts">Georgischer Lari</annotation>
-		<annotation cp="0⃣">Taste</annotation>
-		<annotation cp="0⃣" type="tts">Taste: 0</annotation>
-		<annotation cp="1⃣">Taste</annotation>
-		<annotation cp="1⃣" type="tts">Taste: 1</annotation>
-		<annotation cp="2⃣">Taste</annotation>
-		<annotation cp="2⃣" type="tts">Taste: 2</annotation>
-		<annotation cp="3⃣">Taste</annotation>
-		<annotation cp="3⃣" type="tts">Taste: 3</annotation>
-		<annotation cp="4⃣">Taste</annotation>
-		<annotation cp="4⃣" type="tts">Taste: 4</annotation>
-		<annotation cp="5⃣">Taste</annotation>
-		<annotation cp="5⃣" type="tts">Taste: 5</annotation>
-		<annotation cp="6⃣">Taste</annotation>
-		<annotation cp="6⃣" type="tts">Taste: 6</annotation>
-		<annotation cp="7⃣">Taste</annotation>
-		<annotation cp="7⃣" type="tts">Taste: 7</annotation>
-		<annotation cp="8⃣">Taste</annotation>
-		<annotation cp="8⃣" type="tts">Taste: 8</annotation>
-		<annotation cp="9⃣">Taste</annotation>
-		<annotation cp="9⃣" type="tts">Taste: 9</annotation>
 		<annotation cp="₧" type="tts">Spanische Peseta</annotation>
 	</annotations>
 </ldml>

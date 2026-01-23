@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -24,16 +24,41 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🖖🏾" type="tts">Vulcan salute: medium-dark skin tone</annotation>
 		<annotation cp="🖖🏿">dark skin tone | finger | hand | spock | vulcan | Vulcan salute</annotation>
 		<annotation cp="🖖🏿" type="tts">Vulcan salute: dark skin tone</annotation>
+		<annotation cp="🫷🏻">block | five | halt | hand | high | hold | light skin tone | pause | push | refuse | slap | stop | wait undefined</annotation>
+		<annotation cp="🫷🏼">block | five | halt | hand | high | hold | medium-light skin tone | pause | push | refuse | slap | stop | wait undefined</annotation>
+		<annotation cp="🫷🏽">block | five | halt | hand | high | hold | medium skin tone | pause | push | refuse | slap | stop | wait undefined</annotation>
+		<annotation cp="🫷🏾">block | five | halt | hand | high | hold | medium-dark skin tone | pause | push | refuse | slap | stop | wait undefined</annotation>
+		<annotation cp="🫷🏿">block | dark skin tone | five | halt | hand | high | hold | pause | push | refuse | slap | stop | wait undefined</annotation>
+		<annotation cp="🫸🏻">block | five | halt | hand | high | hold | light skin tone | pause | push | pushing | refuse | slap | stop | wait undefined</annotation>
+		<annotation cp="🫸🏼">block | five | halt | hand | high | hold | medium-light skin tone | pause | push | pushing | refuse | slap | stop | wait undefined</annotation>
+		<annotation cp="🫸🏽">block | five | halt | hand | high | hold | medium skin tone | pause | push | pushing | refuse | slap | stop | wait undefined</annotation>
+		<annotation cp="🫸🏾">block | five | halt | hand | high | hold | medium-dark skin tone | pause | push | pushing | refuse | slap | stop | wait undefined</annotation>
+		<annotation cp="🫸🏿">block | dark skin tone | five | halt | hand | high | hold | pause | push | pushing | refuse | slap | stop | wait undefined</annotation>
+		<annotation cp="🤌🏻">fingers | gesture | hand | hold | huh | interrogation | light skin tone | patience | relax | sarcastic | ugh | what | zip</annotation>
+		<annotation cp="🤌🏼">fingers | gesture | hand | hold | huh | interrogation | medium-light skin tone | patience | relax | sarcastic | ugh | what | zip</annotation>
+		<annotation cp="🤌🏽">fingers | gesture | hand | hold | huh | interrogation | medium skin tone | patience | relax | sarcastic | ugh | what | zip</annotation>
+		<annotation cp="🤌🏾">fingers | gesture | hand | hold | huh | interrogation | medium-dark skin tone | patience | relax | sarcastic | ugh | what | zip</annotation>
+		<annotation cp="🤌🏿">dark skin tone | fingers | gesture | hand | hold | huh | interrogation | patience | relax | sarcastic | ugh | what | zip</annotation>
 		<annotation cp="🤙🏻">call | call me hand | call-me hand | hand | light skin tone | shaka</annotation>
 		<annotation cp="🤙🏼">call | call me hand | call-me hand | hand | medium-light skin tone | shaka</annotation>
 		<annotation cp="🤙🏽">call | call me hand | call-me hand | hand | medium skin tone | shaka</annotation>
 		<annotation cp="🤙🏾">call | call me hand | call-me hand | hand | medium-dark skin tone | shaka</annotation>
 		<annotation cp="🤙🏿">call | call me hand | call-me hand | dark skin tone | hand | shaka</annotation>
+		<annotation cp="👊🏻">absolutely | agree | boom | bro | bruh | bump | clenched | correct | fist | hand | knuckle | light skin tone | pound | punch | rock | ttyl</annotation>
+		<annotation cp="👊🏼">absolutely | agree | boom | bro | bruh | bump | clenched | correct | fist | hand | knuckle | medium-light skin tone | pound | punch | rock | ttyl</annotation>
+		<annotation cp="👊🏽">absolutely | agree | boom | bro | bruh | bump | clenched | correct | fist | hand | knuckle | medium skin tone | pound | punch | rock | ttyl</annotation>
+		<annotation cp="👊🏾">absolutely | agree | boom | bro | bruh | bump | clenched | correct | fist | hand | knuckle | medium-dark skin tone | pound | punch | rock | ttyl</annotation>
+		<annotation cp="👊🏿">absolutely | agree | boom | bro | bruh | bump | clenched | correct | dark skin tone | fist | hand | knuckle | pound | punch | rock | ttyl</annotation>
 		<annotation cp="🙌🏻">celebration | gesture | hand | hooray | light skin tone | raised | raising hands</annotation>
 		<annotation cp="🙌🏼">celebration | gesture | hand | hooray | medium-light skin tone | raised | raising hands</annotation>
 		<annotation cp="🙌🏽">celebration | gesture | hand | hooray | medium skin tone | raised | raising hands</annotation>
 		<annotation cp="🙌🏾">celebration | gesture | hand | hooray | medium-dark skin tone | raised | raising hands</annotation>
 		<annotation cp="🙌🏿">celebration | dark skin tone | gesture | hand | hooray | raised | raising hands</annotation>
+		<annotation cp="🙏🏻">appreciate | ask | beg | blessed | bow | cmon | five | gesture | hand | high | light skin tone | please | pray | thanks | thx</annotation>
+		<annotation cp="🙏🏼">appreciate | ask | beg | blessed | bow | cmon | five | gesture | hand | high | medium-light skin tone | please | pray | thanks | thx</annotation>
+		<annotation cp="🙏🏽">appreciate | ask | beg | blessed | bow | cmon | five | gesture | hand | high | medium skin tone | please | pray | thanks | thx</annotation>
+		<annotation cp="🙏🏾">appreciate | ask | beg | blessed | bow | cmon | five | gesture | hand | high | medium-dark skin tone | please | pray | thanks | thx</annotation>
+		<annotation cp="🙏🏿">appreciate | ask | beg | blessed | bow | cmon | dark skin tone | five | gesture | hand | high | please | pray | thanks | thx</annotation>
 		<annotation cp="👦🏻">boy | light skin tone | young | young person</annotation>
 		<annotation cp="👦🏼">boy | medium-light skin tone | young | young person</annotation>
 		<annotation cp="👦🏽">boy | medium skin tone | young | young person</annotation>
@@ -44,6 +69,286 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👧🏽">girl | medium skin tone | Virgo | young person | zodiac</annotation>
 		<annotation cp="👧🏾">girl | medium-dark skin tone | Virgo | young person | zodiac</annotation>
 		<annotation cp="👧🏿">dark skin tone | girl | Virgo | young person | zodiac</annotation>
+		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | medium-light skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="🧑🏻‍❤‍💋‍🧑🏽">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | medium skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="🧑🏻‍❤‍💋‍🧑🏾">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | medium-dark skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="🧑🏻‍❤‍💋‍🧑🏿">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | light skin tone | love | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="🧑🏼‍❤‍💋‍🧑🏻">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | medium-light skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="🧑🏼‍❤‍💋‍🧑🏽">anniversary | babe | bae | couple | date | dating | heart | love | medium skin tone | medium-light skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="🧑🏼‍❤‍💋‍🧑🏾">anniversary | babe | bae | couple | date | dating | heart | love | medium-dark skin tone | medium-light skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="🧑🏼‍❤‍💋‍🧑🏿">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | medium-light skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="🧑🏽‍❤‍💋‍🧑🏻">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | medium skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="🧑🏽‍❤‍💋‍🧑🏼">anniversary | babe | bae | couple | date | dating | heart | love | medium skin tone | medium-light skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="🧑🏽‍❤‍💋‍🧑🏾">anniversary | babe | bae | couple | date | dating | heart | love | medium skin tone | medium-dark skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="🧑🏽‍❤‍💋‍🧑🏿">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | medium skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="🧑🏾‍❤‍💋‍🧑🏻">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | medium-dark skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="🧑🏾‍❤‍💋‍🧑🏼">anniversary | babe | bae | couple | date | dating | heart | love | medium-dark skin tone | medium-light skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="🧑🏾‍❤‍💋‍🧑🏽">anniversary | babe | bae | couple | date | dating | heart | love | medium skin tone | medium-dark skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="🧑🏾‍❤‍💋‍🧑🏿">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | medium-dark skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="🧑🏿‍❤‍💋‍🧑🏻">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | light skin tone | love | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="🧑🏿‍❤‍💋‍🧑🏼">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | medium-light skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="🧑🏿‍❤‍💋‍🧑🏽">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | medium skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="🧑🏿‍❤‍💋‍🧑🏾">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | medium-dark skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="🧑🏻‍❤‍🧑🏼">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | medium-light skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="🧑🏻‍❤‍🧑🏽">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | medium skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="🧑🏻‍❤‍🧑🏾">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | medium-dark skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="🧑🏻‍❤‍🧑🏿">anniversary | babe | bae | dark skin tone | dating | heart | kiss | light skin tone | love | person | relationship | romance | together | you</annotation>
+		<annotation cp="🧑🏼‍❤‍🧑🏻">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | medium-light skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="🧑🏼‍❤‍🧑🏽">anniversary | babe | bae | dating | heart | kiss | love | medium skin tone | medium-light skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="🧑🏼‍❤‍🧑🏾">anniversary | babe | bae | dating | heart | kiss | love | medium-dark skin tone | medium-light skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="🧑🏼‍❤‍🧑🏿">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | medium-light skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="🧑🏽‍❤‍🧑🏻">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | medium skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="🧑🏽‍❤‍🧑🏼">anniversary | babe | bae | dating | heart | kiss | love | medium skin tone | medium-light skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="🧑🏽‍❤‍🧑🏾">anniversary | babe | bae | dating | heart | kiss | love | medium skin tone | medium-dark skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="🧑🏽‍❤‍🧑🏿">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | medium skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="🧑🏾‍❤‍🧑🏻">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | medium-dark skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="🧑🏾‍❤‍🧑🏼">anniversary | babe | bae | dating | heart | kiss | love | medium-dark skin tone | medium-light skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="🧑🏾‍❤‍🧑🏽">anniversary | babe | bae | dating | heart | kiss | love | medium skin tone | medium-dark skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="🧑🏾‍❤‍🧑🏿">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | medium-dark skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="🧑🏿‍❤‍🧑🏻">anniversary | babe | bae | dark skin tone | dating | heart | kiss | light skin tone | love | person | relationship | romance | together | you</annotation>
+		<annotation cp="🧑🏿‍❤‍🧑🏼">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | medium-light skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="🧑🏿‍❤‍🧑🏽">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | medium skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="🧑🏿‍❤‍🧑🏾">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | medium-dark skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼">bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | medium-light skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽">bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | medium skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾">bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | medium-dark skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | light skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻">bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | medium-light skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium skin tone | medium-light skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium-dark skin tone | medium-light skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | medium-light skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻">bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | medium skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium skin tone | medium-light skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium skin tone | medium-dark skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | medium skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻">bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | medium-dark skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium-dark skin tone | medium-light skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium skin tone | medium-dark skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | medium-dark skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | light skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | medium-light skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | medium skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | medium-dark skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="👨🏻‍❤‍💋‍👨🏻">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | man | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏻‍❤‍💋‍👨🏼">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | man | medium-light skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏻‍❤‍💋‍👨🏽">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | man | medium skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏻‍❤‍💋‍👨🏾">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | man | medium-dark skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏻‍❤‍💋‍👨🏿">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | light skin tone | love | man | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏼‍❤‍💋‍👨🏻">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | man | medium-light skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏼‍❤‍💋‍👨🏼">anniversary | babe | bae | couple | date | dating | heart | love | man | medium-light skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏼‍❤‍💋‍👨🏽">anniversary | babe | bae | couple | date | dating | heart | love | man | medium skin tone | medium-light skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏼‍❤‍💋‍👨🏾">anniversary | babe | bae | couple | date | dating | heart | love | man | medium-dark skin tone | medium-light skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏼‍❤‍💋‍👨🏿">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | man | medium-light skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏽‍❤‍💋‍👨🏻">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | man | medium skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏽‍❤‍💋‍👨🏼">anniversary | babe | bae | couple | date | dating | heart | love | man | medium skin tone | medium-light skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏽‍❤‍💋‍👨🏽">anniversary | babe | bae | couple | date | dating | heart | love | man | medium skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏽‍❤‍💋‍👨🏾">anniversary | babe | bae | couple | date | dating | heart | love | man | medium skin tone | medium-dark skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏽‍❤‍💋‍👨🏿">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | man | medium skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏾‍❤‍💋‍👨🏻">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | man | medium-dark skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏾‍❤‍💋‍👨🏼">anniversary | babe | bae | couple | date | dating | heart | love | man | medium-dark skin tone | medium-light skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏾‍❤‍💋‍👨🏽">anniversary | babe | bae | couple | date | dating | heart | love | man | medium skin tone | medium-dark skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏾‍❤‍💋‍👨🏾">anniversary | babe | bae | couple | date | dating | heart | love | man | medium-dark skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏾‍❤‍💋‍👨🏿">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | man | medium-dark skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏿‍❤‍💋‍👨🏻">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | light skin tone | love | man | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏿‍❤‍💋‍👨🏼">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | man | medium-light skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏿‍❤‍💋‍👨🏽">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | man | medium skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏿‍❤‍💋‍👨🏾">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | man | medium-dark skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏿‍❤‍💋‍👨🏿">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | man | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👨🏻‍❤‍👨🏻">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | man | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏻‍❤‍👨🏼">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | man | medium-light skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏻‍❤‍👨🏽">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | man | medium skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏻‍❤‍👨🏾">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | man | medium-dark skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏻‍❤‍👨🏿">anniversary | babe | bae | dark skin tone | dating | heart | kiss | light skin tone | love | man | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏼‍❤‍👨🏻">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | man | medium-light skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏼‍❤‍👨🏼">anniversary | babe | bae | dating | heart | kiss | love | man | medium-light skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏼‍❤‍👨🏽">anniversary | babe | bae | dating | heart | kiss | love | man | medium skin tone | medium-light skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏼‍❤‍👨🏾">anniversary | babe | bae | dating | heart | kiss | love | man | medium-dark skin tone | medium-light skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏼‍❤‍👨🏿">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | man | medium-light skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏽‍❤‍👨🏻">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | man | medium skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏽‍❤‍👨🏼">anniversary | babe | bae | dating | heart | kiss | love | man | medium skin tone | medium-light skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏽‍❤‍👨🏽">anniversary | babe | bae | dating | heart | kiss | love | man | medium skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏽‍❤‍👨🏾">anniversary | babe | bae | dating | heart | kiss | love | man | medium skin tone | medium-dark skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏽‍❤‍👨🏿">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | man | medium skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏾‍❤‍👨🏻">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | man | medium-dark skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏾‍❤‍👨🏼">anniversary | babe | bae | dating | heart | kiss | love | man | medium-dark skin tone | medium-light skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏾‍❤‍👨🏽">anniversary | babe | bae | dating | heart | kiss | love | man | medium skin tone | medium-dark skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏾‍❤‍👨🏾">anniversary | babe | bae | dating | heart | kiss | love | man | medium-dark skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏾‍❤‍👨🏿">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | man | medium-dark skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏿‍❤‍👨🏻">anniversary | babe | bae | dark skin tone | dating | heart | kiss | light skin tone | love | man | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏿‍❤‍👨🏼">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | man | medium-light skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏿‍❤‍👨🏽">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | man | medium skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏿‍❤‍👨🏾">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | man | medium-dark skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏿‍❤‍👨🏿">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | man | person | relationship | romance | together | you</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼">bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | medium-light skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽">bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | medium skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾">bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | medium-dark skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | light skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻">bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | medium-light skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium skin tone | medium-light skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium-dark skin tone | medium-light skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | medium-light skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻">bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | medium skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium skin tone | medium-light skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium skin tone | medium-dark skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | medium skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻">bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | medium-dark skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium-dark skin tone | medium-light skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium skin tone | medium-dark skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | medium-dark skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | light skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | medium-light skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | medium skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | medium-dark skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👩🏻‍❤‍💋‍👨🏻">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | man | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏻‍❤‍💋‍👨🏼">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | man | medium-light skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏻‍❤‍💋‍👨🏽">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | man | medium skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏻‍❤‍💋‍👨🏾">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | man | medium-dark skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏻‍❤‍💋‍👨🏿">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | light skin tone | love | man | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏼‍❤‍💋‍👨🏻">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | man | medium-light skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏼‍❤‍💋‍👨🏼">anniversary | babe | bae | couple | date | dating | heart | love | man | medium-light skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏼‍❤‍💋‍👨🏽">anniversary | babe | bae | couple | date | dating | heart | love | man | medium skin tone | medium-light skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏼‍❤‍💋‍👨🏾">anniversary | babe | bae | couple | date | dating | heart | love | man | medium-dark skin tone | medium-light skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏼‍❤‍💋‍👨🏿">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | man | medium-light skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏽‍❤‍💋‍👨🏻">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | man | medium skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏽‍❤‍💋‍👨🏼">anniversary | babe | bae | couple | date | dating | heart | love | man | medium skin tone | medium-light skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏽‍❤‍💋‍👨🏽">anniversary | babe | bae | couple | date | dating | heart | love | man | medium skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏽‍❤‍💋‍👨🏾">anniversary | babe | bae | couple | date | dating | heart | love | man | medium skin tone | medium-dark skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏽‍❤‍💋‍👨🏿">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | man | medium skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏾‍❤‍💋‍👨🏻">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | man | medium-dark skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏾‍❤‍💋‍👨🏼">anniversary | babe | bae | couple | date | dating | heart | love | man | medium-dark skin tone | medium-light skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏾‍❤‍💋‍👨🏽">anniversary | babe | bae | couple | date | dating | heart | love | man | medium skin tone | medium-dark skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏾‍❤‍💋‍👨🏾">anniversary | babe | bae | couple | date | dating | heart | love | man | medium-dark skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏾‍❤‍💋‍👨🏿">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | man | medium-dark skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏿‍❤‍💋‍👨🏻">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | light skin tone | love | man | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏿‍❤‍💋‍👨🏼">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | man | medium-light skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏿‍❤‍💋‍👨🏽">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | man | medium skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏿‍❤‍💋‍👨🏾">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | man | medium-dark skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏿‍❤‍💋‍👨🏿">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | man | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏻‍❤‍💋‍👩🏻">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏻‍❤‍💋‍👩🏼">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | medium-light skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏻‍❤‍💋‍👩🏽">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | medium skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏻‍❤‍💋‍👩🏾">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | medium-dark skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏻‍❤‍💋‍👩🏿">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | light skin tone | love | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏼‍❤‍💋‍👩🏻">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | medium-light skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏼‍❤‍💋‍👩🏼">anniversary | babe | bae | couple | date | dating | heart | love | medium-light skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏼‍❤‍💋‍👩🏽">anniversary | babe | bae | couple | date | dating | heart | love | medium skin tone | medium-light skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏼‍❤‍💋‍👩🏾">anniversary | babe | bae | couple | date | dating | heart | love | medium-dark skin tone | medium-light skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏼‍❤‍💋‍👩🏿">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | medium-light skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏽‍❤‍💋‍👩🏻">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | medium skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏽‍❤‍💋‍👩🏼">anniversary | babe | bae | couple | date | dating | heart | love | medium skin tone | medium-light skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏽‍❤‍💋‍👩🏽">anniversary | babe | bae | couple | date | dating | heart | love | medium skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏽‍❤‍💋‍👩🏾">anniversary | babe | bae | couple | date | dating | heart | love | medium skin tone | medium-dark skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏽‍❤‍💋‍👩🏿">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | medium skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏾‍❤‍💋‍👩🏻">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | medium-dark skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏾‍❤‍💋‍👩🏼">anniversary | babe | bae | couple | date | dating | heart | love | medium-dark skin tone | medium-light skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏾‍❤‍💋‍👩🏽">anniversary | babe | bae | couple | date | dating | heart | love | medium skin tone | medium-dark skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏾‍❤‍💋‍👩🏾">anniversary | babe | bae | couple | date | dating | heart | love | medium-dark skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏾‍❤‍💋‍👩🏿">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | medium-dark skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏿‍❤‍💋‍👩🏻">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | light skin tone | love | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏿‍❤‍💋‍👩🏼">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | medium-light skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏿‍❤‍💋‍👩🏽">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | medium skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏿‍❤‍💋‍👩🏾">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | medium-dark skin tone | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏿‍❤‍💋‍👩🏿">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👩🏻‍❤‍👨🏻">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | man | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏻‍❤‍👨🏼">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | man | medium-light skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏻‍❤‍👨🏽">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | man | medium skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏻‍❤‍👨🏾">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | man | medium-dark skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏻‍❤‍👨🏿">anniversary | babe | bae | dark skin tone | dating | heart | kiss | light skin tone | love | man | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏼‍❤‍👨🏻">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | man | medium-light skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏼‍❤‍👨🏼">anniversary | babe | bae | dating | heart | kiss | love | man | medium-light skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏼‍❤‍👨🏽">anniversary | babe | bae | dating | heart | kiss | love | man | medium skin tone | medium-light skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏼‍❤‍👨🏾">anniversary | babe | bae | dating | heart | kiss | love | man | medium-dark skin tone | medium-light skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏼‍❤‍👨🏿">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | man | medium-light skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏽‍❤‍👨🏻">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | man | medium skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏽‍❤‍👨🏼">anniversary | babe | bae | dating | heart | kiss | love | man | medium skin tone | medium-light skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏽‍❤‍👨🏽">anniversary | babe | bae | dating | heart | kiss | love | man | medium skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏽‍❤‍👨🏾">anniversary | babe | bae | dating | heart | kiss | love | man | medium skin tone | medium-dark skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏽‍❤‍👨🏿">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | man | medium skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏾‍❤‍👨🏻">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | man | medium-dark skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏾‍❤‍👨🏼">anniversary | babe | bae | dating | heart | kiss | love | man | medium-dark skin tone | medium-light skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏾‍❤‍👨🏽">anniversary | babe | bae | dating | heart | kiss | love | man | medium skin tone | medium-dark skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏾‍❤‍👨🏾">anniversary | babe | bae | dating | heart | kiss | love | man | medium-dark skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏾‍❤‍👨🏿">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | man | medium-dark skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏿‍❤‍👨🏻">anniversary | babe | bae | dark skin tone | dating | heart | kiss | light skin tone | love | man | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏿‍❤‍👨🏼">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | man | medium-light skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏿‍❤‍👨🏽">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | man | medium skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏿‍❤‍👨🏾">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | man | medium-dark skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏿‍❤‍👨🏿">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | man | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏻‍❤‍👩🏻">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏻‍❤‍👩🏼">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | medium-light skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏻‍❤‍👩🏽">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | medium skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏻‍❤‍👩🏾">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | medium-dark skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏻‍❤‍👩🏿">anniversary | babe | bae | dark skin tone | dating | heart | kiss | light skin tone | love | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏼‍❤‍👩🏻">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | medium-light skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏼‍❤‍👩🏼">anniversary | babe | bae | dating | heart | kiss | love | medium-light skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏼‍❤‍👩🏽">anniversary | babe | bae | dating | heart | kiss | love | medium skin tone | medium-light skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏼‍❤‍👩🏾">anniversary | babe | bae | dating | heart | kiss | love | medium-dark skin tone | medium-light skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏼‍❤‍👩🏿">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | medium-light skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏽‍❤‍👩🏻">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | medium skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏽‍❤‍👩🏼">anniversary | babe | bae | dating | heart | kiss | love | medium skin tone | medium-light skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏽‍❤‍👩🏽">anniversary | babe | bae | dating | heart | kiss | love | medium skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏽‍❤‍👩🏾">anniversary | babe | bae | dating | heart | kiss | love | medium skin tone | medium-dark skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏽‍❤‍👩🏿">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | medium skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏾‍❤‍👩🏻">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | medium-dark skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏾‍❤‍👩🏼">anniversary | babe | bae | dating | heart | kiss | love | medium-dark skin tone | medium-light skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏾‍❤‍👩🏽">anniversary | babe | bae | dating | heart | kiss | love | medium skin tone | medium-dark skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏾‍❤‍👩🏾">anniversary | babe | bae | dating | heart | kiss | love | medium-dark skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏾‍❤‍👩🏿">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | medium-dark skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏿‍❤‍👩🏻">anniversary | babe | bae | dark skin tone | dating | heart | kiss | light skin tone | love | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏿‍❤‍👩🏼">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | medium-light skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏿‍❤‍👩🏽">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | medium skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏿‍❤‍👩🏾">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | medium-dark skin tone | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏿‍❤‍👩🏿">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼">bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | medium-light skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽">bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | medium skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾">bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | medium-dark skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | light skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻">bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | medium-light skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium skin tone | medium-light skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium-dark skin tone | medium-light skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | medium-light skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻">bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | medium skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium skin tone | medium-light skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium skin tone | medium-dark skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | medium skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻">bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | medium-dark skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium-dark skin tone | medium-light skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium skin tone | medium-dark skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | medium-dark skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | light skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | medium-light skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | medium skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | medium-dark skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="🙇🏻">apology | ask | beg | bow | bowing | favour | forgive | gesture | light skin tone | meditate | meditation | pity | regret | sorry</annotation>
+		<annotation cp="🙇🏼">apology | ask | beg | bow | bowing | favour | forgive | gesture | meditate | meditation | medium-light skin tone | pity | regret | sorry</annotation>
+		<annotation cp="🙇🏽">apology | ask | beg | bow | bowing | favour | forgive | gesture | meditate | meditation | medium skin tone | pity | regret | sorry</annotation>
+		<annotation cp="🙇🏾">apology | ask | beg | bow | bowing | favour | forgive | gesture | meditate | meditation | medium-dark skin tone | pity | regret | sorry</annotation>
+		<annotation cp="🙇🏿">apology | ask | beg | bow | bowing | dark skin tone | favour | forgive | gesture | meditate | meditation | pity | regret | sorry</annotation>
+		<annotation cp="🙇🏻‍♂">apology | ask | beg | bowing | favour | forgive | gesture | light skin tone | meditate | meditation | pity | regret | sorry undefined</annotation>
+		<annotation cp="🙇🏼‍♂">apology | ask | beg | bowing | favour | forgive | gesture | meditate | meditation | medium-light skin tone | pity | regret | sorry undefined</annotation>
+		<annotation cp="🙇🏽‍♂">apology | ask | beg | bowing | favour | forgive | gesture | meditate | meditation | medium skin tone | pity | regret | sorry undefined</annotation>
+		<annotation cp="🙇🏾‍♂">apology | ask | beg | bowing | favour | forgive | gesture | meditate | meditation | medium-dark skin tone | pity | regret | sorry undefined</annotation>
+		<annotation cp="🙇🏿‍♂">apology | ask | beg | bowing | dark skin tone | favour | forgive | gesture | meditate | meditation | pity | regret | sorry undefined</annotation>
+		<annotation cp="🙇🏻‍♀">apology | ask | beg | bowing | favour | forgive | gesture | light skin tone | meditate | meditation | pity | regret | sorry</annotation>
+		<annotation cp="🙇🏼‍♀">apology | ask | beg | bowing | favour | forgive | gesture | meditate | meditation | medium-light skin tone | pity | regret | sorry</annotation>
+		<annotation cp="🙇🏽‍♀">apology | ask | beg | bowing | favour | forgive | gesture | meditate | meditation | medium skin tone | pity | regret | sorry</annotation>
+		<annotation cp="🙇🏾‍♀">apology | ask | beg | bowing | favour | forgive | gesture | meditate | meditation | medium-dark skin tone | pity | regret | sorry</annotation>
+		<annotation cp="🙇🏿‍♀">apology | ask | beg | bowing | dark skin tone | favour | forgive | gesture | meditate | meditation | pity | regret | sorry</annotation>
+		<annotation cp="🤷🏻">doubt | dunno | guess | idk | ignorance | indifference | knows | light skin tone | maybe | shrugging | whatever | who</annotation>
+		<annotation cp="🤷🏼">doubt | dunno | guess | idk | ignorance | indifference | knows | maybe | medium-light skin tone | shrugging | whatever | who</annotation>
+		<annotation cp="🤷🏽">doubt | dunno | guess | idk | ignorance | indifference | knows | maybe | medium skin tone | shrugging | whatever | who</annotation>
+		<annotation cp="🤷🏾">doubt | dunno | guess | idk | ignorance | indifference | knows | maybe | medium-dark skin tone | shrugging | whatever | who</annotation>
+		<annotation cp="🤷🏿">dark skin tone | doubt | dunno | guess | idk | ignorance | indifference | knows | maybe | shrugging | whatever | who</annotation>
+		<annotation cp="🤷🏻‍♂">doubt | dunno | guess | idk | ignorance | indifference | knows | light skin tone | maybe | shrugging | whatever | who</annotation>
+		<annotation cp="🤷🏼‍♂">doubt | dunno | guess | idk | ignorance | indifference | knows | maybe | medium-light skin tone | shrugging | whatever | who</annotation>
+		<annotation cp="🤷🏽‍♂">doubt | dunno | guess | idk | ignorance | indifference | knows | maybe | medium skin tone | shrugging | whatever | who</annotation>
+		<annotation cp="🤷🏾‍♂">doubt | dunno | guess | idk | ignorance | indifference | knows | maybe | medium-dark skin tone | shrugging | whatever | who</annotation>
+		<annotation cp="🤷🏿‍♂">dark skin tone | doubt | dunno | guess | idk | ignorance | indifference | knows | maybe | shrugging | whatever | who</annotation>
+		<annotation cp="🤷🏻‍♀">doubt | dunno | guess | idk | ignorance | indifference | knows | light skin tone | maybe | shrugging | whatever | who</annotation>
+		<annotation cp="🤷🏼‍♀">doubt | dunno | guess | idk | ignorance | indifference | knows | maybe | medium-light skin tone | shrugging | whatever | who</annotation>
+		<annotation cp="🤷🏽‍♀">doubt | dunno | guess | idk | ignorance | indifference | knows | maybe | medium skin tone | shrugging | whatever | who</annotation>
+		<annotation cp="🤷🏾‍♀">doubt | dunno | guess | idk | ignorance | indifference | knows | maybe | medium-dark skin tone | shrugging | whatever | who</annotation>
+		<annotation cp="🤷🏿‍♀">dark skin tone | doubt | dunno | guess | idk | ignorance | indifference | knows | maybe | shrugging | whatever | who</annotation>
 		<annotation cp="🧑🏻‍🔧">electrician | light skin tone | mechanic | plumber | tradesperson | tradie</annotation>
 		<annotation cp="🧑🏼‍🔧">electrician | mechanic | medium-light skin tone | plumber | tradesperson | tradie</annotation>
 		<annotation cp="🧑🏽‍🔧">electrician | mechanic | medium skin tone | plumber | tradesperson | tradie</annotation>
@@ -109,6 +414,16 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤶🏽">celebration | Christmas | medium skin tone | Mrs Claus | Mrs Santa Claus | Mrs. Claus</annotation>
 		<annotation cp="🤶🏾">celebration | Christmas | medium-dark skin tone | Mrs Claus | Mrs Santa Claus | Mrs. Claus</annotation>
 		<annotation cp="🤶🏿">celebration | Christmas | dark skin tone | Mrs Claus | Mrs Santa Claus | Mrs. Claus</annotation>
+		<annotation cp="💆🏻‍♂">face | getting | headache | light skin tone | massage | relax | salon | soothe | spa | tension | therapy | treatment</annotation>
+		<annotation cp="💆🏼‍♂">face | getting | headache | massage | medium-light skin tone | relax | salon | soothe | spa | tension | therapy | treatment</annotation>
+		<annotation cp="💆🏽‍♂">face | getting | headache | massage | medium skin tone | relax | salon | soothe | spa | tension | therapy | treatment</annotation>
+		<annotation cp="💆🏾‍♂">face | getting | headache | massage | medium-dark skin tone | relax | salon | soothe | spa | tension | therapy | treatment</annotation>
+		<annotation cp="💆🏿‍♂">dark skin tone | face | getting | headache | massage | relax | salon | soothe | spa | tension | therapy | treatment</annotation>
+		<annotation cp="💆🏻‍♀">face | getting | headache | light skin tone | massage | relax | salon | soothe | spa | tension | therapy | treatment</annotation>
+		<annotation cp="💆🏼‍♀">face | getting | headache | massage | medium-light skin tone | relax | salon | soothe | spa | tension | therapy | treatment</annotation>
+		<annotation cp="💆🏽‍♀">face | getting | headache | massage | medium skin tone | relax | salon | soothe | spa | tension | therapy | treatment</annotation>
+		<annotation cp="💆🏾‍♀">face | getting | headache | massage | medium-dark skin tone | relax | salon | soothe | spa | tension | therapy | treatment</annotation>
+		<annotation cp="💆🏿‍♀">dark skin tone | face | getting | headache | massage | relax | salon | soothe | spa | tension | therapy | treatment</annotation>
 		<annotation cp="💇🏻‍♂">haircut | hairdresser | light skin tone | man | man getting haircut</annotation>
 		<annotation cp="💇🏼‍♂">haircut | hairdresser | man | man getting haircut | medium-light skin tone</annotation>
 		<annotation cp="💇🏽‍♂">haircut | hairdresser | man | man getting haircut | medium skin tone</annotation>
@@ -129,18 +444,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦯" type="tts">person with long mobility cane: medium-dark skin tone</annotation>
 		<annotation cp="🧑🏿‍🦯">accessibility | blind | dark skin tone | person with guide cane | person with long mobility cane</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">person with long mobility cane: dark skin tone</annotation>
-		<annotation cp="🧑‍🦯‍➡">accessibility | blind | person with guide cane | person with long mobility cane</annotation>
-		<annotation cp="🧑‍🦯‍➡" type="tts">person with long mobility cane facing right</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡">accessibility | blind | person with guide cane | person with long mobility cane</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡" type="tts">person with long mobility cane facing right</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡">accessibility | blind | person with guide cane | person with long mobility cane</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡" type="tts">person with long mobility cane facing right</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡">accessibility | blind | person with guide cane | person with long mobility cane</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡" type="tts">person with long mobility cane facing right</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡">accessibility | blind | person with guide cane | person with long mobility cane</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡" type="tts">person with long mobility cane facing right</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡">accessibility | blind | person with guide cane | person with long mobility cane</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡" type="tts">person with long mobility cane facing right</annotation>
+		<annotation cp="🧑‍🦯‍➡">accessibility | blind | facing | person with guide cane | person with long mobility cane | right</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">person with long mobility cane: facing right</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">accessibility | blind | facing | light skin tone | person with guide cane | person with long mobility cane | right</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">person with long mobility cane: light skin tone, facing right</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">accessibility | blind | facing | medium-light skin tone | person with guide cane | person with long mobility cane | right</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">person with long mobility cane: medium-light skin tone, facing right</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">accessibility | blind | facing | medium skin tone | person with guide cane | person with long mobility cane | right</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">person with long mobility cane: medium skin tone, facing right</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">accessibility | blind | facing | medium-dark skin tone | person with guide cane | person with long mobility cane | right</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">person with long mobility cane: medium-dark skin tone, facing right</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">accessibility | blind | dark skin tone | facing | person with guide cane | person with long mobility cane | right</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">person with long mobility cane: dark skin tone, facing right</annotation>
 		<annotation cp="🧑🏻‍🦼">accessibility | electric wheelchair | light skin tone | person in motorised wheelchair | wheelchair</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">person in motorised wheelchair: light skin tone</annotation>
 		<annotation cp="🧑🏼‍🦼">accessibility | electric wheelchair | medium-light skin tone | person in motorised wheelchair | wheelchair</annotation>
@@ -151,18 +466,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦼" type="tts">person in motorised wheelchair: medium-dark skin tone</annotation>
 		<annotation cp="🧑🏿‍🦼">accessibility | dark skin tone | electric wheelchair | person in motorised wheelchair | wheelchair</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">person in motorised wheelchair: dark skin tone</annotation>
-		<annotation cp="🧑‍🦼‍➡">accessibility | electric wheelchair | person in motorised wheelchair | wheelchair</annotation>
-		<annotation cp="🧑‍🦼‍➡" type="tts">person in motorised wheelchair facing right</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡">accessibility | electric wheelchair | person in motorised wheelchair | wheelchair</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡" type="tts">person in motorised wheelchair facing right</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡">accessibility | electric wheelchair | person in motorised wheelchair | wheelchair</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡" type="tts">person in motorised wheelchair facing right</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡">accessibility | electric wheelchair | person in motorised wheelchair | wheelchair</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡" type="tts">person in motorised wheelchair facing right</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡">accessibility | electric wheelchair | person in motorised wheelchair | wheelchair</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡" type="tts">person in motorised wheelchair facing right</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡">accessibility | electric wheelchair | person in motorised wheelchair | wheelchair</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡" type="tts">person in motorised wheelchair facing right</annotation>
+		<annotation cp="🧑‍🦼‍➡">accessibility | electric wheelchair | facing | person in motorised wheelchair | right | wheelchair</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">person in motorised wheelchair: facing right</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">accessibility | electric wheelchair | facing | light skin tone | person in motorised wheelchair | right | wheelchair</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">person in motorised wheelchair: light skin tone, facing right</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">accessibility | electric wheelchair | facing | medium-light skin tone | person in motorised wheelchair | right | wheelchair</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">person in motorised wheelchair: medium-light skin tone, facing right</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">accessibility | electric wheelchair | facing | medium skin tone | person in motorised wheelchair | right | wheelchair</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">person in motorised wheelchair: medium skin tone, facing right</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">accessibility | electric wheelchair | facing | medium-dark skin tone | person in motorised wheelchair | right | wheelchair</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">person in motorised wheelchair: medium-dark skin tone, facing right</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">accessibility | dark skin tone | electric wheelchair | facing | person in motorised wheelchair | right | wheelchair</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">person in motorised wheelchair: dark skin tone, facing right</annotation>
 		<annotation cp="👨🏻‍🦼">accessibility | electric wheelchair | light skin tone | man | man in motorised wheelchair | wheelchair</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">man in motorised wheelchair: light skin tone</annotation>
 		<annotation cp="👨🏼‍🦼">accessibility | electric wheelchair | man | man in motorised wheelchair | medium-light skin tone | wheelchair</annotation>
@@ -173,18 +488,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦼" type="tts">man in motorised wheelchair: medium-dark skin tone</annotation>
 		<annotation cp="👨🏿‍🦼">accessibility | dark skin tone | electric wheelchair | man | man in motorised wheelchair | wheelchair</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">man in motorised wheelchair: dark skin tone</annotation>
-		<annotation cp="👨‍🦼‍➡">accessibility | electric wheelchair | man | man in motorised wheelchair | wheelchair</annotation>
-		<annotation cp="👨‍🦼‍➡" type="tts">man in motorised wheelchair facing right</annotation>
-		<annotation cp="👨🏻‍🦼‍➡">accessibility | electric wheelchair | man | man in motorised wheelchair | wheelchair</annotation>
-		<annotation cp="👨🏻‍🦼‍➡" type="tts">man in motorised wheelchair facing right</annotation>
-		<annotation cp="👨🏼‍🦼‍➡">accessibility | electric wheelchair | man | man in motorised wheelchair | wheelchair</annotation>
-		<annotation cp="👨🏼‍🦼‍➡" type="tts">man in motorised wheelchair facing right</annotation>
-		<annotation cp="👨🏽‍🦼‍➡">accessibility | electric wheelchair | man | man in motorised wheelchair | wheelchair</annotation>
-		<annotation cp="👨🏽‍🦼‍➡" type="tts">man in motorised wheelchair facing right</annotation>
-		<annotation cp="👨🏾‍🦼‍➡">accessibility | electric wheelchair | man | man in motorised wheelchair | wheelchair</annotation>
-		<annotation cp="👨🏾‍🦼‍➡" type="tts">man in motorised wheelchair facing right</annotation>
-		<annotation cp="👨🏿‍🦼‍➡">accessibility | electric wheelchair | man | man in motorised wheelchair | wheelchair</annotation>
-		<annotation cp="👨🏿‍🦼‍➡" type="tts">man in motorised wheelchair facing right</annotation>
+		<annotation cp="👨‍🦼‍➡">accessibility | electric wheelchair | facing | man | man in motorised wheelchair | right | wheelchair</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">man in motorised wheelchair: facing right</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">accessibility | electric wheelchair | facing | light skin tone | man | man in motorised wheelchair | right | wheelchair</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">man in motorised wheelchair: light skin tone, facing right</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">accessibility | electric wheelchair | facing | man | man in motorised wheelchair | medium-light skin tone | right | wheelchair</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">man in motorised wheelchair: medium-light skin tone, facing right</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">accessibility | electric wheelchair | facing | man | man in motorised wheelchair | medium skin tone | right | wheelchair</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">man in motorised wheelchair: medium skin tone, facing right</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">accessibility | electric wheelchair | facing | man | man in motorised wheelchair | medium-dark skin tone | right | wheelchair</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">man in motorised wheelchair: medium-dark skin tone, facing right</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">accessibility | dark skin tone | electric wheelchair | facing | man | man in motorised wheelchair | right | wheelchair</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">man in motorised wheelchair: dark skin tone, facing right</annotation>
 		<annotation cp="👩🏻‍🦼">accessibility | electric wheelchair | light skin tone | wheelchair | woman | woman in motorised wheelchair</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">woman in motorised wheelchair: light skin tone</annotation>
 		<annotation cp="👩🏼‍🦼">accessibility | electric wheelchair | medium-light skin tone | wheelchair | woman | woman in motorised wheelchair</annotation>
@@ -195,18 +510,38 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦼" type="tts">woman in motorised wheelchair: medium-dark skin tone</annotation>
 		<annotation cp="👩🏿‍🦼">accessibility | dark skin tone | electric wheelchair | wheelchair | woman | woman in motorised wheelchair</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">woman in motorised wheelchair: dark skin tone</annotation>
-		<annotation cp="👩‍🦼‍➡">accessibility | electric wheelchair | wheelchair | woman | woman in motorised wheelchair</annotation>
-		<annotation cp="👩‍🦼‍➡" type="tts">woman in motorised wheelchair facing right</annotation>
-		<annotation cp="👩🏻‍🦼‍➡">accessibility | electric wheelchair | wheelchair | woman | woman in motorised wheelchair</annotation>
-		<annotation cp="👩🏻‍🦼‍➡" type="tts">woman in motorised wheelchair facing right</annotation>
-		<annotation cp="👩🏼‍🦼‍➡">accessibility | electric wheelchair | wheelchair | woman | woman in motorised wheelchair</annotation>
-		<annotation cp="👩🏼‍🦼‍➡" type="tts">woman in motorised wheelchair facing right</annotation>
-		<annotation cp="👩🏽‍🦼‍➡">accessibility | electric wheelchair | wheelchair | woman | woman in motorised wheelchair</annotation>
-		<annotation cp="👩🏽‍🦼‍➡" type="tts">woman in motorised wheelchair facing right</annotation>
-		<annotation cp="👩🏾‍🦼‍➡">accessibility | electric wheelchair | wheelchair | woman | woman in motorised wheelchair</annotation>
-		<annotation cp="👩🏾‍🦼‍➡" type="tts">woman in motorised wheelchair facing right</annotation>
-		<annotation cp="👩🏿‍🦼‍➡">accessibility | electric wheelchair | wheelchair | woman | woman in motorised wheelchair</annotation>
-		<annotation cp="👩🏿‍🦼‍➡" type="tts">woman in motorised wheelchair facing right</annotation>
+		<annotation cp="👩‍🦼‍➡">accessibility | electric wheelchair | facing | right | wheelchair | woman | woman in motorised wheelchair</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">woman in motorised wheelchair: facing right</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">accessibility | electric wheelchair | facing | light skin tone | right | wheelchair | woman | woman in motorised wheelchair</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">woman in motorised wheelchair: light skin tone, facing right</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">accessibility | electric wheelchair | facing | medium-light skin tone | right | wheelchair | woman | woman in motorised wheelchair</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">woman in motorised wheelchair: medium-light skin tone, facing right</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">accessibility | electric wheelchair | facing | medium skin tone | right | wheelchair | woman | woman in motorised wheelchair</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">woman in motorised wheelchair: medium skin tone, facing right</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">accessibility | electric wheelchair | facing | medium-dark skin tone | right | wheelchair | woman | woman in motorised wheelchair</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">woman in motorised wheelchair: medium-dark skin tone, facing right</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">accessibility | dark skin tone | electric wheelchair | facing | right | wheelchair | woman | woman in motorised wheelchair</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">woman in motorised wheelchair: dark skin tone, facing right</annotation>
+		<annotation cp="🕺🏻">dance | dancer | dancing | disco | elegant | festive | flair | flamenco | groove | let’s | light skin tone | salsa | tango undefined</annotation>
+		<annotation cp="🕺🏼">dance | dancer | dancing | disco | elegant | festive | flair | flamenco | groove | let’s | medium-light skin tone | salsa | tango undefined</annotation>
+		<annotation cp="🕺🏽">dance | dancer | dancing | disco | elegant | festive | flair | flamenco | groove | let’s | medium skin tone | salsa | tango undefined</annotation>
+		<annotation cp="🕺🏾">dance | dancer | dancing | disco | elegant | festive | flair | flamenco | groove | let’s | medium-dark skin tone | salsa | tango undefined</annotation>
+		<annotation cp="🕺🏿">dance | dancer | dancing | dark skin tone | disco | elegant | festive | flair | flamenco | groove | let’s | salsa | tango undefined</annotation>
+		<annotation cp="👯🏻">bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="👯🏼">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium-light skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="👯🏽">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="👯🏾">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium-dark skin tone | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="👯🏿">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | pair | party | soulmate | twin | twinsies</annotation>
+		<annotation cp="👯🏻‍♀">bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👯🏼‍♀">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium-light skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👯🏽‍♀">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👯🏾‍♀">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium-dark skin tone | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👯🏿‍♀">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | pair | party | people | soulmate | twin | twinsies</annotation>
+		<annotation cp="👯🏻‍♂">bestie | bff | bunny | counterpart | dancer | double | ear | identical | light skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👯🏼‍♂">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium-light skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👯🏽‍♂">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👯🏾‍♂">bestie | bff | bunny | counterpart | dancer | double | ear | identical | medium-dark skin tone | pair | party | people | soulmate | twin | twinsies undefined</annotation>
+		<annotation cp="👯🏿‍♂">bestie | bff | bunny | counterpart | dancer | dark skin tone | double | ear | identical | pair | party | people | soulmate | twin | twinsies undefined</annotation>
 		<annotation cp="🧖🏻‍♂" type="tts">man in steam room: light skin tone</annotation>
 		<annotation cp="🧖🏼‍♂" type="tts">man in steam room: medium-light skin tone</annotation>
 		<annotation cp="🧖🏽‍♂" type="tts">man in steam room: medium skin tone</annotation>
@@ -252,6 +587,16 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🚣🏽">boat | medium skin tone | person | person rowing boat | rowboat</annotation>
 		<annotation cp="🚣🏾">boat | medium-dark skin tone | person | person rowing boat | rowboat</annotation>
 		<annotation cp="🚣🏿">boat | dark skin tone | person | person rowing boat | rowboat</annotation>
+		<annotation cp="🚣🏻‍♂">boat | canoe | cruise | fishing | lake | light skin tone | oar | paddle | raft | river | row | rowboat | rowing</annotation>
+		<annotation cp="🚣🏼‍♂">boat | canoe | cruise | fishing | lake | medium-light skin tone | oar | paddle | raft | river | row | rowboat | rowing</annotation>
+		<annotation cp="🚣🏽‍♂">boat | canoe | cruise | fishing | lake | medium skin tone | oar | paddle | raft | river | row | rowboat | rowing</annotation>
+		<annotation cp="🚣🏾‍♂">boat | canoe | cruise | fishing | lake | medium-dark skin tone | oar | paddle | raft | river | row | rowboat | rowing</annotation>
+		<annotation cp="🚣🏿‍♂">boat | canoe | cruise | dark skin tone | fishing | lake | oar | paddle | raft | river | row | rowboat | rowing</annotation>
+		<annotation cp="🚣🏻‍♀">boat | canoe | cruise | fishing | lake | light skin tone | oar | paddle | raft | river | row | rowboat | rowing</annotation>
+		<annotation cp="🚣🏼‍♀">boat | canoe | cruise | fishing | lake | medium-light skin tone | oar | paddle | raft | river | row | rowboat | rowing</annotation>
+		<annotation cp="🚣🏽‍♀">boat | canoe | cruise | fishing | lake | medium skin tone | oar | paddle | raft | river | row | rowboat | rowing</annotation>
+		<annotation cp="🚣🏾‍♀">boat | canoe | cruise | fishing | lake | medium-dark skin tone | oar | paddle | raft | river | row | rowboat | rowing</annotation>
+		<annotation cp="🚣🏿‍♀">boat | canoe | cruise | dark skin tone | fishing | lake | oar | paddle | raft | river | row | rowboat | rowing</annotation>
 		<annotation cp="🏊🏻">light skin tone | person swimming | swim | swimmer</annotation>
 		<annotation cp="🏊🏼">medium-light skin tone | person swimming | swim | swimmer</annotation>
 		<annotation cp="🏊🏽">medium skin tone | person swimming | swim | swimmer</annotation>
@@ -297,6 +642,21 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🚴🏾‍♀" type="tts">woman riding a bike: medium-dark skin tone</annotation>
 		<annotation cp="🚴🏿‍♀">bicycle | cycling | cyclist | dark skin tone | woman | woman riding a bike</annotation>
 		<annotation cp="🚴🏿‍♀" type="tts">woman riding a bike: dark skin tone</annotation>
+		<annotation cp="🤾🏻">athletics | ball | catch | chuck | handball | hurl | light skin tone | lob | pitch | playing | sport | throw | toss</annotation>
+		<annotation cp="🤾🏼">athletics | ball | catch | chuck | handball | hurl | lob | medium-light skin tone | pitch | playing | sport | throw | toss</annotation>
+		<annotation cp="🤾🏽">athletics | ball | catch | chuck | handball | hurl | lob | medium skin tone | pitch | playing | sport | throw | toss</annotation>
+		<annotation cp="🤾🏾">athletics | ball | catch | chuck | handball | hurl | lob | medium-dark skin tone | pitch | playing | sport | throw | toss</annotation>
+		<annotation cp="🤾🏿">athletics | ball | catch | chuck | dark skin tone | handball | hurl | lob | pitch | playing | sport | throw | toss</annotation>
+		<annotation cp="🤾🏻‍♂">athletics | ball | catch | chuck | handball | hurl | light skin tone | lob | pitch | playing | sport | throw | toss</annotation>
+		<annotation cp="🤾🏼‍♂">athletics | ball | catch | chuck | handball | hurl | lob | medium-light skin tone | pitch | playing | sport | throw | toss</annotation>
+		<annotation cp="🤾🏽‍♂">athletics | ball | catch | chuck | handball | hurl | lob | medium skin tone | pitch | playing | sport | throw | toss</annotation>
+		<annotation cp="🤾🏾‍♂">athletics | ball | catch | chuck | handball | hurl | lob | medium-dark skin tone | pitch | playing | sport | throw | toss</annotation>
+		<annotation cp="🤾🏿‍♂">athletics | ball | catch | chuck | dark skin tone | handball | hurl | lob | pitch | playing | sport | throw | toss</annotation>
+		<annotation cp="🤾🏻‍♀">athletics | ball | catch | chuck | handball | hurl | light skin tone | lob | pitch | playing | sport | throw | toss</annotation>
+		<annotation cp="🤾🏼‍♀">athletics | ball | catch | chuck | handball | hurl | lob | medium-light skin tone | pitch | playing | sport | throw | toss</annotation>
+		<annotation cp="🤾🏽‍♀">athletics | ball | catch | chuck | handball | hurl | lob | medium skin tone | pitch | playing | sport | throw | toss</annotation>
+		<annotation cp="🤾🏾‍♀">athletics | ball | catch | chuck | handball | hurl | lob | medium-dark skin tone | pitch | playing | sport | throw | toss</annotation>
+		<annotation cp="🤾🏿‍♀">athletics | ball | catch | chuck | dark skin tone | handball | hurl | lob | pitch | playing | sport | throw | toss</annotation>
 		<annotation cp="🤹🏻">balance | juggle | light skin tone | multi-task | person juggling | skill</annotation>
 		<annotation cp="🤹🏼">balance | juggle | medium-light skin tone | multi-task | person juggling | skill</annotation>
 		<annotation cp="🤹🏽">balance | juggle | medium skin tone | multi-task | person juggling | skill</annotation>
@@ -312,6 +672,21 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤹🏽‍♀">juggling | medium skin tone | multi-task | woman</annotation>
 		<annotation cp="🤹🏾‍♀">juggling | medium-dark skin tone | multi-task | woman</annotation>
 		<annotation cp="🤹🏿‍♀">dark skin tone | juggling | multi-task | woman</annotation>
+		<annotation cp="🧘🏻">cross | legged | legs | light skin tone | lotus | meditation | peace | position | relax | serenity | yoga | yogi | zen</annotation>
+		<annotation cp="🧘🏼">cross | legged | legs | lotus | meditation | medium-light skin tone | peace | position | relax | serenity | yoga | yogi | zen</annotation>
+		<annotation cp="🧘🏽">cross | legged | legs | lotus | meditation | medium skin tone | peace | position | relax | serenity | yoga | yogi | zen</annotation>
+		<annotation cp="🧘🏾">cross | legged | legs | lotus | meditation | medium-dark skin tone | peace | position | relax | serenity | yoga | yogi | zen</annotation>
+		<annotation cp="🧘🏿">cross | dark skin tone | legged | legs | lotus | meditation | peace | position | relax | serenity | yoga | yogi | zen</annotation>
+		<annotation cp="🧘🏻‍♂">cross | legged | legs | light skin tone | lotus | meditation | peace | position | relax | serenity | yoga | yogi | zen</annotation>
+		<annotation cp="🧘🏼‍♂">cross | legged | legs | lotus | meditation | medium-light skin tone | peace | position | relax | serenity | yoga | yogi | zen</annotation>
+		<annotation cp="🧘🏽‍♂">cross | legged | legs | lotus | meditation | medium skin tone | peace | position | relax | serenity | yoga | yogi | zen</annotation>
+		<annotation cp="🧘🏾‍♂">cross | legged | legs | lotus | meditation | medium-dark skin tone | peace | position | relax | serenity | yoga | yogi | zen</annotation>
+		<annotation cp="🧘🏿‍♂">cross | dark skin tone | legged | legs | lotus | meditation | peace | position | relax | serenity | yoga | yogi | zen</annotation>
+		<annotation cp="🧘🏻‍♀">cross | legged | legs | light skin tone | lotus | meditation | peace | position | relax | serenity | yoga | yogi | zen undefined</annotation>
+		<annotation cp="🧘🏼‍♀">cross | legged | legs | lotus | meditation | medium-light skin tone | peace | position | relax | serenity | yoga | yogi | zen undefined</annotation>
+		<annotation cp="🧘🏽‍♀">cross | legged | legs | lotus | meditation | medium skin tone | peace | position | relax | serenity | yoga | yogi | zen undefined</annotation>
+		<annotation cp="🧘🏾‍♀">cross | legged | legs | lotus | meditation | medium-dark skin tone | peace | position | relax | serenity | yoga | yogi | zen undefined</annotation>
+		<annotation cp="🧘🏿‍♀">cross | dark skin tone | legged | legs | lotus | meditation | peace | position | relax | serenity | yoga | yogi | zen undefined</annotation>
 		<annotation cp="🛀🏻">bath | bathtub | light skin tone | person taking bath | tub</annotation>
 		<annotation cp="🛀🏼">bath | bathtub | medium-light skin tone | person taking bath | tub</annotation>
 		<annotation cp="🛀🏽">bath | bathtub | medium skin tone | person taking bath | tub</annotation>
@@ -322,11 +697,60 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🛌🏽">hotel | medium skin tone | person in bed | sleep | sleeping</annotation>
 		<annotation cp="🛌🏾">hotel | medium-dark skin tone | person in bed | sleep | sleeping</annotation>
 		<annotation cp="🛌🏿">dark skin tone | hotel | person in bed | sleep | sleeping</annotation>
-		<annotation cp="🇧🇱" type="tts">flag: St. Barthélemy</annotation>
-		<annotation cp="🇰🇳" type="tts">flag: St. Kitts &amp; Nevis</annotation>
-		<annotation cp="🇱🇨" type="tts">flag: St. Lucia</annotation>
-		<annotation cp="🇲🇫" type="tts">flag: St. Martin</annotation>
-		<annotation cp="🇻🇨" type="tts">flag: St. Vincent &amp; Grenadines</annotation>
+		<annotation cp="👭🏻">bae | bestie | bff | couple | dating | flirt | friends | girls | hand | hold | light skin tone | sisters | twins</annotation>
+		<annotation cp="👩🏻‍🤝‍👩🏼">bae | bestie | bff | couple | dating | flirt | friends | girls | hand | hold | light skin tone | medium-light skin tone | sisters | twins</annotation>
+		<annotation cp="👩🏻‍🤝‍👩🏽">bae | bestie | bff | couple | dating | flirt | friends | girls | hand | hold | light skin tone | medium skin tone | sisters | twins</annotation>
+		<annotation cp="👩🏻‍🤝‍👩🏾">bae | bestie | bff | couple | dating | flirt | friends | girls | hand | hold | light skin tone | medium-dark skin tone | sisters | twins</annotation>
+		<annotation cp="👩🏻‍🤝‍👩🏿">bae | bestie | bff | couple | dark skin tone | dating | flirt | friends | girls | hand | hold | light skin tone | sisters | twins</annotation>
+		<annotation cp="👩🏼‍🤝‍👩🏻">bae | bestie | bff | couple | dating | flirt | friends | girls | hand | hold | light skin tone | medium-light skin tone | sisters | twins</annotation>
+		<annotation cp="👭🏼">bae | bestie | bff | couple | dating | flirt | friends | girls | hand | hold | medium-light skin tone | sisters | twins</annotation>
+		<annotation cp="👩🏼‍🤝‍👩🏽">bae | bestie | bff | couple | dating | flirt | friends | girls | hand | hold | medium skin tone | medium-light skin tone | sisters | twins</annotation>
+		<annotation cp="👩🏼‍🤝‍👩🏾">bae | bestie | bff | couple | dating | flirt | friends | girls | hand | hold | medium-dark skin tone | medium-light skin tone | sisters | twins</annotation>
+		<annotation cp="👩🏼‍🤝‍👩🏿">bae | bestie | bff | couple | dark skin tone | dating | flirt | friends | girls | hand | hold | medium-light skin tone | sisters | twins</annotation>
+		<annotation cp="👩🏽‍🤝‍👩🏻">bae | bestie | bff | couple | dating | flirt | friends | girls | hand | hold | light skin tone | medium skin tone | sisters | twins</annotation>
+		<annotation cp="👩🏽‍🤝‍👩🏼">bae | bestie | bff | couple | dating | flirt | friends | girls | hand | hold | medium skin tone | medium-light skin tone | sisters | twins</annotation>
+		<annotation cp="👭🏽">bae | bestie | bff | couple | dating | flirt | friends | girls | hand | hold | medium skin tone | sisters | twins</annotation>
+		<annotation cp="👩🏽‍🤝‍👩🏾">bae | bestie | bff | couple | dating | flirt | friends | girls | hand | hold | medium skin tone | medium-dark skin tone | sisters | twins</annotation>
+		<annotation cp="👩🏽‍🤝‍👩🏿">bae | bestie | bff | couple | dark skin tone | dating | flirt | friends | girls | hand | hold | medium skin tone | sisters | twins</annotation>
+		<annotation cp="👩🏾‍🤝‍👩🏻">bae | bestie | bff | couple | dating | flirt | friends | girls | hand | hold | light skin tone | medium-dark skin tone | sisters | twins</annotation>
+		<annotation cp="👩🏾‍🤝‍👩🏼">bae | bestie | bff | couple | dating | flirt | friends | girls | hand | hold | medium-dark skin tone | medium-light skin tone | sisters | twins</annotation>
+		<annotation cp="👩🏾‍🤝‍👩🏽">bae | bestie | bff | couple | dating | flirt | friends | girls | hand | hold | medium skin tone | medium-dark skin tone | sisters | twins</annotation>
+		<annotation cp="👭🏾">bae | bestie | bff | couple | dating | flirt | friends | girls | hand | hold | medium-dark skin tone | sisters | twins</annotation>
+		<annotation cp="👩🏾‍🤝‍👩🏿">bae | bestie | bff | couple | dark skin tone | dating | flirt | friends | girls | hand | hold | medium-dark skin tone | sisters | twins</annotation>
+		<annotation cp="👩🏿‍🤝‍👩🏻">bae | bestie | bff | couple | dark skin tone | dating | flirt | friends | girls | hand | hold | light skin tone | sisters | twins</annotation>
+		<annotation cp="👩🏿‍🤝‍👩🏼">bae | bestie | bff | couple | dark skin tone | dating | flirt | friends | girls | hand | hold | medium-light skin tone | sisters | twins</annotation>
+		<annotation cp="👩🏿‍🤝‍👩🏽">bae | bestie | bff | couple | dark skin tone | dating | flirt | friends | girls | hand | hold | medium skin tone | sisters | twins</annotation>
+		<annotation cp="👩🏿‍🤝‍👩🏾">bae | bestie | bff | couple | dark skin tone | dating | flirt | friends | girls | hand | hold | medium-dark skin tone | sisters | twins</annotation>
+		<annotation cp="👭🏿">bae | bestie | bff | couple | dark skin tone | dating | flirt | friends | girls | hand | hold | sisters | twins</annotation>
+		<annotation cp="💏🏻">anniversary | babe | bae | couple | date | dating | heart | light skin tone | love | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="💏🏼">anniversary | babe | bae | couple | date | dating | heart | love | medium-light skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="💏🏽">anniversary | babe | bae | couple | date | dating | heart | love | medium skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="💏🏾">anniversary | babe | bae | couple | date | dating | heart | love | medium-dark skin tone | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="💏🏿">anniversary | babe | bae | couple | dark skin tone | date | dating | heart | love | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👩‍❤‍💋‍👨">anniversary | babe | bae | couple | date | dating | heart | love | man | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="👨‍❤‍💋‍👨">anniversary | babe | bae | couple | date | dating | heart | love | man | muah | mwah | person | romance | together | xoxo</annotation>
+		<annotation cp="👩‍❤‍💋‍👩">anniversary | babe | bae | couple | date | dating | heart | love | muah | mwah | person | romance | together | woman | xoxo</annotation>
+		<annotation cp="💑🏻">anniversary | babe | bae | dating | heart | kiss | light skin tone | love | person | relationship | romance | together | you</annotation>
+		<annotation cp="💑🏼">anniversary | babe | bae | dating | heart | kiss | love | medium-light skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="💑🏽">anniversary | babe | bae | dating | heart | kiss | love | medium skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="💑🏾">anniversary | babe | bae | dating | heart | kiss | love | medium-dark skin tone | person | relationship | romance | together | you</annotation>
+		<annotation cp="💑🏿">anniversary | babe | bae | dark skin tone | dating | heart | kiss | love | person | relationship | romance | together | you</annotation>
+		<annotation cp="👩‍❤‍👨">anniversary | babe | bae | dating | heart | kiss | love | man | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="👨‍❤‍👨">anniversary | babe | bae | dating | heart | kiss | love | man | person | relationship | romance | together | you</annotation>
+		<annotation cp="👩‍❤‍👩">anniversary | babe | bae | dating | heart | kiss | love | person | relationship | romance | together | woman | you</annotation>
+		<annotation cp="🇦🇬" type="tts">flag: Antigua and Barbuda</annotation>
+		<annotation cp="🇧🇦" type="tts">flag: Bosnia and Herzegovina</annotation>
+		<annotation cp="🇪🇦" type="tts">flag: Ceuta and Melilla</annotation>
+		<annotation cp="🇬🇸" type="tts">flag: South Georgia and South Sandwich Islands</annotation>
+		<annotation cp="🇭🇲" type="tts">flag: Heard Island and McDonald Islands</annotation>
+		<annotation cp="🇰🇳" type="tts">flag: St Kitts and Nevis</annotation>
+		<annotation cp="🇵🇲" type="tts">flag: St Pierre and Miquelon</annotation>
+		<annotation cp="🇸🇯" type="tts">flag: Svalbard and Jan Mayen</annotation>
+		<annotation cp="🇸🇹" type="tts">flag: São Tomé and Príncipe</annotation>
+		<annotation cp="🇹🇨" type="tts">flag: Turks and Caicos Islands</annotation>
+		<annotation cp="🇹🇹" type="tts">flag: Trinidad and Tobago</annotation>
+		<annotation cp="🇻🇨" type="tts">flag: St Vincent and the Grenadines</annotation>
+		<annotation cp="🇼🇫" type="tts">flag: Wallis and Futuna</annotation>
 		<annotation cp="₪" type="tts">Israeli Shekel</annotation>
 	</annotations>
 </ldml>

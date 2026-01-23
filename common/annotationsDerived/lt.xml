@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -603,6 +603,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾" type="tts">šviesiaplaukis žmogus: tamsios odos</annotation>
 		<annotation cp="👱🏿">asmuo | itin tamsios odos | šviesiaplaukis | veidas | žmogus</annotation>
 		<annotation cp="👱🏿" type="tts">šviesiaplaukis žmogus: itin tamsios odos</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | kova | ringe | šviesios odos | vidutinio gymio | žmonės</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼" type="tts">imtynininkai: šviesios odos vidutinio gymio</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | kova | ringe | rusvos odos | šviesios odos | žmonės</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽" type="tts">imtynininkai: šviesios odos rusvos odos</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | kova | ringe | šviesios odos | tamsios odos | žmonės</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾" type="tts">imtynininkai: šviesios odos tamsios odos</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | itin tamsios odos | kova | ringe | šviesios odos | žmonės</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿" type="tts">imtynininkai: šviesios odos itin tamsios odos</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | kova | ringe | šviesios odos | vidutinio gymio | žmonės</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻" type="tts">imtynininkai: vidutinio gymio šviesios odos</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | kova | ringe | rusvos odos | vidutinio gymio | žmonės</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽" type="tts">imtynininkai: vidutinio gymio rusvos odos</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | kova | ringe | tamsios odos | vidutinio gymio | žmonės</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾" type="tts">imtynininkai: vidutinio gymio tamsios odos</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | itin tamsios odos | kova | ringe | vidutinio gymio | žmonės</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿" type="tts">imtynininkai: vidutinio gymio itin tamsios odos</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | kova | ringe | rusvos odos | šviesios odos | žmonės</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻" type="tts">imtynininkai: rusvos odos šviesios odos</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | kova | ringe | rusvos odos | vidutinio gymio | žmonės</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼" type="tts">imtynininkai: rusvos odos vidutinio gymio</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | kova | ringe | rusvos odos | tamsios odos | žmonės</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾" type="tts">imtynininkai: rusvos odos tamsios odos</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | itin tamsios odos | kova | ringe | rusvos odos | žmonės</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿" type="tts">imtynininkai: rusvos odos itin tamsios odos</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | kova | ringe | šviesios odos | tamsios odos | žmonės</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻" type="tts">imtynininkai: tamsios odos šviesios odos</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | kova | ringe | tamsios odos | vidutinio gymio | žmonės</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼" type="tts">imtynininkai: tamsios odos vidutinio gymio</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | kova | ringe | rusvos odos | tamsios odos | žmonės</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽" type="tts">imtynininkai: tamsios odos rusvos odos</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | itin tamsios odos | kova | ringe | tamsios odos | žmonės</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿" type="tts">imtynininkai: tamsios odos itin tamsios odos</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | itin tamsios odos | kova | ringe | šviesios odos | žmonės</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻" type="tts">imtynininkai: itin tamsios odos šviesios odos</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | itin tamsios odos | kova | ringe | vidutinio gymio | žmonės</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼" type="tts">imtynininkai: itin tamsios odos vidutinio gymio</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | itin tamsios odos | kova | ringe | rusvos odos | žmonės</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽" type="tts">imtynininkai: itin tamsios odos rusvos odos</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | itin tamsios odos | kova | ringe | tamsios odos | žmonės</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾" type="tts">imtynininkai: itin tamsios odos tamsios odos</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼">bučinys | meilė | metinės | pora | suaugusysis | šviesios odos | vidutinio gymio</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼" type="tts">bučinys: suaugusysis suaugusysis šviesios odos vidutinio gymio</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏽">bučinys | meilė | metinės | pora | rusvos odos | suaugusysis | šviesios odos</annotation>
@@ -731,6 +771,56 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦲" type="tts">suaugusysis: tamsios odos plikas</annotation>
 		<annotation cp="🧑🏿‍🦲">itin tamsios odos | neutrali lytis | plikas | suaugusysis | žmogus</annotation>
 		<annotation cp="🧑🏿‍🦲" type="tts">suaugusysis: itin tamsios odos plikas</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼">ausys | besilinksminančios moterys | dvynės | geriausios draugės | kiškučio ausys | merginos | moterys | pora | šokėjos | šviesios odos | vakarėlis | vidutinio gymio | zuikutis</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼" type="tts">besilinksminančios moterys: šviesios odos vidutinio gymio</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽">ausys | besilinksminančios moterys | dvynės | geriausios draugės | kiškučio ausys | merginos | moterys | pora | rusvos odos | šokėjos | šviesios odos | vakarėlis | zuikutis</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽" type="tts">besilinksminančios moterys: šviesios odos rusvos odos</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾">ausys | besilinksminančios moterys | dvynės | geriausios draugės | kiškučio ausys | merginos | moterys | pora | šokėjos | šviesios odos | tamsios odos | vakarėlis | zuikutis</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾" type="tts">besilinksminančios moterys: šviesios odos tamsios odos</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿">ausys | besilinksminančios moterys | dvynės | geriausios draugės | itin tamsios odos | kiškučio ausys | merginos | moterys | pora | šokėjos | šviesios odos | vakarėlis | zuikutis</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿" type="tts">besilinksminančios moterys: šviesios odos itin tamsios odos</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻">ausys | besilinksminančios moterys | dvynės | geriausios draugės | kiškučio ausys | merginos | moterys | pora | šokėjos | šviesios odos | vakarėlis | vidutinio gymio | zuikutis</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻" type="tts">besilinksminančios moterys: vidutinio gymio šviesios odos</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽">ausys | besilinksminančios moterys | dvynės | geriausios draugės | kiškučio ausys | merginos | moterys | pora | rusvos odos | šokėjos | vakarėlis | vidutinio gymio | zuikutis</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽" type="tts">besilinksminančios moterys: vidutinio gymio rusvos odos</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾">ausys | besilinksminančios moterys | dvynės | geriausios draugės | kiškučio ausys | merginos | moterys | pora | šokėjos | tamsios odos | vakarėlis | vidutinio gymio | zuikutis</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾" type="tts">besilinksminančios moterys: vidutinio gymio tamsios odos</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿">ausys | besilinksminančios moterys | dvynės | geriausios draugės | itin tamsios odos | kiškučio ausys | merginos | moterys | pora | šokėjos | vakarėlis | vidutinio gymio | zuikutis</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿" type="tts">besilinksminančios moterys: vidutinio gymio itin tamsios odos</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻">ausys | besilinksminančios moterys | dvynės | geriausios draugės | kiškučio ausys | merginos | moterys | pora | rusvos odos | šokėjos | šviesios odos | vakarėlis | zuikutis</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻" type="tts">besilinksminančios moterys: rusvos odos šviesios odos</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼">ausys | besilinksminančios moterys | dvynės | geriausios draugės | kiškučio ausys | merginos | moterys | pora | rusvos odos | šokėjos | vakarėlis | vidutinio gymio | zuikutis</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼" type="tts">besilinksminančios moterys: rusvos odos vidutinio gymio</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾">ausys | besilinksminančios moterys | dvynės | geriausios draugės | kiškučio ausys | merginos | moterys | pora | rusvos odos | šokėjos | tamsios odos | vakarėlis | zuikutis</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾" type="tts">besilinksminančios moterys: rusvos odos tamsios odos</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿">ausys | besilinksminančios moterys | dvynės | geriausios draugės | itin tamsios odos | kiškučio ausys | merginos | moterys | pora | rusvos odos | šokėjos | vakarėlis | zuikutis</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿" type="tts">besilinksminančios moterys: rusvos odos itin tamsios odos</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻">ausys | besilinksminančios moterys | dvynės | geriausios draugės | kiškučio ausys | merginos | moterys | pora | šokėjos | šviesios odos | tamsios odos | vakarėlis | zuikutis</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻" type="tts">besilinksminančios moterys: tamsios odos šviesios odos</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼">ausys | besilinksminančios moterys | dvynės | geriausios draugės | kiškučio ausys | merginos | moterys | pora | šokėjos | tamsios odos | vakarėlis | vidutinio gymio | zuikutis</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼" type="tts">besilinksminančios moterys: tamsios odos vidutinio gymio</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽">ausys | besilinksminančios moterys | dvynės | geriausios draugės | kiškučio ausys | merginos | moterys | pora | rusvos odos | šokėjos | tamsios odos | vakarėlis | zuikutis</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽" type="tts">besilinksminančios moterys: tamsios odos rusvos odos</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿">ausys | besilinksminančios moterys | dvynės | geriausios draugės | itin tamsios odos | kiškučio ausys | merginos | moterys | pora | šokėjos | tamsios odos | vakarėlis | zuikutis</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿" type="tts">besilinksminančios moterys: tamsios odos itin tamsios odos</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻">ausys | besilinksminančios moterys | dvynės | geriausios draugės | itin tamsios odos | kiškučio ausys | merginos | moterys | pora | šokėjos | šviesios odos | vakarėlis | zuikutis</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻" type="tts">besilinksminančios moterys: itin tamsios odos šviesios odos</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼">ausys | besilinksminančios moterys | dvynės | geriausios draugės | itin tamsios odos | kiškučio ausys | merginos | moterys | pora | šokėjos | vakarėlis | vidutinio gymio | zuikutis</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼" type="tts">besilinksminančios moterys: itin tamsios odos vidutinio gymio</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽">ausys | besilinksminančios moterys | dvynės | geriausios draugės | itin tamsios odos | kiškučio ausys | merginos | moterys | pora | rusvos odos | šokėjos | vakarėlis | zuikutis</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽" type="tts">besilinksminančios moterys: itin tamsios odos rusvos odos</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾">ausys | besilinksminančios moterys | dvynės | geriausios draugės | itin tamsios odos | kiškučio ausys | merginos | moterys | pora | šokėjos | tamsios odos | vakarėlis | zuikutis</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾" type="tts">besilinksminančios moterys: itin tamsios odos tamsios odos</annotation>
+		<annotation cp="🧑🏻‍🩰">baletas | šokėjas | šviesios odos</annotation>
+		<annotation cp="🧑🏻‍🩰" type="tts">baleto šokėjas: šviesios odos</annotation>
+		<annotation cp="🧑🏼‍🩰">baletas | šokėjas | vidutinio gymio</annotation>
+		<annotation cp="🧑🏼‍🩰" type="tts">baleto šokėjas: vidutinio gymio</annotation>
+		<annotation cp="🧑🏽‍🩰">baletas | rusvos odos | šokėjas</annotation>
+		<annotation cp="🧑🏽‍🩰" type="tts">baleto šokėjas: rusvos odos</annotation>
+		<annotation cp="🧑🏾‍🩰">baletas | šokėjas | tamsios odos</annotation>
+		<annotation cp="🧑🏾‍🩰" type="tts">baleto šokėjas: tamsios odos</annotation>
+		<annotation cp="🧑🏿‍🩰">baletas | itin tamsios odos | šokėjas</annotation>
+		<annotation cp="🧑🏿‍🩰" type="tts">baleto šokėjas: itin tamsios odos</annotation>
 		<annotation cp="👨🏻">berniukas | draugas | šviesios odos | vaikinas | vyras</annotation>
 		<annotation cp="👨🏻" type="tts">vyras: šviesios odos</annotation>
 		<annotation cp="👨🏼">berniukas | draugas | vaikinas | vidutinio gymio | vyras</annotation>
@@ -771,6 +861,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♂" type="tts">blondinas: tamsios odos</annotation>
 		<annotation cp="👱🏿‍♂">blondinas | itin tamsios odos | vyras</annotation>
 		<annotation cp="👱🏿‍♂" type="tts">blondinas: itin tamsios odos</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼">dvikova | grumtynės | imtynės | imtynių turnyras | kova | ringe | šviesios odos | vidutinio gymio | vyrai | vyrų imtynės</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼" type="tts">vyrų imtynės: šviesios odos vidutinio gymio</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽">dvikova | grumtynės | imtynės | imtynių turnyras | kova | ringe | rusvos odos | šviesios odos | vyrai | vyrų imtynės</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽" type="tts">vyrų imtynės: šviesios odos rusvos odos</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾">dvikova | grumtynės | imtynės | imtynių turnyras | kova | ringe | šviesios odos | tamsios odos | vyrai | vyrų imtynės</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾" type="tts">vyrų imtynės: šviesios odos tamsios odos</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿">dvikova | grumtynės | imtynės | imtynių turnyras | itin tamsios odos | kova | ringe | šviesios odos | vyrai | vyrų imtynės</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿" type="tts">vyrų imtynės: šviesios odos itin tamsios odos</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻">dvikova | grumtynės | imtynės | imtynių turnyras | kova | ringe | šviesios odos | vidutinio gymio | vyrai | vyrų imtynės</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻" type="tts">vyrų imtynės: vidutinio gymio šviesios odos</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽">dvikova | grumtynės | imtynės | imtynių turnyras | kova | ringe | rusvos odos | vidutinio gymio | vyrai | vyrų imtynės</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽" type="tts">vyrų imtynės: vidutinio gymio rusvos odos</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾">dvikova | grumtynės | imtynės | imtynių turnyras | kova | ringe | tamsios odos | vidutinio gymio | vyrai | vyrų imtynės</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾" type="tts">vyrų imtynės: vidutinio gymio tamsios odos</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿">dvikova | grumtynės | imtynės | imtynių turnyras | itin tamsios odos | kova | ringe | vidutinio gymio | vyrai | vyrų imtynės</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿" type="tts">vyrų imtynės: vidutinio gymio itin tamsios odos</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻">dvikova | grumtynės | imtynės | imtynių turnyras | kova | ringe | rusvos odos | šviesios odos | vyrai | vyrų imtynės</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻" type="tts">vyrų imtynės: rusvos odos šviesios odos</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼">dvikova | grumtynės | imtynės | imtynių turnyras | kova | ringe | rusvos odos | vidutinio gymio | vyrai | vyrų imtynės</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼" type="tts">vyrų imtynės: rusvos odos vidutinio gymio</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾">dvikova | grumtynės | imtynės | imtynių turnyras | kova | ringe | rusvos odos | tamsios odos | vyrai | vyrų imtynės</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾" type="tts">vyrų imtynės: rusvos odos tamsios odos</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿">dvikova | grumtynės | imtynės | imtynių turnyras | itin tamsios odos | kova | ringe | rusvos odos | vyrai | vyrų imtynės</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿" type="tts">vyrų imtynės: rusvos odos itin tamsios odos</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻">dvikova | grumtynės | imtynės | imtynių turnyras | kova | ringe | šviesios odos | tamsios odos | vyrai | vyrų imtynės</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻" type="tts">vyrų imtynės: tamsios odos šviesios odos</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼">dvikova | grumtynės | imtynės | imtynių turnyras | kova | ringe | tamsios odos | vidutinio gymio | vyrai | vyrų imtynės</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼" type="tts">vyrų imtynės: tamsios odos vidutinio gymio</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽">dvikova | grumtynės | imtynės | imtynių turnyras | kova | ringe | rusvos odos | tamsios odos | vyrai | vyrų imtynės</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽" type="tts">vyrų imtynės: tamsios odos rusvos odos</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿">dvikova | grumtynės | imtynės | imtynių turnyras | itin tamsios odos | kova | ringe | tamsios odos | vyrai | vyrų imtynės</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿" type="tts">vyrų imtynės: tamsios odos itin tamsios odos</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻">dvikova | grumtynės | imtynės | imtynių turnyras | itin tamsios odos | kova | ringe | šviesios odos | vyrai | vyrų imtynės</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻" type="tts">vyrų imtynės: itin tamsios odos šviesios odos</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼">dvikova | grumtynės | imtynės | imtynių turnyras | itin tamsios odos | kova | ringe | vidutinio gymio | vyrai | vyrų imtynės</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼" type="tts">vyrų imtynės: itin tamsios odos vidutinio gymio</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽">dvikova | grumtynės | imtynės | imtynių turnyras | itin tamsios odos | kova | ringe | rusvos odos | vyrai | vyrų imtynės</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽" type="tts">vyrų imtynės: itin tamsios odos rusvos odos</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾">dvikova | grumtynės | imtynės | imtynių turnyras | itin tamsios odos | kova | ringe | tamsios odos | vyrai | vyrų imtynės</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾" type="tts">vyrų imtynės: itin tamsios odos tamsios odos</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻">bučinys | meilė | metinės | pora | šviesios odos | vyras</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻" type="tts">bučinys: vyras vyras šviesios odos</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏼">bučinys | meilė | metinės | pora | šviesios odos | vidutinio gymio | vyras</annotation>
@@ -919,6 +1049,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦲" type="tts">vyras: tamsios odos plikas</annotation>
 		<annotation cp="👨🏿‍🦲">berniukas | draugas | itin tamsios odos | plikas | vaikinas | vyras</annotation>
 		<annotation cp="👨🏿‍🦲" type="tts">vyras: itin tamsios odos plikas</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼">dvyniai | kiškio ausytės | šokėjas | šviesios odos | vakarėlis | vakarėlyje dalyvaujantys vyrai | vidutinio gymio | vyrai</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼" type="tts">vakarėlyje dalyvaujantys vyrai: šviesios odos vidutinio gymio</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽">dvyniai | kiškio ausytės | rusvos odos | šokėjas | šviesios odos | vakarėlis | vakarėlyje dalyvaujantys vyrai | vyrai</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽" type="tts">vakarėlyje dalyvaujantys vyrai: šviesios odos rusvos odos</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾">dvyniai | kiškio ausytės | šokėjas | šviesios odos | tamsios odos | vakarėlis | vakarėlyje dalyvaujantys vyrai | vyrai</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾" type="tts">vakarėlyje dalyvaujantys vyrai: šviesios odos tamsios odos</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿">dvyniai | itin tamsios odos | kiškio ausytės | šokėjas | šviesios odos | vakarėlis | vakarėlyje dalyvaujantys vyrai | vyrai</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿" type="tts">vakarėlyje dalyvaujantys vyrai: šviesios odos itin tamsios odos</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻">dvyniai | kiškio ausytės | šokėjas | šviesios odos | vakarėlis | vakarėlyje dalyvaujantys vyrai | vidutinio gymio | vyrai</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻" type="tts">vakarėlyje dalyvaujantys vyrai: vidutinio gymio šviesios odos</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽">dvyniai | kiškio ausytės | rusvos odos | šokėjas | vakarėlis | vakarėlyje dalyvaujantys vyrai | vidutinio gymio | vyrai</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽" type="tts">vakarėlyje dalyvaujantys vyrai: vidutinio gymio rusvos odos</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾">dvyniai | kiškio ausytės | šokėjas | tamsios odos | vakarėlis | vakarėlyje dalyvaujantys vyrai | vidutinio gymio | vyrai</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾" type="tts">vakarėlyje dalyvaujantys vyrai: vidutinio gymio tamsios odos</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿">dvyniai | itin tamsios odos | kiškio ausytės | šokėjas | vakarėlis | vakarėlyje dalyvaujantys vyrai | vidutinio gymio | vyrai</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿" type="tts">vakarėlyje dalyvaujantys vyrai: vidutinio gymio itin tamsios odos</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻">dvyniai | kiškio ausytės | rusvos odos | šokėjas | šviesios odos | vakarėlis | vakarėlyje dalyvaujantys vyrai | vyrai</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻" type="tts">vakarėlyje dalyvaujantys vyrai: rusvos odos šviesios odos</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼">dvyniai | kiškio ausytės | rusvos odos | šokėjas | vakarėlis | vakarėlyje dalyvaujantys vyrai | vidutinio gymio | vyrai</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼" type="tts">vakarėlyje dalyvaujantys vyrai: rusvos odos vidutinio gymio</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾">dvyniai | kiškio ausytės | rusvos odos | šokėjas | tamsios odos | vakarėlis | vakarėlyje dalyvaujantys vyrai | vyrai</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾" type="tts">vakarėlyje dalyvaujantys vyrai: rusvos odos tamsios odos</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿">dvyniai | itin tamsios odos | kiškio ausytės | rusvos odos | šokėjas | vakarėlis | vakarėlyje dalyvaujantys vyrai | vyrai</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿" type="tts">vakarėlyje dalyvaujantys vyrai: rusvos odos itin tamsios odos</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻">dvyniai | kiškio ausytės | šokėjas | šviesios odos | tamsios odos | vakarėlis | vakarėlyje dalyvaujantys vyrai | vyrai</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻" type="tts">vakarėlyje dalyvaujantys vyrai: tamsios odos šviesios odos</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼">dvyniai | kiškio ausytės | šokėjas | tamsios odos | vakarėlis | vakarėlyje dalyvaujantys vyrai | vidutinio gymio | vyrai</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼" type="tts">vakarėlyje dalyvaujantys vyrai: tamsios odos vidutinio gymio</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽">dvyniai | kiškio ausytės | rusvos odos | šokėjas | tamsios odos | vakarėlis | vakarėlyje dalyvaujantys vyrai | vyrai</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽" type="tts">vakarėlyje dalyvaujantys vyrai: tamsios odos rusvos odos</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿">dvyniai | itin tamsios odos | kiškio ausytės | šokėjas | tamsios odos | vakarėlis | vakarėlyje dalyvaujantys vyrai | vyrai</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿" type="tts">vakarėlyje dalyvaujantys vyrai: tamsios odos itin tamsios odos</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻">dvyniai | itin tamsios odos | kiškio ausytės | šokėjas | šviesios odos | vakarėlis | vakarėlyje dalyvaujantys vyrai | vyrai</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻" type="tts">vakarėlyje dalyvaujantys vyrai: itin tamsios odos šviesios odos</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼">dvyniai | itin tamsios odos | kiškio ausytės | šokėjas | vakarėlis | vakarėlyje dalyvaujantys vyrai | vidutinio gymio | vyrai</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼" type="tts">vakarėlyje dalyvaujantys vyrai: itin tamsios odos vidutinio gymio</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽">dvyniai | itin tamsios odos | kiškio ausytės | rusvos odos | šokėjas | vakarėlis | vakarėlyje dalyvaujantys vyrai | vyrai</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽" type="tts">vakarėlyje dalyvaujantys vyrai: itin tamsios odos rusvos odos</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾">dvyniai | itin tamsios odos | kiškio ausytės | šokėjas | tamsios odos | vakarėlis | vakarėlyje dalyvaujantys vyrai | vyrai</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾" type="tts">vakarėlyje dalyvaujantys vyrai: itin tamsios odos tamsios odos</annotation>
 		<annotation cp="👩🏻">moteris | šviesiaplaukė | šviesios odos</annotation>
 		<annotation cp="👩🏻" type="tts">moteris: šviesios odos</annotation>
 		<annotation cp="👩🏼">moteris | šviesiaplaukė | vidutinio gymio</annotation>
@@ -949,6 +1119,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♀" type="tts">blondinė: tamsios odos</annotation>
 		<annotation cp="👱🏿‍♀">blondinė | itin tamsios odos | moteris</annotation>
 		<annotation cp="👱🏿‍♀" type="tts">blondinė: itin tamsios odos</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼">dvikova | grumtynės | imtynės | imtynių turnyras | kova | moteris | moterų imtynės | moterys | ringe | šviesios odos | vidutinio gymio</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼" type="tts">moterų imtynės: šviesios odos vidutinio gymio</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽">dvikova | grumtynės | imtynės | imtynių turnyras | kova | moteris | moterų imtynės | moterys | ringe | rusvos odos | šviesios odos</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽" type="tts">moterų imtynės: šviesios odos rusvos odos</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾">dvikova | grumtynės | imtynės | imtynių turnyras | kova | moteris | moterų imtynės | moterys | ringe | šviesios odos | tamsios odos</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾" type="tts">moterų imtynės: šviesios odos tamsios odos</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿">dvikova | grumtynės | imtynės | imtynių turnyras | itin tamsios odos | kova | moteris | moterų imtynės | moterys | ringe | šviesios odos</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿" type="tts">moterų imtynės: šviesios odos itin tamsios odos</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻">dvikova | grumtynės | imtynės | imtynių turnyras | kova | moteris | moterų imtynės | moterys | ringe | šviesios odos | vidutinio gymio</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻" type="tts">moterų imtynės: vidutinio gymio šviesios odos</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽">dvikova | grumtynės | imtynės | imtynių turnyras | kova | moteris | moterų imtynės | moterys | ringe | rusvos odos | vidutinio gymio</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽" type="tts">moterų imtynės: vidutinio gymio rusvos odos</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾">dvikova | grumtynės | imtynės | imtynių turnyras | kova | moteris | moterų imtynės | moterys | ringe | tamsios odos | vidutinio gymio</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾" type="tts">moterų imtynės: vidutinio gymio tamsios odos</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿">dvikova | grumtynės | imtynės | imtynių turnyras | itin tamsios odos | kova | moteris | moterų imtynės | moterys | ringe | vidutinio gymio</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿" type="tts">moterų imtynės: vidutinio gymio itin tamsios odos</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻">dvikova | grumtynės | imtynės | imtynių turnyras | kova | moteris | moterų imtynės | moterys | ringe | rusvos odos | šviesios odos</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻" type="tts">moterų imtynės: rusvos odos šviesios odos</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼">dvikova | grumtynės | imtynės | imtynių turnyras | kova | moteris | moterų imtynės | moterys | ringe | rusvos odos | vidutinio gymio</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼" type="tts">moterų imtynės: rusvos odos vidutinio gymio</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾">dvikova | grumtynės | imtynės | imtynių turnyras | kova | moteris | moterų imtynės | moterys | ringe | rusvos odos | tamsios odos</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾" type="tts">moterų imtynės: rusvos odos tamsios odos</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿">dvikova | grumtynės | imtynės | imtynių turnyras | itin tamsios odos | kova | moteris | moterų imtynės | moterys | ringe | rusvos odos</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿" type="tts">moterų imtynės: rusvos odos itin tamsios odos</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻">dvikova | grumtynės | imtynės | imtynių turnyras | kova | moteris | moterų imtynės | moterys | ringe | šviesios odos | tamsios odos</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻" type="tts">moterų imtynės: tamsios odos šviesios odos</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼">dvikova | grumtynės | imtynės | imtynių turnyras | kova | moteris | moterų imtynės | moterys | ringe | tamsios odos | vidutinio gymio</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼" type="tts">moterų imtynės: tamsios odos vidutinio gymio</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽">dvikova | grumtynės | imtynės | imtynių turnyras | kova | moteris | moterų imtynės | moterys | ringe | rusvos odos | tamsios odos</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽" type="tts">moterų imtynės: tamsios odos rusvos odos</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿">dvikova | grumtynės | imtynės | imtynių turnyras | itin tamsios odos | kova | moteris | moterų imtynės | moterys | ringe | tamsios odos</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿" type="tts">moterų imtynės: tamsios odos itin tamsios odos</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻">dvikova | grumtynės | imtynės | imtynių turnyras | itin tamsios odos | kova | moteris | moterų imtynės | moterys | ringe | šviesios odos</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻" type="tts">moterų imtynės: itin tamsios odos šviesios odos</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼">dvikova | grumtynės | imtynės | imtynių turnyras | itin tamsios odos | kova | moteris | moterų imtynės | moterys | ringe | vidutinio gymio</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼" type="tts">moterų imtynės: itin tamsios odos vidutinio gymio</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽">dvikova | grumtynės | imtynės | imtynių turnyras | itin tamsios odos | kova | moteris | moterų imtynės | moterys | ringe | rusvos odos</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽" type="tts">moterų imtynės: itin tamsios odos rusvos odos</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾">dvikova | grumtynės | imtynės | imtynių turnyras | itin tamsios odos | kova | moteris | moterų imtynės | moterys | ringe | tamsios odos</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾" type="tts">moterų imtynės: itin tamsios odos tamsios odos</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻">bučinys | meilė | metinės | moteris | pora | šviesios odos | vyras</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻" type="tts">bučinys: moteris vyras šviesios odos</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏼">bučinys | meilė | metinės | moteris | pora | šviesios odos | vidutinio gymio | vyras</annotation>
@@ -1197,6 +1407,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦲" type="tts">moteris: tamsios odos plikas</annotation>
 		<annotation cp="👩🏿‍🦲">itin tamsios odos | moteris | plikas | šviesiaplaukė</annotation>
 		<annotation cp="👩🏿‍🦲" type="tts">moteris: itin tamsios odos plikas</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼">kiškio ausytės | moteris | moterys | šokėja | šviesios odos | vakarėlis | vakarėlyje dalyvaujančios moterys | vidutinio gymio</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼" type="tts">vakarėlyje dalyvaujančios moterys: šviesios odos vidutinio gymio</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽">kiškio ausytės | moteris | moterys | rusvos odos | šokėja | šviesios odos | vakarėlis | vakarėlyje dalyvaujančios moterys</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽" type="tts">vakarėlyje dalyvaujančios moterys: šviesios odos rusvos odos</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾">kiškio ausytės | moteris | moterys | šokėja | šviesios odos | tamsios odos | vakarėlis | vakarėlyje dalyvaujančios moterys</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾" type="tts">vakarėlyje dalyvaujančios moterys: šviesios odos tamsios odos</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿">itin tamsios odos | kiškio ausytės | moteris | moterys | šokėja | šviesios odos | vakarėlis | vakarėlyje dalyvaujančios moterys</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿" type="tts">vakarėlyje dalyvaujančios moterys: šviesios odos itin tamsios odos</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻">kiškio ausytės | moteris | moterys | šokėja | šviesios odos | vakarėlis | vakarėlyje dalyvaujančios moterys | vidutinio gymio</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻" type="tts">vakarėlyje dalyvaujančios moterys: vidutinio gymio šviesios odos</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽">kiškio ausytės | moteris | moterys | rusvos odos | šokėja | vakarėlis | vakarėlyje dalyvaujančios moterys | vidutinio gymio</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽" type="tts">vakarėlyje dalyvaujančios moterys: vidutinio gymio rusvos odos</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾">kiškio ausytės | moteris | moterys | šokėja | tamsios odos | vakarėlis | vakarėlyje dalyvaujančios moterys | vidutinio gymio</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾" type="tts">vakarėlyje dalyvaujančios moterys: vidutinio gymio tamsios odos</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿">itin tamsios odos | kiškio ausytės | moteris | moterys | šokėja | vakarėlis | vakarėlyje dalyvaujančios moterys | vidutinio gymio</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿" type="tts">vakarėlyje dalyvaujančios moterys: vidutinio gymio itin tamsios odos</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻">kiškio ausytės | moteris | moterys | rusvos odos | šokėja | šviesios odos | vakarėlis | vakarėlyje dalyvaujančios moterys</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻" type="tts">vakarėlyje dalyvaujančios moterys: rusvos odos šviesios odos</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼">kiškio ausytės | moteris | moterys | rusvos odos | šokėja | vakarėlis | vakarėlyje dalyvaujančios moterys | vidutinio gymio</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼" type="tts">vakarėlyje dalyvaujančios moterys: rusvos odos vidutinio gymio</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾">kiškio ausytės | moteris | moterys | rusvos odos | šokėja | tamsios odos | vakarėlis | vakarėlyje dalyvaujančios moterys</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾" type="tts">vakarėlyje dalyvaujančios moterys: rusvos odos tamsios odos</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿">itin tamsios odos | kiškio ausytės | moteris | moterys | rusvos odos | šokėja | vakarėlis | vakarėlyje dalyvaujančios moterys</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿" type="tts">vakarėlyje dalyvaujančios moterys: rusvos odos itin tamsios odos</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻">kiškio ausytės | moteris | moterys | šokėja | šviesios odos | tamsios odos | vakarėlis | vakarėlyje dalyvaujančios moterys</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻" type="tts">vakarėlyje dalyvaujančios moterys: tamsios odos šviesios odos</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼">kiškio ausytės | moteris | moterys | šokėja | tamsios odos | vakarėlis | vakarėlyje dalyvaujančios moterys | vidutinio gymio</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼" type="tts">vakarėlyje dalyvaujančios moterys: tamsios odos vidutinio gymio</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽">kiškio ausytės | moteris | moterys | rusvos odos | šokėja | tamsios odos | vakarėlis | vakarėlyje dalyvaujančios moterys</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽" type="tts">vakarėlyje dalyvaujančios moterys: tamsios odos rusvos odos</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿">itin tamsios odos | kiškio ausytės | moteris | moterys | šokėja | tamsios odos | vakarėlis | vakarėlyje dalyvaujančios moterys</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿" type="tts">vakarėlyje dalyvaujančios moterys: tamsios odos itin tamsios odos</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻">itin tamsios odos | kiškio ausytės | moteris | moterys | šokėja | šviesios odos | vakarėlis | vakarėlyje dalyvaujančios moterys</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻" type="tts">vakarėlyje dalyvaujančios moterys: itin tamsios odos šviesios odos</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼">itin tamsios odos | kiškio ausytės | moteris | moterys | šokėja | vakarėlis | vakarėlyje dalyvaujančios moterys | vidutinio gymio</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼" type="tts">vakarėlyje dalyvaujančios moterys: itin tamsios odos vidutinio gymio</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽">itin tamsios odos | kiškio ausytės | moteris | moterys | rusvos odos | šokėja | vakarėlis | vakarėlyje dalyvaujančios moterys</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽" type="tts">vakarėlyje dalyvaujančios moterys: itin tamsios odos rusvos odos</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾">itin tamsios odos | kiškio ausytės | moteris | moterys | šokėja | tamsios odos | vakarėlis | vakarėlyje dalyvaujančios moterys</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾" type="tts">vakarėlyje dalyvaujančios moterys: itin tamsios odos tamsios odos</annotation>
 		<annotation cp="🧓🏻">kitas suaugusysis | neutrali lytis | senas | šviesios odos | žmogus</annotation>
 		<annotation cp="🧓🏻" type="tts">kitas suaugusysis: šviesios odos</annotation>
 		<annotation cp="🧓🏼">kitas suaugusysis | neutrali lytis | senas | vidutinio gymio | žmogus</annotation>
@@ -2687,42 +2937,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🚶🏾‍♀" type="tts">einanti moteris: tamsios odos</annotation>
 		<annotation cp="🚶🏿‍♀">einanti moteris | eiti | itin tamsios odos | moteris | žmogus | žygiuoti</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">einanti moteris: itin tamsios odos</annotation>
-		<annotation cp="🚶‍➡">einantis žmogus | eisena | ėjimas | išdidi eisena | lengva eisena | pasivaikščiojimas | pėsčiasis | pėstysis | vaikščiojimas | vaikščioti | žingsnis</annotation>
-		<annotation cp="🚶‍➡" type="tts">pėstysis atsisukęs į dešinę</annotation>
-		<annotation cp="🚶🏻‍➡">einantis žmogus | eisena | ėjimas | išdidi eisena | lengva eisena | pasivaikščiojimas | pėsčiasis | pėstysis | vaikščiojimas | vaikščioti | žingsnis</annotation>
-		<annotation cp="🚶🏻‍➡" type="tts">pėstysis atsisukęs į dešinę</annotation>
-		<annotation cp="🚶🏼‍➡">einantis žmogus | eisena | ėjimas | išdidi eisena | lengva eisena | pasivaikščiojimas | pėsčiasis | pėstysis | vaikščiojimas | vaikščioti | žingsnis</annotation>
-		<annotation cp="🚶🏼‍➡" type="tts">pėstysis atsisukęs į dešinę</annotation>
-		<annotation cp="🚶🏽‍➡">einantis žmogus | eisena | ėjimas | išdidi eisena | lengva eisena | pasivaikščiojimas | pėsčiasis | pėstysis | vaikščiojimas | vaikščioti | žingsnis</annotation>
-		<annotation cp="🚶🏽‍➡" type="tts">pėstysis atsisukęs į dešinę</annotation>
-		<annotation cp="🚶🏾‍➡">einantis žmogus | eisena | ėjimas | išdidi eisena | lengva eisena | pasivaikščiojimas | pėsčiasis | pėstysis | vaikščiojimas | vaikščioti | žingsnis</annotation>
-		<annotation cp="🚶🏾‍➡" type="tts">pėstysis atsisukęs į dešinę</annotation>
-		<annotation cp="🚶🏿‍➡">einantis žmogus | eisena | ėjimas | išdidi eisena | lengva eisena | pasivaikščiojimas | pėsčiasis | pėstysis | vaikščiojimas | vaikščioti | žingsnis</annotation>
-		<annotation cp="🚶🏿‍➡" type="tts">pėstysis atsisukęs į dešinę</annotation>
-		<annotation cp="🚶‍♀‍➡">einanti moteris | eiti | moteris | žmogus | žygiuoti</annotation>
-		<annotation cp="🚶‍♀‍➡" type="tts">einanti moteris atsisukęs į dešinę</annotation>
-		<annotation cp="🚶🏻‍♀‍➡">einanti moteris | eiti | moteris | žmogus | žygiuoti</annotation>
-		<annotation cp="🚶🏻‍♀‍➡" type="tts">einanti moteris atsisukęs į dešinę</annotation>
-		<annotation cp="🚶🏼‍♀‍➡">einanti moteris | eiti | moteris | žmogus | žygiuoti</annotation>
-		<annotation cp="🚶🏼‍♀‍➡" type="tts">einanti moteris atsisukęs į dešinę</annotation>
-		<annotation cp="🚶🏽‍♀‍➡">einanti moteris | eiti | moteris | žmogus | žygiuoti</annotation>
-		<annotation cp="🚶🏽‍♀‍➡" type="tts">einanti moteris atsisukęs į dešinę</annotation>
-		<annotation cp="🚶🏾‍♀‍➡">einanti moteris | eiti | moteris | žmogus | žygiuoti</annotation>
-		<annotation cp="🚶🏾‍♀‍➡" type="tts">einanti moteris atsisukęs į dešinę</annotation>
-		<annotation cp="🚶🏿‍♀‍➡">einanti moteris | eiti | moteris | žmogus | žygiuoti</annotation>
-		<annotation cp="🚶🏿‍♀‍➡" type="tts">einanti moteris atsisukęs į dešinę</annotation>
-		<annotation cp="🚶‍♂‍➡">einantis vyras | eiti | vyras | žygiuoti</annotation>
-		<annotation cp="🚶‍♂‍➡" type="tts">einantis vyras atsisukęs į dešinę</annotation>
-		<annotation cp="🚶🏻‍♂‍➡">einantis vyras | eiti | vyras | žygiuoti</annotation>
-		<annotation cp="🚶🏻‍♂‍➡" type="tts">einantis vyras atsisukęs į dešinę</annotation>
-		<annotation cp="🚶🏼‍♂‍➡">einantis vyras | eiti | vyras | žygiuoti</annotation>
-		<annotation cp="🚶🏼‍♂‍➡" type="tts">einantis vyras atsisukęs į dešinę</annotation>
-		<annotation cp="🚶🏽‍♂‍➡">einantis vyras | eiti | vyras | žygiuoti</annotation>
-		<annotation cp="🚶🏽‍♂‍➡" type="tts">einantis vyras atsisukęs į dešinę</annotation>
-		<annotation cp="🚶🏾‍♂‍➡">einantis vyras | eiti | vyras | žygiuoti</annotation>
-		<annotation cp="🚶🏾‍♂‍➡" type="tts">einantis vyras atsisukęs į dešinę</annotation>
-		<annotation cp="🚶🏿‍♂‍➡">einantis vyras | eiti | vyras | žygiuoti</annotation>
-		<annotation cp="🚶🏿‍♂‍➡" type="tts">einantis vyras atsisukęs į dešinę</annotation>
+		<annotation cp="🚶‍➡">atsisukęs | dešinę | einantis žmogus | eisena | ėjimas | į | išdidi eisena | lengva eisena | pasivaikščiojimas | pėsčiasis | pėstysis | vaikščiojimas | vaikščioti | žingsnis</annotation>
+		<annotation cp="🚶‍➡" type="tts">pėstysis: atsisukęs į dešinę</annotation>
+		<annotation cp="🚶🏻‍➡">atsisukęs | dešinę | einantis žmogus | eisena | ėjimas | į | išdidi eisena | lengva eisena | pasivaikščiojimas | pėsčiasis | pėstysis | šviesios odos | vaikščiojimas | vaikščioti | žingsnis</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">pėstysis: šviesios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🚶🏼‍➡">atsisukęs | dešinę | einantis žmogus | eisena | ėjimas | į | išdidi eisena | lengva eisena | pasivaikščiojimas | pėsčiasis | pėstysis | vaikščiojimas | vaikščioti | vidutinio gymio | žingsnis</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">pėstysis: vidutinio gymio atsisukęs į dešinę</annotation>
+		<annotation cp="🚶🏽‍➡">atsisukęs | dešinę | einantis žmogus | eisena | ėjimas | į | išdidi eisena | lengva eisena | pasivaikščiojimas | pėsčiasis | pėstysis | rusvos odos | vaikščiojimas | vaikščioti | žingsnis</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">pėstysis: rusvos odos atsisukęs į dešinę</annotation>
+		<annotation cp="🚶🏾‍➡">atsisukęs | dešinę | einantis žmogus | eisena | ėjimas | į | išdidi eisena | lengva eisena | pasivaikščiojimas | pėsčiasis | pėstysis | tamsios odos | vaikščiojimas | vaikščioti | žingsnis</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">pėstysis: tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🚶🏿‍➡">atsisukęs | dešinę | einantis žmogus | eisena | ėjimas | į | išdidi eisena | itin tamsios odos | lengva eisena | pasivaikščiojimas | pėsčiasis | pėstysis | vaikščiojimas | vaikščioti | žingsnis</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">pėstysis: itin tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🚶‍♀‍➡">atsisukęs | dešinę | einanti moteris | eiti | į | moteris | žmogus | žygiuoti</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">einanti moteris: atsisukęs į dešinę</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">atsisukęs | dešinę | einanti moteris | eiti | į | moteris | šviesios odos | žmogus | žygiuoti</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">einanti moteris: šviesios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">atsisukęs | dešinę | einanti moteris | eiti | į | moteris | vidutinio gymio | žmogus | žygiuoti</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">einanti moteris: vidutinio gymio atsisukęs į dešinę</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">atsisukęs | dešinę | einanti moteris | eiti | į | moteris | rusvos odos | žmogus | žygiuoti</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">einanti moteris: rusvos odos atsisukęs į dešinę</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">atsisukęs | dešinę | einanti moteris | eiti | į | moteris | tamsios odos | žmogus | žygiuoti</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">einanti moteris: tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">atsisukęs | dešinę | einanti moteris | eiti | į | itin tamsios odos | moteris | žmogus | žygiuoti</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">einanti moteris: itin tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🚶‍♂‍➡">atsisukęs | dešinę | einantis vyras | eiti | į | vyras | žygiuoti</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">einantis vyras: atsisukęs į dešinę</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">atsisukęs | dešinę | einantis vyras | eiti | į | šviesios odos | vyras | žygiuoti</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">einantis vyras: šviesios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">atsisukęs | dešinę | einantis vyras | eiti | į | vidutinio gymio | vyras | žygiuoti</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">einantis vyras: vidutinio gymio atsisukęs į dešinę</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">atsisukęs | dešinę | einantis vyras | eiti | į | rusvos odos | vyras | žygiuoti</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">einantis vyras: rusvos odos atsisukęs į dešinę</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">atsisukęs | dešinę | einantis vyras | eiti | į | tamsios odos | vyras | žygiuoti</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">einantis vyras: tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">atsisukęs | dešinę | einantis vyras | eiti | į | itin tamsios odos | vyras | žygiuoti</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">einantis vyras: itin tamsios odos atsisukęs į dešinę</annotation>
 		<annotation cp="🧍🏻">stovėti | stovintis | šviesios odos | žmogus</annotation>
 		<annotation cp="🧍🏻" type="tts">stovintis žmogus: šviesios odos</annotation>
 		<annotation cp="🧍🏼">stovėti | stovintis | vidutinio gymio | žmogus</annotation>
@@ -2783,42 +3033,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧎🏾‍♀" type="tts">klūpanti moteris: tamsios odos</annotation>
 		<annotation cp="🧎🏿‍♀">itin tamsios odos | klūpanti | moteris</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">klūpanti moteris: itin tamsios odos</annotation>
-		<annotation cp="🧎‍➡">klūpantis | klūpėti | žmogus</annotation>
-		<annotation cp="🧎‍➡" type="tts">klūpantis žmogus atsisukęs į dešinę</annotation>
-		<annotation cp="🧎🏻‍➡">klūpantis | klūpėti | žmogus</annotation>
-		<annotation cp="🧎🏻‍➡" type="tts">klūpantis žmogus atsisukęs į dešinę</annotation>
-		<annotation cp="🧎🏼‍➡">klūpantis | klūpėti | žmogus</annotation>
-		<annotation cp="🧎🏼‍➡" type="tts">klūpantis žmogus atsisukęs į dešinę</annotation>
-		<annotation cp="🧎🏽‍➡">klūpantis | klūpėti | žmogus</annotation>
-		<annotation cp="🧎🏽‍➡" type="tts">klūpantis žmogus atsisukęs į dešinę</annotation>
-		<annotation cp="🧎🏾‍➡">klūpantis | klūpėti | žmogus</annotation>
-		<annotation cp="🧎🏾‍➡" type="tts">klūpantis žmogus atsisukęs į dešinę</annotation>
-		<annotation cp="🧎🏿‍➡">klūpantis | klūpėti | žmogus</annotation>
-		<annotation cp="🧎🏿‍➡" type="tts">klūpantis žmogus atsisukęs į dešinę</annotation>
-		<annotation cp="🧎‍♀‍➡">klūpanti | moteris</annotation>
-		<annotation cp="🧎‍♀‍➡" type="tts">klūpanti moteris atsisukęs į dešinę</annotation>
-		<annotation cp="🧎🏻‍♀‍➡">klūpanti | moteris</annotation>
-		<annotation cp="🧎🏻‍♀‍➡" type="tts">klūpanti moteris atsisukęs į dešinę</annotation>
-		<annotation cp="🧎🏼‍♀‍➡">klūpanti | moteris</annotation>
-		<annotation cp="🧎🏼‍♀‍➡" type="tts">klūpanti moteris atsisukęs į dešinę</annotation>
-		<annotation cp="🧎🏽‍♀‍➡">klūpanti | moteris</annotation>
-		<annotation cp="🧎🏽‍♀‍➡" type="tts">klūpanti moteris atsisukęs į dešinę</annotation>
-		<annotation cp="🧎🏾‍♀‍➡">klūpanti | moteris</annotation>
-		<annotation cp="🧎🏾‍♀‍➡" type="tts">klūpanti moteris atsisukęs į dešinę</annotation>
-		<annotation cp="🧎🏿‍♀‍➡">klūpanti | moteris</annotation>
-		<annotation cp="🧎🏿‍♀‍➡" type="tts">klūpanti moteris atsisukęs į dešinę</annotation>
-		<annotation cp="🧎‍♂‍➡">klūpantis | vyras</annotation>
-		<annotation cp="🧎‍♂‍➡" type="tts">klūpantis vyras atsisukęs į dešinę</annotation>
-		<annotation cp="🧎🏻‍♂‍➡">klūpantis | vyras</annotation>
-		<annotation cp="🧎🏻‍♂‍➡" type="tts">klūpantis vyras atsisukęs į dešinę</annotation>
-		<annotation cp="🧎🏼‍♂‍➡">klūpantis | vyras</annotation>
-		<annotation cp="🧎🏼‍♂‍➡" type="tts">klūpantis vyras atsisukęs į dešinę</annotation>
-		<annotation cp="🧎🏽‍♂‍➡">klūpantis | vyras</annotation>
-		<annotation cp="🧎🏽‍♂‍➡" type="tts">klūpantis vyras atsisukęs į dešinę</annotation>
-		<annotation cp="🧎🏾‍♂‍➡">klūpantis | vyras</annotation>
-		<annotation cp="🧎🏾‍♂‍➡" type="tts">klūpantis vyras atsisukęs į dešinę</annotation>
-		<annotation cp="🧎🏿‍♂‍➡">klūpantis | vyras</annotation>
-		<annotation cp="🧎🏿‍♂‍➡" type="tts">klūpantis vyras atsisukęs į dešinę</annotation>
+		<annotation cp="🧎‍➡">atsisukęs | dešinę | į | klūpantis | klūpėti | žmogus</annotation>
+		<annotation cp="🧎‍➡" type="tts">klūpantis žmogus: atsisukęs į dešinę</annotation>
+		<annotation cp="🧎🏻‍➡">atsisukęs | dešinę | į | klūpantis | klūpėti | šviesios odos | žmogus</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">klūpantis žmogus: šviesios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🧎🏼‍➡">atsisukęs | dešinę | į | klūpantis | klūpėti | vidutinio gymio | žmogus</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">klūpantis žmogus: vidutinio gymio atsisukęs į dešinę</annotation>
+		<annotation cp="🧎🏽‍➡">atsisukęs | dešinę | į | klūpantis | klūpėti | rusvos odos | žmogus</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">klūpantis žmogus: rusvos odos atsisukęs į dešinę</annotation>
+		<annotation cp="🧎🏾‍➡">atsisukęs | dešinę | į | klūpantis | klūpėti | tamsios odos | žmogus</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">klūpantis žmogus: tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🧎🏿‍➡">atsisukęs | dešinę | į | itin tamsios odos | klūpantis | klūpėti | žmogus</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">klūpantis žmogus: itin tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🧎‍♀‍➡">atsisukęs | dešinę | į | klūpanti | moteris</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">klūpanti moteris: atsisukęs į dešinę</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">atsisukęs | dešinę | į | klūpanti | moteris | šviesios odos</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">klūpanti moteris: šviesios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">atsisukęs | dešinę | į | klūpanti | moteris | vidutinio gymio</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">klūpanti moteris: vidutinio gymio atsisukęs į dešinę</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">atsisukęs | dešinę | į | klūpanti | moteris | rusvos odos</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">klūpanti moteris: rusvos odos atsisukęs į dešinę</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">atsisukęs | dešinę | į | klūpanti | moteris | tamsios odos</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">klūpanti moteris: tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">atsisukęs | dešinę | į | itin tamsios odos | klūpanti | moteris</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">klūpanti moteris: itin tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🧎‍♂‍➡">atsisukęs | dešinę | į | klūpantis | vyras</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">klūpantis vyras: atsisukęs į dešinę</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">atsisukęs | dešinę | į | klūpantis | šviesios odos | vyras</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">klūpantis vyras: šviesios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">atsisukęs | dešinę | į | klūpantis | vidutinio gymio | vyras</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">klūpantis vyras: vidutinio gymio atsisukęs į dešinę</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">atsisukęs | dešinę | į | klūpantis | rusvos odos | vyras</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">klūpantis vyras: rusvos odos atsisukęs į dešinę</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">atsisukęs | dešinę | į | klūpantis | tamsios odos | vyras</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">klūpantis vyras: tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">atsisukęs | dešinę | į | itin tamsios odos | klūpantis | vyras</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">klūpantis vyras: itin tamsios odos atsisukęs į dešinę</annotation>
 		<annotation cp="🧑🏻‍🦯">aklas | prieinamumas | šviesios odos | žmogus neregio lazdele | žmogus su neregio lazdele</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">žmogus neregio lazdele: šviesios odos</annotation>
 		<annotation cp="🧑🏼‍🦯">aklas | prieinamumas | vidutinio gymio | žmogus neregio lazdele | žmogus su neregio lazdele</annotation>
@@ -2829,18 +3079,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦯" type="tts">žmogus neregio lazdele: tamsios odos</annotation>
 		<annotation cp="🧑🏿‍🦯">aklas | itin tamsios odos | prieinamumas | žmogus neregio lazdele | žmogus su neregio lazdele</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">žmogus neregio lazdele: itin tamsios odos</annotation>
-		<annotation cp="🧑‍🦯‍➡">aklas | prieinamumas | žmogus neregio lazdele | žmogus su neregio lazdele</annotation>
-		<annotation cp="🧑‍🦯‍➡" type="tts">žmogus neregio lazdele atsisukęs į dešinę</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡">aklas | prieinamumas | žmogus neregio lazdele | žmogus su neregio lazdele</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡" type="tts">žmogus neregio lazdele atsisukęs į dešinę</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡">aklas | prieinamumas | žmogus neregio lazdele | žmogus su neregio lazdele</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡" type="tts">žmogus neregio lazdele atsisukęs į dešinę</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡">aklas | prieinamumas | žmogus neregio lazdele | žmogus su neregio lazdele</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡" type="tts">žmogus neregio lazdele atsisukęs į dešinę</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡">aklas | prieinamumas | žmogus neregio lazdele | žmogus su neregio lazdele</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡" type="tts">žmogus neregio lazdele atsisukęs į dešinę</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡">aklas | prieinamumas | žmogus neregio lazdele | žmogus su neregio lazdele</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡" type="tts">žmogus neregio lazdele atsisukęs į dešinę</annotation>
+		<annotation cp="🧑‍🦯‍➡">aklas | atsisukęs | dešinę | į | prieinamumas | žmogus neregio lazdele | žmogus su neregio lazdele</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">žmogus neregio lazdele: atsisukęs į dešinę</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">aklas | atsisukęs | dešinę | į | prieinamumas | šviesios odos | žmogus neregio lazdele | žmogus su neregio lazdele</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">žmogus neregio lazdele: šviesios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">aklas | atsisukęs | dešinę | į | prieinamumas | vidutinio gymio | žmogus neregio lazdele | žmogus su neregio lazdele</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">žmogus neregio lazdele: vidutinio gymio atsisukęs į dešinę</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">aklas | atsisukęs | dešinę | į | prieinamumas | rusvos odos | žmogus neregio lazdele | žmogus su neregio lazdele</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">žmogus neregio lazdele: rusvos odos atsisukęs į dešinę</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">aklas | atsisukęs | dešinę | į | prieinamumas | tamsios odos | žmogus neregio lazdele | žmogus su neregio lazdele</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">žmogus neregio lazdele: tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">aklas | atsisukęs | dešinę | į | itin tamsios odos | prieinamumas | žmogus neregio lazdele | žmogus su neregio lazdele</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">žmogus neregio lazdele: itin tamsios odos atsisukęs į dešinę</annotation>
 		<annotation cp="👨🏻‍🦯">aklas | neįgaliųjų prieinamumas | neregys | prieinamumas | šviesios odos | vyras | vyras su neregio lazdele</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">vyras su neregio lazdele: šviesios odos</annotation>
 		<annotation cp="👨🏼‍🦯">aklas | neįgaliųjų prieinamumas | neregys | prieinamumas | vidutinio gymio | vyras | vyras su neregio lazdele</annotation>
@@ -2851,18 +3101,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦯" type="tts">vyras su neregio lazdele: tamsios odos</annotation>
 		<annotation cp="👨🏿‍🦯">aklas | itin tamsios odos | neįgaliųjų prieinamumas | neregys | prieinamumas | vyras | vyras su neregio lazdele</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">vyras su neregio lazdele: itin tamsios odos</annotation>
-		<annotation cp="👨‍🦯‍➡">aklas | neįgaliųjų prieinamumas | neregys | prieinamumas | vyras | vyras su neregio lazdele</annotation>
-		<annotation cp="👨‍🦯‍➡" type="tts">vyras su neregio lazdele atsisukęs į dešinę</annotation>
-		<annotation cp="👨🏻‍🦯‍➡">aklas | neįgaliųjų prieinamumas | neregys | prieinamumas | vyras | vyras su neregio lazdele</annotation>
-		<annotation cp="👨🏻‍🦯‍➡" type="tts">vyras su neregio lazdele atsisukęs į dešinę</annotation>
-		<annotation cp="👨🏼‍🦯‍➡">aklas | neįgaliųjų prieinamumas | neregys | prieinamumas | vyras | vyras su neregio lazdele</annotation>
-		<annotation cp="👨🏼‍🦯‍➡" type="tts">vyras su neregio lazdele atsisukęs į dešinę</annotation>
-		<annotation cp="👨🏽‍🦯‍➡">aklas | neįgaliųjų prieinamumas | neregys | prieinamumas | vyras | vyras su neregio lazdele</annotation>
-		<annotation cp="👨🏽‍🦯‍➡" type="tts">vyras su neregio lazdele atsisukęs į dešinę</annotation>
-		<annotation cp="👨🏾‍🦯‍➡">aklas | neįgaliųjų prieinamumas | neregys | prieinamumas | vyras | vyras su neregio lazdele</annotation>
-		<annotation cp="👨🏾‍🦯‍➡" type="tts">vyras su neregio lazdele atsisukęs į dešinę</annotation>
-		<annotation cp="👨🏿‍🦯‍➡">aklas | neįgaliųjų prieinamumas | neregys | prieinamumas | vyras | vyras su neregio lazdele</annotation>
-		<annotation cp="👨🏿‍🦯‍➡" type="tts">vyras su neregio lazdele atsisukęs į dešinę</annotation>
+		<annotation cp="👨‍🦯‍➡">aklas | atsisukęs | dešinę | į | neįgaliųjų prieinamumas | neregys | prieinamumas | vyras | vyras su neregio lazdele</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">vyras su neregio lazdele: atsisukęs į dešinę</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">aklas | atsisukęs | dešinę | į | neįgaliųjų prieinamumas | neregys | prieinamumas | šviesios odos | vyras | vyras su neregio lazdele</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">vyras su neregio lazdele: šviesios odos atsisukęs į dešinę</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">aklas | atsisukęs | dešinę | į | neįgaliųjų prieinamumas | neregys | prieinamumas | vidutinio gymio | vyras | vyras su neregio lazdele</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">vyras su neregio lazdele: vidutinio gymio atsisukęs į dešinę</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">aklas | atsisukęs | dešinę | į | neįgaliųjų prieinamumas | neregys | prieinamumas | rusvos odos | vyras | vyras su neregio lazdele</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">vyras su neregio lazdele: rusvos odos atsisukęs į dešinę</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">aklas | atsisukęs | dešinę | į | neįgaliųjų prieinamumas | neregys | prieinamumas | tamsios odos | vyras | vyras su neregio lazdele</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">vyras su neregio lazdele: tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">aklas | atsisukęs | dešinę | į | itin tamsios odos | neįgaliųjų prieinamumas | neregys | prieinamumas | vyras | vyras su neregio lazdele</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">vyras su neregio lazdele: itin tamsios odos atsisukęs į dešinę</annotation>
 		<annotation cp="👩🏻‍🦯">akla | moteris | moteris su neregio lazdele | neįgaliųjų prieinamumas | neregė | prieinamumas | šviesios odos</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">moteris su neregio lazdele: šviesios odos</annotation>
 		<annotation cp="👩🏼‍🦯">akla | moteris | moteris su neregio lazdele | neįgaliųjų prieinamumas | neregė | prieinamumas | vidutinio gymio</annotation>
@@ -2873,18 +3123,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦯" type="tts">moteris su neregio lazdele: tamsios odos</annotation>
 		<annotation cp="👩🏿‍🦯">akla | itin tamsios odos | moteris | moteris su neregio lazdele | neįgaliųjų prieinamumas | neregė | prieinamumas</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">moteris su neregio lazdele: itin tamsios odos</annotation>
-		<annotation cp="👩‍🦯‍➡">akla | moteris | moteris su neregio lazdele | neįgaliųjų prieinamumas | neregė | prieinamumas</annotation>
-		<annotation cp="👩‍🦯‍➡" type="tts">moteris su neregio lazdele atsisukęs į dešinę</annotation>
-		<annotation cp="👩🏻‍🦯‍➡">akla | moteris | moteris su neregio lazdele | neįgaliųjų prieinamumas | neregė | prieinamumas</annotation>
-		<annotation cp="👩🏻‍🦯‍➡" type="tts">moteris su neregio lazdele atsisukęs į dešinę</annotation>
-		<annotation cp="👩🏼‍🦯‍➡">akla | moteris | moteris su neregio lazdele | neįgaliųjų prieinamumas | neregė | prieinamumas</annotation>
-		<annotation cp="👩🏼‍🦯‍➡" type="tts">moteris su neregio lazdele atsisukęs į dešinę</annotation>
-		<annotation cp="👩🏽‍🦯‍➡">akla | moteris | moteris su neregio lazdele | neįgaliųjų prieinamumas | neregė | prieinamumas</annotation>
-		<annotation cp="👩🏽‍🦯‍➡" type="tts">moteris su neregio lazdele atsisukęs į dešinę</annotation>
-		<annotation cp="👩🏾‍🦯‍➡">akla | moteris | moteris su neregio lazdele | neįgaliųjų prieinamumas | neregė | prieinamumas</annotation>
-		<annotation cp="👩🏾‍🦯‍➡" type="tts">moteris su neregio lazdele atsisukęs į dešinę</annotation>
-		<annotation cp="👩🏿‍🦯‍➡">akla | moteris | moteris su neregio lazdele | neįgaliųjų prieinamumas | neregė | prieinamumas</annotation>
-		<annotation cp="👩🏿‍🦯‍➡" type="tts">moteris su neregio lazdele atsisukęs į dešinę</annotation>
+		<annotation cp="👩‍🦯‍➡">akla | atsisukęs | dešinę | į | moteris | moteris su neregio lazdele | neįgaliųjų prieinamumas | neregė | prieinamumas</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">moteris su neregio lazdele: atsisukęs į dešinę</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">akla | atsisukęs | dešinę | į | moteris | moteris su neregio lazdele | neįgaliųjų prieinamumas | neregė | prieinamumas | šviesios odos</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">moteris su neregio lazdele: šviesios odos atsisukęs į dešinę</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">akla | atsisukęs | dešinę | į | moteris | moteris su neregio lazdele | neįgaliųjų prieinamumas | neregė | prieinamumas | vidutinio gymio</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">moteris su neregio lazdele: vidutinio gymio atsisukęs į dešinę</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">akla | atsisukęs | dešinę | į | moteris | moteris su neregio lazdele | neįgaliųjų prieinamumas | neregė | prieinamumas | rusvos odos</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">moteris su neregio lazdele: rusvos odos atsisukęs į dešinę</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">akla | atsisukęs | dešinę | į | moteris | moteris su neregio lazdele | neįgaliųjų prieinamumas | neregė | prieinamumas | tamsios odos</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">moteris su neregio lazdele: tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">akla | atsisukęs | dešinę | į | itin tamsios odos | moteris | moteris su neregio lazdele | neįgaliųjų prieinamumas | neregė | prieinamumas</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">moteris su neregio lazdele: itin tamsios odos atsisukęs į dešinę</annotation>
 		<annotation cp="🧑🏻‍🦼">prieinamumas | šviesios odos | vežimėlis | žmogus motorizuotame vežimėlyje</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">žmogus motorizuotame vežimėlyje: šviesios odos</annotation>
 		<annotation cp="🧑🏼‍🦼">prieinamumas | vežimėlis | vidutinio gymio | žmogus motorizuotame vežimėlyje</annotation>
@@ -2895,18 +3145,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦼" type="tts">žmogus motorizuotame vežimėlyje: tamsios odos</annotation>
 		<annotation cp="🧑🏿‍🦼">itin tamsios odos | prieinamumas | vežimėlis | žmogus motorizuotame vežimėlyje</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">žmogus motorizuotame vežimėlyje: itin tamsios odos</annotation>
-		<annotation cp="🧑‍🦼‍➡">prieinamumas | vežimėlis | žmogus motorizuotame vežimėlyje</annotation>
-		<annotation cp="🧑‍🦼‍➡" type="tts">žmogus motorizuotame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡">prieinamumas | vežimėlis | žmogus motorizuotame vežimėlyje</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡" type="tts">žmogus motorizuotame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡">prieinamumas | vežimėlis | žmogus motorizuotame vežimėlyje</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡" type="tts">žmogus motorizuotame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡">prieinamumas | vežimėlis | žmogus motorizuotame vežimėlyje</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡" type="tts">žmogus motorizuotame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡">prieinamumas | vežimėlis | žmogus motorizuotame vežimėlyje</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡" type="tts">žmogus motorizuotame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡">prieinamumas | vežimėlis | žmogus motorizuotame vežimėlyje</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡" type="tts">žmogus motorizuotame vežimėlyje atsisukęs į dešinę</annotation>
+		<annotation cp="🧑‍🦼‍➡">atsisukęs | dešinę | į | prieinamumas | vežimėlis | žmogus motorizuotame vežimėlyje</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">žmogus motorizuotame vežimėlyje: atsisukęs į dešinę</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">atsisukęs | dešinę | į | prieinamumas | šviesios odos | vežimėlis | žmogus motorizuotame vežimėlyje</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">žmogus motorizuotame vežimėlyje: šviesios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">atsisukęs | dešinę | į | prieinamumas | vežimėlis | vidutinio gymio | žmogus motorizuotame vežimėlyje</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">žmogus motorizuotame vežimėlyje: vidutinio gymio atsisukęs į dešinę</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">atsisukęs | dešinę | į | prieinamumas | rusvos odos | vežimėlis | žmogus motorizuotame vežimėlyje</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">žmogus motorizuotame vežimėlyje: rusvos odos atsisukęs į dešinę</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">atsisukęs | dešinę | į | prieinamumas | tamsios odos | vežimėlis | žmogus motorizuotame vežimėlyje</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">žmogus motorizuotame vežimėlyje: tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">atsisukęs | dešinę | į | itin tamsios odos | prieinamumas | vežimėlis | žmogus motorizuotame vežimėlyje</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">žmogus motorizuotame vežimėlyje: itin tamsios odos atsisukęs į dešinę</annotation>
 		<annotation cp="👨🏻‍🦼">neįgaliųjų prieinamumas | prieinamumas | šviesios odos | vežimėlis | vyras | vyras motorizuotame vežimėlyje</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">vyras motorizuotame vežimėlyje: šviesios odos</annotation>
 		<annotation cp="👨🏼‍🦼">neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vidutinio gymio | vyras | vyras motorizuotame vežimėlyje</annotation>
@@ -2917,18 +3167,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦼" type="tts">vyras motorizuotame vežimėlyje: tamsios odos</annotation>
 		<annotation cp="👨🏿‍🦼">itin tamsios odos | neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vyras | vyras motorizuotame vežimėlyje</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">vyras motorizuotame vežimėlyje: itin tamsios odos</annotation>
-		<annotation cp="👨‍🦼‍➡">neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vyras | vyras motorizuotame vežimėlyje</annotation>
-		<annotation cp="👨‍🦼‍➡" type="tts">vyras motorizuotame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="👨🏻‍🦼‍➡">neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vyras | vyras motorizuotame vežimėlyje</annotation>
-		<annotation cp="👨🏻‍🦼‍➡" type="tts">vyras motorizuotame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="👨🏼‍🦼‍➡">neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vyras | vyras motorizuotame vežimėlyje</annotation>
-		<annotation cp="👨🏼‍🦼‍➡" type="tts">vyras motorizuotame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="👨🏽‍🦼‍➡">neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vyras | vyras motorizuotame vežimėlyje</annotation>
-		<annotation cp="👨🏽‍🦼‍➡" type="tts">vyras motorizuotame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="👨🏾‍🦼‍➡">neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vyras | vyras motorizuotame vežimėlyje</annotation>
-		<annotation cp="👨🏾‍🦼‍➡" type="tts">vyras motorizuotame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="👨🏿‍🦼‍➡">neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vyras | vyras motorizuotame vežimėlyje</annotation>
-		<annotation cp="👨🏿‍🦼‍➡" type="tts">vyras motorizuotame vežimėlyje atsisukęs į dešinę</annotation>
+		<annotation cp="👨‍🦼‍➡">atsisukęs | dešinę | į | neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vyras | vyras motorizuotame vežimėlyje</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">vyras motorizuotame vežimėlyje: atsisukęs į dešinę</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">atsisukęs | dešinę | į | neįgaliųjų prieinamumas | prieinamumas | šviesios odos | vežimėlis | vyras | vyras motorizuotame vežimėlyje</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">vyras motorizuotame vežimėlyje: šviesios odos atsisukęs į dešinę</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">atsisukęs | dešinę | į | neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vidutinio gymio | vyras | vyras motorizuotame vežimėlyje</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">vyras motorizuotame vežimėlyje: vidutinio gymio atsisukęs į dešinę</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">atsisukęs | dešinę | į | neįgaliųjų prieinamumas | prieinamumas | rusvos odos | vežimėlis | vyras | vyras motorizuotame vežimėlyje</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">vyras motorizuotame vežimėlyje: rusvos odos atsisukęs į dešinę</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">atsisukęs | dešinę | į | neįgaliųjų prieinamumas | prieinamumas | tamsios odos | vežimėlis | vyras | vyras motorizuotame vežimėlyje</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">vyras motorizuotame vežimėlyje: tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">atsisukęs | dešinę | į | itin tamsios odos | neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vyras | vyras motorizuotame vežimėlyje</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">vyras motorizuotame vežimėlyje: itin tamsios odos atsisukęs į dešinę</annotation>
 		<annotation cp="👩🏻‍🦼">moteris | moteris motorizuotame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | šviesios odos | vežimėlis</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">moteris motorizuotame vežimėlyje: šviesios odos</annotation>
 		<annotation cp="👩🏼‍🦼">moteris | moteris motorizuotame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vidutinio gymio</annotation>
@@ -2939,18 +3189,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦼" type="tts">moteris motorizuotame vežimėlyje: tamsios odos</annotation>
 		<annotation cp="👩🏿‍🦼">itin tamsios odos | moteris | moteris motorizuotame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">moteris motorizuotame vežimėlyje: itin tamsios odos</annotation>
-		<annotation cp="👩‍🦼‍➡">moteris | moteris motorizuotame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis</annotation>
-		<annotation cp="👩‍🦼‍➡" type="tts">moteris motorizuotame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="👩🏻‍🦼‍➡">moteris | moteris motorizuotame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis</annotation>
-		<annotation cp="👩🏻‍🦼‍➡" type="tts">moteris motorizuotame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="👩🏼‍🦼‍➡">moteris | moteris motorizuotame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis</annotation>
-		<annotation cp="👩🏼‍🦼‍➡" type="tts">moteris motorizuotame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="👩🏽‍🦼‍➡">moteris | moteris motorizuotame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis</annotation>
-		<annotation cp="👩🏽‍🦼‍➡" type="tts">moteris motorizuotame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="👩🏾‍🦼‍➡">moteris | moteris motorizuotame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis</annotation>
-		<annotation cp="👩🏾‍🦼‍➡" type="tts">moteris motorizuotame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="👩🏿‍🦼‍➡">moteris | moteris motorizuotame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis</annotation>
-		<annotation cp="👩🏿‍🦼‍➡" type="tts">moteris motorizuotame vežimėlyje atsisukęs į dešinę</annotation>
+		<annotation cp="👩‍🦼‍➡">atsisukęs | dešinę | į | moteris | moteris motorizuotame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">moteris motorizuotame vežimėlyje: atsisukęs į dešinę</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">atsisukęs | dešinę | į | moteris | moteris motorizuotame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | šviesios odos | vežimėlis</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">moteris motorizuotame vežimėlyje: šviesios odos atsisukęs į dešinę</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">atsisukęs | dešinę | į | moteris | moteris motorizuotame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vidutinio gymio</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">moteris motorizuotame vežimėlyje: vidutinio gymio atsisukęs į dešinę</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">atsisukęs | dešinę | į | moteris | moteris motorizuotame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | rusvos odos | vežimėlis</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">moteris motorizuotame vežimėlyje: rusvos odos atsisukęs į dešinę</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">atsisukęs | dešinę | į | moteris | moteris motorizuotame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | tamsios odos | vežimėlis</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">moteris motorizuotame vežimėlyje: tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">atsisukęs | dešinę | į | itin tamsios odos | moteris | moteris motorizuotame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">moteris motorizuotame vežimėlyje: itin tamsios odos atsisukęs į dešinę</annotation>
 		<annotation cp="🧑🏻‍🦽">prieinamumas | šviesios odos | vežimėlis | žmogus rankomis valdomame vežimėlyje</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">žmogus rankomis valdomame vežimėlyje: šviesios odos</annotation>
 		<annotation cp="🧑🏼‍🦽">prieinamumas | vežimėlis | vidutinio gymio | žmogus rankomis valdomame vežimėlyje</annotation>
@@ -2961,18 +3211,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦽" type="tts">žmogus rankomis valdomame vežimėlyje: tamsios odos</annotation>
 		<annotation cp="🧑🏿‍🦽">itin tamsios odos | prieinamumas | vežimėlis | žmogus rankomis valdomame vežimėlyje</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">žmogus rankomis valdomame vežimėlyje: itin tamsios odos</annotation>
-		<annotation cp="🧑‍🦽‍➡">prieinamumas | vežimėlis | žmogus rankomis valdomame vežimėlyje</annotation>
-		<annotation cp="🧑‍🦽‍➡" type="tts">žmogus rankomis valdomame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡">prieinamumas | vežimėlis | žmogus rankomis valdomame vežimėlyje</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡" type="tts">žmogus rankomis valdomame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡">prieinamumas | vežimėlis | žmogus rankomis valdomame vežimėlyje</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡" type="tts">žmogus rankomis valdomame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡">prieinamumas | vežimėlis | žmogus rankomis valdomame vežimėlyje</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡" type="tts">žmogus rankomis valdomame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡">prieinamumas | vežimėlis | žmogus rankomis valdomame vežimėlyje</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡" type="tts">žmogus rankomis valdomame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡">prieinamumas | vežimėlis | žmogus rankomis valdomame vežimėlyje</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡" type="tts">žmogus rankomis valdomame vežimėlyje atsisukęs į dešinę</annotation>
+		<annotation cp="🧑‍🦽‍➡">atsisukęs | dešinę | į | prieinamumas | vežimėlis | žmogus rankomis valdomame vežimėlyje</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">žmogus rankomis valdomame vežimėlyje: atsisukęs į dešinę</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">atsisukęs | dešinę | į | prieinamumas | šviesios odos | vežimėlis | žmogus rankomis valdomame vežimėlyje</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">žmogus rankomis valdomame vežimėlyje: šviesios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">atsisukęs | dešinę | į | prieinamumas | vežimėlis | vidutinio gymio | žmogus rankomis valdomame vežimėlyje</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">žmogus rankomis valdomame vežimėlyje: vidutinio gymio atsisukęs į dešinę</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">atsisukęs | dešinę | į | prieinamumas | rusvos odos | vežimėlis | žmogus rankomis valdomame vežimėlyje</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">žmogus rankomis valdomame vežimėlyje: rusvos odos atsisukęs į dešinę</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">atsisukęs | dešinę | į | prieinamumas | tamsios odos | vežimėlis | žmogus rankomis valdomame vežimėlyje</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">žmogus rankomis valdomame vežimėlyje: tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">atsisukęs | dešinę | į | itin tamsios odos | prieinamumas | vežimėlis | žmogus rankomis valdomame vežimėlyje</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">žmogus rankomis valdomame vežimėlyje: itin tamsios odos atsisukęs į dešinę</annotation>
 		<annotation cp="👨🏻‍🦽">neįgaliųjų prieinamumas | prieinamumas | šviesios odos | vežimėlis | vyras | vyras rankomis valdomame vežimėlyje</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">vyras rankomis valdomame vežimėlyje: šviesios odos</annotation>
 		<annotation cp="👨🏼‍🦽">neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vidutinio gymio | vyras | vyras rankomis valdomame vežimėlyje</annotation>
@@ -2983,18 +3233,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦽" type="tts">vyras rankomis valdomame vežimėlyje: tamsios odos</annotation>
 		<annotation cp="👨🏿‍🦽">itin tamsios odos | neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vyras | vyras rankomis valdomame vežimėlyje</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">vyras rankomis valdomame vežimėlyje: itin tamsios odos</annotation>
-		<annotation cp="👨‍🦽‍➡">neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vyras | vyras rankomis valdomame vežimėlyje</annotation>
-		<annotation cp="👨‍🦽‍➡" type="tts">vyras rankomis valdomame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="👨🏻‍🦽‍➡">neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vyras | vyras rankomis valdomame vežimėlyje</annotation>
-		<annotation cp="👨🏻‍🦽‍➡" type="tts">vyras rankomis valdomame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="👨🏼‍🦽‍➡">neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vyras | vyras rankomis valdomame vežimėlyje</annotation>
-		<annotation cp="👨🏼‍🦽‍➡" type="tts">vyras rankomis valdomame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="👨🏽‍🦽‍➡">neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vyras | vyras rankomis valdomame vežimėlyje</annotation>
-		<annotation cp="👨🏽‍🦽‍➡" type="tts">vyras rankomis valdomame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="👨🏾‍🦽‍➡">neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vyras | vyras rankomis valdomame vežimėlyje</annotation>
-		<annotation cp="👨🏾‍🦽‍➡" type="tts">vyras rankomis valdomame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="👨🏿‍🦽‍➡">neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vyras | vyras rankomis valdomame vežimėlyje</annotation>
-		<annotation cp="👨🏿‍🦽‍➡" type="tts">vyras rankomis valdomame vežimėlyje atsisukęs į dešinę</annotation>
+		<annotation cp="👨‍🦽‍➡">atsisukęs | dešinę | į | neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vyras | vyras rankomis valdomame vežimėlyje</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">vyras rankomis valdomame vežimėlyje: atsisukęs į dešinę</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">atsisukęs | dešinę | į | neįgaliųjų prieinamumas | prieinamumas | šviesios odos | vežimėlis | vyras | vyras rankomis valdomame vežimėlyje</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">vyras rankomis valdomame vežimėlyje: šviesios odos atsisukęs į dešinę</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">atsisukęs | dešinę | į | neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vidutinio gymio | vyras | vyras rankomis valdomame vežimėlyje</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">vyras rankomis valdomame vežimėlyje: vidutinio gymio atsisukęs į dešinę</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">atsisukęs | dešinę | į | neįgaliųjų prieinamumas | prieinamumas | rusvos odos | vežimėlis | vyras | vyras rankomis valdomame vežimėlyje</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">vyras rankomis valdomame vežimėlyje: rusvos odos atsisukęs į dešinę</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">atsisukęs | dešinę | į | neįgaliųjų prieinamumas | prieinamumas | tamsios odos | vežimėlis | vyras | vyras rankomis valdomame vežimėlyje</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">vyras rankomis valdomame vežimėlyje: tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">atsisukęs | dešinę | į | itin tamsios odos | neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vyras | vyras rankomis valdomame vežimėlyje</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">vyras rankomis valdomame vežimėlyje: itin tamsios odos atsisukęs į dešinę</annotation>
 		<annotation cp="👩🏻‍🦽">moteris | moteris rankomis valdomame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | šviesios odos | vežimėlis</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">moteris rankomis valdomame vežimėlyje: šviesios odos</annotation>
 		<annotation cp="👩🏼‍🦽">moteris | moteris rankomis valdomame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vidutinio gymio</annotation>
@@ -3005,18 +3255,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦽" type="tts">moteris rankomis valdomame vežimėlyje: tamsios odos</annotation>
 		<annotation cp="👩🏿‍🦽">itin tamsios odos | moteris | moteris rankomis valdomame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">moteris rankomis valdomame vežimėlyje: itin tamsios odos</annotation>
-		<annotation cp="👩‍🦽‍➡">moteris | moteris rankomis valdomame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis</annotation>
-		<annotation cp="👩‍🦽‍➡" type="tts">moteris rankomis valdomame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="👩🏻‍🦽‍➡">moteris | moteris rankomis valdomame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis</annotation>
-		<annotation cp="👩🏻‍🦽‍➡" type="tts">moteris rankomis valdomame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="👩🏼‍🦽‍➡">moteris | moteris rankomis valdomame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis</annotation>
-		<annotation cp="👩🏼‍🦽‍➡" type="tts">moteris rankomis valdomame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="👩🏽‍🦽‍➡">moteris | moteris rankomis valdomame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis</annotation>
-		<annotation cp="👩🏽‍🦽‍➡" type="tts">moteris rankomis valdomame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="👩🏾‍🦽‍➡">moteris | moteris rankomis valdomame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis</annotation>
-		<annotation cp="👩🏾‍🦽‍➡" type="tts">moteris rankomis valdomame vežimėlyje atsisukęs į dešinę</annotation>
-		<annotation cp="👩🏿‍🦽‍➡">moteris | moteris rankomis valdomame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis</annotation>
-		<annotation cp="👩🏿‍🦽‍➡" type="tts">moteris rankomis valdomame vežimėlyje atsisukęs į dešinę</annotation>
+		<annotation cp="👩‍🦽‍➡">atsisukęs | dešinę | į | moteris | moteris rankomis valdomame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">moteris rankomis valdomame vežimėlyje: atsisukęs į dešinę</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">atsisukęs | dešinę | į | moteris | moteris rankomis valdomame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | šviesios odos | vežimėlis</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">moteris rankomis valdomame vežimėlyje: šviesios odos atsisukęs į dešinę</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">atsisukęs | dešinę | į | moteris | moteris rankomis valdomame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis | vidutinio gymio</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">moteris rankomis valdomame vežimėlyje: vidutinio gymio atsisukęs į dešinę</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">atsisukęs | dešinę | į | moteris | moteris rankomis valdomame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | rusvos odos | vežimėlis</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">moteris rankomis valdomame vežimėlyje: rusvos odos atsisukęs į dešinę</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">atsisukęs | dešinę | į | moteris | moteris rankomis valdomame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | tamsios odos | vežimėlis</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">moteris rankomis valdomame vežimėlyje: tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">atsisukęs | dešinę | į | itin tamsios odos | moteris | moteris rankomis valdomame vežimėlyje | neįgaliųjų prieinamumas | prieinamumas | vežimėlis</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">moteris rankomis valdomame vežimėlyje: itin tamsios odos atsisukęs į dešinę</annotation>
 		<annotation cp="🏃🏻">atbėgu | bėgantis žmogus | bėgikas | bėgiojimas | greitas | greitis | lenktynės | maratonas | skubėti | šviesios odos</annotation>
 		<annotation cp="🏃🏻" type="tts">bėgikas: šviesios odos</annotation>
 		<annotation cp="🏃🏼">atbėgu | bėgantis žmogus | bėgikas | bėgiojimas | greitas | greitis | lenktynės | maratonas | skubėti | vidutinio gymio</annotation>
@@ -3047,42 +3297,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🏃🏾‍♀" type="tts">bėganti moteris: tamsios odos</annotation>
 		<annotation cp="🏃🏿‍♀">bėganti moteris | bėgimas | itin tamsios odos | lenktynės | maratonas | moteris | skubėti | sportas</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">bėganti moteris: itin tamsios odos</annotation>
-		<annotation cp="🏃‍➡">atbėgu | bėgantis žmogus | bėgikas | bėgiojimas | greitas | greitis | lenktynės | maratonas | skubėti</annotation>
-		<annotation cp="🏃‍➡" type="tts">bėgikas atsisukęs į dešinę</annotation>
-		<annotation cp="🏃🏻‍➡">atbėgu | bėgantis žmogus | bėgikas | bėgiojimas | greitas | greitis | lenktynės | maratonas | skubėti</annotation>
-		<annotation cp="🏃🏻‍➡" type="tts">bėgikas atsisukęs į dešinę</annotation>
-		<annotation cp="🏃🏼‍➡">atbėgu | bėgantis žmogus | bėgikas | bėgiojimas | greitas | greitis | lenktynės | maratonas | skubėti</annotation>
-		<annotation cp="🏃🏼‍➡" type="tts">bėgikas atsisukęs į dešinę</annotation>
-		<annotation cp="🏃🏽‍➡">atbėgu | bėgantis žmogus | bėgikas | bėgiojimas | greitas | greitis | lenktynės | maratonas | skubėti</annotation>
-		<annotation cp="🏃🏽‍➡" type="tts">bėgikas atsisukęs į dešinę</annotation>
-		<annotation cp="🏃🏾‍➡">atbėgu | bėgantis žmogus | bėgikas | bėgiojimas | greitas | greitis | lenktynės | maratonas | skubėti</annotation>
-		<annotation cp="🏃🏾‍➡" type="tts">bėgikas atsisukęs į dešinę</annotation>
-		<annotation cp="🏃🏿‍➡">atbėgu | bėgantis žmogus | bėgikas | bėgiojimas | greitas | greitis | lenktynės | maratonas | skubėti</annotation>
-		<annotation cp="🏃🏿‍➡" type="tts">bėgikas atsisukęs į dešinę</annotation>
-		<annotation cp="🏃‍♀‍➡">bėganti moteris | bėgimas | lenktynės | maratonas | moteris | skubėti | sportas</annotation>
-		<annotation cp="🏃‍♀‍➡" type="tts">bėganti moteris atsisukęs į dešinę</annotation>
-		<annotation cp="🏃🏻‍♀‍➡">bėganti moteris | bėgimas | lenktynės | maratonas | moteris | skubėti | sportas</annotation>
-		<annotation cp="🏃🏻‍♀‍➡" type="tts">bėganti moteris atsisukęs į dešinę</annotation>
-		<annotation cp="🏃🏼‍♀‍➡">bėganti moteris | bėgimas | lenktynės | maratonas | moteris | skubėti | sportas</annotation>
-		<annotation cp="🏃🏼‍♀‍➡" type="tts">bėganti moteris atsisukęs į dešinę</annotation>
-		<annotation cp="🏃🏽‍♀‍➡">bėganti moteris | bėgimas | lenktynės | maratonas | moteris | skubėti | sportas</annotation>
-		<annotation cp="🏃🏽‍♀‍➡" type="tts">bėganti moteris atsisukęs į dešinę</annotation>
-		<annotation cp="🏃🏾‍♀‍➡">bėganti moteris | bėgimas | lenktynės | maratonas | moteris | skubėti | sportas</annotation>
-		<annotation cp="🏃🏾‍♀‍➡" type="tts">bėganti moteris atsisukęs į dešinę</annotation>
-		<annotation cp="🏃🏿‍♀‍➡">bėganti moteris | bėgimas | lenktynės | maratonas | moteris | skubėti | sportas</annotation>
-		<annotation cp="🏃🏿‍♀‍➡" type="tts">bėganti moteris atsisukęs į dešinę</annotation>
-		<annotation cp="🏃‍♂‍➡">bėgantis vyras | bėgimas | lenktynės | maratonas | vyras</annotation>
-		<annotation cp="🏃‍♂‍➡" type="tts">bėgantis vyras atsisukęs į dešinę</annotation>
-		<annotation cp="🏃🏻‍♂‍➡">bėgantis vyras | bėgimas | lenktynės | maratonas | vyras</annotation>
-		<annotation cp="🏃🏻‍♂‍➡" type="tts">bėgantis vyras atsisukęs į dešinę</annotation>
-		<annotation cp="🏃🏼‍♂‍➡">bėgantis vyras | bėgimas | lenktynės | maratonas | vyras</annotation>
-		<annotation cp="🏃🏼‍♂‍➡" type="tts">bėgantis vyras atsisukęs į dešinę</annotation>
-		<annotation cp="🏃🏽‍♂‍➡">bėgantis vyras | bėgimas | lenktynės | maratonas | vyras</annotation>
-		<annotation cp="🏃🏽‍♂‍➡" type="tts">bėgantis vyras atsisukęs į dešinę</annotation>
-		<annotation cp="🏃🏾‍♂‍➡">bėgantis vyras | bėgimas | lenktynės | maratonas | vyras</annotation>
-		<annotation cp="🏃🏾‍♂‍➡" type="tts">bėgantis vyras atsisukęs į dešinę</annotation>
-		<annotation cp="🏃🏿‍♂‍➡">bėgantis vyras | bėgimas | lenktynės | maratonas | vyras</annotation>
-		<annotation cp="🏃🏿‍♂‍➡" type="tts">bėgantis vyras atsisukęs į dešinę</annotation>
+		<annotation cp="🏃‍➡">atbėgu | atsisukęs | bėgantis žmogus | bėgikas | bėgiojimas | dešinę | greitas | greitis | į | lenktynės | maratonas | skubėti</annotation>
+		<annotation cp="🏃‍➡" type="tts">bėgikas: atsisukęs į dešinę</annotation>
+		<annotation cp="🏃🏻‍➡">atbėgu | atsisukęs | bėgantis žmogus | bėgikas | bėgiojimas | dešinę | greitas | greitis | į | lenktynės | maratonas | skubėti | šviesios odos</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">bėgikas: šviesios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🏃🏼‍➡">atbėgu | atsisukęs | bėgantis žmogus | bėgikas | bėgiojimas | dešinę | greitas | greitis | į | lenktynės | maratonas | skubėti | vidutinio gymio</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">bėgikas: vidutinio gymio atsisukęs į dešinę</annotation>
+		<annotation cp="🏃🏽‍➡">atbėgu | atsisukęs | bėgantis žmogus | bėgikas | bėgiojimas | dešinę | greitas | greitis | į | lenktynės | maratonas | rusvos odos | skubėti</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">bėgikas: rusvos odos atsisukęs į dešinę</annotation>
+		<annotation cp="🏃🏾‍➡">atbėgu | atsisukęs | bėgantis žmogus | bėgikas | bėgiojimas | dešinę | greitas | greitis | į | lenktynės | maratonas | skubėti | tamsios odos</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">bėgikas: tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🏃🏿‍➡">atbėgu | atsisukęs | bėgantis žmogus | bėgikas | bėgiojimas | dešinę | greitas | greitis | į | itin tamsios odos | lenktynės | maratonas | skubėti</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">bėgikas: itin tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🏃‍♀‍➡">atsisukęs | bėganti moteris | bėgimas | dešinę | į | lenktynės | maratonas | moteris | skubėti | sportas</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">bėganti moteris: atsisukęs į dešinę</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">atsisukęs | bėganti moteris | bėgimas | dešinę | į | lenktynės | maratonas | moteris | skubėti | sportas | šviesios odos</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">bėganti moteris: šviesios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">atsisukęs | bėganti moteris | bėgimas | dešinę | į | lenktynės | maratonas | moteris | skubėti | sportas | vidutinio gymio</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">bėganti moteris: vidutinio gymio atsisukęs į dešinę</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">atsisukęs | bėganti moteris | bėgimas | dešinę | į | lenktynės | maratonas | moteris | rusvos odos | skubėti | sportas</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">bėganti moteris: rusvos odos atsisukęs į dešinę</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">atsisukęs | bėganti moteris | bėgimas | dešinę | į | lenktynės | maratonas | moteris | skubėti | sportas | tamsios odos</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">bėganti moteris: tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">atsisukęs | bėganti moteris | bėgimas | dešinę | į | itin tamsios odos | lenktynės | maratonas | moteris | skubėti | sportas</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">bėganti moteris: itin tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🏃‍♂‍➡">atsisukęs | bėgantis vyras | bėgimas | dešinę | į | lenktynės | maratonas | vyras</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">bėgantis vyras: atsisukęs į dešinę</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">atsisukęs | bėgantis vyras | bėgimas | dešinę | į | lenktynės | maratonas | šviesios odos | vyras</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">bėgantis vyras: šviesios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">atsisukęs | bėgantis vyras | bėgimas | dešinę | į | lenktynės | maratonas | vidutinio gymio | vyras</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">bėgantis vyras: vidutinio gymio atsisukęs į dešinę</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">atsisukęs | bėgantis vyras | bėgimas | dešinę | į | lenktynės | maratonas | rusvos odos | vyras</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">bėgantis vyras: rusvos odos atsisukęs į dešinę</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">atsisukęs | bėgantis vyras | bėgimas | dešinę | į | lenktynės | maratonas | tamsios odos | vyras</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">bėgantis vyras: tamsios odos atsisukęs į dešinę</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">atsisukęs | bėgantis vyras | bėgimas | dešinę | į | itin tamsios odos | lenktynės | maratonas | vyras</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">bėgantis vyras: itin tamsios odos atsisukęs į dešinę</annotation>
 		<annotation cp="💃🏻">moteris | šokanti moteris | šokis | šviesios odos | tango</annotation>
 		<annotation cp="💃🏻" type="tts">šokanti moteris: šviesios odos</annotation>
 		<annotation cp="💃🏼">moteris | šokanti moteris | šokis | tango | vidutinio gymio</annotation>
@@ -3113,6 +3363,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🕴🏾" type="tts">į orą kylantis vyras su kostiumu: tamsios odos</annotation>
 		<annotation cp="🕴🏿">į orą kylantis vyras su kostiumu | itin tamsios odos | kostiumas | sklandantis vyras su kostiumu | verslas | vyras</annotation>
 		<annotation cp="🕴🏿" type="tts">į orą kylantis vyras su kostiumu: itin tamsios odos</annotation>
+		<annotation cp="👯🏻">ausys | besilinksminančios moterys | dvynės | geriausios draugės | kiškučio ausys | merginos | moterys | pora | šokėjos | šviesios odos | vakarėlis | zuikutis</annotation>
+		<annotation cp="👯🏻" type="tts">besilinksminančios moterys: šviesios odos</annotation>
+		<annotation cp="👯🏼">ausys | besilinksminančios moterys | dvynės | geriausios draugės | kiškučio ausys | merginos | moterys | pora | šokėjos | vakarėlis | vidutinio gymio | zuikutis</annotation>
+		<annotation cp="👯🏼" type="tts">besilinksminančios moterys: vidutinio gymio</annotation>
+		<annotation cp="👯🏽">ausys | besilinksminančios moterys | dvynės | geriausios draugės | kiškučio ausys | merginos | moterys | pora | rusvos odos | šokėjos | vakarėlis | zuikutis</annotation>
+		<annotation cp="👯🏽" type="tts">besilinksminančios moterys: rusvos odos</annotation>
+		<annotation cp="👯🏾">ausys | besilinksminančios moterys | dvynės | geriausios draugės | kiškučio ausys | merginos | moterys | pora | šokėjos | tamsios odos | vakarėlis | zuikutis</annotation>
+		<annotation cp="👯🏾" type="tts">besilinksminančios moterys: tamsios odos</annotation>
+		<annotation cp="👯🏿">ausys | besilinksminančios moterys | dvynės | geriausios draugės | itin tamsios odos | kiškučio ausys | merginos | moterys | pora | šokėjos | vakarėlis | zuikutis</annotation>
+		<annotation cp="👯🏿" type="tts">besilinksminančios moterys: itin tamsios odos</annotation>
+		<annotation cp="👯🏻‍♀">kiškio ausytės | moteris | moterys | šokėja | šviesios odos | vakarėlis | vakarėlyje dalyvaujančios moterys</annotation>
+		<annotation cp="👯🏻‍♀" type="tts">vakarėlyje dalyvaujančios moterys: šviesios odos</annotation>
+		<annotation cp="👯🏼‍♀">kiškio ausytės | moteris | moterys | šokėja | vakarėlis | vakarėlyje dalyvaujančios moterys | vidutinio gymio</annotation>
+		<annotation cp="👯🏼‍♀" type="tts">vakarėlyje dalyvaujančios moterys: vidutinio gymio</annotation>
+		<annotation cp="👯🏽‍♀">kiškio ausytės | moteris | moterys | rusvos odos | šokėja | vakarėlis | vakarėlyje dalyvaujančios moterys</annotation>
+		<annotation cp="👯🏽‍♀" type="tts">vakarėlyje dalyvaujančios moterys: rusvos odos</annotation>
+		<annotation cp="👯🏾‍♀">kiškio ausytės | moteris | moterys | šokėja | tamsios odos | vakarėlis | vakarėlyje dalyvaujančios moterys</annotation>
+		<annotation cp="👯🏾‍♀" type="tts">vakarėlyje dalyvaujančios moterys: tamsios odos</annotation>
+		<annotation cp="👯🏿‍♀">itin tamsios odos | kiškio ausytės | moteris | moterys | šokėja | vakarėlis | vakarėlyje dalyvaujančios moterys</annotation>
+		<annotation cp="👯🏿‍♀" type="tts">vakarėlyje dalyvaujančios moterys: itin tamsios odos</annotation>
+		<annotation cp="👯🏻‍♂">dvyniai | kiškio ausytės | šokėjas | šviesios odos | vakarėlis | vakarėlyje dalyvaujantys vyrai | vyrai</annotation>
+		<annotation cp="👯🏻‍♂" type="tts">vakarėlyje dalyvaujantys vyrai: šviesios odos</annotation>
+		<annotation cp="👯🏼‍♂">dvyniai | kiškio ausytės | šokėjas | vakarėlis | vakarėlyje dalyvaujantys vyrai | vidutinio gymio | vyrai</annotation>
+		<annotation cp="👯🏼‍♂" type="tts">vakarėlyje dalyvaujantys vyrai: vidutinio gymio</annotation>
+		<annotation cp="👯🏽‍♂">dvyniai | kiškio ausytės | rusvos odos | šokėjas | vakarėlis | vakarėlyje dalyvaujantys vyrai | vyrai</annotation>
+		<annotation cp="👯🏽‍♂" type="tts">vakarėlyje dalyvaujantys vyrai: rusvos odos</annotation>
+		<annotation cp="👯🏾‍♂">dvyniai | kiškio ausytės | šokėjas | tamsios odos | vakarėlis | vakarėlyje dalyvaujantys vyrai | vyrai</annotation>
+		<annotation cp="👯🏾‍♂" type="tts">vakarėlyje dalyvaujantys vyrai: tamsios odos</annotation>
+		<annotation cp="👯🏿‍♂">dvyniai | itin tamsios odos | kiškio ausytės | šokėjas | vakarėlis | vakarėlyje dalyvaujantys vyrai | vyrai</annotation>
+		<annotation cp="👯🏿‍♂" type="tts">vakarėlyje dalyvaujantys vyrai: itin tamsios odos</annotation>
 		<annotation cp="🧖🏻">asmuo garų kambaryje | atsipalaidavimas | garai | garų kambarys | moteris | moteris pirtyje | pirtis | prabanga | sauna | SPA | šviesios odos</annotation>
 		<annotation cp="🧖🏻" type="tts">asmuo garų kambaryje: šviesios odos</annotation>
 		<annotation cp="🧖🏼">asmuo garų kambaryje | atsipalaidavimas | garai | garų kambarys | moteris | moteris pirtyje | pirtis | prabanga | sauna | SPA | vidutinio gymio</annotation>
@@ -3463,6 +3743,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤸🏾‍♀" type="tts">moteris daro suktuką: tamsios odos</annotation>
 		<annotation cp="🤸🏿‍♀">aktyvi | gimnastika | itin tamsios odos | kūliavirstis | laiminga | moteris | moteris daro suktuką | suktukas | susijaudinusi | vertimasis kūliais</annotation>
 		<annotation cp="🤸🏿‍♀" type="tts">moteris daro suktuką: itin tamsios odos</annotation>
+		<annotation cp="🤼🏻">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | kova | ringe | šviesios odos | žmonės</annotation>
+		<annotation cp="🤼🏻" type="tts">imtynininkai: šviesios odos</annotation>
+		<annotation cp="🤼🏼">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | kova | ringe | vidutinio gymio | žmonės</annotation>
+		<annotation cp="🤼🏼" type="tts">imtynininkai: vidutinio gymio</annotation>
+		<annotation cp="🤼🏽">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | kova | ringe | rusvos odos | žmonės</annotation>
+		<annotation cp="🤼🏽" type="tts">imtynininkai: rusvos odos</annotation>
+		<annotation cp="🤼🏾">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | kova | ringe | tamsios odos | žmonės</annotation>
+		<annotation cp="🤼🏾" type="tts">imtynininkai: tamsios odos</annotation>
+		<annotation cp="🤼🏿">dvikova | grumtynės | imtynės | imtynininkai | imtynininkas | imtynių turnyras | itin tamsios odos | kova | ringe | žmonės</annotation>
+		<annotation cp="🤼🏿" type="tts">imtynininkai: itin tamsios odos</annotation>
+		<annotation cp="🤼🏻‍♀">dvikova | grumtynės | imtynės | imtynių turnyras | kova | moteris | moterų imtynės | moterys | ringe | šviesios odos</annotation>
+		<annotation cp="🤼🏻‍♀" type="tts">moterų imtynės: šviesios odos</annotation>
+		<annotation cp="🤼🏼‍♀">dvikova | grumtynės | imtynės | imtynių turnyras | kova | moteris | moterų imtynės | moterys | ringe | vidutinio gymio</annotation>
+		<annotation cp="🤼🏼‍♀" type="tts">moterų imtynės: vidutinio gymio</annotation>
+		<annotation cp="🤼🏽‍♀">dvikova | grumtynės | imtynės | imtynių turnyras | kova | moteris | moterų imtynės | moterys | ringe | rusvos odos</annotation>
+		<annotation cp="🤼🏽‍♀" type="tts">moterų imtynės: rusvos odos</annotation>
+		<annotation cp="🤼🏾‍♀">dvikova | grumtynės | imtynės | imtynių turnyras | kova | moteris | moterų imtynės | moterys | ringe | tamsios odos</annotation>
+		<annotation cp="🤼🏾‍♀" type="tts">moterų imtynės: tamsios odos</annotation>
+		<annotation cp="🤼🏿‍♀">dvikova | grumtynės | imtynės | imtynių turnyras | itin tamsios odos | kova | moteris | moterų imtynės | moterys | ringe</annotation>
+		<annotation cp="🤼🏿‍♀" type="tts">moterų imtynės: itin tamsios odos</annotation>
+		<annotation cp="🤼🏻‍♂">dvikova | grumtynės | imtynės | imtynių turnyras | kova | ringe | šviesios odos | vyrai | vyrų imtynės</annotation>
+		<annotation cp="🤼🏻‍♂" type="tts">vyrų imtynės: šviesios odos</annotation>
+		<annotation cp="🤼🏼‍♂">dvikova | grumtynės | imtynės | imtynių turnyras | kova | ringe | vidutinio gymio | vyrai | vyrų imtynės</annotation>
+		<annotation cp="🤼🏼‍♂" type="tts">vyrų imtynės: vidutinio gymio</annotation>
+		<annotation cp="🤼🏽‍♂">dvikova | grumtynės | imtynės | imtynių turnyras | kova | ringe | rusvos odos | vyrai | vyrų imtynės</annotation>
+		<annotation cp="🤼🏽‍♂" type="tts">vyrų imtynės: rusvos odos</annotation>
+		<annotation cp="🤼🏾‍♂">dvikova | grumtynės | imtynės | imtynių turnyras | kova | ringe | tamsios odos | vyrai | vyrų imtynės</annotation>
+		<annotation cp="🤼🏾‍♂" type="tts">vyrų imtynės: tamsios odos</annotation>
+		<annotation cp="🤼🏿‍♂">dvikova | grumtynės | imtynės | imtynių turnyras | itin tamsios odos | kova | ringe | vyrai | vyrų imtynės</annotation>
+		<annotation cp="🤼🏿‍♂" type="tts">vyrų imtynės: itin tamsios odos</annotation>
 		<annotation cp="🤽🏻">Marco | plaukimas | šviesios odos | vandens sportas | vandensvydis | vandensvydžio žaidėjas | vanduo | žmogus</annotation>
 		<annotation cp="🤽🏻" type="tts">vandensvydis: šviesios odos</annotation>
 		<annotation cp="🤽🏼">Marco | plaukimas | vandens sportas | vandensvydis | vandensvydžio žaidėjas | vanduo | vidutinio gymio | žmogus</annotation>
@@ -3473,25 +3783,25 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤽🏾" type="tts">vandensvydis: tamsios odos</annotation>
 		<annotation cp="🤽🏿">itin tamsios odos | Marco | plaukimas | vandens sportas | vandensvydis | vandensvydžio žaidėjas | vanduo | žmogus</annotation>
 		<annotation cp="🤽🏿" type="tts">vandensvydis: itin tamsios odos</annotation>
-		<annotation cp="🤽🏻‍♂">Marco | plaukimas | šviesios odos | vandens sportas | vandensvydis | vandensvydžio žaidėjas | vyras</annotation>
+		<annotation cp="🤽🏻‍♂">plaukimas | šviesios odos | vandens sportas | vandensvydis | vandensvydžio žaidėjas | vyras</annotation>
 		<annotation cp="🤽🏻‍♂" type="tts">vandensvydžio žaidėjas: šviesios odos</annotation>
-		<annotation cp="🤽🏼‍♂">Marco | plaukimas | vandens sportas | vandensvydis | vandensvydžio žaidėjas | vidutinio gymio | vyras</annotation>
+		<annotation cp="🤽🏼‍♂">plaukimas | vandens sportas | vandensvydis | vandensvydžio žaidėjas | vidutinio gymio | vyras</annotation>
 		<annotation cp="🤽🏼‍♂" type="tts">vandensvydžio žaidėjas: vidutinio gymio</annotation>
-		<annotation cp="🤽🏽‍♂">Marco | plaukimas | rusvos odos | vandens sportas | vandensvydis | vandensvydžio žaidėjas | vyras</annotation>
+		<annotation cp="🤽🏽‍♂">plaukimas | rusvos odos | vandens sportas | vandensvydis | vandensvydžio žaidėjas | vyras</annotation>
 		<annotation cp="🤽🏽‍♂" type="tts">vandensvydžio žaidėjas: rusvos odos</annotation>
-		<annotation cp="🤽🏾‍♂">Marco | plaukimas | tamsios odos | vandens sportas | vandensvydis | vandensvydžio žaidėjas | vyras</annotation>
+		<annotation cp="🤽🏾‍♂">plaukimas | tamsios odos | vandens sportas | vandensvydis | vandensvydžio žaidėjas | vyras</annotation>
 		<annotation cp="🤽🏾‍♂" type="tts">vandensvydžio žaidėjas: tamsios odos</annotation>
-		<annotation cp="🤽🏿‍♂">itin tamsios odos | Marco | plaukimas | vandens sportas | vandensvydis | vandensvydžio žaidėjas | vyras</annotation>
+		<annotation cp="🤽🏿‍♂">itin tamsios odos | plaukimas | vandens sportas | vandensvydis | vandensvydžio žaidėjas | vyras</annotation>
 		<annotation cp="🤽🏿‍♂" type="tts">vandensvydžio žaidėjas: itin tamsios odos</annotation>
-		<annotation cp="🤽🏻‍♀">Marco | moteris | plaukimas | šviesios odos | vandens sportas | vandensvydis | vandensvydžio žaidėja</annotation>
+		<annotation cp="🤽🏻‍♀">moteris | plaukimas | šviesios odos | vandens sportas | vandensvydis | vandensvydžio žaidėja | žaidimas</annotation>
 		<annotation cp="🤽🏻‍♀" type="tts">vandensvydžio žaidėja: šviesios odos</annotation>
-		<annotation cp="🤽🏼‍♀">Marco | moteris | plaukimas | vandens sportas | vandensvydis | vandensvydžio žaidėja | vidutinio gymio</annotation>
+		<annotation cp="🤽🏼‍♀">moteris | plaukimas | vandens sportas | vandensvydis | vandensvydžio žaidėja | vidutinio gymio | žaidimas</annotation>
 		<annotation cp="🤽🏼‍♀" type="tts">vandensvydžio žaidėja: vidutinio gymio</annotation>
-		<annotation cp="🤽🏽‍♀">Marco | moteris | plaukimas | rusvos odos | vandens sportas | vandensvydis | vandensvydžio žaidėja</annotation>
+		<annotation cp="🤽🏽‍♀">moteris | plaukimas | rusvos odos | vandens sportas | vandensvydis | vandensvydžio žaidėja | žaidimas</annotation>
 		<annotation cp="🤽🏽‍♀" type="tts">vandensvydžio žaidėja: rusvos odos</annotation>
-		<annotation cp="🤽🏾‍♀">Marco | moteris | plaukimas | tamsios odos | vandens sportas | vandensvydis | vandensvydžio žaidėja</annotation>
+		<annotation cp="🤽🏾‍♀">moteris | plaukimas | tamsios odos | vandens sportas | vandensvydis | vandensvydžio žaidėja | žaidimas</annotation>
 		<annotation cp="🤽🏾‍♀" type="tts">vandensvydžio žaidėja: tamsios odos</annotation>
-		<annotation cp="🤽🏿‍♀">itin tamsios odos | Marco | moteris | plaukimas | vandens sportas | vandensvydis | vandensvydžio žaidėja</annotation>
+		<annotation cp="🤽🏿‍♀">itin tamsios odos | moteris | plaukimas | vandens sportas | vandensvydis | vandensvydžio žaidėja | žaidimas</annotation>
 		<annotation cp="🤽🏿‍♀" type="tts">vandensvydžio žaidėja: itin tamsios odos</annotation>
 		<annotation cp="🤾🏻">atletas | gaudyti | kamuolys | mesti | rankininkas | rankinis | sportas | šviesios odos | sviesti | žmogus</annotation>
 		<annotation cp="🤾🏻" type="tts">rankinis: šviesios odos</annotation>
@@ -3993,6 +4303,8 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🇨🇴" type="tts">vėliava: Kolumbija</annotation>
 		<annotation cp="🇨🇵">vėliava</annotation>
 		<annotation cp="🇨🇵" type="tts">vėliava: Klipertono sala</annotation>
+		<annotation cp="🇨🇶">vėliava</annotation>
+		<annotation cp="🇨🇶" type="tts">vėliava: Sarkas</annotation>
 		<annotation cp="🇨🇷">vėliava</annotation>
 		<annotation cp="🇨🇷" type="tts">vėliava: Kosta Rika</annotation>
 		<annotation cp="🇨🇺">vėliava</annotation>
@@ -4044,7 +4356,7 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🇫🇯">vėliava</annotation>
 		<annotation cp="🇫🇯" type="tts">vėliava: Fidžis</annotation>
 		<annotation cp="🇫🇰">vėliava</annotation>
-		<annotation cp="🇫🇰" type="tts">vėliava: Folklando Salos</annotation>
+		<annotation cp="🇫🇰" type="tts">vėliava: Folklando salos</annotation>
 		<annotation cp="🇫🇲">vėliava</annotation>
 		<annotation cp="🇫🇲" type="tts">vėliava: Mikronezija</annotation>
 		<annotation cp="🇫🇴">vėliava</annotation>
@@ -4432,26 +4744,6 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="₺" type="tts">Turkijos lira</annotation>
 		<annotation cp="₼" type="tts">Azerbaidžano manatas</annotation>
 		<annotation cp="₾" type="tts">Gruzijos laris</annotation>
-		<annotation cp="0⃣">mygtukas</annotation>
-		<annotation cp="0⃣" type="tts">mygtukas: 0</annotation>
-		<annotation cp="1⃣">mygtukas</annotation>
-		<annotation cp="1⃣" type="tts">mygtukas: 1</annotation>
-		<annotation cp="2⃣">mygtukas</annotation>
-		<annotation cp="2⃣" type="tts">mygtukas: 2</annotation>
-		<annotation cp="3⃣">mygtukas</annotation>
-		<annotation cp="3⃣" type="tts">mygtukas: 3</annotation>
-		<annotation cp="4⃣">mygtukas</annotation>
-		<annotation cp="4⃣" type="tts">mygtukas: 4</annotation>
-		<annotation cp="5⃣">mygtukas</annotation>
-		<annotation cp="5⃣" type="tts">mygtukas: 5</annotation>
-		<annotation cp="6⃣">mygtukas</annotation>
-		<annotation cp="6⃣" type="tts">mygtukas: 6</annotation>
-		<annotation cp="7⃣">mygtukas</annotation>
-		<annotation cp="7⃣" type="tts">mygtukas: 7</annotation>
-		<annotation cp="8⃣">mygtukas</annotation>
-		<annotation cp="8⃣" type="tts">mygtukas: 8</annotation>
-		<annotation cp="9⃣">mygtukas</annotation>
-		<annotation cp="9⃣" type="tts">mygtukas: 9</annotation>
 		<annotation cp="₧" type="tts">Ispanijos peseta</annotation>
 	</annotations>
 </ldml>

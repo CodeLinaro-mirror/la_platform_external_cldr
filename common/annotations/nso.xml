@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -939,6 +939,12 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🐙" type="tts">okthopase</annotation>
 		<annotation cp="🐚">mokokotlo | shele</annotation>
 		<annotation cp="🐚" type="tts">shele</annotation>
+		<annotation cp="🦀">Cancer | letlapakgerere | zodiac</annotation>
+		<annotation cp="🦀" type="tts">letlapakgerere</annotation>
+		<annotation cp="🦐">hlapi ya legapi | nyenyane | sejo | šerimbo | šerimpo</annotation>
+		<annotation cp="🦐" type="tts">šerimpo</annotation>
+		<annotation cp="🦑">sejo | sekhwiti | seneile</annotation>
+		<annotation cp="🦑" type="tts">sekhwiti</annotation>
 		<annotation cp="🐌">kgopa</annotation>
 		<annotation cp="🐌" type="tts">kgopa</annotation>
 		<annotation cp="🦋">botse | khunkhwane | serurubele</annotation>
@@ -1141,12 +1147,6 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🥠" type="tts">kuku ya mahlatse</annotation>
 		<annotation cp="🥡">lepokisi la dijo | oesterepheile</annotation>
 		<annotation cp="🥡" type="tts">lepokisi la dijo</annotation>
-		<annotation cp="🦀">Cancer | letlapakgerere | zodiac</annotation>
-		<annotation cp="🦀" type="tts">letlapakgerere</annotation>
-		<annotation cp="🦐">hlapi ya legapi | nyenyane | sejo | šerimbo | šerimpo</annotation>
-		<annotation cp="🦐" type="tts">šerimpo</annotation>
-		<annotation cp="🦑">sejo | sekhwiti | seneile</annotation>
-		<annotation cp="🦑" type="tts">sekhwiti</annotation>
 		<annotation cp="🍦">boleta | bose | ice | ice cream e boleta | icecream | khirimo | menate</annotation>
 		<annotation cp="🍦" type="tts">ice cream e boleta</annotation>
 		<annotation cp="🍧">aese | aese ye bopilwego | bose | kotile | tesete</annotation>
@@ -1849,12 +1849,12 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="📻" type="tts">seyalemoya</annotation>
 		<annotation cp="🎷">mmino | sax | seksofoune | tholosi</annotation>
 		<annotation cp="🎷" type="tts">seksofoune</annotation>
+		<annotation cp="🎺">mmino | porompeta | seletšo</annotation>
+		<annotation cp="🎺" type="tts">porompeta</annotation>
 		<annotation cp="🎸">katara | mmino | seletšo</annotation>
 		<annotation cp="🎸" type="tts">katara</annotation>
 		<annotation cp="🎹">khiipoto ya mmino | mmino | piano | seletšo</annotation>
 		<annotation cp="🎹" type="tts">khiipoto ya mmino</annotation>
-		<annotation cp="🎺">mmino | porompeta | seletšo</annotation>
-		<annotation cp="🎺" type="tts">porompeta</annotation>
 		<annotation cp="🎻">bayolini | mmino | seletšo</annotation>
 		<annotation cp="🎻" type="tts">bayolini</annotation>
 		<annotation cp="🥁">kota ya go letša moropa | mmino | moropa</annotation>

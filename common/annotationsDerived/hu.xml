@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -603,6 +603,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾" type="tts">szőke hajú ember: közepesen sötét bőrtónus</annotation>
 		<annotation cp="👱🏿">ember | férfi | sötét bőrtónus | szőke | szőke hajú ember</annotation>
 		<annotation cp="👱🏿" type="tts">szőke hajú ember: sötét bőrtónus</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼">birkózás | birkózó | birkózók | harc | közepesen világos bőrtónus | sport | sportoló | világos bőrtónus</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼" type="tts">birkózók: világos bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽">birkózás | birkózó | birkózók | harc | közepes bőrtónus | sport | sportoló | világos bőrtónus</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽" type="tts">birkózók: világos bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾">birkózás | birkózó | birkózók | harc | közepesen sötét bőrtónus | sport | sportoló | világos bőrtónus</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾" type="tts">birkózók: világos bőrtónus és közepesen sötét bőrtónus</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿">birkózás | birkózó | birkózók | harc | sötét bőrtónus | sport | sportoló | világos bőrtónus</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿" type="tts">birkózók: világos bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻">birkózás | birkózó | birkózók | harc | közepesen világos bőrtónus | sport | sportoló | világos bőrtónus</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻" type="tts">birkózók: közepesen világos bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽">birkózás | birkózó | birkózók | harc | közepes bőrtónus | közepesen világos bőrtónus | sport | sportoló</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽" type="tts">birkózók: közepesen világos bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾">birkózás | birkózó | birkózók | harc | közepesen sötét bőrtónus | közepesen világos bőrtónus | sport | sportoló</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾" type="tts">birkózók: közepesen világos bőrtónus és közepesen sötét bőrtónus</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿">birkózás | birkózó | birkózók | harc | közepesen világos bőrtónus | sötét bőrtónus | sport | sportoló</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿" type="tts">birkózók: közepesen világos bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻">birkózás | birkózó | birkózók | harc | közepes bőrtónus | sport | sportoló | világos bőrtónus</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻" type="tts">birkózók: közepes bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼">birkózás | birkózó | birkózók | harc | közepes bőrtónus | közepesen világos bőrtónus | sport | sportoló</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼" type="tts">birkózók: közepes bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾">birkózás | birkózó | birkózók | harc | közepes bőrtónus | közepesen sötét bőrtónus | sport | sportoló</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾" type="tts">birkózók: közepes bőrtónus és közepesen sötét bőrtónus</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿">birkózás | birkózó | birkózók | harc | közepes bőrtónus | sötét bőrtónus | sport | sportoló</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿" type="tts">birkózók: közepes bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻">birkózás | birkózó | birkózók | harc | közepesen sötét bőrtónus | sport | sportoló | világos bőrtónus</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻" type="tts">birkózók: közepesen sötét bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼">birkózás | birkózó | birkózók | harc | közepesen sötét bőrtónus | közepesen világos bőrtónus | sport | sportoló</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼" type="tts">birkózók: közepesen sötét bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽">birkózás | birkózó | birkózók | harc | közepes bőrtónus | közepesen sötét bőrtónus | sport | sportoló</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽" type="tts">birkózók: közepesen sötét bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿">birkózás | birkózó | birkózók | harc | közepesen sötét bőrtónus | sötét bőrtónus | sport | sportoló</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿" type="tts">birkózók: közepesen sötét bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻">birkózás | birkózó | birkózók | harc | sötét bőrtónus | sport | sportoló | világos bőrtónus</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻" type="tts">birkózók: sötét bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼">birkózás | birkózó | birkózók | harc | közepesen világos bőrtónus | sötét bőrtónus | sport | sportoló</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼" type="tts">birkózók: sötét bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽">birkózás | birkózó | birkózók | harc | közepes bőrtónus | sötét bőrtónus | sport | sportoló</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽" type="tts">birkózók: sötét bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾">birkózás | birkózó | birkózók | harc | közepesen sötét bőrtónus | sötét bőrtónus | sport | sportoló</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾" type="tts">birkózók: sötét bőrtónus és közepesen sötét bőrtónus</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼">barát | barátnő | csók | évforduló | felnőtt | közepesen világos bőrtónus | pár | randevú | randi | romantika | szerelem | szív | világos bőrtónus</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼" type="tts">csók: felnőtt, felnőtt, világos bőrtónus és közepesen világos bőrtónus</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏽">barát | barátnő | csók | évforduló | felnőtt | közepes bőrtónus | pár | randevú | randi | romantika | szerelem | szív | világos bőrtónus</annotation>
@@ -731,6 +771,56 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦲" type="tts">felnőtt: közepesen sötét bőrtónus és kopasz</annotation>
 		<annotation cp="🧑🏿‍🦲">felnőtt | kopasz | sötét bőrtónus</annotation>
 		<annotation cp="🧑🏿‍🦲" type="tts">felnőtt: sötét bőrtónus és kopasz</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼">buli | bulizó emberek | közepesen világos bőrtónus | lányok | nő | nyuszi | nyuszifül | parti | világos bőrtónus</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼" type="tts">bulizó emberek: világos bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽">buli | bulizó emberek | közepes bőrtónus | lányok | nő | nyuszi | nyuszifül | parti | világos bőrtónus</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽" type="tts">bulizó emberek: világos bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾">buli | bulizó emberek | közepesen sötét bőrtónus | lányok | nő | nyuszi | nyuszifül | parti | világos bőrtónus</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾" type="tts">bulizó emberek: világos bőrtónus és közepesen sötét bőrtónus</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿">buli | bulizó emberek | lányok | nő | nyuszi | nyuszifül | parti | sötét bőrtónus | világos bőrtónus</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿" type="tts">bulizó emberek: világos bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻">buli | bulizó emberek | közepesen világos bőrtónus | lányok | nő | nyuszi | nyuszifül | parti | világos bőrtónus</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻" type="tts">bulizó emberek: közepesen világos bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽">buli | bulizó emberek | közepes bőrtónus | közepesen világos bőrtónus | lányok | nő | nyuszi | nyuszifül | parti</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽" type="tts">bulizó emberek: közepesen világos bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾">buli | bulizó emberek | közepesen sötét bőrtónus | közepesen világos bőrtónus | lányok | nő | nyuszi | nyuszifül | parti</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾" type="tts">bulizó emberek: közepesen világos bőrtónus és közepesen sötét bőrtónus</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿">buli | bulizó emberek | közepesen világos bőrtónus | lányok | nő | nyuszi | nyuszifül | parti | sötét bőrtónus</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿" type="tts">bulizó emberek: közepesen világos bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻">buli | bulizó emberek | közepes bőrtónus | lányok | nő | nyuszi | nyuszifül | parti | világos bőrtónus</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻" type="tts">bulizó emberek: közepes bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼">buli | bulizó emberek | közepes bőrtónus | közepesen világos bőrtónus | lányok | nő | nyuszi | nyuszifül | parti</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼" type="tts">bulizó emberek: közepes bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾">buli | bulizó emberek | közepes bőrtónus | közepesen sötét bőrtónus | lányok | nő | nyuszi | nyuszifül | parti</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾" type="tts">bulizó emberek: közepes bőrtónus és közepesen sötét bőrtónus</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿">buli | bulizó emberek | közepes bőrtónus | lányok | nő | nyuszi | nyuszifül | parti | sötét bőrtónus</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿" type="tts">bulizó emberek: közepes bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻">buli | bulizó emberek | közepesen sötét bőrtónus | lányok | nő | nyuszi | nyuszifül | parti | világos bőrtónus</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻" type="tts">bulizó emberek: közepesen sötét bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼">buli | bulizó emberek | közepesen sötét bőrtónus | közepesen világos bőrtónus | lányok | nő | nyuszi | nyuszifül | parti</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼" type="tts">bulizó emberek: közepesen sötét bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽">buli | bulizó emberek | közepes bőrtónus | közepesen sötét bőrtónus | lányok | nő | nyuszi | nyuszifül | parti</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽" type="tts">bulizó emberek: közepesen sötét bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿">buli | bulizó emberek | közepesen sötét bőrtónus | lányok | nő | nyuszi | nyuszifül | parti | sötét bőrtónus</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿" type="tts">bulizó emberek: közepesen sötét bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻">buli | bulizó emberek | lányok | nő | nyuszi | nyuszifül | parti | sötét bőrtónus | világos bőrtónus</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻" type="tts">bulizó emberek: sötét bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼">buli | bulizó emberek | közepesen világos bőrtónus | lányok | nő | nyuszi | nyuszifül | parti | sötét bőrtónus</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼" type="tts">bulizó emberek: sötét bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽">buli | bulizó emberek | közepes bőrtónus | lányok | nő | nyuszi | nyuszifül | parti | sötét bőrtónus</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽" type="tts">bulizó emberek: sötét bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾">buli | bulizó emberek | közepesen sötét bőrtónus | lányok | nő | nyuszi | nyuszifül | parti | sötét bőrtónus</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾" type="tts">bulizó emberek: sötét bőrtónus és közepesen sötét bőrtónus</annotation>
+		<annotation cp="🧑🏻‍🩰">balett | táncos | világos bőrtónus</annotation>
+		<annotation cp="🧑🏻‍🩰" type="tts">balett-táncos: világos bőrtónus</annotation>
+		<annotation cp="🧑🏼‍🩰">balett | közepesen világos bőrtónus | táncos</annotation>
+		<annotation cp="🧑🏼‍🩰" type="tts">balett-táncos: közepesen világos bőrtónus</annotation>
+		<annotation cp="🧑🏽‍🩰">balett | közepes bőrtónus | táncos</annotation>
+		<annotation cp="🧑🏽‍🩰" type="tts">balett-táncos: közepes bőrtónus</annotation>
+		<annotation cp="🧑🏾‍🩰">balett | közepesen sötét bőrtónus | táncos</annotation>
+		<annotation cp="🧑🏾‍🩰" type="tts">balett-táncos: közepesen sötét bőrtónus</annotation>
+		<annotation cp="🧑🏿‍🩰">balett | sötét bőrtónus | táncos</annotation>
+		<annotation cp="🧑🏿‍🩰" type="tts">balett-táncos: sötét bőrtónus</annotation>
 		<annotation cp="👨🏻">barát | báty | férfi | férj | fiú | haver | öcs | társ | testvér | világos bőrtónus</annotation>
 		<annotation cp="👨🏻" type="tts">férfi: világos bőrtónus</annotation>
 		<annotation cp="👨🏼">barát | báty | férfi | férj | fiú | haver | közepesen világos bőrtónus | öcs | társ | testvér</annotation>
@@ -771,6 +861,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♂" type="tts">szőke férfi: közepesen sötét bőrtónus</annotation>
 		<annotation cp="👱🏿‍♂">férfi | sötét bőrtónus | szőke</annotation>
 		<annotation cp="👱🏿‍♂" type="tts">szőke férfi: sötét bőrtónus</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | közepesen világos bőrtónus | sport | világos bőrtónus</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼" type="tts">birkózó férfiak: világos bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | közepes bőrtónus | sport | világos bőrtónus</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽" type="tts">birkózó férfiak: világos bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | közepesen sötét bőrtónus | sport | világos bőrtónus</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾" type="tts">birkózó férfiak: világos bőrtónus és közepesen sötét bőrtónus</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | sötét bőrtónus | sport | világos bőrtónus</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿" type="tts">birkózó férfiak: világos bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | közepesen világos bőrtónus | sport | világos bőrtónus</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻" type="tts">birkózó férfiak: közepesen világos bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | közepes bőrtónus | közepesen világos bőrtónus | sport</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽" type="tts">birkózó férfiak: közepesen világos bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | közepesen sötét bőrtónus | közepesen világos bőrtónus | sport</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾" type="tts">birkózó férfiak: közepesen világos bőrtónus és közepesen sötét bőrtónus</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | közepesen világos bőrtónus | sötét bőrtónus | sport</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿" type="tts">birkózó férfiak: közepesen világos bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | közepes bőrtónus | sport | világos bőrtónus</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻" type="tts">birkózó férfiak: közepes bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | közepes bőrtónus | közepesen világos bőrtónus | sport</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼" type="tts">birkózó férfiak: közepes bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | közepes bőrtónus | közepesen sötét bőrtónus | sport</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾" type="tts">birkózó férfiak: közepes bőrtónus és közepesen sötét bőrtónus</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | közepes bőrtónus | sötét bőrtónus | sport</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿" type="tts">birkózó férfiak: közepes bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | közepesen sötét bőrtónus | sport | világos bőrtónus</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻" type="tts">birkózó férfiak: közepesen sötét bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | közepesen sötét bőrtónus | közepesen világos bőrtónus | sport</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼" type="tts">birkózó férfiak: közepesen sötét bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | közepes bőrtónus | közepesen sötét bőrtónus | sport</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽" type="tts">birkózó férfiak: közepesen sötét bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | közepesen sötét bőrtónus | sötét bőrtónus | sport</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿" type="tts">birkózó férfiak: közepesen sötét bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | sötét bőrtónus | sport | világos bőrtónus</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻" type="tts">birkózó férfiak: sötét bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | közepesen világos bőrtónus | sötét bőrtónus | sport</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼" type="tts">birkózó férfiak: sötét bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | közepes bőrtónus | sötét bőrtónus | sport</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽" type="tts">birkózó férfiak: sötét bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | közepesen sötét bőrtónus | sötét bőrtónus | sport</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾" type="tts">birkózó férfiak: sötét bőrtónus és közepesen sötét bőrtónus</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻">barát | barátnő | csók | évforduló | férfi | pár | randevú | randi | romantika | szerelem | szív | világos bőrtónus</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻" type="tts">csók: férfi, férfi és világos bőrtónus</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏼">barát | barátnő | csók | évforduló | férfi | közepesen világos bőrtónus | pár | randevú | randi | romantika | szerelem | szív | világos bőrtónus</annotation>
@@ -919,15 +1049,55 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦲" type="tts">férfi: közepesen sötét bőrtónus és kopasz</annotation>
 		<annotation cp="👨🏿‍🦲">barát | báty | férfi | férj | fiú | haver | kopasz | öcs | sötét bőrtónus | társ | testvér</annotation>
 		<annotation cp="👨🏿‍🦲" type="tts">férfi: sötét bőrtónus és kopasz</annotation>
-		<annotation cp="👩🏻">hölgy | nő | szőke | világos bőrtónus</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | közepesen világos bőrtónus | nyuszifül | parti | partizik | party | táncol | táncos | világos bőrtónus</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼" type="tts">bulizó férfiak: világos bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | közepes bőrtónus | nyuszifül | parti | partizik | party | táncol | táncos | világos bőrtónus</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽" type="tts">bulizó férfiak: világos bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | közepesen sötét bőrtónus | nyuszifül | parti | partizik | party | táncol | táncos | világos bőrtónus</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾" type="tts">bulizó férfiak: világos bőrtónus és közepesen sötét bőrtónus</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | nyuszifül | parti | partizik | party | sötét bőrtónus | táncol | táncos | világos bőrtónus</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿" type="tts">bulizó férfiak: világos bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | közepesen világos bőrtónus | nyuszifül | parti | partizik | party | táncol | táncos | világos bőrtónus</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻" type="tts">bulizó férfiak: közepesen világos bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | közepes bőrtónus | közepesen világos bőrtónus | nyuszifül | parti | partizik | party | táncol | táncos</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽" type="tts">bulizó férfiak: közepesen világos bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | közepesen sötét bőrtónus | közepesen világos bőrtónus | nyuszifül | parti | partizik | party | táncol | táncos</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾" type="tts">bulizó férfiak: közepesen világos bőrtónus és közepesen sötét bőrtónus</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | közepesen világos bőrtónus | nyuszifül | parti | partizik | party | sötét bőrtónus | táncol | táncos</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿" type="tts">bulizó férfiak: közepesen világos bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | közepes bőrtónus | nyuszifül | parti | partizik | party | táncol | táncos | világos bőrtónus</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻" type="tts">bulizó férfiak: közepes bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | közepes bőrtónus | közepesen világos bőrtónus | nyuszifül | parti | partizik | party | táncol | táncos</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼" type="tts">bulizó férfiak: közepes bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | közepes bőrtónus | közepesen sötét bőrtónus | nyuszifül | parti | partizik | party | táncol | táncos</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾" type="tts">bulizó férfiak: közepes bőrtónus és közepesen sötét bőrtónus</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | közepes bőrtónus | nyuszifül | parti | partizik | party | sötét bőrtónus | táncol | táncos</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿" type="tts">bulizó férfiak: közepes bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | közepesen sötét bőrtónus | nyuszifül | parti | partizik | party | táncol | táncos | világos bőrtónus</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻" type="tts">bulizó férfiak: közepesen sötét bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | közepesen sötét bőrtónus | közepesen világos bőrtónus | nyuszifül | parti | partizik | party | táncol | táncos</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼" type="tts">bulizó férfiak: közepesen sötét bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | közepes bőrtónus | közepesen sötét bőrtónus | nyuszifül | parti | partizik | party | táncol | táncos</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽" type="tts">bulizó férfiak: közepesen sötét bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | közepesen sötét bőrtónus | nyuszifül | parti | partizik | party | sötét bőrtónus | táncol | táncos</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿" type="tts">bulizó férfiak: közepesen sötét bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | nyuszifül | parti | partizik | party | sötét bőrtónus | táncol | táncos | világos bőrtónus</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻" type="tts">bulizó férfiak: sötét bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | közepesen világos bőrtónus | nyuszifül | parti | partizik | party | sötét bőrtónus | táncol | táncos</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼" type="tts">bulizó férfiak: sötét bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | közepes bőrtónus | nyuszifül | parti | partizik | party | sötét bőrtónus | táncol | táncos</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽" type="tts">bulizó férfiak: sötét bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | közepesen sötét bőrtónus | nyuszifül | parti | partizik | party | sötét bőrtónus | táncol | táncos</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾" type="tts">bulizó férfiak: sötét bőrtónus és közepesen sötét bőrtónus</annotation>
+		<annotation cp="👩🏻">felnőtt | hölgy | nő | világos bőrtónus</annotation>
 		<annotation cp="👩🏻" type="tts">nő: világos bőrtónus</annotation>
-		<annotation cp="👩🏼">hölgy | közepesen világos bőrtónus | nő | szőke</annotation>
+		<annotation cp="👩🏼">felnőtt | hölgy | közepesen világos bőrtónus | nő</annotation>
 		<annotation cp="👩🏼" type="tts">nő: közepesen világos bőrtónus</annotation>
-		<annotation cp="👩🏽">hölgy | közepes bőrtónus | nő | szőke</annotation>
+		<annotation cp="👩🏽">felnőtt | hölgy | közepes bőrtónus | nő</annotation>
 		<annotation cp="👩🏽" type="tts">nő: közepes bőrtónus</annotation>
-		<annotation cp="👩🏾">hölgy | közepesen sötét bőrtónus | nő | szőke</annotation>
+		<annotation cp="👩🏾">felnőtt | hölgy | közepesen sötét bőrtónus | nő</annotation>
 		<annotation cp="👩🏾" type="tts">nő: közepesen sötét bőrtónus</annotation>
-		<annotation cp="👩🏿">hölgy | nő | sötét bőrtónus | szőke</annotation>
+		<annotation cp="👩🏿">felnőtt | hölgy | nő | sötét bőrtónus</annotation>
 		<annotation cp="👩🏿" type="tts">nő: sötét bőrtónus</annotation>
 		<annotation cp="🧔🏻‍♀">nő | nő: szakáll | szakáll | világos bőrtónus</annotation>
 		<annotation cp="🧔🏻‍♀" type="tts">nő: világos bőrtónus és szakáll</annotation>
@@ -949,6 +1119,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♀" type="tts">szőke nő: közepesen sötét bőrtónus</annotation>
 		<annotation cp="👱🏿‍♀">nő | sötét bőrtónus | szőke</annotation>
 		<annotation cp="👱🏿‍♀" type="tts">szőke nő: sötét bőrtónus</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼">birkozás | birkozó | birkózó nők | harc | közepesen világos bőrtónus | nő | női birkózás | sport | világos bőrtónus</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼" type="tts">birkózó nők: világos bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽">birkozás | birkozó | birkózó nők | harc | közepes bőrtónus | nő | női birkózás | sport | világos bőrtónus</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽" type="tts">birkózó nők: világos bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾">birkozás | birkozó | birkózó nők | harc | közepesen sötét bőrtónus | nő | női birkózás | sport | világos bőrtónus</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾" type="tts">birkózó nők: világos bőrtónus és közepesen sötét bőrtónus</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿">birkozás | birkozó | birkózó nők | harc | nő | női birkózás | sötét bőrtónus | sport | világos bőrtónus</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿" type="tts">birkózó nők: világos bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻">birkozás | birkozó | birkózó nők | harc | közepesen világos bőrtónus | nő | női birkózás | sport | világos bőrtónus</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻" type="tts">birkózó nők: közepesen világos bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽">birkozás | birkozó | birkózó nők | harc | közepes bőrtónus | közepesen világos bőrtónus | nő | női birkózás | sport</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽" type="tts">birkózó nők: közepesen világos bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾">birkozás | birkozó | birkózó nők | harc | közepesen sötét bőrtónus | közepesen világos bőrtónus | nő | női birkózás | sport</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾" type="tts">birkózó nők: közepesen világos bőrtónus és közepesen sötét bőrtónus</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿">birkozás | birkozó | birkózó nők | harc | közepesen világos bőrtónus | nő | női birkózás | sötét bőrtónus | sport</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿" type="tts">birkózó nők: közepesen világos bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻">birkozás | birkozó | birkózó nők | harc | közepes bőrtónus | nő | női birkózás | sport | világos bőrtónus</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻" type="tts">birkózó nők: közepes bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼">birkozás | birkozó | birkózó nők | harc | közepes bőrtónus | közepesen világos bőrtónus | nő | női birkózás | sport</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼" type="tts">birkózó nők: közepes bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾">birkozás | birkozó | birkózó nők | harc | közepes bőrtónus | közepesen sötét bőrtónus | nő | női birkózás | sport</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾" type="tts">birkózó nők: közepes bőrtónus és közepesen sötét bőrtónus</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿">birkozás | birkozó | birkózó nők | harc | közepes bőrtónus | nő | női birkózás | sötét bőrtónus | sport</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿" type="tts">birkózó nők: közepes bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻">birkozás | birkozó | birkózó nők | harc | közepesen sötét bőrtónus | nő | női birkózás | sport | világos bőrtónus</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻" type="tts">birkózó nők: közepesen sötét bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼">birkozás | birkozó | birkózó nők | harc | közepesen sötét bőrtónus | közepesen világos bőrtónus | nő | női birkózás | sport</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼" type="tts">birkózó nők: közepesen sötét bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽">birkozás | birkozó | birkózó nők | harc | közepes bőrtónus | közepesen sötét bőrtónus | nő | női birkózás | sport</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽" type="tts">birkózó nők: közepesen sötét bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿">birkozás | birkozó | birkózó nők | harc | közepesen sötét bőrtónus | nő | női birkózás | sötét bőrtónus | sport</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿" type="tts">birkózó nők: közepesen sötét bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻">birkozás | birkozó | birkózó nők | harc | nő | női birkózás | sötét bőrtónus | sport | világos bőrtónus</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻" type="tts">birkózó nők: sötét bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼">birkozás | birkozó | birkózó nők | harc | közepesen világos bőrtónus | nő | női birkózás | sötét bőrtónus | sport</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼" type="tts">birkózó nők: sötét bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽">birkozás | birkozó | birkózó nők | harc | közepes bőrtónus | nő | női birkózás | sötét bőrtónus | sport</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽" type="tts">birkózó nők: sötét bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾">birkozás | birkozó | birkózó nők | harc | közepesen sötét bőrtónus | nő | női birkózás | sötét bőrtónus | sport</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾" type="tts">birkózó nők: sötét bőrtónus és közepesen sötét bőrtónus</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻">barát | barátnő | csók | évforduló | férfi | nő | pár | randevú | randi | romantika | szerelem | szív | világos bőrtónus</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻" type="tts">csók: nő, férfi és világos bőrtónus</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏼">barát | barátnő | csók | évforduló | férfi | közepesen világos bőrtónus | nő | pár | randevú | randi | romantika | szerelem | szív | világos bőrtónus</annotation>
@@ -1149,54 +1359,94 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏿‍❤‍👩🏾" type="tts">pár szívvel: nő, nő, sötét bőrtónus és közepesen sötét bőrtónus</annotation>
 		<annotation cp="👩🏿‍❤‍👩🏿">csók | évforduló | nő | pár | pár szívvel | romantika | sötét bőrtónus | szerelem | szív</annotation>
 		<annotation cp="👩🏿‍❤‍👩🏿" type="tts">pár szívvel: nő, nő és sötét bőrtónus</annotation>
-		<annotation cp="👩‍🦰">hölgy | nő | szőke | vörös haj</annotation>
+		<annotation cp="👩‍🦰">felnőtt | hölgy | nő | vörös haj</annotation>
 		<annotation cp="👩‍🦰" type="tts">nő: vörös haj</annotation>
-		<annotation cp="👩🏻‍🦰">hölgy | nő | szőke | világos bőrtónus | vörös haj</annotation>
+		<annotation cp="👩🏻‍🦰">felnőtt | hölgy | nő | világos bőrtónus | vörös haj</annotation>
 		<annotation cp="👩🏻‍🦰" type="tts">nő: világos bőrtónus és vörös haj</annotation>
-		<annotation cp="👩🏼‍🦰">hölgy | közepesen világos bőrtónus | nő | szőke | vörös haj</annotation>
+		<annotation cp="👩🏼‍🦰">felnőtt | hölgy | közepesen világos bőrtónus | nő | vörös haj</annotation>
 		<annotation cp="👩🏼‍🦰" type="tts">nő: közepesen világos bőrtónus és vörös haj</annotation>
-		<annotation cp="👩🏽‍🦰">hölgy | közepes bőrtónus | nő | szőke | vörös haj</annotation>
+		<annotation cp="👩🏽‍🦰">felnőtt | hölgy | közepes bőrtónus | nő | vörös haj</annotation>
 		<annotation cp="👩🏽‍🦰" type="tts">nő: közepes bőrtónus és vörös haj</annotation>
-		<annotation cp="👩🏾‍🦰">hölgy | közepesen sötét bőrtónus | nő | szőke | vörös haj</annotation>
+		<annotation cp="👩🏾‍🦰">felnőtt | hölgy | közepesen sötét bőrtónus | nő | vörös haj</annotation>
 		<annotation cp="👩🏾‍🦰" type="tts">nő: közepesen sötét bőrtónus és vörös haj</annotation>
-		<annotation cp="👩🏿‍🦰">hölgy | nő | sötét bőrtónus | szőke | vörös haj</annotation>
+		<annotation cp="👩🏿‍🦰">felnőtt | hölgy | nő | sötét bőrtónus | vörös haj</annotation>
 		<annotation cp="👩🏿‍🦰" type="tts">nő: sötét bőrtónus és vörös haj</annotation>
-		<annotation cp="👩‍🦱">göndör haj | hölgy | nő | szőke</annotation>
+		<annotation cp="👩‍🦱">felnőtt | göndör haj | hölgy | nő</annotation>
 		<annotation cp="👩‍🦱" type="tts">nő: göndör haj</annotation>
-		<annotation cp="👩🏻‍🦱">göndör haj | hölgy | nő | szőke | világos bőrtónus</annotation>
+		<annotation cp="👩🏻‍🦱">felnőtt | göndör haj | hölgy | nő | világos bőrtónus</annotation>
 		<annotation cp="👩🏻‍🦱" type="tts">nő: világos bőrtónus és göndör haj</annotation>
-		<annotation cp="👩🏼‍🦱">göndör haj | hölgy | közepesen világos bőrtónus | nő | szőke</annotation>
+		<annotation cp="👩🏼‍🦱">felnőtt | göndör haj | hölgy | közepesen világos bőrtónus | nő</annotation>
 		<annotation cp="👩🏼‍🦱" type="tts">nő: közepesen világos bőrtónus és göndör haj</annotation>
-		<annotation cp="👩🏽‍🦱">göndör haj | hölgy | közepes bőrtónus | nő | szőke</annotation>
+		<annotation cp="👩🏽‍🦱">felnőtt | göndör haj | hölgy | közepes bőrtónus | nő</annotation>
 		<annotation cp="👩🏽‍🦱" type="tts">nő: közepes bőrtónus és göndör haj</annotation>
-		<annotation cp="👩🏾‍🦱">göndör haj | hölgy | közepesen sötét bőrtónus | nő | szőke</annotation>
+		<annotation cp="👩🏾‍🦱">felnőtt | göndör haj | hölgy | közepesen sötét bőrtónus | nő</annotation>
 		<annotation cp="👩🏾‍🦱" type="tts">nő: közepesen sötét bőrtónus és göndör haj</annotation>
-		<annotation cp="👩🏿‍🦱">göndör haj | hölgy | nő | sötét bőrtónus | szőke</annotation>
+		<annotation cp="👩🏿‍🦱">felnőtt | göndör haj | hölgy | nő | sötét bőrtónus</annotation>
 		<annotation cp="👩🏿‍🦱" type="tts">nő: sötét bőrtónus és göndör haj</annotation>
-		<annotation cp="👩‍🦳">hölgy | nő | ősz haj | szőke</annotation>
+		<annotation cp="👩‍🦳">felnőtt | hölgy | nő | ősz haj</annotation>
 		<annotation cp="👩‍🦳" type="tts">nő: ősz haj</annotation>
-		<annotation cp="👩🏻‍🦳">hölgy | nő | ősz haj | szőke | világos bőrtónus</annotation>
+		<annotation cp="👩🏻‍🦳">felnőtt | hölgy | nő | ősz haj | világos bőrtónus</annotation>
 		<annotation cp="👩🏻‍🦳" type="tts">nő: világos bőrtónus és ősz haj</annotation>
-		<annotation cp="👩🏼‍🦳">hölgy | közepesen világos bőrtónus | nő | ősz haj | szőke</annotation>
+		<annotation cp="👩🏼‍🦳">felnőtt | hölgy | közepesen világos bőrtónus | nő | ősz haj</annotation>
 		<annotation cp="👩🏼‍🦳" type="tts">nő: közepesen világos bőrtónus és ősz haj</annotation>
-		<annotation cp="👩🏽‍🦳">hölgy | közepes bőrtónus | nő | ősz haj | szőke</annotation>
+		<annotation cp="👩🏽‍🦳">felnőtt | hölgy | közepes bőrtónus | nő | ősz haj</annotation>
 		<annotation cp="👩🏽‍🦳" type="tts">nő: közepes bőrtónus és ősz haj</annotation>
-		<annotation cp="👩🏾‍🦳">hölgy | közepesen sötét bőrtónus | nő | ősz haj | szőke</annotation>
+		<annotation cp="👩🏾‍🦳">felnőtt | hölgy | közepesen sötét bőrtónus | nő | ősz haj</annotation>
 		<annotation cp="👩🏾‍🦳" type="tts">nő: közepesen sötét bőrtónus és ősz haj</annotation>
-		<annotation cp="👩🏿‍🦳">hölgy | nő | ősz haj | sötét bőrtónus | szőke</annotation>
+		<annotation cp="👩🏿‍🦳">felnőtt | hölgy | nő | ősz haj | sötét bőrtónus</annotation>
 		<annotation cp="👩🏿‍🦳" type="tts">nő: sötét bőrtónus és ősz haj</annotation>
-		<annotation cp="👩‍🦲">hölgy | kopasz | nő | szőke</annotation>
+		<annotation cp="👩‍🦲">felnőtt | hölgy | kopasz | nő</annotation>
 		<annotation cp="👩‍🦲" type="tts">nő: kopasz</annotation>
-		<annotation cp="👩🏻‍🦲">hölgy | kopasz | nő | szőke | világos bőrtónus</annotation>
+		<annotation cp="👩🏻‍🦲">felnőtt | hölgy | kopasz | nő | világos bőrtónus</annotation>
 		<annotation cp="👩🏻‍🦲" type="tts">nő: világos bőrtónus és kopasz</annotation>
-		<annotation cp="👩🏼‍🦲">hölgy | kopasz | közepesen világos bőrtónus | nő | szőke</annotation>
+		<annotation cp="👩🏼‍🦲">felnőtt | hölgy | kopasz | közepesen világos bőrtónus | nő</annotation>
 		<annotation cp="👩🏼‍🦲" type="tts">nő: közepesen világos bőrtónus és kopasz</annotation>
-		<annotation cp="👩🏽‍🦲">hölgy | kopasz | közepes bőrtónus | nő | szőke</annotation>
+		<annotation cp="👩🏽‍🦲">felnőtt | hölgy | kopasz | közepes bőrtónus | nő</annotation>
 		<annotation cp="👩🏽‍🦲" type="tts">nő: közepes bőrtónus és kopasz</annotation>
-		<annotation cp="👩🏾‍🦲">hölgy | kopasz | közepesen sötét bőrtónus | nő | szőke</annotation>
+		<annotation cp="👩🏾‍🦲">felnőtt | hölgy | kopasz | közepesen sötét bőrtónus | nő</annotation>
 		<annotation cp="👩🏾‍🦲" type="tts">nő: közepesen sötét bőrtónus és kopasz</annotation>
-		<annotation cp="👩🏿‍🦲">hölgy | kopasz | nő | sötét bőrtónus | szőke</annotation>
+		<annotation cp="👩🏿‍🦲">felnőtt | hölgy | kopasz | nő | sötét bőrtónus</annotation>
 		<annotation cp="👩🏿‍🦲" type="tts">nő: sötét bőrtónus és kopasz</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼">buil | bulizó nők | közepesen világos bőrtónus | nő | nők | nyuszifül | parti | táncos | világos bőrtónus</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼" type="tts">bulizó nők: világos bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽">buil | bulizó nők | közepes bőrtónus | nő | nők | nyuszifül | parti | táncos | világos bőrtónus</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽" type="tts">bulizó nők: világos bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾">buil | bulizó nők | közepesen sötét bőrtónus | nő | nők | nyuszifül | parti | táncos | világos bőrtónus</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾" type="tts">bulizó nők: világos bőrtónus és közepesen sötét bőrtónus</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿">buil | bulizó nők | nő | nők | nyuszifül | parti | sötét bőrtónus | táncos | világos bőrtónus</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿" type="tts">bulizó nők: világos bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻">buil | bulizó nők | közepesen világos bőrtónus | nő | nők | nyuszifül | parti | táncos | világos bőrtónus</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻" type="tts">bulizó nők: közepesen világos bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽">buil | bulizó nők | közepes bőrtónus | közepesen világos bőrtónus | nő | nők | nyuszifül | parti | táncos</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽" type="tts">bulizó nők: közepesen világos bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾">buil | bulizó nők | közepesen sötét bőrtónus | közepesen világos bőrtónus | nő | nők | nyuszifül | parti | táncos</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾" type="tts">bulizó nők: közepesen világos bőrtónus és közepesen sötét bőrtónus</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿">buil | bulizó nők | közepesen világos bőrtónus | nő | nők | nyuszifül | parti | sötét bőrtónus | táncos</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿" type="tts">bulizó nők: közepesen világos bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻">buil | bulizó nők | közepes bőrtónus | nő | nők | nyuszifül | parti | táncos | világos bőrtónus</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻" type="tts">bulizó nők: közepes bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼">buil | bulizó nők | közepes bőrtónus | közepesen világos bőrtónus | nő | nők | nyuszifül | parti | táncos</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼" type="tts">bulizó nők: közepes bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾">buil | bulizó nők | közepes bőrtónus | közepesen sötét bőrtónus | nő | nők | nyuszifül | parti | táncos</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾" type="tts">bulizó nők: közepes bőrtónus és közepesen sötét bőrtónus</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿">buil | bulizó nők | közepes bőrtónus | nő | nők | nyuszifül | parti | sötét bőrtónus | táncos</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿" type="tts">bulizó nők: közepes bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻">buil | bulizó nők | közepesen sötét bőrtónus | nő | nők | nyuszifül | parti | táncos | világos bőrtónus</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻" type="tts">bulizó nők: közepesen sötét bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼">buil | bulizó nők | közepesen sötét bőrtónus | közepesen világos bőrtónus | nő | nők | nyuszifül | parti | táncos</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼" type="tts">bulizó nők: közepesen sötét bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽">buil | bulizó nők | közepes bőrtónus | közepesen sötét bőrtónus | nő | nők | nyuszifül | parti | táncos</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽" type="tts">bulizó nők: közepesen sötét bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿">buil | bulizó nők | közepesen sötét bőrtónus | nő | nők | nyuszifül | parti | sötét bőrtónus | táncos</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿" type="tts">bulizó nők: közepesen sötét bőrtónus és sötét bőrtónus</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻">buil | bulizó nők | nő | nők | nyuszifül | parti | sötét bőrtónus | táncos | világos bőrtónus</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻" type="tts">bulizó nők: sötét bőrtónus és világos bőrtónus</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼">buil | bulizó nők | közepesen világos bőrtónus | nő | nők | nyuszifül | parti | sötét bőrtónus | táncos</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼" type="tts">bulizó nők: sötét bőrtónus és közepesen világos bőrtónus</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽">buil | bulizó nők | közepes bőrtónus | nő | nők | nyuszifül | parti | sötét bőrtónus | táncos</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽" type="tts">bulizó nők: sötét bőrtónus és közepes bőrtónus</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾">buil | bulizó nők | közepesen sötét bőrtónus | nő | nők | nyuszifül | parti | sötét bőrtónus | táncos</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾" type="tts">bulizó nők: sötét bőrtónus és közepesen sötét bőrtónus</annotation>
 		<annotation cp="🧓🏻">idős | idősebb felnőtt | nemi szempontból semleges | öreg | világos bőrtónus</annotation>
 		<annotation cp="🧓🏻" type="tts">idősebb felnőtt: világos bőrtónus</annotation>
 		<annotation cp="🧓🏼">idős | idősebb felnőtt | közepesen világos bőrtónus | nemi szempontból semleges | öreg</annotation>
@@ -1347,15 +1597,15 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🙆🏾‍♀" type="tts">beleegyezést mutató nő: közepesen sötét bőrtónus</annotation>
 		<annotation cp="🙆🏿‍♀">beleegyezés | beleegyezést mutató nő | gesztus | kézmozdulat | nő | oké | sötét bőrtónus</annotation>
 		<annotation cp="🙆🏿‍♀" type="tts">beleegyezést mutató nő: sötét bőrtónus</annotation>
-		<annotation cp="💁🏻">ember az információs pultnál | információ | kéz | nyitott tenyér | nyitott tenyerű nő | segítség | világos bőrtónus</annotation>
+		<annotation cp="💁🏻">borravaló | ember | kéz | mindegy | nyitott tenyér | pletyka | szarkasztikus | szarkazmus | szemtelen | világos bőrtónus</annotation>
 		<annotation cp="💁🏻" type="tts">ember az információs pultnál: világos bőrtónus</annotation>
-		<annotation cp="💁🏼">ember az információs pultnál | információ | kéz | közepesen világos bőrtónus | nyitott tenyér | nyitott tenyerű nő | segítség</annotation>
+		<annotation cp="💁🏼">borravaló | ember | kéz | közepesen világos bőrtónus | mindegy | nyitott tenyér | pletyka | szarkasztikus | szarkazmus | szemtelen</annotation>
 		<annotation cp="💁🏼" type="tts">ember az információs pultnál: közepesen világos bőrtónus</annotation>
-		<annotation cp="💁🏽">ember az információs pultnál | információ | kéz | közepes bőrtónus | nyitott tenyér | nyitott tenyerű nő | segítség</annotation>
+		<annotation cp="💁🏽">borravaló | ember | kéz | közepes bőrtónus | mindegy | nyitott tenyér | pletyka | szarkasztikus | szarkazmus | szemtelen</annotation>
 		<annotation cp="💁🏽" type="tts">ember az információs pultnál: közepes bőrtónus</annotation>
-		<annotation cp="💁🏾">ember az információs pultnál | információ | kéz | közepesen sötét bőrtónus | nyitott tenyér | nyitott tenyerű nő | segítség</annotation>
+		<annotation cp="💁🏾">borravaló | ember | kéz | közepesen sötét bőrtónus | mindegy | nyitott tenyér | pletyka | szarkasztikus | szarkazmus | szemtelen</annotation>
 		<annotation cp="💁🏾" type="tts">ember az információs pultnál: közepesen sötét bőrtónus</annotation>
-		<annotation cp="💁🏿">ember az információs pultnál | információ | kéz | nyitott tenyér | nyitott tenyerű nő | segítség | sötét bőrtónus</annotation>
+		<annotation cp="💁🏿">borravaló | ember | kéz | mindegy | nyitott tenyér | pletyka | sötét bőrtónus | szarkasztikus | szarkazmus | szemtelen</annotation>
 		<annotation cp="💁🏿" type="tts">ember az információs pultnál: sötét bőrtónus</annotation>
 		<annotation cp="💁🏻‍♂">férfi | információ | nyitott tenyér | nyitott tenyerű férfi | segítség | világos bőrtónus</annotation>
 		<annotation cp="💁🏻‍♂" type="tts">nyitott tenyerű férfi: világos bőrtónus</annotation>
@@ -1627,25 +1877,25 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍⚖" type="tts">bíró / bírónő: közepesen sötét bőrtónus</annotation>
 		<annotation cp="🧑🏿‍⚖">bíró | bíró / bírónő | mérleg | sötét bőrtónus</annotation>
 		<annotation cp="🧑🏿‍⚖" type="tts">bíró / bírónő: sötét bőrtónus</annotation>
-		<annotation cp="👨🏻‍⚖">bíró | igazság, ítél, férfi, mérleg, foglalkozás | világos bőrtónus</annotation>
+		<annotation cp="👨🏻‍⚖">bíró | férfi | igazság | mérleg | törvény | világos bőrtónus</annotation>
 		<annotation cp="👨🏻‍⚖" type="tts">bíró: világos bőrtónus</annotation>
-		<annotation cp="👨🏼‍⚖">bíró | igazság, ítél, férfi, mérleg, foglalkozás | közepesen világos bőrtónus</annotation>
+		<annotation cp="👨🏼‍⚖">bíró | férfi | igazság | közepesen világos bőrtónus | mérleg | törvény</annotation>
 		<annotation cp="👨🏼‍⚖" type="tts">bíró: közepesen világos bőrtónus</annotation>
-		<annotation cp="👨🏽‍⚖">bíró | igazság, ítél, férfi, mérleg, foglalkozás | közepes bőrtónus</annotation>
+		<annotation cp="👨🏽‍⚖">bíró | férfi | igazság | közepes bőrtónus | mérleg | törvény</annotation>
 		<annotation cp="👨🏽‍⚖" type="tts">bíró: közepes bőrtónus</annotation>
-		<annotation cp="👨🏾‍⚖">bíró | igazság, ítél, férfi, mérleg, foglalkozás | közepesen sötét bőrtónus</annotation>
+		<annotation cp="👨🏾‍⚖">bíró | férfi | igazság | közepesen sötét bőrtónus | mérleg | törvény</annotation>
 		<annotation cp="👨🏾‍⚖" type="tts">bíró: közepesen sötét bőrtónus</annotation>
-		<annotation cp="👨🏿‍⚖">bíró | igazság, ítél, férfi, mérleg, foglalkozás | sötét bőrtónus</annotation>
+		<annotation cp="👨🏿‍⚖">bíró | férfi | igazság | mérleg | sötét bőrtónus | törvény</annotation>
 		<annotation cp="👨🏿‍⚖" type="tts">bíró: sötét bőrtónus</annotation>
-		<annotation cp="👩🏻‍⚖">bíró, igazság, mérleg, nő | bírónő | foglalkozás | ítél | világos bőrtónus</annotation>
+		<annotation cp="👩🏻‍⚖">bíró | igazság | mérleg | nő | törvény | világos bőrtónus</annotation>
 		<annotation cp="👩🏻‍⚖" type="tts">bírónő: világos bőrtónus</annotation>
-		<annotation cp="👩🏼‍⚖">bíró, igazság, mérleg, nő | bírónő | foglalkozás | ítél | közepesen világos bőrtónus</annotation>
+		<annotation cp="👩🏼‍⚖">bíró | igazság | közepesen világos bőrtónus | mérleg | nő | törvény</annotation>
 		<annotation cp="👩🏼‍⚖" type="tts">bírónő: közepesen világos bőrtónus</annotation>
-		<annotation cp="👩🏽‍⚖">bíró, igazság, mérleg, nő | bírónő | foglalkozás | ítél | közepes bőrtónus</annotation>
+		<annotation cp="👩🏽‍⚖">bíró | igazság | közepes bőrtónus | mérleg | nő | törvény</annotation>
 		<annotation cp="👩🏽‍⚖" type="tts">bírónő: közepes bőrtónus</annotation>
-		<annotation cp="👩🏾‍⚖">bíró, igazság, mérleg, nő | bírónő | foglalkozás | ítél | közepesen sötét bőrtónus</annotation>
+		<annotation cp="👩🏾‍⚖">bíró | igazság | közepesen sötét bőrtónus | mérleg | nő | törvény</annotation>
 		<annotation cp="👩🏾‍⚖" type="tts">bírónő: közepesen sötét bőrtónus</annotation>
-		<annotation cp="👩🏿‍⚖">bíró, igazság, mérleg, nő | bírónő | foglalkozás | ítél | sötét bőrtónus</annotation>
+		<annotation cp="👩🏿‍⚖">bíró | igazság | mérleg | nő | sötét bőrtónus | törvény</annotation>
 		<annotation cp="👩🏿‍⚖" type="tts">bírónő: sötét bőrtónus</annotation>
 		<annotation cp="🧑🏻‍🌾">földműves | gazda | gazda / női gazda | növénytermesztő | világos bőrtónus</annotation>
 		<annotation cp="🧑🏻‍🌾" type="tts">gazda / női gazda: világos bőrtónus</annotation>
@@ -2387,15 +2637,15 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🎄" type="tts">télapó: közepesen sötét bőrtónus</annotation>
 		<annotation cp="🧑🏿‍🎄">ember | karácsony | mikulás | Mikulás | sapka | sötét bőrtónus | télapó | ünnepek</annotation>
 		<annotation cp="🧑🏿‍🎄" type="tts">télapó: sötét bőrtónus</annotation>
-		<annotation cp="🦸🏻">batman | ember | hős | hősnő | jó | superman | szupererő | szuperhős | szuperképesség | világos bőrtónus</annotation>
+		<annotation cp="🦸🏻">hős | jó | szupererő | szuperhős | szuperképesség | világos bőrtónus</annotation>
 		<annotation cp="🦸🏻" type="tts">szuperhős: világos bőrtónus</annotation>
-		<annotation cp="🦸🏼">batman | ember | hős | hősnő | jó | közepesen világos bőrtónus | superman | szupererő | szuperhős | szuperképesség</annotation>
+		<annotation cp="🦸🏼">hős | jó | közepesen világos bőrtónus | szupererő | szuperhős | szuperképesség</annotation>
 		<annotation cp="🦸🏼" type="tts">szuperhős: közepesen világos bőrtónus</annotation>
-		<annotation cp="🦸🏽">batman | ember | hős | hősnő | jó | közepes bőrtónus | superman | szupererő | szuperhős | szuperképesség</annotation>
+		<annotation cp="🦸🏽">hős | jó | közepes bőrtónus | szupererő | szuperhős | szuperképesség</annotation>
 		<annotation cp="🦸🏽" type="tts">szuperhős: közepes bőrtónus</annotation>
-		<annotation cp="🦸🏾">batman | ember | hős | hősnő | jó | közepesen sötét bőrtónus | superman | szupererő | szuperhős | szuperképesség</annotation>
+		<annotation cp="🦸🏾">hős | jó | közepesen sötét bőrtónus | szupererő | szuperhős | szuperképesség</annotation>
 		<annotation cp="🦸🏾" type="tts">szuperhős: közepesen sötét bőrtónus</annotation>
-		<annotation cp="🦸🏿">batman | ember | hős | hősnő | jó | sötét bőrtónus | superman | szupererő | szuperhős | szuperképesség</annotation>
+		<annotation cp="🦸🏿">hős | jó | sötét bőrtónus | szupererő | szuperhős | szuperképesség</annotation>
 		<annotation cp="🦸🏿" type="tts">szuperhős: sötét bőrtónus</annotation>
 		<annotation cp="🦸🏻‍♂">férfi | férfi szuperhős | hős | hősnő | jó | szuperképesség | világos bőrtónus</annotation>
 		<annotation cp="🦸🏻‍♂" type="tts">férfi szuperhős: világos bőrtónus</annotation>
@@ -2687,42 +2937,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🚶🏾‍♀" type="tts">sétáló nő: közepesen sötét bőrtónus</annotation>
 		<annotation cp="🚶🏿‍♀">gyalog | gyalogol | gyalogos | megy | nő | séta | sétáló | sötét bőrtónus | túra</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">sétáló nő: sötét bőrtónus</annotation>
-		<annotation cp="🚶‍➡">férfi | gyaloglás | gyalogos | séta | sétáló | túra</annotation>
-		<annotation cp="🚶‍➡" type="tts">jobbra néző gyalogos</annotation>
-		<annotation cp="🚶🏻‍➡">férfi | gyaloglás | gyalogos | séta | sétáló | túra</annotation>
-		<annotation cp="🚶🏻‍➡" type="tts">jobbra néző gyalogos</annotation>
-		<annotation cp="🚶🏼‍➡">férfi | gyaloglás | gyalogos | séta | sétáló | túra</annotation>
-		<annotation cp="🚶🏼‍➡" type="tts">jobbra néző gyalogos</annotation>
-		<annotation cp="🚶🏽‍➡">férfi | gyaloglás | gyalogos | séta | sétáló | túra</annotation>
-		<annotation cp="🚶🏽‍➡" type="tts">jobbra néző gyalogos</annotation>
-		<annotation cp="🚶🏾‍➡">férfi | gyaloglás | gyalogos | séta | sétáló | túra</annotation>
-		<annotation cp="🚶🏾‍➡" type="tts">jobbra néző gyalogos</annotation>
-		<annotation cp="🚶🏿‍➡">férfi | gyaloglás | gyalogos | séta | sétáló | túra</annotation>
-		<annotation cp="🚶🏿‍➡" type="tts">jobbra néző gyalogos</annotation>
-		<annotation cp="🚶‍♀‍➡">gyalog | gyalogol | gyalogos | megy | nő | séta | sétáló | túra</annotation>
-		<annotation cp="🚶‍♀‍➡" type="tts">jobbra néző sétáló nő</annotation>
-		<annotation cp="🚶🏻‍♀‍➡">gyalog | gyalogol | gyalogos | megy | nő | séta | sétáló | túra</annotation>
-		<annotation cp="🚶🏻‍♀‍➡" type="tts">jobbra néző sétáló nő</annotation>
-		<annotation cp="🚶🏼‍♀‍➡">gyalog | gyalogol | gyalogos | megy | nő | séta | sétáló | túra</annotation>
-		<annotation cp="🚶🏼‍♀‍➡" type="tts">jobbra néző sétáló nő</annotation>
-		<annotation cp="🚶🏽‍♀‍➡">gyalog | gyalogol | gyalogos | megy | nő | séta | sétáló | túra</annotation>
-		<annotation cp="🚶🏽‍♀‍➡" type="tts">jobbra néző sétáló nő</annotation>
-		<annotation cp="🚶🏾‍♀‍➡">gyalog | gyalogol | gyalogos | megy | nő | séta | sétáló | túra</annotation>
-		<annotation cp="🚶🏾‍♀‍➡" type="tts">jobbra néző sétáló nő</annotation>
-		<annotation cp="🚶🏿‍♀‍➡">gyalog | gyalogol | gyalogos | megy | nő | séta | sétáló | túra</annotation>
-		<annotation cp="🚶🏿‍♀‍➡" type="tts">jobbra néző sétáló nő</annotation>
-		<annotation cp="🚶‍♂‍➡">férfi | séta | sétáló | túra</annotation>
-		<annotation cp="🚶‍♂‍➡" type="tts">jobbra néző sétáló férfi</annotation>
-		<annotation cp="🚶🏻‍♂‍➡">férfi | séta | sétáló | túra</annotation>
-		<annotation cp="🚶🏻‍♂‍➡" type="tts">jobbra néző sétáló férfi</annotation>
-		<annotation cp="🚶🏼‍♂‍➡">férfi | séta | sétáló | túra</annotation>
-		<annotation cp="🚶🏼‍♂‍➡" type="tts">jobbra néző sétáló férfi</annotation>
-		<annotation cp="🚶🏽‍♂‍➡">férfi | séta | sétáló | túra</annotation>
-		<annotation cp="🚶🏽‍♂‍➡" type="tts">jobbra néző sétáló férfi</annotation>
-		<annotation cp="🚶🏾‍♂‍➡">férfi | séta | sétáló | túra</annotation>
-		<annotation cp="🚶🏾‍♂‍➡" type="tts">jobbra néző sétáló férfi</annotation>
-		<annotation cp="🚶🏿‍♂‍➡">férfi | séta | sétáló | túra</annotation>
-		<annotation cp="🚶🏿‍♂‍➡" type="tts">jobbra néző sétáló férfi</annotation>
+		<annotation cp="🚶‍➡">férfi | gyaloglás | gyalogos | jobbra | néző | séta | sétáló | túra</annotation>
+		<annotation cp="🚶‍➡" type="tts">gyalogos: jobbra néző</annotation>
+		<annotation cp="🚶🏻‍➡">férfi | gyaloglás | gyalogos | jobbra | néző | séta | sétáló | túra | világos bőrtónus</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">gyalogos: világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🚶🏼‍➡">férfi | gyaloglás | gyalogos | jobbra | közepesen világos bőrtónus | néző | séta | sétáló | túra</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">gyalogos: közepesen világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🚶🏽‍➡">férfi | gyaloglás | gyalogos | jobbra | közepes bőrtónus | néző | séta | sétáló | túra</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">gyalogos: közepes bőrtónus és jobbra néző</annotation>
+		<annotation cp="🚶🏾‍➡">férfi | gyaloglás | gyalogos | jobbra | közepesen sötét bőrtónus | néző | séta | sétáló | túra</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">gyalogos: közepesen sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="🚶🏿‍➡">férfi | gyaloglás | gyalogos | jobbra | néző | séta | sétáló | sötét bőrtónus | túra</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">gyalogos: sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="🚶‍♀‍➡">gyalog | gyalogol | gyalogos | jobbra | megy | néző | nő | séta | sétáló | túra</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">sétáló nő: jobbra néző</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">gyalog | gyalogol | gyalogos | jobbra | megy | néző | nő | séta | sétáló | túra | világos bőrtónus</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">sétáló nő: világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">gyalog | gyalogol | gyalogos | jobbra | közepesen világos bőrtónus | megy | néző | nő | séta | sétáló | túra</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">sétáló nő: közepesen világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">gyalog | gyalogol | gyalogos | jobbra | közepes bőrtónus | megy | néző | nő | séta | sétáló | túra</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">sétáló nő: közepes bőrtónus és jobbra néző</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">gyalog | gyalogol | gyalogos | jobbra | közepesen sötét bőrtónus | megy | néző | nő | séta | sétáló | túra</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">sétáló nő: közepesen sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">gyalog | gyalogol | gyalogos | jobbra | megy | néző | nő | séta | sétáló | sötét bőrtónus | túra</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">sétáló nő: sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="🚶‍♂‍➡">férfi | jobbra | néző | séta | sétáló | túra</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">sétáló férfi: jobbra néző</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">férfi | jobbra | néző | séta | sétáló | túra | világos bőrtónus</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">sétáló férfi: világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">férfi | jobbra | közepesen világos bőrtónus | néző | séta | sétáló | túra</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">sétáló férfi: közepesen világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">férfi | jobbra | közepes bőrtónus | néző | séta | sétáló | túra</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">sétáló férfi: közepes bőrtónus és jobbra néző</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">férfi | jobbra | közepesen sötét bőrtónus | néző | séta | sétáló | túra</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">sétáló férfi: közepesen sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">férfi | jobbra | néző | séta | sétáló | sötét bőrtónus | túra</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">sétáló férfi: sötét bőrtónus és jobbra néző</annotation>
 		<annotation cp="🧍🏻">áll | álló | álló ember | világos bőrtónus</annotation>
 		<annotation cp="🧍🏻" type="tts">álló ember: világos bőrtónus</annotation>
 		<annotation cp="🧍🏼">áll | álló | álló ember | közepesen világos bőrtónus</annotation>
@@ -2783,42 +3033,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧎🏾‍♀" type="tts">térdelő nő: közepesen sötét bőrtónus</annotation>
 		<annotation cp="🧎🏿‍♀">nő | sötét bőrtónus | térdel | térdelő nő</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">térdelő nő: sötét bőrtónus</annotation>
-		<annotation cp="🧎‍➡">térdel | térdelő | térdelő ember</annotation>
-		<annotation cp="🧎‍➡" type="tts">jobbra néző térdelő ember</annotation>
-		<annotation cp="🧎🏻‍➡">térdel | térdelő | térdelő ember</annotation>
-		<annotation cp="🧎🏻‍➡" type="tts">jobbra néző térdelő ember</annotation>
-		<annotation cp="🧎🏼‍➡">térdel | térdelő | térdelő ember</annotation>
-		<annotation cp="🧎🏼‍➡" type="tts">jobbra néző térdelő ember</annotation>
-		<annotation cp="🧎🏽‍➡">térdel | térdelő | térdelő ember</annotation>
-		<annotation cp="🧎🏽‍➡" type="tts">jobbra néző térdelő ember</annotation>
-		<annotation cp="🧎🏾‍➡">térdel | térdelő | térdelő ember</annotation>
-		<annotation cp="🧎🏾‍➡" type="tts">jobbra néző térdelő ember</annotation>
-		<annotation cp="🧎🏿‍➡">térdel | térdelő | térdelő ember</annotation>
-		<annotation cp="🧎🏿‍➡" type="tts">jobbra néző térdelő ember</annotation>
-		<annotation cp="🧎‍♀‍➡">nő | térdel | térdelő nő</annotation>
-		<annotation cp="🧎‍♀‍➡" type="tts">jobbra néző térdelő nő</annotation>
-		<annotation cp="🧎🏻‍♀‍➡">nő | térdel | térdelő nő</annotation>
-		<annotation cp="🧎🏻‍♀‍➡" type="tts">jobbra néző térdelő nő</annotation>
-		<annotation cp="🧎🏼‍♀‍➡">nő | térdel | térdelő nő</annotation>
-		<annotation cp="🧎🏼‍♀‍➡" type="tts">jobbra néző térdelő nő</annotation>
-		<annotation cp="🧎🏽‍♀‍➡">nő | térdel | térdelő nő</annotation>
-		<annotation cp="🧎🏽‍♀‍➡" type="tts">jobbra néző térdelő nő</annotation>
-		<annotation cp="🧎🏾‍♀‍➡">nő | térdel | térdelő nő</annotation>
-		<annotation cp="🧎🏾‍♀‍➡" type="tts">jobbra néző térdelő nő</annotation>
-		<annotation cp="🧎🏿‍♀‍➡">nő | térdel | térdelő nő</annotation>
-		<annotation cp="🧎🏿‍♀‍➡" type="tts">jobbra néző térdelő nő</annotation>
-		<annotation cp="🧎‍♂‍➡">férfi | térdel | térdelő férfi</annotation>
-		<annotation cp="🧎‍♂‍➡" type="tts">jobbra néző térdelő férfi</annotation>
-		<annotation cp="🧎🏻‍♂‍➡">férfi | térdel | térdelő férfi</annotation>
-		<annotation cp="🧎🏻‍♂‍➡" type="tts">jobbra néző térdelő férfi</annotation>
-		<annotation cp="🧎🏼‍♂‍➡">férfi | térdel | térdelő férfi</annotation>
-		<annotation cp="🧎🏼‍♂‍➡" type="tts">jobbra néző térdelő férfi</annotation>
-		<annotation cp="🧎🏽‍♂‍➡">férfi | térdel | térdelő férfi</annotation>
-		<annotation cp="🧎🏽‍♂‍➡" type="tts">jobbra néző térdelő férfi</annotation>
-		<annotation cp="🧎🏾‍♂‍➡">férfi | térdel | térdelő férfi</annotation>
-		<annotation cp="🧎🏾‍♂‍➡" type="tts">jobbra néző térdelő férfi</annotation>
-		<annotation cp="🧎🏿‍♂‍➡">férfi | térdel | térdelő férfi</annotation>
-		<annotation cp="🧎🏿‍♂‍➡" type="tts">jobbra néző térdelő férfi</annotation>
+		<annotation cp="🧎‍➡">jobbra | néző | térdel | térdelő | térdelő ember</annotation>
+		<annotation cp="🧎‍➡" type="tts">térdelő ember: jobbra néző</annotation>
+		<annotation cp="🧎🏻‍➡">jobbra | néző | térdel | térdelő | térdelő ember | világos bőrtónus</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">térdelő ember: világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧎🏼‍➡">jobbra | közepesen világos bőrtónus | néző | térdel | térdelő | térdelő ember</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">térdelő ember: közepesen világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧎🏽‍➡">jobbra | közepes bőrtónus | néző | térdel | térdelő | térdelő ember</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">térdelő ember: közepes bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧎🏾‍➡">jobbra | közepesen sötét bőrtónus | néző | térdel | térdelő | térdelő ember</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">térdelő ember: közepesen sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧎🏿‍➡">jobbra | néző | sötét bőrtónus | térdel | térdelő | térdelő ember</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">térdelő ember: sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧎‍♀‍➡">jobbra | néző | nő | térdel | térdelő nő</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">térdelő nő: jobbra néző</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">jobbra | néző | nő | térdel | térdelő nő | világos bőrtónus</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">térdelő nő: világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">jobbra | közepesen világos bőrtónus | néző | nő | térdel | térdelő nő</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">térdelő nő: közepesen világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">jobbra | közepes bőrtónus | néző | nő | térdel | térdelő nő</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">térdelő nő: közepes bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">jobbra | közepesen sötét bőrtónus | néző | nő | térdel | térdelő nő</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">térdelő nő: közepesen sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">jobbra | néző | nő | sötét bőrtónus | térdel | térdelő nő</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">térdelő nő: sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧎‍♂‍➡">férfi | jobbra | néző | térdel | térdelő férfi</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">térdelő férfi: jobbra néző</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">férfi | jobbra | néző | térdel | térdelő férfi | világos bőrtónus</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">térdelő férfi: világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">férfi | jobbra | közepesen világos bőrtónus | néző | térdel | térdelő férfi</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">térdelő férfi: közepesen világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">férfi | jobbra | közepes bőrtónus | néző | térdel | térdelő férfi</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">térdelő férfi: közepes bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">férfi | jobbra | közepesen sötét bőrtónus | néző | térdel | térdelő férfi</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">térdelő férfi: közepesen sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">férfi | jobbra | néző | sötét bőrtónus | térdel | térdelő férfi</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">térdelő férfi: sötét bőrtónus és jobbra néző</annotation>
 		<annotation cp="🧑🏻‍🦯">akadálymentesség | ember fehér bottal | vak | világos bőrtónus</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">ember fehér bottal: világos bőrtónus</annotation>
 		<annotation cp="🧑🏼‍🦯">akadálymentesség | ember fehér bottal | közepesen világos bőrtónus | vak</annotation>
@@ -2829,18 +3079,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦯" type="tts">ember fehér bottal: közepesen sötét bőrtónus</annotation>
 		<annotation cp="🧑🏿‍🦯">akadálymentesség | ember fehér bottal | sötét bőrtónus | vak</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">ember fehér bottal: sötét bőrtónus</annotation>
-		<annotation cp="🧑‍🦯‍➡">akadálymentesség | ember fehér bottal | vak</annotation>
-		<annotation cp="🧑‍🦯‍➡" type="tts">jobbra néző ember fehér bottal</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡">akadálymentesség | ember fehér bottal | vak</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡" type="tts">jobbra néző ember fehér bottal</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡">akadálymentesség | ember fehér bottal | vak</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡" type="tts">jobbra néző ember fehér bottal</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡">akadálymentesség | ember fehér bottal | vak</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡" type="tts">jobbra néző ember fehér bottal</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡">akadálymentesség | ember fehér bottal | vak</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡" type="tts">jobbra néző ember fehér bottal</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡">akadálymentesség | ember fehér bottal | vak</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡" type="tts">jobbra néző ember fehér bottal</annotation>
+		<annotation cp="🧑‍🦯‍➡">akadálymentesség | ember fehér bottal | jobbra | néző | vak</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">ember fehér bottal: jobbra néző</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">akadálymentesség | ember fehér bottal | jobbra | néző | vak | világos bőrtónus</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">ember fehér bottal: világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">akadálymentesség | ember fehér bottal | jobbra | közepesen világos bőrtónus | néző | vak</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">ember fehér bottal: közepesen világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">akadálymentesség | ember fehér bottal | jobbra | közepes bőrtónus | néző | vak</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">ember fehér bottal: közepes bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">akadálymentesség | ember fehér bottal | jobbra | közepesen sötét bőrtónus | néző | vak</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">ember fehér bottal: közepesen sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">akadálymentesség | ember fehér bottal | jobbra | néző | sötét bőrtónus | vak</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">ember fehér bottal: sötét bőrtónus és jobbra néző</annotation>
 		<annotation cp="👨🏻‍🦯">akadálymentesség | férfi | férfi fehér bottal | látássérült | vak | világos bőrtónus</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">férfi fehér bottal: világos bőrtónus</annotation>
 		<annotation cp="👨🏼‍🦯">akadálymentesség | férfi | férfi fehér bottal | közepesen világos bőrtónus | látássérült | vak</annotation>
@@ -2851,18 +3101,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦯" type="tts">férfi fehér bottal: közepesen sötét bőrtónus</annotation>
 		<annotation cp="👨🏿‍🦯">akadálymentesség | férfi | férfi fehér bottal | látássérült | sötét bőrtónus | vak</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">férfi fehér bottal: sötét bőrtónus</annotation>
-		<annotation cp="👨‍🦯‍➡">akadálymentesség | férfi | férfi fehér bottal | látássérült | vak</annotation>
-		<annotation cp="👨‍🦯‍➡" type="tts">jobbra néző férfi fehér bottal</annotation>
-		<annotation cp="👨🏻‍🦯‍➡">akadálymentesség | férfi | férfi fehér bottal | látássérült | vak</annotation>
-		<annotation cp="👨🏻‍🦯‍➡" type="tts">jobbra néző férfi fehér bottal</annotation>
-		<annotation cp="👨🏼‍🦯‍➡">akadálymentesség | férfi | férfi fehér bottal | látássérült | vak</annotation>
-		<annotation cp="👨🏼‍🦯‍➡" type="tts">jobbra néző férfi fehér bottal</annotation>
-		<annotation cp="👨🏽‍🦯‍➡">akadálymentesség | férfi | férfi fehér bottal | látássérült | vak</annotation>
-		<annotation cp="👨🏽‍🦯‍➡" type="tts">jobbra néző férfi fehér bottal</annotation>
-		<annotation cp="👨🏾‍🦯‍➡">akadálymentesség | férfi | férfi fehér bottal | látássérült | vak</annotation>
-		<annotation cp="👨🏾‍🦯‍➡" type="tts">jobbra néző férfi fehér bottal</annotation>
-		<annotation cp="👨🏿‍🦯‍➡">akadálymentesség | férfi | férfi fehér bottal | látássérült | vak</annotation>
-		<annotation cp="👨🏿‍🦯‍➡" type="tts">jobbra néző férfi fehér bottal</annotation>
+		<annotation cp="👨‍🦯‍➡">akadálymentesség | férfi | férfi fehér bottal | jobbra | látássérült | néző | vak</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">férfi fehér bottal: jobbra néző</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">akadálymentesség | férfi | férfi fehér bottal | jobbra | látássérült | néző | vak | világos bőrtónus</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">férfi fehér bottal: világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">akadálymentesség | férfi | férfi fehér bottal | jobbra | közepesen világos bőrtónus | látássérült | néző | vak</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">férfi fehér bottal: közepesen világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">akadálymentesség | férfi | férfi fehér bottal | jobbra | közepes bőrtónus | látássérült | néző | vak</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">férfi fehér bottal: közepes bőrtónus és jobbra néző</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">akadálymentesség | férfi | férfi fehér bottal | jobbra | közepesen sötét bőrtónus | látássérült | néző | vak</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">férfi fehér bottal: közepesen sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">akadálymentesség | férfi | férfi fehér bottal | jobbra | látássérült | néző | sötét bőrtónus | vak</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">férfi fehér bottal: sötét bőrtónus és jobbra néző</annotation>
 		<annotation cp="👩🏻‍🦯">akadálymentesség | nő | nő fehér bottal | vak | világos bőrtónus</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">nő fehér bottal: világos bőrtónus</annotation>
 		<annotation cp="👩🏼‍🦯">akadálymentesség | közepesen világos bőrtónus | nő | nő fehér bottal | vak</annotation>
@@ -2873,18 +3123,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦯" type="tts">nő fehér bottal: közepesen sötét bőrtónus</annotation>
 		<annotation cp="👩🏿‍🦯">akadálymentesség | nő | nő fehér bottal | sötét bőrtónus | vak</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">nő fehér bottal: sötét bőrtónus</annotation>
-		<annotation cp="👩‍🦯‍➡">akadálymentesség | nő | nő fehér bottal | vak</annotation>
-		<annotation cp="👩‍🦯‍➡" type="tts">jobbra néző nő fehér bottal</annotation>
-		<annotation cp="👩🏻‍🦯‍➡">akadálymentesség | nő | nő fehér bottal | vak</annotation>
-		<annotation cp="👩🏻‍🦯‍➡" type="tts">jobbra néző nő fehér bottal</annotation>
-		<annotation cp="👩🏼‍🦯‍➡">akadálymentesség | nő | nő fehér bottal | vak</annotation>
-		<annotation cp="👩🏼‍🦯‍➡" type="tts">jobbra néző nő fehér bottal</annotation>
-		<annotation cp="👩🏽‍🦯‍➡">akadálymentesség | nő | nő fehér bottal | vak</annotation>
-		<annotation cp="👩🏽‍🦯‍➡" type="tts">jobbra néző nő fehér bottal</annotation>
-		<annotation cp="👩🏾‍🦯‍➡">akadálymentesség | nő | nő fehér bottal | vak</annotation>
-		<annotation cp="👩🏾‍🦯‍➡" type="tts">jobbra néző nő fehér bottal</annotation>
-		<annotation cp="👩🏿‍🦯‍➡">akadálymentesség | nő | nő fehér bottal | vak</annotation>
-		<annotation cp="👩🏿‍🦯‍➡" type="tts">jobbra néző nő fehér bottal</annotation>
+		<annotation cp="👩‍🦯‍➡">akadálymentesség | jobbra | néző | nő | nő fehér bottal | vak</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">nő fehér bottal: jobbra néző</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">akadálymentesség | jobbra | néző | nő | nő fehér bottal | vak | világos bőrtónus</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">nő fehér bottal: világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">akadálymentesség | jobbra | közepesen világos bőrtónus | néző | nő | nő fehér bottal | vak</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">nő fehér bottal: közepesen világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">akadálymentesség | jobbra | közepes bőrtónus | néző | nő | nő fehér bottal | vak</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">nő fehér bottal: közepes bőrtónus és jobbra néző</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">akadálymentesség | jobbra | közepesen sötét bőrtónus | néző | nő | nő fehér bottal | vak</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">nő fehér bottal: közepesen sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">akadálymentesség | jobbra | néző | nő | nő fehér bottal | sötét bőrtónus | vak</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">nő fehér bottal: sötét bőrtónus és jobbra néző</annotation>
 		<annotation cp="🧑🏻‍🦼">akadálymentesség | ember motoros kerekesszékben | kerekesszék | világos bőrtónus</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">ember motoros kerekesszékben: világos bőrtónus</annotation>
 		<annotation cp="🧑🏼‍🦼">akadálymentesség | ember motoros kerekesszékben | kerekesszék | közepesen világos bőrtónus</annotation>
@@ -2895,18 +3145,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦼" type="tts">ember motoros kerekesszékben: közepesen sötét bőrtónus</annotation>
 		<annotation cp="🧑🏿‍🦼">akadálymentesség | ember motoros kerekesszékben | kerekesszék | sötét bőrtónus</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">ember motoros kerekesszékben: sötét bőrtónus</annotation>
-		<annotation cp="🧑‍🦼‍➡">akadálymentesség | ember motoros kerekesszékben | kerekesszék</annotation>
-		<annotation cp="🧑‍🦼‍➡" type="tts">jobbra néző ember motoros kerekesszékben</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡">akadálymentesség | ember motoros kerekesszékben | kerekesszék</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡" type="tts">jobbra néző ember motoros kerekesszékben</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡">akadálymentesség | ember motoros kerekesszékben | kerekesszék</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡" type="tts">jobbra néző ember motoros kerekesszékben</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡">akadálymentesség | ember motoros kerekesszékben | kerekesszék</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡" type="tts">jobbra néző ember motoros kerekesszékben</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡">akadálymentesség | ember motoros kerekesszékben | kerekesszék</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡" type="tts">jobbra néző ember motoros kerekesszékben</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡">akadálymentesség | ember motoros kerekesszékben | kerekesszék</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡" type="tts">jobbra néző ember motoros kerekesszékben</annotation>
+		<annotation cp="🧑‍🦼‍➡">akadálymentesség | ember motoros kerekesszékben | jobbra | kerekesszék | néző</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">ember motoros kerekesszékben: jobbra néző</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">akadálymentesség | ember motoros kerekesszékben | jobbra | kerekesszék | néző | világos bőrtónus</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">ember motoros kerekesszékben: világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">akadálymentesség | ember motoros kerekesszékben | jobbra | kerekesszék | közepesen világos bőrtónus | néző</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">ember motoros kerekesszékben: közepesen világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">akadálymentesség | ember motoros kerekesszékben | jobbra | kerekesszék | közepes bőrtónus | néző</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">ember motoros kerekesszékben: közepes bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">akadálymentesség | ember motoros kerekesszékben | jobbra | kerekesszék | közepesen sötét bőrtónus | néző</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">ember motoros kerekesszékben: közepesen sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">akadálymentesség | ember motoros kerekesszékben | jobbra | kerekesszék | néző | sötét bőrtónus</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">ember motoros kerekesszékben: sötét bőrtónus és jobbra néző</annotation>
 		<annotation cp="👨🏻‍🦼">akadálymentesség | férfi | férfi motoros kerekesszékben | kerekesszék | mozgáskorlátozott | tolószék | világos bőrtónus</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">férfi motoros kerekesszékben: világos bőrtónus</annotation>
 		<annotation cp="👨🏼‍🦼">akadálymentesség | férfi | férfi motoros kerekesszékben | kerekesszék | közepesen világos bőrtónus | mozgáskorlátozott | tolószék</annotation>
@@ -2917,18 +3167,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦼" type="tts">férfi motoros kerekesszékben: közepesen sötét bőrtónus</annotation>
 		<annotation cp="👨🏿‍🦼">akadálymentesség | férfi | férfi motoros kerekesszékben | kerekesszék | mozgáskorlátozott | sötét bőrtónus | tolószék</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">férfi motoros kerekesszékben: sötét bőrtónus</annotation>
-		<annotation cp="👨‍🦼‍➡">akadálymentesség | férfi | férfi motoros kerekesszékben | kerekesszék | mozgáskorlátozott | tolószék</annotation>
-		<annotation cp="👨‍🦼‍➡" type="tts">jobbra néző férfi motoros kerekesszékben</annotation>
-		<annotation cp="👨🏻‍🦼‍➡">akadálymentesség | férfi | férfi motoros kerekesszékben | kerekesszék | mozgáskorlátozott | tolószék</annotation>
-		<annotation cp="👨🏻‍🦼‍➡" type="tts">jobbra néző férfi motoros kerekesszékben</annotation>
-		<annotation cp="👨🏼‍🦼‍➡">akadálymentesség | férfi | férfi motoros kerekesszékben | kerekesszék | mozgáskorlátozott | tolószék</annotation>
-		<annotation cp="👨🏼‍🦼‍➡" type="tts">jobbra néző férfi motoros kerekesszékben</annotation>
-		<annotation cp="👨🏽‍🦼‍➡">akadálymentesség | férfi | férfi motoros kerekesszékben | kerekesszék | mozgáskorlátozott | tolószék</annotation>
-		<annotation cp="👨🏽‍🦼‍➡" type="tts">jobbra néző férfi motoros kerekesszékben</annotation>
-		<annotation cp="👨🏾‍🦼‍➡">akadálymentesség | férfi | férfi motoros kerekesszékben | kerekesszék | mozgáskorlátozott | tolószék</annotation>
-		<annotation cp="👨🏾‍🦼‍➡" type="tts">jobbra néző férfi motoros kerekesszékben</annotation>
-		<annotation cp="👨🏿‍🦼‍➡">akadálymentesség | férfi | férfi motoros kerekesszékben | kerekesszék | mozgáskorlátozott | tolószék</annotation>
-		<annotation cp="👨🏿‍🦼‍➡" type="tts">jobbra néző férfi motoros kerekesszékben</annotation>
+		<annotation cp="👨‍🦼‍➡">akadálymentesség | férfi | férfi motoros kerekesszékben | jobbra | kerekesszék | mozgáskorlátozott | néző | tolószék</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">férfi motoros kerekesszékben: jobbra néző</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">akadálymentesség | férfi | férfi motoros kerekesszékben | jobbra | kerekesszék | mozgáskorlátozott | néző | tolószék | világos bőrtónus</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">férfi motoros kerekesszékben: világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">akadálymentesség | férfi | férfi motoros kerekesszékben | jobbra | kerekesszék | közepesen világos bőrtónus | mozgáskorlátozott | néző | tolószék</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">férfi motoros kerekesszékben: közepesen világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">akadálymentesség | férfi | férfi motoros kerekesszékben | jobbra | kerekesszék | közepes bőrtónus | mozgáskorlátozott | néző | tolószék</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">férfi motoros kerekesszékben: közepes bőrtónus és jobbra néző</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">akadálymentesség | férfi | férfi motoros kerekesszékben | jobbra | kerekesszék | közepesen sötét bőrtónus | mozgáskorlátozott | néző | tolószék</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">férfi motoros kerekesszékben: közepesen sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">akadálymentesség | férfi | férfi motoros kerekesszékben | jobbra | kerekesszék | mozgáskorlátozott | néző | sötét bőrtónus | tolószék</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">férfi motoros kerekesszékben: sötét bőrtónus és jobbra néző</annotation>
 		<annotation cp="👩🏻‍🦼">akadálymentesség | kerekesszék | mozgáskorlátozott | nő | nő motoros kerekesszékben | tolószék | világos bőrtónus</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">nő motoros kerekesszékben: világos bőrtónus</annotation>
 		<annotation cp="👩🏼‍🦼">akadálymentesség | kerekesszék | közepesen világos bőrtónus | mozgáskorlátozott | nő | nő motoros kerekesszékben | tolószék</annotation>
@@ -2939,18 +3189,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦼" type="tts">nő motoros kerekesszékben: közepesen sötét bőrtónus</annotation>
 		<annotation cp="👩🏿‍🦼">akadálymentesség | kerekesszék | mozgáskorlátozott | nő | nő motoros kerekesszékben | sötét bőrtónus | tolószék</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">nő motoros kerekesszékben: sötét bőrtónus</annotation>
-		<annotation cp="👩‍🦼‍➡">akadálymentesség | kerekesszék | mozgáskorlátozott | nő | nő motoros kerekesszékben | tolószék</annotation>
-		<annotation cp="👩‍🦼‍➡" type="tts">jobbra néző nő motoros kerekesszékben</annotation>
-		<annotation cp="👩🏻‍🦼‍➡">akadálymentesség | kerekesszék | mozgáskorlátozott | nő | nő motoros kerekesszékben | tolószék</annotation>
-		<annotation cp="👩🏻‍🦼‍➡" type="tts">jobbra néző nő motoros kerekesszékben</annotation>
-		<annotation cp="👩🏼‍🦼‍➡">akadálymentesség | kerekesszék | mozgáskorlátozott | nő | nő motoros kerekesszékben | tolószék</annotation>
-		<annotation cp="👩🏼‍🦼‍➡" type="tts">jobbra néző nő motoros kerekesszékben</annotation>
-		<annotation cp="👩🏽‍🦼‍➡">akadálymentesség | kerekesszék | mozgáskorlátozott | nő | nő motoros kerekesszékben | tolószék</annotation>
-		<annotation cp="👩🏽‍🦼‍➡" type="tts">jobbra néző nő motoros kerekesszékben</annotation>
-		<annotation cp="👩🏾‍🦼‍➡">akadálymentesség | kerekesszék | mozgáskorlátozott | nő | nő motoros kerekesszékben | tolószék</annotation>
-		<annotation cp="👩🏾‍🦼‍➡" type="tts">jobbra néző nő motoros kerekesszékben</annotation>
-		<annotation cp="👩🏿‍🦼‍➡">akadálymentesség | kerekesszék | mozgáskorlátozott | nő | nő motoros kerekesszékben | tolószék</annotation>
-		<annotation cp="👩🏿‍🦼‍➡" type="tts">jobbra néző nő motoros kerekesszékben</annotation>
+		<annotation cp="👩‍🦼‍➡">akadálymentesség | jobbra | kerekesszék | mozgáskorlátozott | néző | nő | nő motoros kerekesszékben | tolószék</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">nő motoros kerekesszékben: jobbra néző</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">akadálymentesség | jobbra | kerekesszék | mozgáskorlátozott | néző | nő | nő motoros kerekesszékben | tolószék | világos bőrtónus</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">nő motoros kerekesszékben: világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">akadálymentesség | jobbra | kerekesszék | közepesen világos bőrtónus | mozgáskorlátozott | néző | nő | nő motoros kerekesszékben | tolószék</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">nő motoros kerekesszékben: közepesen világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">akadálymentesség | jobbra | kerekesszék | közepes bőrtónus | mozgáskorlátozott | néző | nő | nő motoros kerekesszékben | tolószék</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">nő motoros kerekesszékben: közepes bőrtónus és jobbra néző</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">akadálymentesség | jobbra | kerekesszék | közepesen sötét bőrtónus | mozgáskorlátozott | néző | nő | nő motoros kerekesszékben | tolószék</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">nő motoros kerekesszékben: közepesen sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">akadálymentesség | jobbra | kerekesszék | mozgáskorlátozott | néző | nő | nő motoros kerekesszékben | sötét bőrtónus | tolószék</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">nő motoros kerekesszékben: sötét bőrtónus és jobbra néző</annotation>
 		<annotation cp="🧑🏻‍🦽">akadálymentesség | kerekesszék | kerekesszékes ember | világos bőrtónus</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">kerekesszékes ember: világos bőrtónus</annotation>
 		<annotation cp="🧑🏼‍🦽">akadálymentesség | kerekesszék | kerekesszékes ember | közepesen világos bőrtónus</annotation>
@@ -2961,18 +3211,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦽" type="tts">kerekesszékes ember: közepesen sötét bőrtónus</annotation>
 		<annotation cp="🧑🏿‍🦽">akadálymentesség | kerekesszék | kerekesszékes ember | sötét bőrtónus</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">kerekesszékes ember: sötét bőrtónus</annotation>
-		<annotation cp="🧑‍🦽‍➡">akadálymentesség | kerekesszék | kerekesszékes ember</annotation>
-		<annotation cp="🧑‍🦽‍➡" type="tts">jobbra néző kerekesszékes ember</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡">akadálymentesség | kerekesszék | kerekesszékes ember</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡" type="tts">jobbra néző kerekesszékes ember</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡">akadálymentesség | kerekesszék | kerekesszékes ember</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡" type="tts">jobbra néző kerekesszékes ember</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡">akadálymentesség | kerekesszék | kerekesszékes ember</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡" type="tts">jobbra néző kerekesszékes ember</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡">akadálymentesség | kerekesszék | kerekesszékes ember</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡" type="tts">jobbra néző kerekesszékes ember</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡">akadálymentesség | kerekesszék | kerekesszékes ember</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡" type="tts">jobbra néző kerekesszékes ember</annotation>
+		<annotation cp="🧑‍🦽‍➡">akadálymentesség | jobbra | kerekesszék | kerekesszékes ember | néző</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">kerekesszékes ember: jobbra néző</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">akadálymentesség | jobbra | kerekesszék | kerekesszékes ember | néző | világos bőrtónus</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">kerekesszékes ember: világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">akadálymentesség | jobbra | kerekesszék | kerekesszékes ember | közepesen világos bőrtónus | néző</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">kerekesszékes ember: közepesen világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">akadálymentesség | jobbra | kerekesszék | kerekesszékes ember | közepes bőrtónus | néző</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">kerekesszékes ember: közepes bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">akadálymentesség | jobbra | kerekesszék | kerekesszékes ember | közepesen sötét bőrtónus | néző</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">kerekesszékes ember: közepesen sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">akadálymentesség | jobbra | kerekesszék | kerekesszékes ember | néző | sötét bőrtónus</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">kerekesszékes ember: sötét bőrtónus és jobbra néző</annotation>
 		<annotation cp="👨🏻‍🦽">akadálymentesség | férfi | férfi kézi hajtású kerekesszékben | kerekesszék | mozgáskorlátozott | mozgássérült | tolószék | világos bőrtónus</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">férfi kézi hajtású kerekesszékben: világos bőrtónus</annotation>
 		<annotation cp="👨🏼‍🦽">akadálymentesség | férfi | férfi kézi hajtású kerekesszékben | kerekesszék | közepesen világos bőrtónus | mozgáskorlátozott | mozgássérült | tolószék</annotation>
@@ -2983,18 +3233,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦽" type="tts">férfi kézi hajtású kerekesszékben: közepesen sötét bőrtónus</annotation>
 		<annotation cp="👨🏿‍🦽">akadálymentesség | férfi | férfi kézi hajtású kerekesszékben | kerekesszék | mozgáskorlátozott | mozgássérült | sötét bőrtónus | tolószék</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">férfi kézi hajtású kerekesszékben: sötét bőrtónus</annotation>
-		<annotation cp="👨‍🦽‍➡">akadálymentesség | férfi | férfi kézi hajtású kerekesszékben | kerekesszék | mozgáskorlátozott | mozgássérült | tolószék</annotation>
-		<annotation cp="👨‍🦽‍➡" type="tts">jobbra néző férfi kézi hajtású kerekesszékben</annotation>
-		<annotation cp="👨🏻‍🦽‍➡">akadálymentesség | férfi | férfi kézi hajtású kerekesszékben | kerekesszék | mozgáskorlátozott | mozgássérült | tolószék</annotation>
-		<annotation cp="👨🏻‍🦽‍➡" type="tts">jobbra néző férfi kézi hajtású kerekesszékben</annotation>
-		<annotation cp="👨🏼‍🦽‍➡">akadálymentesség | férfi | férfi kézi hajtású kerekesszékben | kerekesszék | mozgáskorlátozott | mozgássérült | tolószék</annotation>
-		<annotation cp="👨🏼‍🦽‍➡" type="tts">jobbra néző férfi kézi hajtású kerekesszékben</annotation>
-		<annotation cp="👨🏽‍🦽‍➡">akadálymentesség | férfi | férfi kézi hajtású kerekesszékben | kerekesszék | mozgáskorlátozott | mozgássérült | tolószék</annotation>
-		<annotation cp="👨🏽‍🦽‍➡" type="tts">jobbra néző férfi kézi hajtású kerekesszékben</annotation>
-		<annotation cp="👨🏾‍🦽‍➡">akadálymentesség | férfi | férfi kézi hajtású kerekesszékben | kerekesszék | mozgáskorlátozott | mozgássérült | tolószék</annotation>
-		<annotation cp="👨🏾‍🦽‍➡" type="tts">jobbra néző férfi kézi hajtású kerekesszékben</annotation>
-		<annotation cp="👨🏿‍🦽‍➡">akadálymentesség | férfi | férfi kézi hajtású kerekesszékben | kerekesszék | mozgáskorlátozott | mozgássérült | tolószék</annotation>
-		<annotation cp="👨🏿‍🦽‍➡" type="tts">jobbra néző férfi kézi hajtású kerekesszékben</annotation>
+		<annotation cp="👨‍🦽‍➡">akadálymentesség | férfi | férfi kézi hajtású kerekesszékben | jobbra | kerekesszék | mozgáskorlátozott | mozgássérült | néző | tolószék</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">férfi kézi hajtású kerekesszékben: jobbra néző</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">akadálymentesség | férfi | férfi kézi hajtású kerekesszékben | jobbra | kerekesszék | mozgáskorlátozott | mozgássérült | néző | tolószék | világos bőrtónus</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">férfi kézi hajtású kerekesszékben: világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">akadálymentesség | férfi | férfi kézi hajtású kerekesszékben | jobbra | kerekesszék | közepesen világos bőrtónus | mozgáskorlátozott | mozgássérült | néző | tolószék</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">férfi kézi hajtású kerekesszékben: közepesen világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">akadálymentesség | férfi | férfi kézi hajtású kerekesszékben | jobbra | kerekesszék | közepes bőrtónus | mozgáskorlátozott | mozgássérült | néző | tolószék</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">férfi kézi hajtású kerekesszékben: közepes bőrtónus és jobbra néző</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">akadálymentesség | férfi | férfi kézi hajtású kerekesszékben | jobbra | kerekesszék | közepesen sötét bőrtónus | mozgáskorlátozott | mozgássérült | néző | tolószék</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">férfi kézi hajtású kerekesszékben: közepesen sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">akadálymentesség | férfi | férfi kézi hajtású kerekesszékben | jobbra | kerekesszék | mozgáskorlátozott | mozgássérült | néző | sötét bőrtónus | tolószék</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">férfi kézi hajtású kerekesszékben: sötét bőrtónus és jobbra néző</annotation>
 		<annotation cp="👩🏻‍🦽">akadálymentesség | kerekesszék | mozgáskorlátozott | nő | nő kézi hajtású kerekesszékben | tolószék | világos bőrtónus</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">nő kézi hajtású kerekesszékben: világos bőrtónus</annotation>
 		<annotation cp="👩🏼‍🦽">akadálymentesség | kerekesszék | közepesen világos bőrtónus | mozgáskorlátozott | nő | nő kézi hajtású kerekesszékben | tolószék</annotation>
@@ -3005,18 +3255,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦽" type="tts">nő kézi hajtású kerekesszékben: közepesen sötét bőrtónus</annotation>
 		<annotation cp="👩🏿‍🦽">akadálymentesség | kerekesszék | mozgáskorlátozott | nő | nő kézi hajtású kerekesszékben | sötét bőrtónus | tolószék</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">nő kézi hajtású kerekesszékben: sötét bőrtónus</annotation>
-		<annotation cp="👩‍🦽‍➡">akadálymentesség | kerekesszék | mozgáskorlátozott | nő | nő kézi hajtású kerekesszékben | tolószék</annotation>
-		<annotation cp="👩‍🦽‍➡" type="tts">jobbra néző nő kézi hajtású kerekesszékben</annotation>
-		<annotation cp="👩🏻‍🦽‍➡">akadálymentesség | kerekesszék | mozgáskorlátozott | nő | nő kézi hajtású kerekesszékben | tolószék</annotation>
-		<annotation cp="👩🏻‍🦽‍➡" type="tts">jobbra néző nő kézi hajtású kerekesszékben</annotation>
-		<annotation cp="👩🏼‍🦽‍➡">akadálymentesség | kerekesszék | mozgáskorlátozott | nő | nő kézi hajtású kerekesszékben | tolószék</annotation>
-		<annotation cp="👩🏼‍🦽‍➡" type="tts">jobbra néző nő kézi hajtású kerekesszékben</annotation>
-		<annotation cp="👩🏽‍🦽‍➡">akadálymentesség | kerekesszék | mozgáskorlátozott | nő | nő kézi hajtású kerekesszékben | tolószék</annotation>
-		<annotation cp="👩🏽‍🦽‍➡" type="tts">jobbra néző nő kézi hajtású kerekesszékben</annotation>
-		<annotation cp="👩🏾‍🦽‍➡">akadálymentesség | kerekesszék | mozgáskorlátozott | nő | nő kézi hajtású kerekesszékben | tolószék</annotation>
-		<annotation cp="👩🏾‍🦽‍➡" type="tts">jobbra néző nő kézi hajtású kerekesszékben</annotation>
-		<annotation cp="👩🏿‍🦽‍➡">akadálymentesség | kerekesszék | mozgáskorlátozott | nő | nő kézi hajtású kerekesszékben | tolószék</annotation>
-		<annotation cp="👩🏿‍🦽‍➡" type="tts">jobbra néző nő kézi hajtású kerekesszékben</annotation>
+		<annotation cp="👩‍🦽‍➡">akadálymentesség | jobbra | kerekesszék | mozgáskorlátozott | néző | nő | nő kézi hajtású kerekesszékben | tolószék</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">nő kézi hajtású kerekesszékben: jobbra néző</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">akadálymentesség | jobbra | kerekesszék | mozgáskorlátozott | néző | nő | nő kézi hajtású kerekesszékben | tolószék | világos bőrtónus</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">nő kézi hajtású kerekesszékben: világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">akadálymentesség | jobbra | kerekesszék | közepesen világos bőrtónus | mozgáskorlátozott | néző | nő | nő kézi hajtású kerekesszékben | tolószék</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">nő kézi hajtású kerekesszékben: közepesen világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">akadálymentesség | jobbra | kerekesszék | közepes bőrtónus | mozgáskorlátozott | néző | nő | nő kézi hajtású kerekesszékben | tolószék</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">nő kézi hajtású kerekesszékben: közepes bőrtónus és jobbra néző</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">akadálymentesség | jobbra | kerekesszék | közepesen sötét bőrtónus | mozgáskorlátozott | néző | nő | nő kézi hajtású kerekesszékben | tolószék</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">nő kézi hajtású kerekesszékben: közepesen sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">akadálymentesség | jobbra | kerekesszék | mozgáskorlátozott | néző | nő | nő kézi hajtású kerekesszékben | sötét bőrtónus | tolószék</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">nő kézi hajtású kerekesszékben: sötét bőrtónus és jobbra néző</annotation>
 		<annotation cp="🏃🏻">fut | futás | futó | gyors | maraton | siet | sport | világos bőrtónus</annotation>
 		<annotation cp="🏃🏻" type="tts">futó: világos bőrtónus</annotation>
 		<annotation cp="🏃🏼">fut | futás | futó | gyors | közepesen világos bőrtónus | maraton | siet | sport</annotation>
@@ -3047,61 +3297,61 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🏃🏾‍♀" type="tts">futó nő: közepesen sötét bőrtónus</annotation>
 		<annotation cp="🏃🏿‍♀">fut | futás | futó | futónő | gyors | gyorsaság | maraton | nő | női futó | sebesség | siet | sötét bőrtónus | sport | verseny</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">futó nő: sötét bőrtónus</annotation>
-		<annotation cp="🏃‍➡">fut | futás | futó | gyors | maraton | siet | sport</annotation>
-		<annotation cp="🏃‍➡" type="tts">jobbra néző futó</annotation>
-		<annotation cp="🏃🏻‍➡">fut | futás | futó | gyors | maraton | siet | sport</annotation>
-		<annotation cp="🏃🏻‍➡" type="tts">jobbra néző futó</annotation>
-		<annotation cp="🏃🏼‍➡">fut | futás | futó | gyors | maraton | siet | sport</annotation>
-		<annotation cp="🏃🏼‍➡" type="tts">jobbra néző futó</annotation>
-		<annotation cp="🏃🏽‍➡">fut | futás | futó | gyors | maraton | siet | sport</annotation>
-		<annotation cp="🏃🏽‍➡" type="tts">jobbra néző futó</annotation>
-		<annotation cp="🏃🏾‍➡">fut | futás | futó | gyors | maraton | siet | sport</annotation>
-		<annotation cp="🏃🏾‍➡" type="tts">jobbra néző futó</annotation>
-		<annotation cp="🏃🏿‍➡">fut | futás | futó | gyors | maraton | siet | sport</annotation>
-		<annotation cp="🏃🏿‍➡" type="tts">jobbra néző futó</annotation>
-		<annotation cp="🏃‍♀‍➡">fut | futás | futó | futónő | gyors | gyorsaság | maraton | nő | női futó | sebesség | siet | sport | verseny</annotation>
-		<annotation cp="🏃‍♀‍➡" type="tts">jobbra néző futó nő</annotation>
-		<annotation cp="🏃🏻‍♀‍➡">fut | futás | futó | futónő | gyors | gyorsaság | maraton | nő | női futó | sebesség | siet | sport | verseny</annotation>
-		<annotation cp="🏃🏻‍♀‍➡" type="tts">jobbra néző futó nő</annotation>
-		<annotation cp="🏃🏼‍♀‍➡">fut | futás | futó | futónő | gyors | gyorsaság | maraton | nő | női futó | sebesség | siet | sport | verseny</annotation>
-		<annotation cp="🏃🏼‍♀‍➡" type="tts">jobbra néző futó nő</annotation>
-		<annotation cp="🏃🏽‍♀‍➡">fut | futás | futó | futónő | gyors | gyorsaság | maraton | nő | női futó | sebesség | siet | sport | verseny</annotation>
-		<annotation cp="🏃🏽‍♀‍➡" type="tts">jobbra néző futó nő</annotation>
-		<annotation cp="🏃🏾‍♀‍➡">fut | futás | futó | futónő | gyors | gyorsaság | maraton | nő | női futó | sebesség | siet | sport | verseny</annotation>
-		<annotation cp="🏃🏾‍♀‍➡" type="tts">jobbra néző futó nő</annotation>
-		<annotation cp="🏃🏿‍♀‍➡">fut | futás | futó | futónő | gyors | gyorsaság | maraton | nő | női futó | sebesség | siet | sport | verseny</annotation>
-		<annotation cp="🏃🏿‍♀‍➡" type="tts">jobbra néző futó nő</annotation>
-		<annotation cp="🏃‍♂‍➡">férfi | fut | futás | futó férfi | maraton | verseny</annotation>
-		<annotation cp="🏃‍♂‍➡" type="tts">jobbra néző futó férfi</annotation>
-		<annotation cp="🏃🏻‍♂‍➡">férfi | fut | futás | futó férfi | maraton | verseny</annotation>
-		<annotation cp="🏃🏻‍♂‍➡" type="tts">jobbra néző futó férfi</annotation>
-		<annotation cp="🏃🏼‍♂‍➡">férfi | fut | futás | futó férfi | maraton | verseny</annotation>
-		<annotation cp="🏃🏼‍♂‍➡" type="tts">jobbra néző futó férfi</annotation>
-		<annotation cp="🏃🏽‍♂‍➡">férfi | fut | futás | futó férfi | maraton | verseny</annotation>
-		<annotation cp="🏃🏽‍♂‍➡" type="tts">jobbra néző futó férfi</annotation>
-		<annotation cp="🏃🏾‍♂‍➡">férfi | fut | futás | futó férfi | maraton | verseny</annotation>
-		<annotation cp="🏃🏾‍♂‍➡" type="tts">jobbra néző futó férfi</annotation>
-		<annotation cp="🏃🏿‍♂‍➡">férfi | fut | futás | futó férfi | maraton | verseny</annotation>
-		<annotation cp="🏃🏿‍♂‍➡" type="tts">jobbra néző futó férfi</annotation>
-		<annotation cp="💃🏻">nő | tánc | táncol | táncoló | táncos | táncosnő | világos bőrtónus</annotation>
+		<annotation cp="🏃‍➡">fut | futás | futó | gyors | jobbra | maraton | néző | siet | sport</annotation>
+		<annotation cp="🏃‍➡" type="tts">futó: jobbra néző</annotation>
+		<annotation cp="🏃🏻‍➡">fut | futás | futó | gyors | jobbra | maraton | néző | siet | sport | világos bőrtónus</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">futó: világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🏃🏼‍➡">fut | futás | futó | gyors | jobbra | közepesen világos bőrtónus | maraton | néző | siet | sport</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">futó: közepesen világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🏃🏽‍➡">fut | futás | futó | gyors | jobbra | közepes bőrtónus | maraton | néző | siet | sport</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">futó: közepes bőrtónus és jobbra néző</annotation>
+		<annotation cp="🏃🏾‍➡">fut | futás | futó | gyors | jobbra | közepesen sötét bőrtónus | maraton | néző | siet | sport</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">futó: közepesen sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="🏃🏿‍➡">fut | futás | futó | gyors | jobbra | maraton | néző | siet | sötét bőrtónus | sport</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">futó: sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="🏃‍♀‍➡">fut | futás | futó | futónő | gyors | gyorsaság | jobbra | maraton | néző | nő | női futó | sebesség | siet | sport | verseny</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">futó nő: jobbra néző</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">fut | futás | futó | futónő | gyors | gyorsaság | jobbra | maraton | néző | nő | női futó | sebesség | siet | sport | verseny | világos bőrtónus</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">futó nő: világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">fut | futás | futó | futónő | gyors | gyorsaság | jobbra | közepesen világos bőrtónus | maraton | néző | nő | női futó | sebesség | siet | sport | verseny</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">futó nő: közepesen világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">fut | futás | futó | futónő | gyors | gyorsaság | jobbra | közepes bőrtónus | maraton | néző | nő | női futó | sebesség | siet | sport | verseny</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">futó nő: közepes bőrtónus és jobbra néző</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">fut | futás | futó | futónő | gyors | gyorsaság | jobbra | közepesen sötét bőrtónus | maraton | néző | nő | női futó | sebesség | siet | sport | verseny</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">futó nő: közepesen sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">fut | futás | futó | futónő | gyors | gyorsaság | jobbra | maraton | néző | nő | női futó | sebesség | siet | sötét bőrtónus | sport | verseny</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">futó nő: sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="🏃‍♂‍➡">férfi | fut | futás | futó férfi | jobbra | maraton | néző | verseny</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">futó férfi: jobbra néző</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">férfi | fut | futás | futó férfi | jobbra | maraton | néző | verseny | világos bőrtónus</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">futó férfi: világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">férfi | fut | futás | futó férfi | jobbra | közepesen világos bőrtónus | maraton | néző | verseny</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">futó férfi: közepesen világos bőrtónus és jobbra néző</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">férfi | fut | futás | futó férfi | jobbra | közepes bőrtónus | maraton | néző | verseny</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">futó férfi: közepes bőrtónus és jobbra néző</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">férfi | fut | futás | futó férfi | jobbra | közepesen sötét bőrtónus | maraton | néző | verseny</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">futó férfi: közepesen sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">férfi | fut | futás | futó férfi | jobbra | maraton | néző | sötét bőrtónus | verseny</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">futó férfi: sötét bőrtónus és jobbra néző</annotation>
+		<annotation cp="💃🏻">nő | salsa | tánc | táncol | táncoló | táncos | táncosnő | tangó | világos bőrtónus</annotation>
 		<annotation cp="💃🏻" type="tts">táncoló nő: világos bőrtónus</annotation>
-		<annotation cp="💃🏼">közepesen világos bőrtónus | nő | tánc | táncol | táncoló | táncos | táncosnő</annotation>
+		<annotation cp="💃🏼">közepesen világos bőrtónus | nő | salsa | tánc | táncol | táncoló | táncos | táncosnő | tangó</annotation>
 		<annotation cp="💃🏼" type="tts">táncoló nő: közepesen világos bőrtónus</annotation>
-		<annotation cp="💃🏽">közepes bőrtónus | nő | tánc | táncol | táncoló | táncos | táncosnő</annotation>
+		<annotation cp="💃🏽">közepes bőrtónus | nő | salsa | tánc | táncol | táncoló | táncos | táncosnő | tangó</annotation>
 		<annotation cp="💃🏽" type="tts">táncoló nő: közepes bőrtónus</annotation>
-		<annotation cp="💃🏾">közepesen sötét bőrtónus | nő | tánc | táncol | táncoló | táncos | táncosnő</annotation>
+		<annotation cp="💃🏾">közepesen sötét bőrtónus | nő | salsa | tánc | táncol | táncoló | táncos | táncosnő | tangó</annotation>
 		<annotation cp="💃🏾" type="tts">táncoló nő: közepesen sötét bőrtónus</annotation>
-		<annotation cp="💃🏿">nő | sötét bőrtónus | tánc | táncol | táncoló | táncos | táncosnő</annotation>
+		<annotation cp="💃🏿">nő | salsa | sötét bőrtónus | tánc | táncol | táncoló | táncos | táncosnő | tangó</annotation>
 		<annotation cp="💃🏿" type="tts">táncoló nő: sötét bőrtónus</annotation>
-		<annotation cp="🕺🏻">férfi | tánc | táncol | táncoló férfi | táncos | világos bőrtónus</annotation>
+		<annotation cp="🕺🏻">férfi | flamenco | salsa | tánc | táncol | táncoló férfi | táncos | tangó | világos bőrtónus</annotation>
 		<annotation cp="🕺🏻" type="tts">táncoló férfi: világos bőrtónus</annotation>
-		<annotation cp="🕺🏼">férfi | közepesen világos bőrtónus | tánc | táncol | táncoló férfi | táncos</annotation>
+		<annotation cp="🕺🏼">férfi | flamenco | közepesen világos bőrtónus | salsa | tánc | táncol | táncoló férfi | táncos | tangó</annotation>
 		<annotation cp="🕺🏼" type="tts">táncoló férfi: közepesen világos bőrtónus</annotation>
-		<annotation cp="🕺🏽">férfi | közepes bőrtónus | tánc | táncol | táncoló férfi | táncos</annotation>
+		<annotation cp="🕺🏽">férfi | flamenco | közepes bőrtónus | salsa | tánc | táncol | táncoló férfi | táncos | tangó</annotation>
 		<annotation cp="🕺🏽" type="tts">táncoló férfi: közepes bőrtónus</annotation>
-		<annotation cp="🕺🏾">férfi | közepesen sötét bőrtónus | tánc | táncol | táncoló férfi | táncos</annotation>
+		<annotation cp="🕺🏾">férfi | flamenco | közepesen sötét bőrtónus | salsa | tánc | táncol | táncoló férfi | táncos | tangó</annotation>
 		<annotation cp="🕺🏾" type="tts">táncoló férfi: közepesen sötét bőrtónus</annotation>
-		<annotation cp="🕺🏿">férfi | sötét bőrtónus | tánc | táncol | táncoló férfi | táncos</annotation>
+		<annotation cp="🕺🏿">férfi | flamenco | salsa | sötét bőrtónus | tánc | táncol | táncoló férfi | táncos | tangó</annotation>
 		<annotation cp="🕺🏿" type="tts">táncoló férfi: sötét bőrtónus</annotation>
 		<annotation cp="🕴🏻">lebegő ember | öltöny | öltönyös | öltönyös, lebegő ember | üzletember | világos bőrtónus</annotation>
 		<annotation cp="🕴🏻" type="tts">öltönyös, lebegő ember: világos bőrtónus</annotation>
@@ -3113,6 +3363,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🕴🏾" type="tts">öltönyös, lebegő ember: közepesen sötét bőrtónus</annotation>
 		<annotation cp="🕴🏿">lebegő ember | öltöny | öltönyös | öltönyös, lebegő ember | sötét bőrtónus | üzletember</annotation>
 		<annotation cp="🕴🏿" type="tts">öltönyös, lebegő ember: sötét bőrtónus</annotation>
+		<annotation cp="👯🏻">buli | bulizó emberek | lányok | nő | nyuszi | nyuszifül | parti | világos bőrtónus</annotation>
+		<annotation cp="👯🏻" type="tts">bulizó emberek: világos bőrtónus</annotation>
+		<annotation cp="👯🏼">buli | bulizó emberek | közepesen világos bőrtónus | lányok | nő | nyuszi | nyuszifül | parti</annotation>
+		<annotation cp="👯🏼" type="tts">bulizó emberek: közepesen világos bőrtónus</annotation>
+		<annotation cp="👯🏽">buli | bulizó emberek | közepes bőrtónus | lányok | nő | nyuszi | nyuszifül | parti</annotation>
+		<annotation cp="👯🏽" type="tts">bulizó emberek: közepes bőrtónus</annotation>
+		<annotation cp="👯🏾">buli | bulizó emberek | közepesen sötét bőrtónus | lányok | nő | nyuszi | nyuszifül | parti</annotation>
+		<annotation cp="👯🏾" type="tts">bulizó emberek: közepesen sötét bőrtónus</annotation>
+		<annotation cp="👯🏿">buli | bulizó emberek | lányok | nő | nyuszi | nyuszifül | parti | sötét bőrtónus</annotation>
+		<annotation cp="👯🏿" type="tts">bulizó emberek: sötét bőrtónus</annotation>
+		<annotation cp="👯🏻‍♀">buil | bulizó nők | nő | nők | nyuszifül | parti | táncos | világos bőrtónus</annotation>
+		<annotation cp="👯🏻‍♀" type="tts">bulizó nők: világos bőrtónus</annotation>
+		<annotation cp="👯🏼‍♀">buil | bulizó nők | közepesen világos bőrtónus | nő | nők | nyuszifül | parti | táncos</annotation>
+		<annotation cp="👯🏼‍♀" type="tts">bulizó nők: közepesen világos bőrtónus</annotation>
+		<annotation cp="👯🏽‍♀">buil | bulizó nők | közepes bőrtónus | nő | nők | nyuszifül | parti | táncos</annotation>
+		<annotation cp="👯🏽‍♀" type="tts">bulizó nők: közepes bőrtónus</annotation>
+		<annotation cp="👯🏾‍♀">buil | bulizó nők | közepesen sötét bőrtónus | nő | nők | nyuszifül | parti | táncos</annotation>
+		<annotation cp="👯🏾‍♀" type="tts">bulizó nők: közepesen sötét bőrtónus</annotation>
+		<annotation cp="👯🏿‍♀">buil | bulizó nők | nő | nők | nyuszifül | parti | sötét bőrtónus | táncos</annotation>
+		<annotation cp="👯🏿‍♀" type="tts">bulizó nők: sötét bőrtónus</annotation>
+		<annotation cp="👯🏻‍♂">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | nyuszifül | parti | partizik | party | táncol | táncos | világos bőrtónus</annotation>
+		<annotation cp="👯🏻‍♂" type="tts">bulizó férfiak: világos bőrtónus</annotation>
+		<annotation cp="👯🏼‍♂">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | közepesen világos bőrtónus | nyuszifül | parti | partizik | party | táncol | táncos</annotation>
+		<annotation cp="👯🏼‍♂" type="tts">bulizó férfiak: közepesen világos bőrtónus</annotation>
+		<annotation cp="👯🏽‍♂">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | közepes bőrtónus | nyuszifül | parti | partizik | party | táncol | táncos</annotation>
+		<annotation cp="👯🏽‍♂" type="tts">bulizó férfiak: közepes bőrtónus</annotation>
+		<annotation cp="👯🏾‍♂">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | közepesen sötét bőrtónus | nyuszifül | parti | partizik | party | táncol | táncos</annotation>
+		<annotation cp="👯🏾‍♂" type="tts">bulizó férfiak: közepesen sötét bőrtónus</annotation>
+		<annotation cp="👯🏿‍♂">buil | buli | bulizó férfiak | férfi | férfiak | ikrek | nyuszifül | parti | partizik | party | sötét bőrtónus | táncol | táncos</annotation>
+		<annotation cp="👯🏿‍♂" type="tts">bulizó férfiak: sötét bőrtónus</annotation>
 		<annotation cp="🧖🏻">ember a gőzfürdőben | gőz | gőzfürdő | gőzszoba | nő szaunázik | szauna | szaunázás | szaunázik | világos bőrtónus</annotation>
 		<annotation cp="🧖🏻" type="tts">ember a gőzfürdőben: világos bőrtónus</annotation>
 		<annotation cp="🧖🏼">ember a gőzfürdőben | gőz | gőzfürdő | gőzszoba | közepesen világos bőrtónus | nő szaunázik | szauna | szaunázás | szaunázik</annotation>
@@ -3463,6 +3743,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤸🏾‍♀" type="tts">cigánykerekező nő: közepesen sötét bőrtónus</annotation>
 		<annotation cp="🤸🏿‍♀">cigánykerék | cigánykerekező nő | nő | sötét bőrtónus | sport | torna | tornász | tornásznő | tornázik</annotation>
 		<annotation cp="🤸🏿‍♀" type="tts">cigánykerekező nő: sötét bőrtónus</annotation>
+		<annotation cp="🤼🏻">birkózás | birkózó | birkózók | harc | sport | sportoló | világos bőrtónus</annotation>
+		<annotation cp="🤼🏻" type="tts">birkózók: világos bőrtónus</annotation>
+		<annotation cp="🤼🏼">birkózás | birkózó | birkózók | harc | közepesen világos bőrtónus | sport | sportoló</annotation>
+		<annotation cp="🤼🏼" type="tts">birkózók: közepesen világos bőrtónus</annotation>
+		<annotation cp="🤼🏽">birkózás | birkózó | birkózók | harc | közepes bőrtónus | sport | sportoló</annotation>
+		<annotation cp="🤼🏽" type="tts">birkózók: közepes bőrtónus</annotation>
+		<annotation cp="🤼🏾">birkózás | birkózó | birkózók | harc | közepesen sötét bőrtónus | sport | sportoló</annotation>
+		<annotation cp="🤼🏾" type="tts">birkózók: közepesen sötét bőrtónus</annotation>
+		<annotation cp="🤼🏿">birkózás | birkózó | birkózók | harc | sötét bőrtónus | sport | sportoló</annotation>
+		<annotation cp="🤼🏿" type="tts">birkózók: sötét bőrtónus</annotation>
+		<annotation cp="🤼🏻‍♀">birkozás | birkozó | birkózó nők | harc | nő | női birkózás | sport | világos bőrtónus</annotation>
+		<annotation cp="🤼🏻‍♀" type="tts">birkózó nők: világos bőrtónus</annotation>
+		<annotation cp="🤼🏼‍♀">birkozás | birkozó | birkózó nők | harc | közepesen világos bőrtónus | nő | női birkózás | sport</annotation>
+		<annotation cp="🤼🏼‍♀" type="tts">birkózó nők: közepesen világos bőrtónus</annotation>
+		<annotation cp="🤼🏽‍♀">birkozás | birkozó | birkózó nők | harc | közepes bőrtónus | nő | női birkózás | sport</annotation>
+		<annotation cp="🤼🏽‍♀" type="tts">birkózó nők: közepes bőrtónus</annotation>
+		<annotation cp="🤼🏾‍♀">birkozás | birkozó | birkózó nők | harc | közepesen sötét bőrtónus | nő | női birkózás | sport</annotation>
+		<annotation cp="🤼🏾‍♀" type="tts">birkózó nők: közepesen sötét bőrtónus</annotation>
+		<annotation cp="🤼🏿‍♀">birkozás | birkozó | birkózó nők | harc | nő | női birkózás | sötét bőrtónus | sport</annotation>
+		<annotation cp="🤼🏿‍♀" type="tts">birkózó nők: sötét bőrtónus</annotation>
+		<annotation cp="🤼🏻‍♂">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | sport | világos bőrtónus</annotation>
+		<annotation cp="🤼🏻‍♂" type="tts">birkózó férfiak: világos bőrtónus</annotation>
+		<annotation cp="🤼🏼‍♂">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | közepesen világos bőrtónus | sport</annotation>
+		<annotation cp="🤼🏼‍♂" type="tts">birkózó férfiak: közepesen világos bőrtónus</annotation>
+		<annotation cp="🤼🏽‍♂">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | közepes bőrtónus | sport</annotation>
+		<annotation cp="🤼🏽‍♂" type="tts">birkózó férfiak: közepes bőrtónus</annotation>
+		<annotation cp="🤼🏾‍♂">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | közepesen sötét bőrtónus | sport</annotation>
+		<annotation cp="🤼🏾‍♂" type="tts">birkózó férfiak: közepesen sötét bőrtónus</annotation>
+		<annotation cp="🤼🏿‍♂">birkozás | birkozó | birkózó férfiak | férfi | férfi birkózás | harc | sötét bőrtónus | sport</annotation>
+		<annotation cp="🤼🏿‍♂" type="tts">birkózó férfiak: sötét bőrtónus</annotation>
 		<annotation cp="🤽🏻">póló | sport | világos bőrtónus | víz | vízilabda</annotation>
 		<annotation cp="🤽🏻" type="tts">vízilabda: világos bőrtónus</annotation>
 		<annotation cp="🤽🏼">közepesen világos bőrtónus | póló | sport | víz | vízilabda</annotation>
@@ -3653,55 +3963,55 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏿‍🤝‍🧑🏾" type="tts">egymás kezét fogó emberek: sötét bőrtónus és közepesen sötét bőrtónus</annotation>
 		<annotation cp="🧑🏿‍🤝‍🧑🏿">egymás kezét fogó emberek | fogás | kéz | kézenfogva | pár | sötét bőrtónus</annotation>
 		<annotation cp="🧑🏿‍🤝‍🧑🏿" type="tts">egymás kezét fogó emberek: sötét bőrtónus</annotation>
-		<annotation cp="👭🏻">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | szövetség | testvérek | világos bőrtónus</annotation>
+		<annotation cp="👭🏻">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | szövetség | testvérek | világos bőrtónus</annotation>
 		<annotation cp="👭🏻" type="tts">kézen fogva álló nők: világos bőrtónus</annotation>
-		<annotation cp="👩🏻‍🤝‍👩🏼">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen világos bőrtónus | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | szövetség | testvérek | világos bőrtónus</annotation>
+		<annotation cp="👩🏻‍🤝‍👩🏼">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen világos bőrtónus | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | szövetség | testvérek | világos bőrtónus</annotation>
 		<annotation cp="👩🏻‍🤝‍👩🏼" type="tts">kézen fogva álló nők: világos bőrtónus és közepesen világos bőrtónus</annotation>
-		<annotation cp="👩🏻‍🤝‍👩🏽">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepes bőrtónus | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | szövetség | testvérek | világos bőrtónus</annotation>
+		<annotation cp="👩🏻‍🤝‍👩🏽">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepes bőrtónus | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | szövetség | testvérek | világos bőrtónus</annotation>
 		<annotation cp="👩🏻‍🤝‍👩🏽" type="tts">kézen fogva álló nők: világos bőrtónus és közepes bőrtónus</annotation>
-		<annotation cp="👩🏻‍🤝‍👩🏾">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen sötét bőrtónus | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | szövetség | testvérek | világos bőrtónus</annotation>
+		<annotation cp="👩🏻‍🤝‍👩🏾">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen sötét bőrtónus | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | szövetség | testvérek | világos bőrtónus</annotation>
 		<annotation cp="👩🏻‍🤝‍👩🏾" type="tts">kézen fogva álló nők: világos bőrtónus és közepesen sötét bőrtónus</annotation>
-		<annotation cp="👩🏻‍🤝‍👩🏿">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | sötét bőrtónus | szövetség | testvérek | világos bőrtónus</annotation>
+		<annotation cp="👩🏻‍🤝‍👩🏿">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | sötét bőrtónus | szövetség | testvérek | világos bőrtónus</annotation>
 		<annotation cp="👩🏻‍🤝‍👩🏿" type="tts">kézen fogva álló nők: világos bőrtónus és sötét bőrtónus</annotation>
-		<annotation cp="👩🏼‍🤝‍👩🏻">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen világos bőrtónus | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | szövetség | testvérek | világos bőrtónus</annotation>
+		<annotation cp="👩🏼‍🤝‍👩🏻">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen világos bőrtónus | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | szövetség | testvérek | világos bőrtónus</annotation>
 		<annotation cp="👩🏼‍🤝‍👩🏻" type="tts">kézen fogva álló nők: közepesen világos bőrtónus és világos bőrtónus</annotation>
-		<annotation cp="👭🏼">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen világos bőrtónus | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | szövetség | testvérek</annotation>
+		<annotation cp="👭🏼">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen világos bőrtónus | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | szövetség | testvérek</annotation>
 		<annotation cp="👭🏼" type="tts">kézen fogva álló nők: közepesen világos bőrtónus</annotation>
-		<annotation cp="👩🏼‍🤝‍👩🏽">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepes bőrtónus | közepesen világos bőrtónus | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | szövetség | testvérek</annotation>
+		<annotation cp="👩🏼‍🤝‍👩🏽">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepes bőrtónus | közepesen világos bőrtónus | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | szövetség | testvérek</annotation>
 		<annotation cp="👩🏼‍🤝‍👩🏽" type="tts">kézen fogva álló nők: közepesen világos bőrtónus és közepes bőrtónus</annotation>
-		<annotation cp="👩🏼‍🤝‍👩🏾">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen sötét bőrtónus | közepesen világos bőrtónus | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | szövetség | testvérek</annotation>
+		<annotation cp="👩🏼‍🤝‍👩🏾">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen sötét bőrtónus | közepesen világos bőrtónus | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | szövetség | testvérek</annotation>
 		<annotation cp="👩🏼‍🤝‍👩🏾" type="tts">kézen fogva álló nők: közepesen világos bőrtónus és közepesen sötét bőrtónus</annotation>
-		<annotation cp="👩🏼‍🤝‍👩🏿">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen világos bőrtónus | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | sötét bőrtónus | szövetség | testvérek</annotation>
+		<annotation cp="👩🏼‍🤝‍👩🏿">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen világos bőrtónus | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | sötét bőrtónus | szövetség | testvérek</annotation>
 		<annotation cp="👩🏼‍🤝‍👩🏿" type="tts">kézen fogva álló nők: közepesen világos bőrtónus és sötét bőrtónus</annotation>
-		<annotation cp="👩🏽‍🤝‍👩🏻">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepes bőrtónus | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | szövetség | testvérek | világos bőrtónus</annotation>
+		<annotation cp="👩🏽‍🤝‍👩🏻">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepes bőrtónus | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | szövetség | testvérek | világos bőrtónus</annotation>
 		<annotation cp="👩🏽‍🤝‍👩🏻" type="tts">kézen fogva álló nők: közepes bőrtónus és világos bőrtónus</annotation>
-		<annotation cp="👩🏽‍🤝‍👩🏼">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepes bőrtónus | közepesen világos bőrtónus | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | szövetség | testvérek</annotation>
+		<annotation cp="👩🏽‍🤝‍👩🏼">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepes bőrtónus | közepesen világos bőrtónus | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | szövetség | testvérek</annotation>
 		<annotation cp="👩🏽‍🤝‍👩🏼" type="tts">kézen fogva álló nők: közepes bőrtónus és közepesen világos bőrtónus</annotation>
-		<annotation cp="👭🏽">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepes bőrtónus | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | szövetség | testvérek</annotation>
+		<annotation cp="👭🏽">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepes bőrtónus | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | szövetség | testvérek</annotation>
 		<annotation cp="👭🏽" type="tts">kézen fogva álló nők: közepes bőrtónus</annotation>
-		<annotation cp="👩🏽‍🤝‍👩🏾">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepes bőrtónus | közepesen sötét bőrtónus | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | szövetség | testvérek</annotation>
+		<annotation cp="👩🏽‍🤝‍👩🏾">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepes bőrtónus | közepesen sötét bőrtónus | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | szövetség | testvérek</annotation>
 		<annotation cp="👩🏽‍🤝‍👩🏾" type="tts">kézen fogva álló nők: közepes bőrtónus és közepesen sötét bőrtónus</annotation>
-		<annotation cp="👩🏽‍🤝‍👩🏿">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepes bőrtónus | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | sötét bőrtónus | szövetség | testvérek</annotation>
+		<annotation cp="👩🏽‍🤝‍👩🏿">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepes bőrtónus | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | sötét bőrtónus | szövetség | testvérek</annotation>
 		<annotation cp="👩🏽‍🤝‍👩🏿" type="tts">kézen fogva álló nők: közepes bőrtónus és sötét bőrtónus</annotation>
-		<annotation cp="👩🏾‍🤝‍👩🏻">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen sötét bőrtónus | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | szövetség | testvérek | világos bőrtónus</annotation>
+		<annotation cp="👩🏾‍🤝‍👩🏻">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen sötét bőrtónus | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | szövetség | testvérek | világos bőrtónus</annotation>
 		<annotation cp="👩🏾‍🤝‍👩🏻" type="tts">kézen fogva álló nők: közepesen sötét bőrtónus és világos bőrtónus</annotation>
-		<annotation cp="👩🏾‍🤝‍👩🏼">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen sötét bőrtónus | közepesen világos bőrtónus | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | szövetség | testvérek</annotation>
+		<annotation cp="👩🏾‍🤝‍👩🏼">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen sötét bőrtónus | közepesen világos bőrtónus | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | szövetség | testvérek</annotation>
 		<annotation cp="👩🏾‍🤝‍👩🏼" type="tts">kézen fogva álló nők: közepesen sötét bőrtónus és közepesen világos bőrtónus</annotation>
-		<annotation cp="👩🏾‍🤝‍👩🏽">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepes bőrtónus | közepesen sötét bőrtónus | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | szövetség | testvérek</annotation>
+		<annotation cp="👩🏾‍🤝‍👩🏽">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepes bőrtónus | közepesen sötét bőrtónus | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | szövetség | testvérek</annotation>
 		<annotation cp="👩🏾‍🤝‍👩🏽" type="tts">kézen fogva álló nők: közepesen sötét bőrtónus és közepes bőrtónus</annotation>
-		<annotation cp="👭🏾">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen sötét bőrtónus | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | szövetség | testvérek</annotation>
+		<annotation cp="👭🏾">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen sötét bőrtónus | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | szövetség | testvérek</annotation>
 		<annotation cp="👭🏾" type="tts">kézen fogva álló nők: közepesen sötét bőrtónus</annotation>
-		<annotation cp="👩🏾‍🤝‍👩🏿">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen sötét bőrtónus | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | sötét bőrtónus | szövetség | testvérek</annotation>
+		<annotation cp="👩🏾‍🤝‍👩🏿">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen sötét bőrtónus | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | sötét bőrtónus | szövetség | testvérek</annotation>
 		<annotation cp="👩🏾‍🤝‍👩🏿" type="tts">kézen fogva álló nők: közepesen sötét bőrtónus és sötét bőrtónus</annotation>
-		<annotation cp="👩🏿‍🤝‍👩🏻">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | sötét bőrtónus | szövetség | testvérek | világos bőrtónus</annotation>
+		<annotation cp="👩🏿‍🤝‍👩🏻">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | sötét bőrtónus | szövetség | testvérek | világos bőrtónus</annotation>
 		<annotation cp="👩🏿‍🤝‍👩🏻" type="tts">kézen fogva álló nők: sötét bőrtónus és világos bőrtónus</annotation>
-		<annotation cp="👩🏿‍🤝‍👩🏼">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen világos bőrtónus | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | sötét bőrtónus | szövetség | testvérek</annotation>
+		<annotation cp="👩🏿‍🤝‍👩🏼">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen világos bőrtónus | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | sötét bőrtónus | szövetség | testvérek</annotation>
 		<annotation cp="👩🏿‍🤝‍👩🏼" type="tts">kézen fogva álló nők: sötét bőrtónus és közepesen világos bőrtónus</annotation>
-		<annotation cp="👩🏿‍🤝‍👩🏽">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepes bőrtónus | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | sötét bőrtónus | szövetség | testvérek</annotation>
+		<annotation cp="👩🏿‍🤝‍👩🏽">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepes bőrtónus | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | sötét bőrtónus | szövetség | testvérek</annotation>
 		<annotation cp="👩🏿‍🤝‍👩🏽" type="tts">kézen fogva álló nők: sötét bőrtónus és közepes bőrtónus</annotation>
-		<annotation cp="👩🏿‍🤝‍👩🏾">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen sötét bőrtónus | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | sötét bőrtónus | szövetség | testvérek</annotation>
+		<annotation cp="👩🏿‍🤝‍👩🏾">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | közepesen sötét bőrtónus | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | sötét bőrtónus | szövetség | testvérek</annotation>
 		<annotation cp="👩🏿‍🤝‍👩🏾" type="tts">kézen fogva álló nők: sötét bőrtónus és közepesen sötét bőrtónus</annotation>
-		<annotation cp="👭🏿">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | lányok | legjobb barátnők | leszbikus | LGBT | LMBT | nők | nővér | pár | randevú | randi | sötét bőrtónus | szövetség | testvérek</annotation>
+		<annotation cp="👭🏿">barátnők | barátok | barátság | gyerekek | húg | kézen fogva | kézen fogva álló nők | kislányok | lányok | legjobb barátnők | nők | nővér | pár | randevú | randi | sötét bőrtónus | szövetség | testvérek</annotation>
 		<annotation cp="👭🏿" type="tts">kézen fogva álló nők: sötét bőrtónus</annotation>
 		<annotation cp="👫🏻">barátok | férfi | fiú | kéz a kézben | kézen fogva álló férfi és nő | lány | nő | pár | randevú | randi | szerelem | szerelmesek | világos bőrtónus</annotation>
 		<annotation cp="👫🏻" type="tts">kézen fogva álló férfi és nő: világos bőrtónus</annotation>
@@ -3753,55 +4063,55 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏿‍🤝‍👨🏾" type="tts">kézen fogva álló férfi és nő: sötét bőrtónus és közepesen sötét bőrtónus</annotation>
 		<annotation cp="👫🏿">barátok | férfi | fiú | kéz a kézben | kézen fogva álló férfi és nő | lány | nő | pár | randevú | randi | sötét bőrtónus | szerelem | szerelmesek</annotation>
 		<annotation cp="👫🏿" type="tts">kézen fogva álló férfi és nő: sötét bőrtónus</annotation>
-		<annotation cp="👬🏻">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | LGBT | LMBT | meleg | öcs | pár | randevú | randi | testvérek | világos bőrtónus</annotation>
+		<annotation cp="👬🏻">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | öcs | pár | randevú | randi | testvérek | világos bőrtónus</annotation>
 		<annotation cp="👬🏻" type="tts">kézen fogva álló férfiak: világos bőrtónus</annotation>
-		<annotation cp="👨🏻‍🤝‍👨🏼">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen világos bőrtónus | LGBT | LMBT | meleg | öcs | pár | randevú | randi | testvérek | világos bőrtónus</annotation>
+		<annotation cp="👨🏻‍🤝‍👨🏼">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen világos bőrtónus | öcs | pár | randevú | randi | testvérek | világos bőrtónus</annotation>
 		<annotation cp="👨🏻‍🤝‍👨🏼" type="tts">kézen fogva álló férfiak: világos bőrtónus és közepesen világos bőrtónus</annotation>
-		<annotation cp="👨🏻‍🤝‍👨🏽">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | közepes bőrtónus | LGBT | LMBT | meleg | öcs | pár | randevú | randi | testvérek | világos bőrtónus</annotation>
+		<annotation cp="👨🏻‍🤝‍👨🏽">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | közepes bőrtónus | öcs | pár | randevú | randi | testvérek | világos bőrtónus</annotation>
 		<annotation cp="👨🏻‍🤝‍👨🏽" type="tts">kézen fogva álló férfiak: világos bőrtónus és közepes bőrtónus</annotation>
-		<annotation cp="👨🏻‍🤝‍👨🏾">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen sötét bőrtónus | LGBT | LMBT | meleg | öcs | pár | randevú | randi | testvérek | világos bőrtónus</annotation>
+		<annotation cp="👨🏻‍🤝‍👨🏾">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen sötét bőrtónus | öcs | pár | randevú | randi | testvérek | világos bőrtónus</annotation>
 		<annotation cp="👨🏻‍🤝‍👨🏾" type="tts">kézen fogva álló férfiak: világos bőrtónus és közepesen sötét bőrtónus</annotation>
-		<annotation cp="👨🏻‍🤝‍👨🏿">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | LGBT | LMBT | meleg | öcs | pár | randevú | randi | sötét bőrtónus | testvérek | világos bőrtónus</annotation>
+		<annotation cp="👨🏻‍🤝‍👨🏿">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | öcs | pár | randevú | randi | sötét bőrtónus | testvérek | világos bőrtónus</annotation>
 		<annotation cp="👨🏻‍🤝‍👨🏿" type="tts">kézen fogva álló férfiak: világos bőrtónus és sötét bőrtónus</annotation>
-		<annotation cp="👨🏼‍🤝‍👨🏻">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen világos bőrtónus | LGBT | LMBT | meleg | öcs | pár | randevú | randi | testvérek | világos bőrtónus</annotation>
+		<annotation cp="👨🏼‍🤝‍👨🏻">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen világos bőrtónus | öcs | pár | randevú | randi | testvérek | világos bőrtónus</annotation>
 		<annotation cp="👨🏼‍🤝‍👨🏻" type="tts">kézen fogva álló férfiak: közepesen világos bőrtónus és világos bőrtónus</annotation>
-		<annotation cp="👬🏼">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen világos bőrtónus | LGBT | LMBT | meleg | öcs | pár | randevú | randi | testvérek</annotation>
+		<annotation cp="👬🏼">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen világos bőrtónus | öcs | pár | randevú | randi | testvérek</annotation>
 		<annotation cp="👬🏼" type="tts">kézen fogva álló férfiak: közepesen világos bőrtónus</annotation>
-		<annotation cp="👨🏼‍🤝‍👨🏽">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | közepes bőrtónus | közepesen világos bőrtónus | LGBT | LMBT | meleg | öcs | pár | randevú | randi | testvérek</annotation>
+		<annotation cp="👨🏼‍🤝‍👨🏽">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | közepes bőrtónus | közepesen világos bőrtónus | öcs | pár | randevú | randi | testvérek</annotation>
 		<annotation cp="👨🏼‍🤝‍👨🏽" type="tts">kézen fogva álló férfiak: közepesen világos bőrtónus és közepes bőrtónus</annotation>
-		<annotation cp="👨🏼‍🤝‍👨🏾">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen sötét bőrtónus | közepesen világos bőrtónus | LGBT | LMBT | meleg | öcs | pár | randevú | randi | testvérek</annotation>
+		<annotation cp="👨🏼‍🤝‍👨🏾">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen sötét bőrtónus | közepesen világos bőrtónus | öcs | pár | randevú | randi | testvérek</annotation>
 		<annotation cp="👨🏼‍🤝‍👨🏾" type="tts">kézen fogva álló férfiak: közepesen világos bőrtónus és közepesen sötét bőrtónus</annotation>
-		<annotation cp="👨🏼‍🤝‍👨🏿">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen világos bőrtónus | LGBT | LMBT | meleg | öcs | pár | randevú | randi | sötét bőrtónus | testvérek</annotation>
+		<annotation cp="👨🏼‍🤝‍👨🏿">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen világos bőrtónus | öcs | pár | randevú | randi | sötét bőrtónus | testvérek</annotation>
 		<annotation cp="👨🏼‍🤝‍👨🏿" type="tts">kézen fogva álló férfiak: közepesen világos bőrtónus és sötét bőrtónus</annotation>
-		<annotation cp="👨🏽‍🤝‍👨🏻">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | közepes bőrtónus | LGBT | LMBT | meleg | öcs | pár | randevú | randi | testvérek | világos bőrtónus</annotation>
+		<annotation cp="👨🏽‍🤝‍👨🏻">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | közepes bőrtónus | öcs | pár | randevú | randi | testvérek | világos bőrtónus</annotation>
 		<annotation cp="👨🏽‍🤝‍👨🏻" type="tts">kézen fogva álló férfiak: közepes bőrtónus és világos bőrtónus</annotation>
-		<annotation cp="👨🏽‍🤝‍👨🏼">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | közepes bőrtónus | közepesen világos bőrtónus | LGBT | LMBT | meleg | öcs | pár | randevú | randi | testvérek</annotation>
+		<annotation cp="👨🏽‍🤝‍👨🏼">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | közepes bőrtónus | közepesen világos bőrtónus | öcs | pár | randevú | randi | testvérek</annotation>
 		<annotation cp="👨🏽‍🤝‍👨🏼" type="tts">kézen fogva álló férfiak: közepes bőrtónus és közepesen világos bőrtónus</annotation>
-		<annotation cp="👬🏽">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | közepes bőrtónus | LGBT | LMBT | meleg | öcs | pár | randevú | randi | testvérek</annotation>
+		<annotation cp="👬🏽">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | közepes bőrtónus | öcs | pár | randevú | randi | testvérek</annotation>
 		<annotation cp="👬🏽" type="tts">kézen fogva álló férfiak: közepes bőrtónus</annotation>
-		<annotation cp="👨🏽‍🤝‍👨🏾">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | közepes bőrtónus | közepesen sötét bőrtónus | LGBT | LMBT | meleg | öcs | pár | randevú | randi | testvérek</annotation>
+		<annotation cp="👨🏽‍🤝‍👨🏾">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | közepes bőrtónus | közepesen sötét bőrtónus | öcs | pár | randevú | randi | testvérek</annotation>
 		<annotation cp="👨🏽‍🤝‍👨🏾" type="tts">kézen fogva álló férfiak: közepes bőrtónus és közepesen sötét bőrtónus</annotation>
-		<annotation cp="👨🏽‍🤝‍👨🏿">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | közepes bőrtónus | LGBT | LMBT | meleg | öcs | pár | randevú | randi | sötét bőrtónus | testvérek</annotation>
+		<annotation cp="👨🏽‍🤝‍👨🏿">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | közepes bőrtónus | öcs | pár | randevú | randi | sötét bőrtónus | testvérek</annotation>
 		<annotation cp="👨🏽‍🤝‍👨🏿" type="tts">kézen fogva álló férfiak: közepes bőrtónus és sötét bőrtónus</annotation>
-		<annotation cp="👨🏾‍🤝‍👨🏻">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen sötét bőrtónus | LGBT | LMBT | meleg | öcs | pár | randevú | randi | testvérek | világos bőrtónus</annotation>
+		<annotation cp="👨🏾‍🤝‍👨🏻">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen sötét bőrtónus | öcs | pár | randevú | randi | testvérek | világos bőrtónus</annotation>
 		<annotation cp="👨🏾‍🤝‍👨🏻" type="tts">kézen fogva álló férfiak: közepesen sötét bőrtónus és világos bőrtónus</annotation>
-		<annotation cp="👨🏾‍🤝‍👨🏼">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen sötét bőrtónus | közepesen világos bőrtónus | LGBT | LMBT | meleg | öcs | pár | randevú | randi | testvérek</annotation>
+		<annotation cp="👨🏾‍🤝‍👨🏼">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen sötét bőrtónus | közepesen világos bőrtónus | öcs | pár | randevú | randi | testvérek</annotation>
 		<annotation cp="👨🏾‍🤝‍👨🏼" type="tts">kézen fogva álló férfiak: közepesen sötét bőrtónus és közepesen világos bőrtónus</annotation>
-		<annotation cp="👨🏾‍🤝‍👨🏽">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | közepes bőrtónus | közepesen sötét bőrtónus | LGBT | LMBT | meleg | öcs | pár | randevú | randi | testvérek</annotation>
+		<annotation cp="👨🏾‍🤝‍👨🏽">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | közepes bőrtónus | közepesen sötét bőrtónus | öcs | pár | randevú | randi | testvérek</annotation>
 		<annotation cp="👨🏾‍🤝‍👨🏽" type="tts">kézen fogva álló férfiak: közepesen sötét bőrtónus és közepes bőrtónus</annotation>
-		<annotation cp="👬🏾">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen sötét bőrtónus | LGBT | LMBT | meleg | öcs | pár | randevú | randi | testvérek</annotation>
+		<annotation cp="👬🏾">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen sötét bőrtónus | öcs | pár | randevú | randi | testvérek</annotation>
 		<annotation cp="👬🏾" type="tts">kézen fogva álló férfiak: közepesen sötét bőrtónus</annotation>
-		<annotation cp="👨🏾‍🤝‍👨🏿">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen sötét bőrtónus | LGBT | LMBT | meleg | öcs | pár | randevú | randi | sötét bőrtónus | testvérek</annotation>
+		<annotation cp="👨🏾‍🤝‍👨🏿">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen sötét bőrtónus | öcs | pár | randevú | randi | sötét bőrtónus | testvérek</annotation>
 		<annotation cp="👨🏾‍🤝‍👨🏿" type="tts">kézen fogva álló férfiak: közepesen sötét bőrtónus és sötét bőrtónus</annotation>
-		<annotation cp="👨🏿‍🤝‍👨🏻">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | LGBT | LMBT | meleg | öcs | pár | randevú | randi | sötét bőrtónus | testvérek | világos bőrtónus</annotation>
+		<annotation cp="👨🏿‍🤝‍👨🏻">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | öcs | pár | randevú | randi | sötét bőrtónus | testvérek | világos bőrtónus</annotation>
 		<annotation cp="👨🏿‍🤝‍👨🏻" type="tts">kézen fogva álló férfiak: sötét bőrtónus és világos bőrtónus</annotation>
-		<annotation cp="👨🏿‍🤝‍👨🏼">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen világos bőrtónus | LGBT | LMBT | meleg | öcs | pár | randevú | randi | sötét bőrtónus | testvérek</annotation>
+		<annotation cp="👨🏿‍🤝‍👨🏼">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen világos bőrtónus | öcs | pár | randevú | randi | sötét bőrtónus | testvérek</annotation>
 		<annotation cp="👨🏿‍🤝‍👨🏼" type="tts">kézen fogva álló férfiak: sötét bőrtónus és közepesen világos bőrtónus</annotation>
-		<annotation cp="👨🏿‍🤝‍👨🏽">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | közepes bőrtónus | LGBT | LMBT | meleg | öcs | pár | randevú | randi | sötét bőrtónus | testvérek</annotation>
+		<annotation cp="👨🏿‍🤝‍👨🏽">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | közepes bőrtónus | öcs | pár | randevú | randi | sötét bőrtónus | testvérek</annotation>
 		<annotation cp="👨🏿‍🤝‍👨🏽" type="tts">kézen fogva álló férfiak: sötét bőrtónus és közepes bőrtónus</annotation>
-		<annotation cp="👨🏿‍🤝‍👨🏾">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen sötét bőrtónus | LGBT | LMBT | meleg | öcs | pár | randevú | randi | sötét bőrtónus | testvérek</annotation>
+		<annotation cp="👨🏿‍🤝‍👨🏾">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | közepesen sötét bőrtónus | öcs | pár | randevú | randi | sötét bőrtónus | testvérek</annotation>
 		<annotation cp="👨🏿‍🤝‍👨🏾" type="tts">kézen fogva álló férfiak: sötét bőrtónus és közepesen sötét bőrtónus</annotation>
-		<annotation cp="👬🏿">barátok | barátság | báty | férfiak | fiúk | homoszexuális | ikrek | kézen fogva | kézen fogva álló férfiak | LGBT | LMBT | meleg | öcs | pár | randevú | randi | sötét bőrtónus | testvérek</annotation>
+		<annotation cp="👬🏿">barátok | barátság | báty | férfiak | fiúk | ikrek | kézen fogva | kézen fogva álló férfiak | öcs | pár | randevú | randi | sötét bőrtónus | testvérek</annotation>
 		<annotation cp="👬🏿" type="tts">kézen fogva álló férfiak: sötét bőrtónus</annotation>
 		<annotation cp="💏🏻">barát | barátnő | csók | évforduló | pár | randevú | randi | romantika | szerelem | szív | világos bőrtónus</annotation>
 		<annotation cp="💏🏻" type="tts">csók: világos bőrtónus</annotation>
@@ -3835,55 +4145,55 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨‍❤‍👨" type="tts">pár szívvel: férfi és férfi</annotation>
 		<annotation cp="👩‍❤‍👩">csók | évforduló | nő | pár | pár szívvel | romantika | szerelem | szív</annotation>
 		<annotation cp="👩‍❤‍👩" type="tts">pár szívvel: nő és nő</annotation>
-		<annotation cp="👨‍👩‍👦">anya | anyuka | apa | apuka | család | férfi | fiú | gyermek | kisfiú | nő</annotation>
+		<annotation cp="👨‍👩‍👦">család | férfi | fiú | gyerek | nő</annotation>
 		<annotation cp="👨‍👩‍👦" type="tts">család: férfi, nő és fiú</annotation>
-		<annotation cp="👨‍👩‍👧">anya | anyuka | apa | apuka | család | férfi | fiú | gyermek | kisfiú | lány | nő</annotation>
+		<annotation cp="👨‍👩‍👧">család | férfi | gyerek | lány | nő</annotation>
 		<annotation cp="👨‍👩‍👧" type="tts">család: férfi, nő és lány</annotation>
-		<annotation cp="👨‍👩‍👧‍👦">anya | anyuka | apa | apuka | család | férfi | fiú | gyermek | kisfiú | lány | nő</annotation>
+		<annotation cp="👨‍👩‍👧‍👦">család | férfi | fiú | gyerek | lány | nő</annotation>
 		<annotation cp="👨‍👩‍👧‍👦" type="tts">család: férfi, nő, lány és fiú</annotation>
-		<annotation cp="👨‍👩‍👦‍👦">anya | anyuka | apa | apuka | család | férfi | fiú | gyermek | kisfiú | nő</annotation>
+		<annotation cp="👨‍👩‍👦‍👦">család | férfi | fiú | gyerek | nő</annotation>
 		<annotation cp="👨‍👩‍👦‍👦" type="tts">család: férfi, nő, fiú és fiú</annotation>
-		<annotation cp="👨‍👩‍👧‍👧">anya | anyuka | apa | apuka | család | férfi | fiú | gyermek | kisfiú | lány | nő</annotation>
+		<annotation cp="👨‍👩‍👧‍👧">család | férfi | gyerek | lány | nő</annotation>
 		<annotation cp="👨‍👩‍👧‍👧" type="tts">család: férfi, nő, lány és lány</annotation>
-		<annotation cp="👨‍👨‍👦">anya | anyuka | apa | apuka | család | férfi | fiú | gyermek | kisfiú</annotation>
+		<annotation cp="👨‍👨‍👦">család | férfi | fiú | gyerek</annotation>
 		<annotation cp="👨‍👨‍👦" type="tts">család: férfi, férfi és fiú</annotation>
-		<annotation cp="👨‍👨‍👧">anya | anyuka | apa | apuka | család | férfi | fiú | gyermek | kisfiú | lány</annotation>
+		<annotation cp="👨‍👨‍👧">család | férfi | gyerek | lány</annotation>
 		<annotation cp="👨‍👨‍👧" type="tts">család: férfi, férfi és lány</annotation>
-		<annotation cp="👨‍👨‍👧‍👦">anya | anyuka | apa | apuka | család | férfi | fiú | gyermek | kisfiú | lány</annotation>
+		<annotation cp="👨‍👨‍👧‍👦">család | férfi | fiú | gyerek | lány</annotation>
 		<annotation cp="👨‍👨‍👧‍👦" type="tts">család: férfi, férfi, lány és fiú</annotation>
-		<annotation cp="👨‍👨‍👦‍👦">anya | anyuka | apa | apuka | család | férfi | fiú | gyermek | kisfiú</annotation>
+		<annotation cp="👨‍👨‍👦‍👦">család | férfi | fiú | gyerek</annotation>
 		<annotation cp="👨‍👨‍👦‍👦" type="tts">család: férfi, férfi, fiú és fiú</annotation>
-		<annotation cp="👨‍👨‍👧‍👧">anya | anyuka | apa | apuka | család | férfi | fiú | gyermek | kisfiú | lány</annotation>
+		<annotation cp="👨‍👨‍👧‍👧">család | férfi | gyerek | lány</annotation>
 		<annotation cp="👨‍👨‍👧‍👧" type="tts">család: férfi, férfi, lány és lány</annotation>
-		<annotation cp="👩‍👩‍👦">anya | anyuka | apa | apuka | család | fiú | gyermek | kisfiú | nő</annotation>
+		<annotation cp="👩‍👩‍👦">család | fiú | gyerek | nő</annotation>
 		<annotation cp="👩‍👩‍👦" type="tts">család: nő, nő és fiú</annotation>
-		<annotation cp="👩‍👩‍👧">anya | anyuka | apa | apuka | család | fiú | gyermek | kisfiú | lány | nő</annotation>
+		<annotation cp="👩‍👩‍👧">család | gyerek | lány | nő</annotation>
 		<annotation cp="👩‍👩‍👧" type="tts">család: nő, nő és lány</annotation>
-		<annotation cp="👩‍👩‍👧‍👦">anya | anyuka | apa | apuka | család | fiú | gyermek | kisfiú | lány | nő</annotation>
+		<annotation cp="👩‍👩‍👧‍👦">család | fiú | gyerek | lány | nő</annotation>
 		<annotation cp="👩‍👩‍👧‍👦" type="tts">család: nő, nő, lány és fiú</annotation>
-		<annotation cp="👩‍👩‍👦‍👦">anya | anyuka | apa | apuka | család | fiú | gyermek | kisfiú | nő</annotation>
+		<annotation cp="👩‍👩‍👦‍👦">család | fiú | gyerek | nő</annotation>
 		<annotation cp="👩‍👩‍👦‍👦" type="tts">család: nő, nő, fiú és fiú</annotation>
-		<annotation cp="👩‍👩‍👧‍👧">anya | anyuka | apa | apuka | család | fiú | gyermek | kisfiú | lány | nő</annotation>
+		<annotation cp="👩‍👩‍👧‍👧">család | gyerek | lány | nő</annotation>
 		<annotation cp="👩‍👩‍👧‍👧" type="tts">család: nő, nő, lány és lány</annotation>
-		<annotation cp="👨‍👦">anya | anyuka | apa | apuka | család | férfi | fiú | gyermek | kisfiú</annotation>
+		<annotation cp="👨‍👦">család | férfi | fiú | gyerek</annotation>
 		<annotation cp="👨‍👦" type="tts">család: férfi és fiú</annotation>
-		<annotation cp="👨‍👦‍👦">anya | anyuka | apa | apuka | család | férfi | fiú | gyermek | kisfiú</annotation>
+		<annotation cp="👨‍👦‍👦">család | férfi | fiú | gyerek</annotation>
 		<annotation cp="👨‍👦‍👦" type="tts">család: férfi, fiú és fiú</annotation>
-		<annotation cp="👨‍👧">anya | anyuka | apa | apuka | család | férfi | fiú | gyermek | kisfiú | lány</annotation>
+		<annotation cp="👨‍👧">család | férfi | gyerek | lány</annotation>
 		<annotation cp="👨‍👧" type="tts">család: férfi és lány</annotation>
-		<annotation cp="👨‍👧‍👦">anya | anyuka | apa | apuka | család | férfi | fiú | gyermek | kisfiú | lány</annotation>
+		<annotation cp="👨‍👧‍👦">család | férfi | fiú | gyerek | lány</annotation>
 		<annotation cp="👨‍👧‍👦" type="tts">család: férfi, lány és fiú</annotation>
-		<annotation cp="👨‍👧‍👧">anya | anyuka | apa | apuka | család | férfi | fiú | gyermek | kisfiú | lány</annotation>
+		<annotation cp="👨‍👧‍👧">család | férfi | gyerek | lány</annotation>
 		<annotation cp="👨‍👧‍👧" type="tts">család: férfi, lány és lány</annotation>
-		<annotation cp="👩‍👦">anya | anyuka | apa | apuka | család | fiú | gyermek | kisfiú | nő</annotation>
+		<annotation cp="👩‍👦">család | fiú | gyerek | nő</annotation>
 		<annotation cp="👩‍👦" type="tts">család: nő és fiú</annotation>
-		<annotation cp="👩‍👦‍👦">anya | anyuka | apa | apuka | család | fiú | gyermek | kisfiú | nő</annotation>
+		<annotation cp="👩‍👦‍👦">család | fiú | gyerek | nő</annotation>
 		<annotation cp="👩‍👦‍👦" type="tts">család: nő, fiú és fiú</annotation>
-		<annotation cp="👩‍👧">anya | anyuka | apa | apuka | család | fiú | gyermek | kisfiú | lány | nő</annotation>
+		<annotation cp="👩‍👧">család | gyerek | lány | nő</annotation>
 		<annotation cp="👩‍👧" type="tts">család: nő és lány</annotation>
-		<annotation cp="👩‍👧‍👦">anya | anyuka | apa | apuka | család | fiú | gyermek | kisfiú | lány | nő</annotation>
+		<annotation cp="👩‍👧‍👦">család | fiú | gyerek | lány | nő</annotation>
 		<annotation cp="👩‍👧‍👦" type="tts">család: nő, lány és fiú</annotation>
-		<annotation cp="👩‍👧‍👧">anya | anyuka | apa | apuka | család | fiú | gyermek | kisfiú | lány | nő</annotation>
+		<annotation cp="👩‍👧‍👧">család | gyerek | lány | nő</annotation>
 		<annotation cp="👩‍👧‍👧" type="tts">család: nő, lány és lány</annotation>
 		<annotation cp="#⃣">gombfej</annotation>
 		<annotation cp="#⃣" type="tts">gombfej: #</annotation>
@@ -4434,26 +4744,6 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="₺" type="tts">török líra</annotation>
 		<annotation cp="₼" type="tts">azerbajdzsáni manat</annotation>
 		<annotation cp="₾" type="tts">grúz lari</annotation>
-		<annotation cp="0⃣">gombfej</annotation>
-		<annotation cp="0⃣" type="tts">gombfej: 0</annotation>
-		<annotation cp="1⃣">gombfej</annotation>
-		<annotation cp="1⃣" type="tts">gombfej: 1</annotation>
-		<annotation cp="2⃣">gombfej</annotation>
-		<annotation cp="2⃣" type="tts">gombfej: 2</annotation>
-		<annotation cp="3⃣">gombfej</annotation>
-		<annotation cp="3⃣" type="tts">gombfej: 3</annotation>
-		<annotation cp="4⃣">gombfej</annotation>
-		<annotation cp="4⃣" type="tts">gombfej: 4</annotation>
-		<annotation cp="5⃣">gombfej</annotation>
-		<annotation cp="5⃣" type="tts">gombfej: 5</annotation>
-		<annotation cp="6⃣">gombfej</annotation>
-		<annotation cp="6⃣" type="tts">gombfej: 6</annotation>
-		<annotation cp="7⃣">gombfej</annotation>
-		<annotation cp="7⃣" type="tts">gombfej: 7</annotation>
-		<annotation cp="8⃣">gombfej</annotation>
-		<annotation cp="8⃣" type="tts">gombfej: 8</annotation>
-		<annotation cp="9⃣">gombfej</annotation>
-		<annotation cp="9⃣" type="tts">gombfej: 9</annotation>
 		<annotation cp="₧" type="tts">Spanyol peseta</annotation>
 	</annotations>
 </ldml>

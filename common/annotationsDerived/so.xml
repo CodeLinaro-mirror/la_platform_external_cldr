@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -603,6 +603,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾" type="tts">qof: jidh nooc madaw oo dhexe, timo cad</annotation>
 		<annotation cp="👱🏿">jidh madaw | qof timo cad leh | qof: timo cad | timo | timo cad</annotation>
 		<annotation cp="👱🏿" type="tts">qof: jidh madaw, timo cad</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼">dad lagdamaya | jidh fudud | jidh fudud oo dhexe | lagdame | lagdin</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼" type="tts">dad lagdamaya: jidh fudud, jidh fudud oo dhexe</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽">dad lagdamaya | jidh fudud | jidh nooc dhexe | lagdame | lagdin</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽" type="tts">dad lagdamaya: jidh fudud, jidh nooc dhexe</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾">dad lagdamaya | jidh fudud | jidh nooc madaw oo dhexe | lagdame | lagdin</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾" type="tts">dad lagdamaya: jidh fudud, jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿">dad lagdamaya | jidh fudud | jidh madaw | lagdame | lagdin</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿" type="tts">dad lagdamaya: jidh fudud, jidh madaw</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻">dad lagdamaya | jidh fudud | jidh fudud oo dhexe | lagdame | lagdin</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻" type="tts">dad lagdamaya: jidh fudud oo dhexe, jidh fudud</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽">dad lagdamaya | jidh fudud oo dhexe | jidh nooc dhexe | lagdame | lagdin</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽" type="tts">dad lagdamaya: jidh fudud oo dhexe, jidh nooc dhexe</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾">dad lagdamaya | jidh fudud oo dhexe | jidh nooc madaw oo dhexe | lagdame | lagdin</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾" type="tts">dad lagdamaya: jidh fudud oo dhexe, jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿">dad lagdamaya | jidh fudud oo dhexe | jidh madaw | lagdame | lagdin</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿" type="tts">dad lagdamaya: jidh fudud oo dhexe, jidh madaw</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻">dad lagdamaya | jidh fudud | jidh nooc dhexe | lagdame | lagdin</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻" type="tts">dad lagdamaya: jidh nooc dhexe, jidh fudud</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼">dad lagdamaya | jidh fudud oo dhexe | jidh nooc dhexe | lagdame | lagdin</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼" type="tts">dad lagdamaya: jidh nooc dhexe, jidh fudud oo dhexe</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾">dad lagdamaya | jidh nooc dhexe | jidh nooc madaw oo dhexe | lagdame | lagdin</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾" type="tts">dad lagdamaya: jidh nooc dhexe, jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿">dad lagdamaya | jidh madaw | jidh nooc dhexe | lagdame | lagdin</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿" type="tts">dad lagdamaya: jidh nooc dhexe, jidh madaw</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻">dad lagdamaya | jidh fudud | jidh nooc madaw oo dhexe | lagdame | lagdin</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻" type="tts">dad lagdamaya: jidh nooc madaw oo dhexe, jidh fudud</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼">dad lagdamaya | jidh fudud oo dhexe | jidh nooc madaw oo dhexe | lagdame | lagdin</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼" type="tts">dad lagdamaya: jidh nooc madaw oo dhexe, jidh fudud oo dhexe</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽">dad lagdamaya | jidh nooc dhexe | jidh nooc madaw oo dhexe | lagdame | lagdin</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽" type="tts">dad lagdamaya: jidh nooc madaw oo dhexe, jidh nooc dhexe</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿">dad lagdamaya | jidh madaw | jidh nooc madaw oo dhexe | lagdame | lagdin</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿" type="tts">dad lagdamaya: jidh nooc madaw oo dhexe, jidh madaw</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻">dad lagdamaya | jidh fudud | jidh madaw | lagdame | lagdin</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻" type="tts">dad lagdamaya: jidh madaw, jidh fudud</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼">dad lagdamaya | jidh fudud oo dhexe | jidh madaw | lagdame | lagdin</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼" type="tts">dad lagdamaya: jidh madaw, jidh fudud oo dhexe</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽">dad lagdamaya | jidh madaw | jidh nooc dhexe | lagdame | lagdin</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽" type="tts">dad lagdamaya: jidh madaw, jidh nooc dhexe</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾">dad lagdamaya | jidh madaw | jidh nooc madaw oo dhexe | lagdame | lagdin</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾" type="tts">dad lagdamaya: jidh madaw, jidh nooc madaw oo dhexe</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼">jidh fudud | jidh fudud oo dhexe | lammaane | qof | shumis</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼" type="tts">shumis: qof, qof, jidh fudud, jidh fudud oo dhexe</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏽">jidh fudud | jidh nooc dhexe | lammaane | qof | shumis</annotation>
@@ -731,6 +771,56 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦲" type="tts">qof: jidh nooc madaw oo dhexe, bidaar</annotation>
 		<annotation cp="🧑🏿‍🦲">bidaar | dhexdhexaadnimada jinsiga | jidh madaw | jinsiga aan la sheegin | qof | qof weyn</annotation>
 		<annotation cp="🧑🏿‍🦲" type="tts">qof: jidh madaw, bidaar</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼">dad leh dhaggo bakayle | dhag bakayle | jidh fudud | jidh fudud oo dhexe | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼" type="tts">dad leh dhaggo bakayle: jidh fudud, jidh fudud oo dhexe</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽">dad leh dhaggo bakayle | dhag bakayle | jidh fudud | jidh nooc dhexe | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽" type="tts">dad leh dhaggo bakayle: jidh fudud, jidh nooc dhexe</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾">dad leh dhaggo bakayle | dhag bakayle | jidh fudud | jidh nooc madaw oo dhexe | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾" type="tts">dad leh dhaggo bakayle: jidh fudud, jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿">dad leh dhaggo bakayle | dhag bakayle | jidh fudud | jidh madaw | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿" type="tts">dad leh dhaggo bakayle: jidh fudud, jidh madaw</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻">dad leh dhaggo bakayle | dhag bakayle | jidh fudud | jidh fudud oo dhexe | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻" type="tts">dad leh dhaggo bakayle: jidh fudud oo dhexe, jidh fudud</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽">dad leh dhaggo bakayle | dhag bakayle | jidh fudud oo dhexe | jidh nooc dhexe | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽" type="tts">dad leh dhaggo bakayle: jidh fudud oo dhexe, jidh nooc dhexe</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾">dad leh dhaggo bakayle | dhag bakayle | jidh fudud oo dhexe | jidh nooc madaw oo dhexe | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾" type="tts">dad leh dhaggo bakayle: jidh fudud oo dhexe, jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿">dad leh dhaggo bakayle | dhag bakayle | jidh fudud oo dhexe | jidh madaw | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿" type="tts">dad leh dhaggo bakayle: jidh fudud oo dhexe, jidh madaw</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻">dad leh dhaggo bakayle | dhag bakayle | jidh fudud | jidh nooc dhexe | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻" type="tts">dad leh dhaggo bakayle: jidh nooc dhexe, jidh fudud</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼">dad leh dhaggo bakayle | dhag bakayle | jidh fudud oo dhexe | jidh nooc dhexe | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼" type="tts">dad leh dhaggo bakayle: jidh nooc dhexe, jidh fudud oo dhexe</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾">dad leh dhaggo bakayle | dhag bakayle | jidh nooc dhexe | jidh nooc madaw oo dhexe | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾" type="tts">dad leh dhaggo bakayle: jidh nooc dhexe, jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿">dad leh dhaggo bakayle | dhag bakayle | jidh madaw | jidh nooc dhexe | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿" type="tts">dad leh dhaggo bakayle: jidh nooc dhexe, jidh madaw</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻">dad leh dhaggo bakayle | dhag bakayle | jidh fudud | jidh nooc madaw oo dhexe | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻" type="tts">dad leh dhaggo bakayle: jidh nooc madaw oo dhexe, jidh fudud</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼">dad leh dhaggo bakayle | dhag bakayle | jidh fudud oo dhexe | jidh nooc madaw oo dhexe | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼" type="tts">dad leh dhaggo bakayle: jidh nooc madaw oo dhexe, jidh fudud oo dhexe</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽">dad leh dhaggo bakayle | dhag bakayle | jidh nooc dhexe | jidh nooc madaw oo dhexe | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽" type="tts">dad leh dhaggo bakayle: jidh nooc madaw oo dhexe, jidh nooc dhexe</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿">dad leh dhaggo bakayle | dhag bakayle | jidh madaw | jidh nooc madaw oo dhexe | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿" type="tts">dad leh dhaggo bakayle: jidh nooc madaw oo dhexe, jidh madaw</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻">dad leh dhaggo bakayle | dhag bakayle | jidh fudud | jidh madaw | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻" type="tts">dad leh dhaggo bakayle: jidh madaw, jidh fudud</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼">dad leh dhaggo bakayle | dhag bakayle | jidh fudud oo dhexe | jidh madaw | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼" type="tts">dad leh dhaggo bakayle: jidh madaw, jidh fudud oo dhexe</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽">dad leh dhaggo bakayle | dhag bakayle | jidh madaw | jidh nooc dhexe | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽" type="tts">dad leh dhaggo bakayle: jidh madaw, jidh nooc dhexe</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾">dad leh dhaggo bakayle | dhag bakayle | jidh madaw | jidh nooc madaw oo dhexe | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾" type="tts">dad leh dhaggo bakayle: jidh madaw, jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="🧑🏻‍🩰">jidh fudud | qoob ka ciyaare | qoob ka ciyaareedka faneed</annotation>
+		<annotation cp="🧑🏻‍🩰" type="tts">qoob ka ciyaare faneed: jidh fudud</annotation>
+		<annotation cp="🧑🏼‍🩰">jidh fudud oo dhexe | qoob ka ciyaare | qoob ka ciyaareedka faneed</annotation>
+		<annotation cp="🧑🏼‍🩰" type="tts">qoob ka ciyaare faneed: jidh fudud oo dhexe</annotation>
+		<annotation cp="🧑🏽‍🩰">jidh nooc dhexe | qoob ka ciyaare | qoob ka ciyaareedka faneed</annotation>
+		<annotation cp="🧑🏽‍🩰" type="tts">qoob ka ciyaare faneed: jidh nooc dhexe</annotation>
+		<annotation cp="🧑🏾‍🩰">jidh nooc madaw oo dhexe | qoob ka ciyaare | qoob ka ciyaareedka faneed</annotation>
+		<annotation cp="🧑🏾‍🩰" type="tts">qoob ka ciyaare faneed: jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="🧑🏿‍🩰">jidh madaw | qoob ka ciyaare | qoob ka ciyaareedka faneed</annotation>
+		<annotation cp="🧑🏿‍🩰" type="tts">qoob ka ciyaare faneed: jidh madaw</annotation>
 		<annotation cp="👨🏻">jidh fudud | nin | ninka | qof weyn</annotation>
 		<annotation cp="👨🏻" type="tts">ninka: jidh fudud</annotation>
 		<annotation cp="👨🏼">jidh fudud oo dhexe | nin | ninka | qof weyn</annotation>
@@ -771,6 +861,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♂" type="tts">nin: jidh nooc madaw oo dhexe, timo cad</annotation>
 		<annotation cp="👱🏿‍♂">jidh madaw | nin | nin timo cad | nin: timo cad | timo | timo cad</annotation>
 		<annotation cp="👱🏿‍♂" type="tts">nin: jidh madaw, timo cad</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼">jidh fudud | jidh fudud oo dhexe | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼" type="tts">rag lagdamaya: jidh fudud, jidh fudud oo dhexe</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽">jidh fudud | jidh nooc dhexe | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽" type="tts">rag lagdamaya: jidh fudud, jidh nooc dhexe</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾">jidh fudud | jidh nooc madaw oo dhexe | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾" type="tts">rag lagdamaya: jidh fudud, jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿">jidh fudud | jidh madaw | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿" type="tts">rag lagdamaya: jidh fudud, jidh madaw</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻">jidh fudud | jidh fudud oo dhexe | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻" type="tts">rag lagdamaya: jidh fudud oo dhexe, jidh fudud</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽">jidh fudud oo dhexe | jidh nooc dhexe | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽" type="tts">rag lagdamaya: jidh fudud oo dhexe, jidh nooc dhexe</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾">jidh fudud oo dhexe | jidh nooc madaw oo dhexe | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾" type="tts">rag lagdamaya: jidh fudud oo dhexe, jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿">jidh fudud oo dhexe | jidh madaw | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿" type="tts">rag lagdamaya: jidh fudud oo dhexe, jidh madaw</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻">jidh fudud | jidh nooc dhexe | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻" type="tts">rag lagdamaya: jidh nooc dhexe, jidh fudud</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼">jidh fudud oo dhexe | jidh nooc dhexe | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼" type="tts">rag lagdamaya: jidh nooc dhexe, jidh fudud oo dhexe</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾">jidh nooc dhexe | jidh nooc madaw oo dhexe | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾" type="tts">rag lagdamaya: jidh nooc dhexe, jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿">jidh madaw | jidh nooc dhexe | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿" type="tts">rag lagdamaya: jidh nooc dhexe, jidh madaw</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻">jidh fudud | jidh nooc madaw oo dhexe | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻" type="tts">rag lagdamaya: jidh nooc madaw oo dhexe, jidh fudud</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼">jidh fudud oo dhexe | jidh nooc madaw oo dhexe | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼" type="tts">rag lagdamaya: jidh nooc madaw oo dhexe, jidh fudud oo dhexe</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽">jidh nooc dhexe | jidh nooc madaw oo dhexe | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽" type="tts">rag lagdamaya: jidh nooc madaw oo dhexe, jidh nooc dhexe</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿">jidh madaw | jidh nooc madaw oo dhexe | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿" type="tts">rag lagdamaya: jidh nooc madaw oo dhexe, jidh madaw</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻">jidh fudud | jidh madaw | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻" type="tts">rag lagdamaya: jidh madaw, jidh fudud</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼">jidh fudud oo dhexe | jidh madaw | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼" type="tts">rag lagdamaya: jidh madaw, jidh fudud oo dhexe</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽">jidh madaw | jidh nooc dhexe | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽" type="tts">rag lagdamaya: jidh madaw, jidh nooc dhexe</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾">jidh madaw | jidh nooc madaw oo dhexe | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾" type="tts">rag lagdamaya: jidh madaw, jidh nooc madaw oo dhexe</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻">jidh fudud | lammaane | ninka | shumis</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻" type="tts">shumis: ninka, ninka, jidh fudud</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏼">jidh fudud | jidh fudud oo dhexe | lammaane | ninka | shumis</annotation>
@@ -919,6 +1049,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦲" type="tts">ninka: jidh nooc madaw oo dhexe, bidaar</annotation>
 		<annotation cp="👨🏿‍🦲">bidaar | jidh madaw | nin | ninka | qof weyn</annotation>
 		<annotation cp="👨🏿‍🦲" type="tts">ninka: jidh madaw, bidaar</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼">dhag bakayle | jidh fudud | jidh fudud oo dhexe | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼" type="tts">rag leh dhaggo bakayle: jidh fudud, jidh fudud oo dhexe</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽">dhag bakayle | jidh fudud | jidh nooc dhexe | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽" type="tts">rag leh dhaggo bakayle: jidh fudud, jidh nooc dhexe</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾">dhag bakayle | jidh fudud | jidh nooc madaw oo dhexe | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾" type="tts">rag leh dhaggo bakayle: jidh fudud, jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿">dhag bakayle | jidh fudud | jidh madaw | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿" type="tts">rag leh dhaggo bakayle: jidh fudud, jidh madaw</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻">dhag bakayle | jidh fudud | jidh fudud oo dhexe | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻" type="tts">rag leh dhaggo bakayle: jidh fudud oo dhexe, jidh fudud</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽">dhag bakayle | jidh fudud oo dhexe | jidh nooc dhexe | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽" type="tts">rag leh dhaggo bakayle: jidh fudud oo dhexe, jidh nooc dhexe</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾">dhag bakayle | jidh fudud oo dhexe | jidh nooc madaw oo dhexe | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾" type="tts">rag leh dhaggo bakayle: jidh fudud oo dhexe, jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿">dhag bakayle | jidh fudud oo dhexe | jidh madaw | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿" type="tts">rag leh dhaggo bakayle: jidh fudud oo dhexe, jidh madaw</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻">dhag bakayle | jidh fudud | jidh nooc dhexe | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻" type="tts">rag leh dhaggo bakayle: jidh nooc dhexe, jidh fudud</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼">dhag bakayle | jidh fudud oo dhexe | jidh nooc dhexe | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼" type="tts">rag leh dhaggo bakayle: jidh nooc dhexe, jidh fudud oo dhexe</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾">dhag bakayle | jidh nooc dhexe | jidh nooc madaw oo dhexe | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾" type="tts">rag leh dhaggo bakayle: jidh nooc dhexe, jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿">dhag bakayle | jidh madaw | jidh nooc dhexe | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿" type="tts">rag leh dhaggo bakayle: jidh nooc dhexe, jidh madaw</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻">dhag bakayle | jidh fudud | jidh nooc madaw oo dhexe | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻" type="tts">rag leh dhaggo bakayle: jidh nooc madaw oo dhexe, jidh fudud</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼">dhag bakayle | jidh fudud oo dhexe | jidh nooc madaw oo dhexe | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼" type="tts">rag leh dhaggo bakayle: jidh nooc madaw oo dhexe, jidh fudud oo dhexe</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽">dhag bakayle | jidh nooc dhexe | jidh nooc madaw oo dhexe | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽" type="tts">rag leh dhaggo bakayle: jidh nooc madaw oo dhexe, jidh nooc dhexe</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿">dhag bakayle | jidh madaw | jidh nooc madaw oo dhexe | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿" type="tts">rag leh dhaggo bakayle: jidh nooc madaw oo dhexe, jidh madaw</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻">dhag bakayle | jidh fudud | jidh madaw | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻" type="tts">rag leh dhaggo bakayle: jidh madaw, jidh fudud</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼">dhag bakayle | jidh fudud oo dhexe | jidh madaw | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼" type="tts">rag leh dhaggo bakayle: jidh madaw, jidh fudud oo dhexe</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽">dhag bakayle | jidh madaw | jidh nooc dhexe | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽" type="tts">rag leh dhaggo bakayle: jidh madaw, jidh nooc dhexe</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾">dhag bakayle | jidh madaw | jidh nooc madaw oo dhexe | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾" type="tts">rag leh dhaggo bakayle: jidh madaw, jidh nooc madaw oo dhexe</annotation>
 		<annotation cp="👩🏻">jidh fudud | naag | qof weyn</annotation>
 		<annotation cp="👩🏻" type="tts">naag: jidh fudud</annotation>
 		<annotation cp="👩🏼">jidh fudud oo dhexe | naag | qof weyn</annotation>
@@ -949,6 +1119,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♀" type="tts">naag: jidh nooc madaw oo dhexe, timo cad</annotation>
 		<annotation cp="👱🏿‍♀">jidh madaw | naag | naag timo cad | naag: timo cad | timo | timo cad</annotation>
 		<annotation cp="👱🏿‍♀" type="tts">naag: jidh madaw, timo cad</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼">jidh fudud | jidh fudud oo dhexe | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼" type="tts">naaga lagdamaya: jidh fudud, jidh fudud oo dhexe</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽">jidh fudud | jidh nooc dhexe | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽" type="tts">naaga lagdamaya: jidh fudud, jidh nooc dhexe</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾">jidh fudud | jidh nooc madaw oo dhexe | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾" type="tts">naaga lagdamaya: jidh fudud, jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿">jidh fudud | jidh madaw | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿" type="tts">naaga lagdamaya: jidh fudud, jidh madaw</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻">jidh fudud | jidh fudud oo dhexe | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻" type="tts">naaga lagdamaya: jidh fudud oo dhexe, jidh fudud</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽">jidh fudud oo dhexe | jidh nooc dhexe | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽" type="tts">naaga lagdamaya: jidh fudud oo dhexe, jidh nooc dhexe</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾">jidh fudud oo dhexe | jidh nooc madaw oo dhexe | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾" type="tts">naaga lagdamaya: jidh fudud oo dhexe, jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿">jidh fudud oo dhexe | jidh madaw | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿" type="tts">naaga lagdamaya: jidh fudud oo dhexe, jidh madaw</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻">jidh fudud | jidh nooc dhexe | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻" type="tts">naaga lagdamaya: jidh nooc dhexe, jidh fudud</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼">jidh fudud oo dhexe | jidh nooc dhexe | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼" type="tts">naaga lagdamaya: jidh nooc dhexe, jidh fudud oo dhexe</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾">jidh nooc dhexe | jidh nooc madaw oo dhexe | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾" type="tts">naaga lagdamaya: jidh nooc dhexe, jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿">jidh madaw | jidh nooc dhexe | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿" type="tts">naaga lagdamaya: jidh nooc dhexe, jidh madaw</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻">jidh fudud | jidh nooc madaw oo dhexe | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻" type="tts">naaga lagdamaya: jidh nooc madaw oo dhexe, jidh fudud</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼">jidh fudud oo dhexe | jidh nooc madaw oo dhexe | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼" type="tts">naaga lagdamaya: jidh nooc madaw oo dhexe, jidh fudud oo dhexe</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽">jidh nooc dhexe | jidh nooc madaw oo dhexe | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽" type="tts">naaga lagdamaya: jidh nooc madaw oo dhexe, jidh nooc dhexe</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿">jidh madaw | jidh nooc madaw oo dhexe | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿" type="tts">naaga lagdamaya: jidh nooc madaw oo dhexe, jidh madaw</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻">jidh fudud | jidh madaw | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻" type="tts">naaga lagdamaya: jidh madaw, jidh fudud</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼">jidh fudud oo dhexe | jidh madaw | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼" type="tts">naaga lagdamaya: jidh madaw, jidh fudud oo dhexe</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽">jidh madaw | jidh nooc dhexe | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽" type="tts">naaga lagdamaya: jidh madaw, jidh nooc dhexe</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾">jidh madaw | jidh nooc madaw oo dhexe | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾" type="tts">naaga lagdamaya: jidh madaw, jidh nooc madaw oo dhexe</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻">jidh fudud | lammaane | naag | ninka | shumis</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻" type="tts">shumis: naag, ninka, jidh fudud</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏼">jidh fudud | jidh fudud oo dhexe | lammaane | naag | ninka | shumis</annotation>
@@ -1197,6 +1407,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦲" type="tts">naag: jidh nooc madaw oo dhexe, bidaar</annotation>
 		<annotation cp="👩🏿‍🦲">bidaar | jidh madaw | naag | qof weyn</annotation>
 		<annotation cp="👩🏿‍🦲" type="tts">naag: jidh madaw, bidaar</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼">dhag bakayle | jidh fudud | jidh fudud oo dhexe | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼" type="tts">naag leh dhaggo bakayle: jidh fudud, jidh fudud oo dhexe</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽">dhag bakayle | jidh fudud | jidh nooc dhexe | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽" type="tts">naag leh dhaggo bakayle: jidh fudud, jidh nooc dhexe</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾">dhag bakayle | jidh fudud | jidh nooc madaw oo dhexe | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾" type="tts">naag leh dhaggo bakayle: jidh fudud, jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿">dhag bakayle | jidh fudud | jidh madaw | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿" type="tts">naag leh dhaggo bakayle: jidh fudud, jidh madaw</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻">dhag bakayle | jidh fudud | jidh fudud oo dhexe | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻" type="tts">naag leh dhaggo bakayle: jidh fudud oo dhexe, jidh fudud</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽">dhag bakayle | jidh fudud oo dhexe | jidh nooc dhexe | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽" type="tts">naag leh dhaggo bakayle: jidh fudud oo dhexe, jidh nooc dhexe</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾">dhag bakayle | jidh fudud oo dhexe | jidh nooc madaw oo dhexe | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾" type="tts">naag leh dhaggo bakayle: jidh fudud oo dhexe, jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿">dhag bakayle | jidh fudud oo dhexe | jidh madaw | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿" type="tts">naag leh dhaggo bakayle: jidh fudud oo dhexe, jidh madaw</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻">dhag bakayle | jidh fudud | jidh nooc dhexe | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻" type="tts">naag leh dhaggo bakayle: jidh nooc dhexe, jidh fudud</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼">dhag bakayle | jidh fudud oo dhexe | jidh nooc dhexe | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼" type="tts">naag leh dhaggo bakayle: jidh nooc dhexe, jidh fudud oo dhexe</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾">dhag bakayle | jidh nooc dhexe | jidh nooc madaw oo dhexe | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾" type="tts">naag leh dhaggo bakayle: jidh nooc dhexe, jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿">dhag bakayle | jidh madaw | jidh nooc dhexe | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿" type="tts">naag leh dhaggo bakayle: jidh nooc dhexe, jidh madaw</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻">dhag bakayle | jidh fudud | jidh nooc madaw oo dhexe | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻" type="tts">naag leh dhaggo bakayle: jidh nooc madaw oo dhexe, jidh fudud</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼">dhag bakayle | jidh fudud oo dhexe | jidh nooc madaw oo dhexe | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼" type="tts">naag leh dhaggo bakayle: jidh nooc madaw oo dhexe, jidh fudud oo dhexe</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽">dhag bakayle | jidh nooc dhexe | jidh nooc madaw oo dhexe | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽" type="tts">naag leh dhaggo bakayle: jidh nooc madaw oo dhexe, jidh nooc dhexe</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿">dhag bakayle | jidh madaw | jidh nooc madaw oo dhexe | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿" type="tts">naag leh dhaggo bakayle: jidh nooc madaw oo dhexe, jidh madaw</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻">dhag bakayle | jidh fudud | jidh madaw | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻" type="tts">naag leh dhaggo bakayle: jidh madaw, jidh fudud</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼">dhag bakayle | jidh fudud oo dhexe | jidh madaw | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼" type="tts">naag leh dhaggo bakayle: jidh madaw, jidh fudud oo dhexe</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽">dhag bakayle | jidh madaw | jidh nooc dhexe | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽" type="tts">naag leh dhaggo bakayle: jidh madaw, jidh nooc dhexe</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾">dhag bakayle | jidh madaw | jidh nooc madaw oo dhexe | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾" type="tts">naag leh dhaggo bakayle: jidh madaw, jidh nooc madaw oo dhexe</annotation>
 		<annotation cp="🧓🏻">dhexdehexaadnimada jinsiga | jansiga aan la sheegin | jidh fudud | qof weyn | weyn</annotation>
 		<annotation cp="🧓🏻" type="tts">qof weyn: jidh fudud</annotation>
 		<annotation cp="🧓🏼">dhexdehexaadnimada jinsiga | jansiga aan la sheegin | jidh fudud oo dhexe | qof weyn | weyn</annotation>
@@ -2687,42 +2937,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🚶🏾‍♀" type="tts">haweeney soconaysa: jidh nooc madaw oo dhexe</annotation>
 		<annotation cp="🚶🏿‍♀">haweeney soconaysa | jidh madaw | naag | naag socota | socod | socod dheer</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">haweeney soconaysa: jidh madaw</annotation>
-		<annotation cp="🚶‍➡">qof soconaya | socod | socod dheer | socodka</annotation>
-		<annotation cp="🚶‍➡" type="tts">qof soconaya midig u jeeda</annotation>
-		<annotation cp="🚶🏻‍➡">qof soconaya | socod | socod dheer | socodka</annotation>
-		<annotation cp="🚶🏻‍➡" type="tts">qof soconaya midig u jeeda</annotation>
-		<annotation cp="🚶🏼‍➡">qof soconaya | socod | socod dheer | socodka</annotation>
-		<annotation cp="🚶🏼‍➡" type="tts">qof soconaya midig u jeeda</annotation>
-		<annotation cp="🚶🏽‍➡">qof soconaya | socod | socod dheer | socodka</annotation>
-		<annotation cp="🚶🏽‍➡" type="tts">qof soconaya midig u jeeda</annotation>
-		<annotation cp="🚶🏾‍➡">qof soconaya | socod | socod dheer | socodka</annotation>
-		<annotation cp="🚶🏾‍➡" type="tts">qof soconaya midig u jeeda</annotation>
-		<annotation cp="🚶🏿‍➡">qof soconaya | socod | socod dheer | socodka</annotation>
-		<annotation cp="🚶🏿‍➡" type="tts">qof soconaya midig u jeeda</annotation>
-		<annotation cp="🚶‍♀‍➡">haweeney soconaysa | naag | naag socota | socod | socod dheer</annotation>
-		<annotation cp="🚶‍♀‍➡" type="tts">haweeney soconaysa midig u jeeda</annotation>
-		<annotation cp="🚶🏻‍♀‍➡">haweeney soconaysa | naag | naag socota | socod | socod dheer</annotation>
-		<annotation cp="🚶🏻‍♀‍➡" type="tts">haweeney soconaysa midig u jeeda</annotation>
-		<annotation cp="🚶🏼‍♀‍➡">haweeney soconaysa | naag | naag socota | socod | socod dheer</annotation>
-		<annotation cp="🚶🏼‍♀‍➡" type="tts">haweeney soconaysa midig u jeeda</annotation>
-		<annotation cp="🚶🏽‍♀‍➡">haweeney soconaysa | naag | naag socota | socod | socod dheer</annotation>
-		<annotation cp="🚶🏽‍♀‍➡" type="tts">haweeney soconaysa midig u jeeda</annotation>
-		<annotation cp="🚶🏾‍♀‍➡">haweeney soconaysa | naag | naag socota | socod | socod dheer</annotation>
-		<annotation cp="🚶🏾‍♀‍➡" type="tts">haweeney soconaysa midig u jeeda</annotation>
-		<annotation cp="🚶🏿‍♀‍➡">haweeney soconaysa | naag | naag socota | socod | socod dheer</annotation>
-		<annotation cp="🚶🏿‍♀‍➡" type="tts">haweeney soconaysa midig u jeeda</annotation>
-		<annotation cp="🚶‍♂‍➡">nin | nin soconaya | socod | socod dheer</annotation>
-		<annotation cp="🚶‍♂‍➡" type="tts">nin soconaya midig u jeeda</annotation>
-		<annotation cp="🚶🏻‍♂‍➡">nin | nin soconaya | socod | socod dheer</annotation>
-		<annotation cp="🚶🏻‍♂‍➡" type="tts">nin soconaya midig u jeeda</annotation>
-		<annotation cp="🚶🏼‍♂‍➡">nin | nin soconaya | socod | socod dheer</annotation>
-		<annotation cp="🚶🏼‍♂‍➡" type="tts">nin soconaya midig u jeeda</annotation>
-		<annotation cp="🚶🏽‍♂‍➡">nin | nin soconaya | socod | socod dheer</annotation>
-		<annotation cp="🚶🏽‍♂‍➡" type="tts">nin soconaya midig u jeeda</annotation>
-		<annotation cp="🚶🏾‍♂‍➡">nin | nin soconaya | socod | socod dheer</annotation>
-		<annotation cp="🚶🏾‍♂‍➡" type="tts">nin soconaya midig u jeeda</annotation>
-		<annotation cp="🚶🏿‍♂‍➡">nin | nin soconaya | socod | socod dheer</annotation>
-		<annotation cp="🚶🏿‍♂‍➡" type="tts">nin soconaya midig u jeeda</annotation>
+		<annotation cp="🚶‍➡">jeeda | midig | qof soconaya | socod | socod dheer | socodka | u</annotation>
+		<annotation cp="🚶‍➡" type="tts">qof soconaya: midig u jeeda</annotation>
+		<annotation cp="🚶🏻‍➡">jeeda | jidh fudud | midig | qof soconaya | socod | socod dheer | socodka | u</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">qof soconaya: jidh fudud, midig u jeeda</annotation>
+		<annotation cp="🚶🏼‍➡">jeeda | jidh fudud oo dhexe | midig | qof soconaya | socod | socod dheer | socodka | u</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">qof soconaya: jidh fudud oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🚶🏽‍➡">jeeda | jidh nooc dhexe | midig | qof soconaya | socod | socod dheer | socodka | u</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">qof soconaya: jidh nooc dhexe, midig u jeeda</annotation>
+		<annotation cp="🚶🏾‍➡">jeeda | jidh nooc madaw oo dhexe | midig | qof soconaya | socod | socod dheer | socodka | u</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">qof soconaya: jidh nooc madaw oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🚶🏿‍➡">jeeda | jidh madaw | midig | qof soconaya | socod | socod dheer | socodka | u</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">qof soconaya: jidh madaw, midig u jeeda</annotation>
+		<annotation cp="🚶‍♀‍➡">haweeney soconaysa | jeeda | midig | naag | naag socota | socod | socod dheer | u</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">haweeney soconaysa: midig u jeeda</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">haweeney soconaysa | jeeda | jidh fudud | midig | naag | naag socota | socod | socod dheer | u</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">haweeney soconaysa: jidh fudud, midig u jeeda</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">haweeney soconaysa | jeeda | jidh fudud oo dhexe | midig | naag | naag socota | socod | socod dheer | u</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">haweeney soconaysa: jidh fudud oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">haweeney soconaysa | jeeda | jidh nooc dhexe | midig | naag | naag socota | socod | socod dheer | u</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">haweeney soconaysa: jidh nooc dhexe, midig u jeeda</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">haweeney soconaysa | jeeda | jidh nooc madaw oo dhexe | midig | naag | naag socota | socod | socod dheer | u</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">haweeney soconaysa: jidh nooc madaw oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">haweeney soconaysa | jeeda | jidh madaw | midig | naag | naag socota | socod | socod dheer | u</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">haweeney soconaysa: jidh madaw, midig u jeeda</annotation>
+		<annotation cp="🚶‍♂‍➡">jeeda | midig | nin | nin soconaya | socod | socod dheer | u</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">nin soconaya: midig u jeeda</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">jeeda | jidh fudud | midig | nin | nin soconaya | socod | socod dheer | u</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">nin soconaya: jidh fudud, midig u jeeda</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">jeeda | jidh fudud oo dhexe | midig | nin | nin soconaya | socod | socod dheer | u</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">nin soconaya: jidh fudud oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">jeeda | jidh nooc dhexe | midig | nin | nin soconaya | socod | socod dheer | u</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">nin soconaya: jidh nooc dhexe, midig u jeeda</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">jeeda | jidh nooc madaw oo dhexe | midig | nin | nin soconaya | socod | socod dheer | u</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">nin soconaya: jidh nooc madaw oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">jeeda | jidh madaw | midig | nin | nin soconaya | socod | socod dheer | u</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">nin soconaya: jidh madaw, midig u jeeda</annotation>
 		<annotation cp="🧍🏻">istaag | jidh fudud | qof taaggan | taaggan</annotation>
 		<annotation cp="🧍🏻" type="tts">qof taaggan: jidh fudud</annotation>
 		<annotation cp="🧍🏼">istaag | jidh fudud oo dhexe | qof taaggan | taaggan</annotation>
@@ -2783,42 +3033,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧎🏾‍♀" type="tts">naag jilba dhiganaysa: jidh nooc madaw oo dhexe</annotation>
 		<annotation cp="🧎🏿‍♀">jidh madaw | jilba dhiganayasa | naag | naag jilba dhiganaysa</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">naag jilba dhiganaysa: jidh madaw</annotation>
-		<annotation cp="🧎‍➡">jilba dhiganaya | jilba dhigo | qof jilbaha dhiganaya</annotation>
-		<annotation cp="🧎‍➡" type="tts">qof jilbaha dhiganaya midig u jeeda</annotation>
-		<annotation cp="🧎🏻‍➡">jilba dhiganaya | jilba dhigo | qof jilbaha dhiganaya</annotation>
-		<annotation cp="🧎🏻‍➡" type="tts">qof jilbaha dhiganaya midig u jeeda</annotation>
-		<annotation cp="🧎🏼‍➡">jilba dhiganaya | jilba dhigo | qof jilbaha dhiganaya</annotation>
-		<annotation cp="🧎🏼‍➡" type="tts">qof jilbaha dhiganaya midig u jeeda</annotation>
-		<annotation cp="🧎🏽‍➡">jilba dhiganaya | jilba dhigo | qof jilbaha dhiganaya</annotation>
-		<annotation cp="🧎🏽‍➡" type="tts">qof jilbaha dhiganaya midig u jeeda</annotation>
-		<annotation cp="🧎🏾‍➡">jilba dhiganaya | jilba dhigo | qof jilbaha dhiganaya</annotation>
-		<annotation cp="🧎🏾‍➡" type="tts">qof jilbaha dhiganaya midig u jeeda</annotation>
-		<annotation cp="🧎🏿‍➡">jilba dhiganaya | jilba dhigo | qof jilbaha dhiganaya</annotation>
-		<annotation cp="🧎🏿‍➡" type="tts">qof jilbaha dhiganaya midig u jeeda</annotation>
-		<annotation cp="🧎‍♀‍➡">jilba dhiganayasa | naag | naag jilba dhiganaysa</annotation>
-		<annotation cp="🧎‍♀‍➡" type="tts">naag jilba dhiganaysa midig u jeeda</annotation>
-		<annotation cp="🧎🏻‍♀‍➡">jilba dhiganayasa | naag | naag jilba dhiganaysa</annotation>
-		<annotation cp="🧎🏻‍♀‍➡" type="tts">naag jilba dhiganaysa midig u jeeda</annotation>
-		<annotation cp="🧎🏼‍♀‍➡">jilba dhiganayasa | naag | naag jilba dhiganaysa</annotation>
-		<annotation cp="🧎🏼‍♀‍➡" type="tts">naag jilba dhiganaysa midig u jeeda</annotation>
-		<annotation cp="🧎🏽‍♀‍➡">jilba dhiganayasa | naag | naag jilba dhiganaysa</annotation>
-		<annotation cp="🧎🏽‍♀‍➡" type="tts">naag jilba dhiganaysa midig u jeeda</annotation>
-		<annotation cp="🧎🏾‍♀‍➡">jilba dhiganayasa | naag | naag jilba dhiganaysa</annotation>
-		<annotation cp="🧎🏾‍♀‍➡" type="tts">naag jilba dhiganaysa midig u jeeda</annotation>
-		<annotation cp="🧎🏿‍♀‍➡">jilba dhiganayasa | naag | naag jilba dhiganaysa</annotation>
-		<annotation cp="🧎🏿‍♀‍➡" type="tts">naag jilba dhiganaysa midig u jeeda</annotation>
-		<annotation cp="🧎‍♂‍➡">jilba dhiganaya | nin | nin jilba dhiganaya</annotation>
-		<annotation cp="🧎‍♂‍➡" type="tts">nin jilba dhiganaya midig u jeeda</annotation>
-		<annotation cp="🧎🏻‍♂‍➡">jilba dhiganaya | nin | nin jilba dhiganaya</annotation>
-		<annotation cp="🧎🏻‍♂‍➡" type="tts">nin jilba dhiganaya midig u jeeda</annotation>
-		<annotation cp="🧎🏼‍♂‍➡">jilba dhiganaya | nin | nin jilba dhiganaya</annotation>
-		<annotation cp="🧎🏼‍♂‍➡" type="tts">nin jilba dhiganaya midig u jeeda</annotation>
-		<annotation cp="🧎🏽‍♂‍➡">jilba dhiganaya | nin | nin jilba dhiganaya</annotation>
-		<annotation cp="🧎🏽‍♂‍➡" type="tts">nin jilba dhiganaya midig u jeeda</annotation>
-		<annotation cp="🧎🏾‍♂‍➡">jilba dhiganaya | nin | nin jilba dhiganaya</annotation>
-		<annotation cp="🧎🏾‍♂‍➡" type="tts">nin jilba dhiganaya midig u jeeda</annotation>
-		<annotation cp="🧎🏿‍♂‍➡">jilba dhiganaya | nin | nin jilba dhiganaya</annotation>
-		<annotation cp="🧎🏿‍♂‍➡" type="tts">nin jilba dhiganaya midig u jeeda</annotation>
+		<annotation cp="🧎‍➡">jeeda | jilba dhiganaya | jilba dhigo | midig | qof jilbaha dhiganaya | u</annotation>
+		<annotation cp="🧎‍➡" type="tts">qof jilbaha dhiganaya: midig u jeeda</annotation>
+		<annotation cp="🧎🏻‍➡">jeeda | jidh fudud | jilba dhiganaya | jilba dhigo | midig | qof jilbaha dhiganaya | u</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">qof jilbaha dhiganaya: jidh fudud, midig u jeeda</annotation>
+		<annotation cp="🧎🏼‍➡">jeeda | jidh fudud oo dhexe | jilba dhiganaya | jilba dhigo | midig | qof jilbaha dhiganaya | u</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">qof jilbaha dhiganaya: jidh fudud oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🧎🏽‍➡">jeeda | jidh nooc dhexe | jilba dhiganaya | jilba dhigo | midig | qof jilbaha dhiganaya | u</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">qof jilbaha dhiganaya: jidh nooc dhexe, midig u jeeda</annotation>
+		<annotation cp="🧎🏾‍➡">jeeda | jidh nooc madaw oo dhexe | jilba dhiganaya | jilba dhigo | midig | qof jilbaha dhiganaya | u</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">qof jilbaha dhiganaya: jidh nooc madaw oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🧎🏿‍➡">jeeda | jidh madaw | jilba dhiganaya | jilba dhigo | midig | qof jilbaha dhiganaya | u</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">qof jilbaha dhiganaya: jidh madaw, midig u jeeda</annotation>
+		<annotation cp="🧎‍♀‍➡">jeeda | jilba dhiganayasa | midig | naag | naag jilba dhiganaysa | u</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">naag jilba dhiganaysa: midig u jeeda</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">jeeda | jidh fudud | jilba dhiganayasa | midig | naag | naag jilba dhiganaysa | u</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">naag jilba dhiganaysa: jidh fudud, midig u jeeda</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">jeeda | jidh fudud oo dhexe | jilba dhiganayasa | midig | naag | naag jilba dhiganaysa | u</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">naag jilba dhiganaysa: jidh fudud oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">jeeda | jidh nooc dhexe | jilba dhiganayasa | midig | naag | naag jilba dhiganaysa | u</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">naag jilba dhiganaysa: jidh nooc dhexe, midig u jeeda</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">jeeda | jidh nooc madaw oo dhexe | jilba dhiganayasa | midig | naag | naag jilba dhiganaysa | u</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">naag jilba dhiganaysa: jidh nooc madaw oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">jeeda | jidh madaw | jilba dhiganayasa | midig | naag | naag jilba dhiganaysa | u</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">naag jilba dhiganaysa: jidh madaw, midig u jeeda</annotation>
+		<annotation cp="🧎‍♂‍➡">jeeda | jilba dhiganaya | midig | nin | nin jilba dhiganaya | u</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">nin jilba dhiganaya: midig u jeeda</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">jeeda | jidh fudud | jilba dhiganaya | midig | nin | nin jilba dhiganaya | u</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">nin jilba dhiganaya: jidh fudud, midig u jeeda</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">jeeda | jidh fudud oo dhexe | jilba dhiganaya | midig | nin | nin jilba dhiganaya | u</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">nin jilba dhiganaya: jidh fudud oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">jeeda | jidh nooc dhexe | jilba dhiganaya | midig | nin | nin jilba dhiganaya | u</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">nin jilba dhiganaya: jidh nooc dhexe, midig u jeeda</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">jeeda | jidh nooc madaw oo dhexe | jilba dhiganaya | midig | nin | nin jilba dhiganaya | u</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">nin jilba dhiganaya: jidh nooc madaw oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">jeeda | jidh madaw | jilba dhiganaya | midig | nin | nin jilba dhiganaya | u</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">nin jilba dhiganaya: jidh madaw, midig u jeeda</annotation>
 		<annotation cp="🧑🏻‍🦯">indhoole | jidh fudud | marin u helid | qof wata bakoorad cas</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">qof wata bakoorad cas: jidh fudud</annotation>
 		<annotation cp="🧑🏼‍🦯">indhoole | jidh fudud oo dhexe | marin u helid | qof wata bakoorad cas</annotation>
@@ -2829,18 +3079,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦯" type="tts">qof wata bakoorad cas: jidh nooc madaw oo dhexe</annotation>
 		<annotation cp="🧑🏿‍🦯">indhoole | jidh madaw | marin u helid | qof wata bakoorad cas</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">qof wata bakoorad cas: jidh madaw</annotation>
-		<annotation cp="🧑‍🦯‍➡">indhoole | marin u helid | qof wata bakoorad cas</annotation>
-		<annotation cp="🧑‍🦯‍➡" type="tts">qof wata bakoorad cas midig u jeeda</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡">indhoole | marin u helid | qof wata bakoorad cas</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡" type="tts">qof wata bakoorad cas midig u jeeda</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡">indhoole | marin u helid | qof wata bakoorad cas</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡" type="tts">qof wata bakoorad cas midig u jeeda</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡">indhoole | marin u helid | qof wata bakoorad cas</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡" type="tts">qof wata bakoorad cas midig u jeeda</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡">indhoole | marin u helid | qof wata bakoorad cas</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡" type="tts">qof wata bakoorad cas midig u jeeda</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡">indhoole | marin u helid | qof wata bakoorad cas</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡" type="tts">qof wata bakoorad cas midig u jeeda</annotation>
+		<annotation cp="🧑‍🦯‍➡">indhoole | jeeda | marin u helid | midig | qof wata bakoorad cas | u</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">qof wata bakoorad cas: midig u jeeda</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">indhoole | jeeda | jidh fudud | marin u helid | midig | qof wata bakoorad cas | u</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">qof wata bakoorad cas: jidh fudud, midig u jeeda</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">indhoole | jeeda | jidh fudud oo dhexe | marin u helid | midig | qof wata bakoorad cas | u</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">qof wata bakoorad cas: jidh fudud oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">indhoole | jeeda | jidh nooc dhexe | marin u helid | midig | qof wata bakoorad cas | u</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">qof wata bakoorad cas: jidh nooc dhexe, midig u jeeda</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">indhoole | jeeda | jidh nooc madaw oo dhexe | marin u helid | midig | qof wata bakoorad cas | u</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">qof wata bakoorad cas: jidh nooc madaw oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">indhoole | jeeda | jidh madaw | marin u helid | midig | qof wata bakoorad cas | u</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">qof wata bakoorad cas: jidh madaw, midig u jeeda</annotation>
 		<annotation cp="👨🏻‍🦯">awood u yeelid | indhoole | jidh fudud | nin | nin sita usha cad indhoolaha</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">nin sita usha cad indhoolaha: jidh fudud</annotation>
 		<annotation cp="👨🏼‍🦯">awood u yeelid | indhoole | jidh fudud oo dhexe | nin | nin sita usha cad indhoolaha</annotation>
@@ -2851,18 +3101,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦯" type="tts">nin sita usha cad indhoolaha: jidh nooc madaw oo dhexe</annotation>
 		<annotation cp="👨🏿‍🦯">awood u yeelid | indhoole | jidh madaw | nin | nin sita usha cad indhoolaha</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">nin sita usha cad indhoolaha: jidh madaw</annotation>
-		<annotation cp="👨‍🦯‍➡">awood u yeelid | indhoole | nin | nin sita usha cad indhoolaha</annotation>
-		<annotation cp="👨‍🦯‍➡" type="tts">nin sita usha cad indhoolaha midig u jeeda</annotation>
-		<annotation cp="👨🏻‍🦯‍➡">awood u yeelid | indhoole | nin | nin sita usha cad indhoolaha</annotation>
-		<annotation cp="👨🏻‍🦯‍➡" type="tts">nin sita usha cad indhoolaha midig u jeeda</annotation>
-		<annotation cp="👨🏼‍🦯‍➡">awood u yeelid | indhoole | nin | nin sita usha cad indhoolaha</annotation>
-		<annotation cp="👨🏼‍🦯‍➡" type="tts">nin sita usha cad indhoolaha midig u jeeda</annotation>
-		<annotation cp="👨🏽‍🦯‍➡">awood u yeelid | indhoole | nin | nin sita usha cad indhoolaha</annotation>
-		<annotation cp="👨🏽‍🦯‍➡" type="tts">nin sita usha cad indhoolaha midig u jeeda</annotation>
-		<annotation cp="👨🏾‍🦯‍➡">awood u yeelid | indhoole | nin | nin sita usha cad indhoolaha</annotation>
-		<annotation cp="👨🏾‍🦯‍➡" type="tts">nin sita usha cad indhoolaha midig u jeeda</annotation>
-		<annotation cp="👨🏿‍🦯‍➡">awood u yeelid | indhoole | nin | nin sita usha cad indhoolaha</annotation>
-		<annotation cp="👨🏿‍🦯‍➡" type="tts">nin sita usha cad indhoolaha midig u jeeda</annotation>
+		<annotation cp="👨‍🦯‍➡">awood u yeelid | indhoole | jeeda | midig | nin | nin sita usha cad indhoolaha | u</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">nin sita usha cad indhoolaha: midig u jeeda</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">awood u yeelid | indhoole | jeeda | jidh fudud | midig | nin | nin sita usha cad indhoolaha | u</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">nin sita usha cad indhoolaha: jidh fudud, midig u jeeda</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">awood u yeelid | indhoole | jeeda | jidh fudud oo dhexe | midig | nin | nin sita usha cad indhoolaha | u</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">nin sita usha cad indhoolaha: jidh fudud oo dhexe, midig u jeeda</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">awood u yeelid | indhoole | jeeda | jidh nooc dhexe | midig | nin | nin sita usha cad indhoolaha | u</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">nin sita usha cad indhoolaha: jidh nooc dhexe, midig u jeeda</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">awood u yeelid | indhoole | jeeda | jidh nooc madaw oo dhexe | midig | nin | nin sita usha cad indhoolaha | u</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">nin sita usha cad indhoolaha: jidh nooc madaw oo dhexe, midig u jeeda</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">awood u yeelid | indhoole | jeeda | jidh madaw | midig | nin | nin sita usha cad indhoolaha | u</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">nin sita usha cad indhoolaha: jidh madaw, midig u jeeda</annotation>
 		<annotation cp="👩🏻‍🦯">awood u yeelid | indhoole | jidh fudud | naag | naag sidata usha cad indhoolaha</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">naag sidata usha cad indhoolaha: jidh fudud</annotation>
 		<annotation cp="👩🏼‍🦯">awood u yeelid | indhoole | jidh fudud oo dhexe | naag | naag sidata usha cad indhoolaha</annotation>
@@ -2873,18 +3123,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦯" type="tts">naag sidata usha cad indhoolaha: jidh nooc madaw oo dhexe</annotation>
 		<annotation cp="👩🏿‍🦯">awood u yeelid | indhoole | jidh madaw | naag | naag sidata usha cad indhoolaha</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">naag sidata usha cad indhoolaha: jidh madaw</annotation>
-		<annotation cp="👩‍🦯‍➡">awood u yeelid | indhoole | naag | naag sidata usha cad indhoolaha</annotation>
-		<annotation cp="👩‍🦯‍➡" type="tts">naag sidata usha cad indhoolaha midig u jeeda</annotation>
-		<annotation cp="👩🏻‍🦯‍➡">awood u yeelid | indhoole | naag | naag sidata usha cad indhoolaha</annotation>
-		<annotation cp="👩🏻‍🦯‍➡" type="tts">naag sidata usha cad indhoolaha midig u jeeda</annotation>
-		<annotation cp="👩🏼‍🦯‍➡">awood u yeelid | indhoole | naag | naag sidata usha cad indhoolaha</annotation>
-		<annotation cp="👩🏼‍🦯‍➡" type="tts">naag sidata usha cad indhoolaha midig u jeeda</annotation>
-		<annotation cp="👩🏽‍🦯‍➡">awood u yeelid | indhoole | naag | naag sidata usha cad indhoolaha</annotation>
-		<annotation cp="👩🏽‍🦯‍➡" type="tts">naag sidata usha cad indhoolaha midig u jeeda</annotation>
-		<annotation cp="👩🏾‍🦯‍➡">awood u yeelid | indhoole | naag | naag sidata usha cad indhoolaha</annotation>
-		<annotation cp="👩🏾‍🦯‍➡" type="tts">naag sidata usha cad indhoolaha midig u jeeda</annotation>
-		<annotation cp="👩🏿‍🦯‍➡">awood u yeelid | indhoole | naag | naag sidata usha cad indhoolaha</annotation>
-		<annotation cp="👩🏿‍🦯‍➡" type="tts">naag sidata usha cad indhoolaha midig u jeeda</annotation>
+		<annotation cp="👩‍🦯‍➡">awood u yeelid | indhoole | jeeda | midig | naag | naag sidata usha cad indhoolaha | u</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">naag sidata usha cad indhoolaha: midig u jeeda</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">awood u yeelid | indhoole | jeeda | jidh fudud | midig | naag | naag sidata usha cad indhoolaha | u</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">naag sidata usha cad indhoolaha: jidh fudud, midig u jeeda</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">awood u yeelid | indhoole | jeeda | jidh fudud oo dhexe | midig | naag | naag sidata usha cad indhoolaha | u</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">naag sidata usha cad indhoolaha: jidh fudud oo dhexe, midig u jeeda</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">awood u yeelid | indhoole | jeeda | jidh nooc dhexe | midig | naag | naag sidata usha cad indhoolaha | u</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">naag sidata usha cad indhoolaha: jidh nooc dhexe, midig u jeeda</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">awood u yeelid | indhoole | jeeda | jidh nooc madaw oo dhexe | midig | naag | naag sidata usha cad indhoolaha | u</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">naag sidata usha cad indhoolaha: jidh nooc madaw oo dhexe, midig u jeeda</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">awood u yeelid | indhoole | jeeda | jidh madaw | midig | naag | naag sidata usha cad indhoolaha | u</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">naag sidata usha cad indhoolaha: jidh madaw, midig u jeeda</annotation>
 		<annotation cp="🧑🏻‍🦼">awoood u yeelid | jidh fudud | qof kufadhiya gaari matoor leh | qof saaran gaari matoor leh/ gaari curyaan</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">qof kufadhiya gaari matoor leh: jidh fudud</annotation>
 		<annotation cp="🧑🏼‍🦼">awoood u yeelid | jidh fudud oo dhexe | qof kufadhiya gaari matoor leh | qof saaran gaari matoor leh/ gaari curyaan</annotation>
@@ -2895,18 +3145,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦼" type="tts">qof kufadhiya gaari matoor leh: jidh nooc madaw oo dhexe</annotation>
 		<annotation cp="🧑🏿‍🦼">awoood u yeelid | jidh madaw | qof kufadhiya gaari matoor leh | qof saaran gaari matoor leh/ gaari curyaan</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">qof kufadhiya gaari matoor leh: jidh madaw</annotation>
-		<annotation cp="🧑‍🦼‍➡">awoood u yeelid | qof kufadhiya gaari matoor leh | qof saaran gaari matoor leh/ gaari curyaan</annotation>
-		<annotation cp="🧑‍🦼‍➡" type="tts">qof kufadhiya gaari matoor leh midig u jeeda</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡">awoood u yeelid | qof kufadhiya gaari matoor leh | qof saaran gaari matoor leh/ gaari curyaan</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡" type="tts">qof kufadhiya gaari matoor leh midig u jeeda</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡">awoood u yeelid | qof kufadhiya gaari matoor leh | qof saaran gaari matoor leh/ gaari curyaan</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡" type="tts">qof kufadhiya gaari matoor leh midig u jeeda</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡">awoood u yeelid | qof kufadhiya gaari matoor leh | qof saaran gaari matoor leh/ gaari curyaan</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡" type="tts">qof kufadhiya gaari matoor leh midig u jeeda</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡">awoood u yeelid | qof kufadhiya gaari matoor leh | qof saaran gaari matoor leh/ gaari curyaan</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡" type="tts">qof kufadhiya gaari matoor leh midig u jeeda</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡">awoood u yeelid | qof kufadhiya gaari matoor leh | qof saaran gaari matoor leh/ gaari curyaan</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡" type="tts">qof kufadhiya gaari matoor leh midig u jeeda</annotation>
+		<annotation cp="🧑‍🦼‍➡">awoood u yeelid | jeeda | midig | qof kufadhiya gaari matoor leh | qof saaran gaari matoor leh/ gaari curyaan | u</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">qof kufadhiya gaari matoor leh: midig u jeeda</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">awoood u yeelid | jeeda | jidh fudud | midig | qof kufadhiya gaari matoor leh | qof saaran gaari matoor leh/ gaari curyaan | u</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">qof kufadhiya gaari matoor leh: jidh fudud, midig u jeeda</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">awoood u yeelid | jeeda | jidh fudud oo dhexe | midig | qof kufadhiya gaari matoor leh | qof saaran gaari matoor leh/ gaari curyaan | u</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">qof kufadhiya gaari matoor leh: jidh fudud oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">awoood u yeelid | jeeda | jidh nooc dhexe | midig | qof kufadhiya gaari matoor leh | qof saaran gaari matoor leh/ gaari curyaan | u</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">qof kufadhiya gaari matoor leh: jidh nooc dhexe, midig u jeeda</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">awoood u yeelid | jeeda | jidh nooc madaw oo dhexe | midig | qof kufadhiya gaari matoor leh | qof saaran gaari matoor leh/ gaari curyaan | u</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">qof kufadhiya gaari matoor leh: jidh nooc madaw oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">awoood u yeelid | jeeda | jidh madaw | midig | qof kufadhiya gaari matoor leh | qof saaran gaari matoor leh/ gaari curyaan | u</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">qof kufadhiya gaari matoor leh: jidh madaw, midig u jeeda</annotation>
 		<annotation cp="👨🏻‍🦼">awood u yeelid | jidh fudud | kursi curyaan | nin | nin saaran kursi curyaan matoor leh | nin saaran kursiga curyanka koronto ku shaqeeya</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">nin saaran kursi curyaan matoor leh: jidh fudud</annotation>
 		<annotation cp="👨🏼‍🦼">awood u yeelid | jidh fudud oo dhexe | kursi curyaan | nin | nin saaran kursi curyaan matoor leh | nin saaran kursiga curyanka koronto ku shaqeeya</annotation>
@@ -2917,18 +3167,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦼" type="tts">nin saaran kursi curyaan matoor leh: jidh nooc madaw oo dhexe</annotation>
 		<annotation cp="👨🏿‍🦼">awood u yeelid | jidh madaw | kursi curyaan | nin | nin saaran kursi curyaan matoor leh | nin saaran kursiga curyanka koronto ku shaqeeya</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">nin saaran kursi curyaan matoor leh: jidh madaw</annotation>
-		<annotation cp="👨‍🦼‍➡">awood u yeelid | kursi curyaan | nin | nin saaran kursi curyaan matoor leh | nin saaran kursiga curyanka koronto ku shaqeeya</annotation>
-		<annotation cp="👨‍🦼‍➡" type="tts">nin saaran kursi curyaan matoor leh midig u jeeda</annotation>
-		<annotation cp="👨🏻‍🦼‍➡">awood u yeelid | kursi curyaan | nin | nin saaran kursi curyaan matoor leh | nin saaran kursiga curyanka koronto ku shaqeeya</annotation>
-		<annotation cp="👨🏻‍🦼‍➡" type="tts">nin saaran kursi curyaan matoor leh midig u jeeda</annotation>
-		<annotation cp="👨🏼‍🦼‍➡">awood u yeelid | kursi curyaan | nin | nin saaran kursi curyaan matoor leh | nin saaran kursiga curyanka koronto ku shaqeeya</annotation>
-		<annotation cp="👨🏼‍🦼‍➡" type="tts">nin saaran kursi curyaan matoor leh midig u jeeda</annotation>
-		<annotation cp="👨🏽‍🦼‍➡">awood u yeelid | kursi curyaan | nin | nin saaran kursi curyaan matoor leh | nin saaran kursiga curyanka koronto ku shaqeeya</annotation>
-		<annotation cp="👨🏽‍🦼‍➡" type="tts">nin saaran kursi curyaan matoor leh midig u jeeda</annotation>
-		<annotation cp="👨🏾‍🦼‍➡">awood u yeelid | kursi curyaan | nin | nin saaran kursi curyaan matoor leh | nin saaran kursiga curyanka koronto ku shaqeeya</annotation>
-		<annotation cp="👨🏾‍🦼‍➡" type="tts">nin saaran kursi curyaan matoor leh midig u jeeda</annotation>
-		<annotation cp="👨🏿‍🦼‍➡">awood u yeelid | kursi curyaan | nin | nin saaran kursi curyaan matoor leh | nin saaran kursiga curyanka koronto ku shaqeeya</annotation>
-		<annotation cp="👨🏿‍🦼‍➡" type="tts">nin saaran kursi curyaan matoor leh midig u jeeda</annotation>
+		<annotation cp="👨‍🦼‍➡">awood u yeelid | jeeda | kursi curyaan | midig | nin | nin saaran kursi curyaan matoor leh | nin saaran kursiga curyanka koronto ku shaqeeya | u</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">nin saaran kursi curyaan matoor leh: midig u jeeda</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">awood u yeelid | jeeda | jidh fudud | kursi curyaan | midig | nin | nin saaran kursi curyaan matoor leh | nin saaran kursiga curyanka koronto ku shaqeeya | u</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">nin saaran kursi curyaan matoor leh: jidh fudud, midig u jeeda</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">awood u yeelid | jeeda | jidh fudud oo dhexe | kursi curyaan | midig | nin | nin saaran kursi curyaan matoor leh | nin saaran kursiga curyanka koronto ku shaqeeya | u</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">nin saaran kursi curyaan matoor leh: jidh fudud oo dhexe, midig u jeeda</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">awood u yeelid | jeeda | jidh nooc dhexe | kursi curyaan | midig | nin | nin saaran kursi curyaan matoor leh | nin saaran kursiga curyanka koronto ku shaqeeya | u</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">nin saaran kursi curyaan matoor leh: jidh nooc dhexe, midig u jeeda</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">awood u yeelid | jeeda | jidh nooc madaw oo dhexe | kursi curyaan | midig | nin | nin saaran kursi curyaan matoor leh | nin saaran kursiga curyanka koronto ku shaqeeya | u</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">nin saaran kursi curyaan matoor leh: jidh nooc madaw oo dhexe, midig u jeeda</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">awood u yeelid | jeeda | jidh madaw | kursi curyaan | midig | nin | nin saaran kursi curyaan matoor leh | nin saaran kursiga curyanka koronto ku shaqeeya | u</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">nin saaran kursi curyaan matoor leh: jidh madaw, midig u jeeda</annotation>
 		<annotation cp="👩🏻‍🦼">awood u yeelid | gabadh saaran kursi curyaan matoor leh | jidh fudud | kursiga curyaanka | naag | naag ku fadhida kursiga curyaanka koronta ku shaqeeya</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">gabadh saaran kursi curyaan matoor leh: jidh fudud</annotation>
 		<annotation cp="👩🏼‍🦼">awood u yeelid | gabadh saaran kursi curyaan matoor leh | jidh fudud oo dhexe | kursiga curyaanka | naag | naag ku fadhida kursiga curyaanka koronta ku shaqeeya</annotation>
@@ -2939,18 +3189,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦼" type="tts">gabadh saaran kursi curyaan matoor leh: jidh nooc madaw oo dhexe</annotation>
 		<annotation cp="👩🏿‍🦼">awood u yeelid | gabadh saaran kursi curyaan matoor leh | jidh madaw | kursiga curyaanka | naag | naag ku fadhida kursiga curyaanka koronta ku shaqeeya</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">gabadh saaran kursi curyaan matoor leh: jidh madaw</annotation>
-		<annotation cp="👩‍🦼‍➡">awood u yeelid | gabadh saaran kursi curyaan matoor leh | kursiga curyaanka | naag | naag ku fadhida kursiga curyaanka koronta ku shaqeeya</annotation>
-		<annotation cp="👩‍🦼‍➡" type="tts">gabadh saaran kursi curyaan matoor leh midig u jeeda</annotation>
-		<annotation cp="👩🏻‍🦼‍➡">awood u yeelid | gabadh saaran kursi curyaan matoor leh | kursiga curyaanka | naag | naag ku fadhida kursiga curyaanka koronta ku shaqeeya</annotation>
-		<annotation cp="👩🏻‍🦼‍➡" type="tts">gabadh saaran kursi curyaan matoor leh midig u jeeda</annotation>
-		<annotation cp="👩🏼‍🦼‍➡">awood u yeelid | gabadh saaran kursi curyaan matoor leh | kursiga curyaanka | naag | naag ku fadhida kursiga curyaanka koronta ku shaqeeya</annotation>
-		<annotation cp="👩🏼‍🦼‍➡" type="tts">gabadh saaran kursi curyaan matoor leh midig u jeeda</annotation>
-		<annotation cp="👩🏽‍🦼‍➡">awood u yeelid | gabadh saaran kursi curyaan matoor leh | kursiga curyaanka | naag | naag ku fadhida kursiga curyaanka koronta ku shaqeeya</annotation>
-		<annotation cp="👩🏽‍🦼‍➡" type="tts">gabadh saaran kursi curyaan matoor leh midig u jeeda</annotation>
-		<annotation cp="👩🏾‍🦼‍➡">awood u yeelid | gabadh saaran kursi curyaan matoor leh | kursiga curyaanka | naag | naag ku fadhida kursiga curyaanka koronta ku shaqeeya</annotation>
-		<annotation cp="👩🏾‍🦼‍➡" type="tts">gabadh saaran kursi curyaan matoor leh midig u jeeda</annotation>
-		<annotation cp="👩🏿‍🦼‍➡">awood u yeelid | gabadh saaran kursi curyaan matoor leh | kursiga curyaanka | naag | naag ku fadhida kursiga curyaanka koronta ku shaqeeya</annotation>
-		<annotation cp="👩🏿‍🦼‍➡" type="tts">gabadh saaran kursi curyaan matoor leh midig u jeeda</annotation>
+		<annotation cp="👩‍🦼‍➡">awood u yeelid | gabadh saaran kursi curyaan matoor leh | jeeda | kursiga curyaanka | midig | naag | naag ku fadhida kursiga curyaanka koronta ku shaqeeya | u</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">gabadh saaran kursi curyaan matoor leh: midig u jeeda</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">awood u yeelid | gabadh saaran kursi curyaan matoor leh | jeeda | jidh fudud | kursiga curyaanka | midig | naag | naag ku fadhida kursiga curyaanka koronta ku shaqeeya | u</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">gabadh saaran kursi curyaan matoor leh: jidh fudud, midig u jeeda</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">awood u yeelid | gabadh saaran kursi curyaan matoor leh | jeeda | jidh fudud oo dhexe | kursiga curyaanka | midig | naag | naag ku fadhida kursiga curyaanka koronta ku shaqeeya | u</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">gabadh saaran kursi curyaan matoor leh: jidh fudud oo dhexe, midig u jeeda</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">awood u yeelid | gabadh saaran kursi curyaan matoor leh | jeeda | jidh nooc dhexe | kursiga curyaanka | midig | naag | naag ku fadhida kursiga curyaanka koronta ku shaqeeya | u</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">gabadh saaran kursi curyaan matoor leh: jidh nooc dhexe, midig u jeeda</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">awood u yeelid | gabadh saaran kursi curyaan matoor leh | jeeda | jidh nooc madaw oo dhexe | kursiga curyaanka | midig | naag | naag ku fadhida kursiga curyaanka koronta ku shaqeeya | u</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">gabadh saaran kursi curyaan matoor leh: jidh nooc madaw oo dhexe, midig u jeeda</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">awood u yeelid | gabadh saaran kursi curyaan matoor leh | jeeda | jidh madaw | kursiga curyaanka | midig | naag | naag ku fadhida kursiga curyaanka koronta ku shaqeeya | u</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">gabadh saaran kursi curyaan matoor leh: jidh madaw, midig u jeeda</annotation>
 		<annotation cp="🧑🏻‍🦽">awood u yeelid | gaari curyaan | jidh fudud | qof ku fadhiya gaari curyaanka gacanta | qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">qof ku fadhiya gaari curyaanka gacanta: jidh fudud</annotation>
 		<annotation cp="🧑🏼‍🦽">awood u yeelid | gaari curyaan | jidh fudud oo dhexe | qof ku fadhiya gaari curyaanka gacanta | qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta</annotation>
@@ -2961,18 +3211,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦽" type="tts">qof ku fadhiya gaari curyaanka gacanta: jidh nooc madaw oo dhexe</annotation>
 		<annotation cp="🧑🏿‍🦽">awood u yeelid | gaari curyaan | jidh madaw | qof ku fadhiya gaari curyaanka gacanta | qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">qof ku fadhiya gaari curyaanka gacanta: jidh madaw</annotation>
-		<annotation cp="🧑‍🦽‍➡">awood u yeelid | gaari curyaan | qof ku fadhiya gaari curyaanka gacanta | qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta</annotation>
-		<annotation cp="🧑‍🦽‍➡" type="tts">qof ku fadhiya gaari curyaanka gacanta midig u jeeda</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡">awood u yeelid | gaari curyaan | qof ku fadhiya gaari curyaanka gacanta | qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡" type="tts">qof ku fadhiya gaari curyaanka gacanta midig u jeeda</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡">awood u yeelid | gaari curyaan | qof ku fadhiya gaari curyaanka gacanta | qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡" type="tts">qof ku fadhiya gaari curyaanka gacanta midig u jeeda</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡">awood u yeelid | gaari curyaan | qof ku fadhiya gaari curyaanka gacanta | qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡" type="tts">qof ku fadhiya gaari curyaanka gacanta midig u jeeda</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡">awood u yeelid | gaari curyaan | qof ku fadhiya gaari curyaanka gacanta | qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡" type="tts">qof ku fadhiya gaari curyaanka gacanta midig u jeeda</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡">awood u yeelid | gaari curyaan | qof ku fadhiya gaari curyaanka gacanta | qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡" type="tts">qof ku fadhiya gaari curyaanka gacanta midig u jeeda</annotation>
+		<annotation cp="🧑‍🦽‍➡">awood u yeelid | gaari curyaan | jeeda | midig | qof ku fadhiya gaari curyaanka gacanta | qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta | u</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">qof ku fadhiya gaari curyaanka gacanta: midig u jeeda</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">awood u yeelid | gaari curyaan | jeeda | jidh fudud | midig | qof ku fadhiya gaari curyaanka gacanta | qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta | u</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">qof ku fadhiya gaari curyaanka gacanta: jidh fudud, midig u jeeda</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">awood u yeelid | gaari curyaan | jeeda | jidh fudud oo dhexe | midig | qof ku fadhiya gaari curyaanka gacanta | qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta | u</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">qof ku fadhiya gaari curyaanka gacanta: jidh fudud oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">awood u yeelid | gaari curyaan | jeeda | jidh nooc dhexe | midig | qof ku fadhiya gaari curyaanka gacanta | qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta | u</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">qof ku fadhiya gaari curyaanka gacanta: jidh nooc dhexe, midig u jeeda</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">awood u yeelid | gaari curyaan | jeeda | jidh nooc madaw oo dhexe | midig | qof ku fadhiya gaari curyaanka gacanta | qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta | u</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">qof ku fadhiya gaari curyaanka gacanta: jidh nooc madaw oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">awood u yeelid | gaari curyaan | jeeda | jidh madaw | midig | qof ku fadhiya gaari curyaanka gacanta | qof ku fadhiya gaari curyaanka gacanta qof ku fadhiya gaari curyaanka gacantaqof ku fadhiya gaari curyaanka gacanta | u</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">qof ku fadhiya gaari curyaanka gacanta: jidh madaw, midig u jeeda</annotation>
 		<annotation cp="👨🏻‍🦽">awood u yeelid | jidh fudud | kursiga curyaanka | nin | nin saaran kursiga curyaanka macmac ah</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">nin saaran kursiga curyaanka macmac ah: jidh fudud</annotation>
 		<annotation cp="👨🏼‍🦽">awood u yeelid | jidh fudud oo dhexe | kursiga curyaanka | nin | nin saaran kursiga curyaanka macmac ah</annotation>
@@ -2983,18 +3233,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦽" type="tts">nin saaran kursiga curyaanka macmac ah: jidh nooc madaw oo dhexe</annotation>
 		<annotation cp="👨🏿‍🦽">awood u yeelid | jidh madaw | kursiga curyaanka | nin | nin saaran kursiga curyaanka macmac ah</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">nin saaran kursiga curyaanka macmac ah: jidh madaw</annotation>
-		<annotation cp="👨‍🦽‍➡">awood u yeelid | kursiga curyaanka | nin | nin saaran kursiga curyaanka macmac ah</annotation>
-		<annotation cp="👨‍🦽‍➡" type="tts">nin saaran kursiga curyaanka macmac ah midig u jeeda</annotation>
-		<annotation cp="👨🏻‍🦽‍➡">awood u yeelid | kursiga curyaanka | nin | nin saaran kursiga curyaanka macmac ah</annotation>
-		<annotation cp="👨🏻‍🦽‍➡" type="tts">nin saaran kursiga curyaanka macmac ah midig u jeeda</annotation>
-		<annotation cp="👨🏼‍🦽‍➡">awood u yeelid | kursiga curyaanka | nin | nin saaran kursiga curyaanka macmac ah</annotation>
-		<annotation cp="👨🏼‍🦽‍➡" type="tts">nin saaran kursiga curyaanka macmac ah midig u jeeda</annotation>
-		<annotation cp="👨🏽‍🦽‍➡">awood u yeelid | kursiga curyaanka | nin | nin saaran kursiga curyaanka macmac ah</annotation>
-		<annotation cp="👨🏽‍🦽‍➡" type="tts">nin saaran kursiga curyaanka macmac ah midig u jeeda</annotation>
-		<annotation cp="👨🏾‍🦽‍➡">awood u yeelid | kursiga curyaanka | nin | nin saaran kursiga curyaanka macmac ah</annotation>
-		<annotation cp="👨🏾‍🦽‍➡" type="tts">nin saaran kursiga curyaanka macmac ah midig u jeeda</annotation>
-		<annotation cp="👨🏿‍🦽‍➡">awood u yeelid | kursiga curyaanka | nin | nin saaran kursiga curyaanka macmac ah</annotation>
-		<annotation cp="👨🏿‍🦽‍➡" type="tts">nin saaran kursiga curyaanka macmac ah midig u jeeda</annotation>
+		<annotation cp="👨‍🦽‍➡">awood u yeelid | jeeda | kursiga curyaanka | midig | nin | nin saaran kursiga curyaanka macmac ah | u</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">nin saaran kursiga curyaanka macmac ah: midig u jeeda</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">awood u yeelid | jeeda | jidh fudud | kursiga curyaanka | midig | nin | nin saaran kursiga curyaanka macmac ah | u</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">nin saaran kursiga curyaanka macmac ah: jidh fudud, midig u jeeda</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">awood u yeelid | jeeda | jidh fudud oo dhexe | kursiga curyaanka | midig | nin | nin saaran kursiga curyaanka macmac ah | u</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">nin saaran kursiga curyaanka macmac ah: jidh fudud oo dhexe, midig u jeeda</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">awood u yeelid | jeeda | jidh nooc dhexe | kursiga curyaanka | midig | nin | nin saaran kursiga curyaanka macmac ah | u</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">nin saaran kursiga curyaanka macmac ah: jidh nooc dhexe, midig u jeeda</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">awood u yeelid | jeeda | jidh nooc madaw oo dhexe | kursiga curyaanka | midig | nin | nin saaran kursiga curyaanka macmac ah | u</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">nin saaran kursiga curyaanka macmac ah: jidh nooc madaw oo dhexe, midig u jeeda</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">awood u yeelid | jeeda | jidh madaw | kursiga curyaanka | midig | nin | nin saaran kursiga curyaanka macmac ah | u</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">nin saaran kursiga curyaanka macmac ah: jidh madaw, midig u jeeda</annotation>
 		<annotation cp="👩🏻‍🦽">awood u yeelid | jidh fudud | kursiga curyaanka | naag | naag fadhida kursiga curyaanka macmal ah</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">naag fadhida kursiga curyaanka macmal ah: jidh fudud</annotation>
 		<annotation cp="👩🏼‍🦽">awood u yeelid | jidh fudud oo dhexe | kursiga curyaanka | naag | naag fadhida kursiga curyaanka macmal ah</annotation>
@@ -3005,18 +3255,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦽" type="tts">naag fadhida kursiga curyaanka macmal ah: jidh nooc madaw oo dhexe</annotation>
 		<annotation cp="👩🏿‍🦽">awood u yeelid | jidh madaw | kursiga curyaanka | naag | naag fadhida kursiga curyaanka macmal ah</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">naag fadhida kursiga curyaanka macmal ah: jidh madaw</annotation>
-		<annotation cp="👩‍🦽‍➡">awood u yeelid | kursiga curyaanka | naag | naag fadhida kursiga curyaanka macmal ah</annotation>
-		<annotation cp="👩‍🦽‍➡" type="tts">naag fadhida kursiga curyaanka macmal ah midig u jeeda</annotation>
-		<annotation cp="👩🏻‍🦽‍➡">awood u yeelid | kursiga curyaanka | naag | naag fadhida kursiga curyaanka macmal ah</annotation>
-		<annotation cp="👩🏻‍🦽‍➡" type="tts">naag fadhida kursiga curyaanka macmal ah midig u jeeda</annotation>
-		<annotation cp="👩🏼‍🦽‍➡">awood u yeelid | kursiga curyaanka | naag | naag fadhida kursiga curyaanka macmal ah</annotation>
-		<annotation cp="👩🏼‍🦽‍➡" type="tts">naag fadhida kursiga curyaanka macmal ah midig u jeeda</annotation>
-		<annotation cp="👩🏽‍🦽‍➡">awood u yeelid | kursiga curyaanka | naag | naag fadhida kursiga curyaanka macmal ah</annotation>
-		<annotation cp="👩🏽‍🦽‍➡" type="tts">naag fadhida kursiga curyaanka macmal ah midig u jeeda</annotation>
-		<annotation cp="👩🏾‍🦽‍➡">awood u yeelid | kursiga curyaanka | naag | naag fadhida kursiga curyaanka macmal ah</annotation>
-		<annotation cp="👩🏾‍🦽‍➡" type="tts">naag fadhida kursiga curyaanka macmal ah midig u jeeda</annotation>
-		<annotation cp="👩🏿‍🦽‍➡">awood u yeelid | kursiga curyaanka | naag | naag fadhida kursiga curyaanka macmal ah</annotation>
-		<annotation cp="👩🏿‍🦽‍➡" type="tts">naag fadhida kursiga curyaanka macmal ah midig u jeeda</annotation>
+		<annotation cp="👩‍🦽‍➡">awood u yeelid | jeeda | kursiga curyaanka | midig | naag | naag fadhida kursiga curyaanka macmal ah | u</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">naag fadhida kursiga curyaanka macmal ah: midig u jeeda</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">awood u yeelid | jeeda | jidh fudud | kursiga curyaanka | midig | naag | naag fadhida kursiga curyaanka macmal ah | u</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">naag fadhida kursiga curyaanka macmal ah: jidh fudud, midig u jeeda</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">awood u yeelid | jeeda | jidh fudud oo dhexe | kursiga curyaanka | midig | naag | naag fadhida kursiga curyaanka macmal ah | u</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">naag fadhida kursiga curyaanka macmal ah: jidh fudud oo dhexe, midig u jeeda</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">awood u yeelid | jeeda | jidh nooc dhexe | kursiga curyaanka | midig | naag | naag fadhida kursiga curyaanka macmal ah | u</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">naag fadhida kursiga curyaanka macmal ah: jidh nooc dhexe, midig u jeeda</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">awood u yeelid | jeeda | jidh nooc madaw oo dhexe | kursiga curyaanka | midig | naag | naag fadhida kursiga curyaanka macmal ah | u</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">naag fadhida kursiga curyaanka macmal ah: jidh nooc madaw oo dhexe, midig u jeeda</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">awood u yeelid | jeeda | jidh madaw | kursiga curyaanka | midig | naag | naag fadhida kursiga curyaanka macmal ah | u</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">naag fadhida kursiga curyaanka macmal ah: jidh madaw, midig u jeeda</annotation>
 		<annotation cp="🏃🏻">jidh fudud | maratoon | orodka | qof ordaya</annotation>
 		<annotation cp="🏃🏻" type="tts">qof ordaya: jidh fudud</annotation>
 		<annotation cp="🏃🏼">jidh fudud oo dhexe | maratoon | orodka | qof ordaya</annotation>
@@ -3047,42 +3297,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🏃🏾‍♀" type="tts">naag ordaysa: jidh nooc madaw oo dhexe</annotation>
 		<annotation cp="🏃🏿‍♀">jidh madaw | maratoon | naag | naag ordaysa | orod | tartan orod</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">naag ordaysa: jidh madaw</annotation>
-		<annotation cp="🏃‍➡">maratoon | orodka | qof ordaya</annotation>
-		<annotation cp="🏃‍➡" type="tts">qof ordaya midig u jeeda</annotation>
-		<annotation cp="🏃🏻‍➡">maratoon | orodka | qof ordaya</annotation>
-		<annotation cp="🏃🏻‍➡" type="tts">qof ordaya midig u jeeda</annotation>
-		<annotation cp="🏃🏼‍➡">maratoon | orodka | qof ordaya</annotation>
-		<annotation cp="🏃🏼‍➡" type="tts">qof ordaya midig u jeeda</annotation>
-		<annotation cp="🏃🏽‍➡">maratoon | orodka | qof ordaya</annotation>
-		<annotation cp="🏃🏽‍➡" type="tts">qof ordaya midig u jeeda</annotation>
-		<annotation cp="🏃🏾‍➡">maratoon | orodka | qof ordaya</annotation>
-		<annotation cp="🏃🏾‍➡" type="tts">qof ordaya midig u jeeda</annotation>
-		<annotation cp="🏃🏿‍➡">maratoon | orodka | qof ordaya</annotation>
-		<annotation cp="🏃🏿‍➡" type="tts">qof ordaya midig u jeeda</annotation>
-		<annotation cp="🏃‍♀‍➡">maratoon | naag | naag ordaysa | orod | tartan orod</annotation>
-		<annotation cp="🏃‍♀‍➡" type="tts">naag ordaysa midig u jeeda</annotation>
-		<annotation cp="🏃🏻‍♀‍➡">maratoon | naag | naag ordaysa | orod | tartan orod</annotation>
-		<annotation cp="🏃🏻‍♀‍➡" type="tts">naag ordaysa midig u jeeda</annotation>
-		<annotation cp="🏃🏼‍♀‍➡">maratoon | naag | naag ordaysa | orod | tartan orod</annotation>
-		<annotation cp="🏃🏼‍♀‍➡" type="tts">naag ordaysa midig u jeeda</annotation>
-		<annotation cp="🏃🏽‍♀‍➡">maratoon | naag | naag ordaysa | orod | tartan orod</annotation>
-		<annotation cp="🏃🏽‍♀‍➡" type="tts">naag ordaysa midig u jeeda</annotation>
-		<annotation cp="🏃🏾‍♀‍➡">maratoon | naag | naag ordaysa | orod | tartan orod</annotation>
-		<annotation cp="🏃🏾‍♀‍➡" type="tts">naag ordaysa midig u jeeda</annotation>
-		<annotation cp="🏃🏿‍♀‍➡">maratoon | naag | naag ordaysa | orod | tartan orod</annotation>
-		<annotation cp="🏃🏿‍♀‍➡" type="tts">naag ordaysa midig u jeeda</annotation>
-		<annotation cp="🏃‍♂‍➡">maratoon | nin | nin ordaya | orodka | tartan orod</annotation>
-		<annotation cp="🏃‍♂‍➡" type="tts">nin ordaya midig u jeeda</annotation>
-		<annotation cp="🏃🏻‍♂‍➡">maratoon | nin | nin ordaya | orodka | tartan orod</annotation>
-		<annotation cp="🏃🏻‍♂‍➡" type="tts">nin ordaya midig u jeeda</annotation>
-		<annotation cp="🏃🏼‍♂‍➡">maratoon | nin | nin ordaya | orodka | tartan orod</annotation>
-		<annotation cp="🏃🏼‍♂‍➡" type="tts">nin ordaya midig u jeeda</annotation>
-		<annotation cp="🏃🏽‍♂‍➡">maratoon | nin | nin ordaya | orodka | tartan orod</annotation>
-		<annotation cp="🏃🏽‍♂‍➡" type="tts">nin ordaya midig u jeeda</annotation>
-		<annotation cp="🏃🏾‍♂‍➡">maratoon | nin | nin ordaya | orodka | tartan orod</annotation>
-		<annotation cp="🏃🏾‍♂‍➡" type="tts">nin ordaya midig u jeeda</annotation>
-		<annotation cp="🏃🏿‍♂‍➡">maratoon | nin | nin ordaya | orodka | tartan orod</annotation>
-		<annotation cp="🏃🏿‍♂‍➡" type="tts">nin ordaya midig u jeeda</annotation>
+		<annotation cp="🏃‍➡">jeeda | maratoon | midig | orodka | qof ordaya | u</annotation>
+		<annotation cp="🏃‍➡" type="tts">qof ordaya: midig u jeeda</annotation>
+		<annotation cp="🏃🏻‍➡">jeeda | jidh fudud | maratoon | midig | orodka | qof ordaya | u</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">qof ordaya: jidh fudud, midig u jeeda</annotation>
+		<annotation cp="🏃🏼‍➡">jeeda | jidh fudud oo dhexe | maratoon | midig | orodka | qof ordaya | u</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">qof ordaya: jidh fudud oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🏃🏽‍➡">jeeda | jidh nooc dhexe | maratoon | midig | orodka | qof ordaya | u</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">qof ordaya: jidh nooc dhexe, midig u jeeda</annotation>
+		<annotation cp="🏃🏾‍➡">jeeda | jidh nooc madaw oo dhexe | maratoon | midig | orodka | qof ordaya | u</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">qof ordaya: jidh nooc madaw oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🏃🏿‍➡">jeeda | jidh madaw | maratoon | midig | orodka | qof ordaya | u</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">qof ordaya: jidh madaw, midig u jeeda</annotation>
+		<annotation cp="🏃‍♀‍➡">jeeda | maratoon | midig | naag | naag ordaysa | orod | tartan orod | u</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">naag ordaysa: midig u jeeda</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">jeeda | jidh fudud | maratoon | midig | naag | naag ordaysa | orod | tartan orod | u</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">naag ordaysa: jidh fudud, midig u jeeda</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">jeeda | jidh fudud oo dhexe | maratoon | midig | naag | naag ordaysa | orod | tartan orod | u</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">naag ordaysa: jidh fudud oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">jeeda | jidh nooc dhexe | maratoon | midig | naag | naag ordaysa | orod | tartan orod | u</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">naag ordaysa: jidh nooc dhexe, midig u jeeda</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">jeeda | jidh nooc madaw oo dhexe | maratoon | midig | naag | naag ordaysa | orod | tartan orod | u</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">naag ordaysa: jidh nooc madaw oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">jeeda | jidh madaw | maratoon | midig | naag | naag ordaysa | orod | tartan orod | u</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">naag ordaysa: jidh madaw, midig u jeeda</annotation>
+		<annotation cp="🏃‍♂‍➡">jeeda | maratoon | midig | nin | nin ordaya | orodka | tartan orod | u</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">nin ordaya: midig u jeeda</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">jeeda | jidh fudud | maratoon | midig | nin | nin ordaya | orodka | tartan orod | u</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">nin ordaya: jidh fudud, midig u jeeda</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">jeeda | jidh fudud oo dhexe | maratoon | midig | nin | nin ordaya | orodka | tartan orod | u</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">nin ordaya: jidh fudud oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">jeeda | jidh nooc dhexe | maratoon | midig | nin | nin ordaya | orodka | tartan orod | u</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">nin ordaya: jidh nooc dhexe, midig u jeeda</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">jeeda | jidh nooc madaw oo dhexe | maratoon | midig | nin | nin ordaya | orodka | tartan orod | u</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">nin ordaya: jidh nooc madaw oo dhexe, midig u jeeda</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">jeeda | jidh madaw | maratoon | midig | nin | nin ordaya | orodka | tartan orod | u</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">nin ordaya: jidh madaw, midig u jeeda</annotation>
 		<annotation cp="💃🏻">jidh fudud | naag | naag qoob-ka-cayaaraysa | qoob-ka-cayaaridda</annotation>
 		<annotation cp="💃🏻" type="tts">naag qoob-ka-cayaaraysa: jidh fudud</annotation>
 		<annotation cp="💃🏼">jidh fudud oo dhexe | naag | naag qoob-ka-cayaaraysa | qoob-ka-cayaaridda</annotation>
@@ -3113,6 +3363,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🕴🏾" type="tts">nin suud xiran oo milicsanaya: jidh nooc madaw oo dhexe</annotation>
 		<annotation cp="🕴🏿">ganacsi | jidh madaw | nin suud xiran oo milicsanaya | suud</annotation>
 		<annotation cp="🕴🏿" type="tts">nin suud xiran oo milicsanaya: jidh madaw</annotation>
+		<annotation cp="👯🏻">dad leh dhaggo bakayle | dhag bakayle | jidh fudud | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="👯🏻" type="tts">dad leh dhaggo bakayle: jidh fudud</annotation>
+		<annotation cp="👯🏼">dad leh dhaggo bakayle | dhag bakayle | jidh fudud oo dhexe | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="👯🏼" type="tts">dad leh dhaggo bakayle: jidh fudud oo dhexe</annotation>
+		<annotation cp="👯🏽">dad leh dhaggo bakayle | dhag bakayle | jidh nooc dhexe | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="👯🏽" type="tts">dad leh dhaggo bakayle: jidh nooc dhexe</annotation>
+		<annotation cp="👯🏾">dad leh dhaggo bakayle | dhag bakayle | jidh nooc madaw oo dhexe | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="👯🏾" type="tts">dad leh dhaggo bakayle: jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="👯🏿">dad leh dhaggo bakayle | dhag bakayle | jidh madaw | qoob-ka- cayaare | xafladaynta</annotation>
+		<annotation cp="👯🏿" type="tts">dad leh dhaggo bakayle: jidh madaw</annotation>
+		<annotation cp="👯🏻‍♀">dhag bakayle | jidh fudud | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👯🏻‍♀" type="tts">naag leh dhaggo bakayle: jidh fudud</annotation>
+		<annotation cp="👯🏼‍♀">dhag bakayle | jidh fudud oo dhexe | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👯🏼‍♀" type="tts">naag leh dhaggo bakayle: jidh fudud oo dhexe</annotation>
+		<annotation cp="👯🏽‍♀">dhag bakayle | jidh nooc dhexe | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👯🏽‍♀" type="tts">naag leh dhaggo bakayle: jidh nooc dhexe</annotation>
+		<annotation cp="👯🏾‍♀">dhag bakayle | jidh nooc madaw oo dhexe | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👯🏾‍♀" type="tts">naag leh dhaggo bakayle: jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="👯🏿‍♀">dhag bakayle | jidh madaw | naag leh dhaggo bakayle | qoob-ka-cayaare | xafladeeye</annotation>
+		<annotation cp="👯🏿‍♀" type="tts">naag leh dhaggo bakayle: jidh madaw</annotation>
+		<annotation cp="👯🏻‍♂">dhag bakayle | jidh fudud | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👯🏻‍♂" type="tts">rag leh dhaggo bakayle: jidh fudud</annotation>
+		<annotation cp="👯🏼‍♂">dhag bakayle | jidh fudud oo dhexe | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👯🏼‍♂" type="tts">rag leh dhaggo bakayle: jidh fudud oo dhexe</annotation>
+		<annotation cp="👯🏽‍♂">dhag bakayle | jidh nooc dhexe | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👯🏽‍♂" type="tts">rag leh dhaggo bakayle: jidh nooc dhexe</annotation>
+		<annotation cp="👯🏾‍♂">dhag bakayle | jidh nooc madaw oo dhexe | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👯🏾‍♂" type="tts">rag leh dhaggo bakayle: jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="👯🏿‍♂">dhag bakayle | jidh madaw | qoob-ka-cayaare | rag | rag leh dhaggo bakayle | xafladaynta</annotation>
+		<annotation cp="👯🏿‍♂" type="tts">rag leh dhaggo bakayle: jidh madaw</annotation>
 		<annotation cp="🧖🏻">jidh fudud | qof ku jira qol uummi ah | qol hawo kulayl leh | qolka uummigga</annotation>
 		<annotation cp="🧖🏻" type="tts">qof ku jira qol uummi ah: jidh fudud</annotation>
 		<annotation cp="🧖🏼">jidh fudud oo dhexe | qof ku jira qol uummi ah | qol hawo kulayl leh | qolka uummigga</annotation>
@@ -3463,6 +3743,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤸🏾‍♀" type="tts">naag jimicsanaysa: jidh nooc madaw oo dhexe</annotation>
 		<annotation cp="🤸🏿‍♀">gaari gacan | jidh madaw | jimicsi | naag | naag jimicsanaysa</annotation>
 		<annotation cp="🤸🏿‍♀" type="tts">naag jimicsanaysa: jidh madaw</annotation>
+		<annotation cp="🤼🏻">dad lagdamaya | jidh fudud | lagdame | lagdin</annotation>
+		<annotation cp="🤼🏻" type="tts">dad lagdamaya: jidh fudud</annotation>
+		<annotation cp="🤼🏼">dad lagdamaya | jidh fudud oo dhexe | lagdame | lagdin</annotation>
+		<annotation cp="🤼🏼" type="tts">dad lagdamaya: jidh fudud oo dhexe</annotation>
+		<annotation cp="🤼🏽">dad lagdamaya | jidh nooc dhexe | lagdame | lagdin</annotation>
+		<annotation cp="🤼🏽" type="tts">dad lagdamaya: jidh nooc dhexe</annotation>
+		<annotation cp="🤼🏾">dad lagdamaya | jidh nooc madaw oo dhexe | lagdame | lagdin</annotation>
+		<annotation cp="🤼🏾" type="tts">dad lagdamaya: jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="🤼🏿">dad lagdamaya | jidh madaw | lagdame | lagdin</annotation>
+		<annotation cp="🤼🏿" type="tts">dad lagdamaya: jidh madaw</annotation>
+		<annotation cp="🤼🏻‍♀">jidh fudud | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="🤼🏻‍♀" type="tts">naaga lagdamaya: jidh fudud</annotation>
+		<annotation cp="🤼🏼‍♀">jidh fudud oo dhexe | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="🤼🏼‍♀" type="tts">naaga lagdamaya: jidh fudud oo dhexe</annotation>
+		<annotation cp="🤼🏽‍♀">jidh nooc dhexe | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="🤼🏽‍♀" type="tts">naaga lagdamaya: jidh nooc dhexe</annotation>
+		<annotation cp="🤼🏾‍♀">jidh nooc madaw oo dhexe | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="🤼🏾‍♀" type="tts">naaga lagdamaya: jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="🤼🏿‍♀">jidh madaw | lagdin | naag | naaga lagdamaya | naago lagdamaya</annotation>
+		<annotation cp="🤼🏿‍♀" type="tts">naaga lagdamaya: jidh madaw</annotation>
+		<annotation cp="🤼🏻‍♂">jidh fudud | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="🤼🏻‍♂" type="tts">rag lagdamaya: jidh fudud</annotation>
+		<annotation cp="🤼🏼‍♂">jidh fudud oo dhexe | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="🤼🏼‍♂" type="tts">rag lagdamaya: jidh fudud oo dhexe</annotation>
+		<annotation cp="🤼🏽‍♂">jidh nooc dhexe | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="🤼🏽‍♂" type="tts">rag lagdamaya: jidh nooc dhexe</annotation>
+		<annotation cp="🤼🏾‍♂">jidh nooc madaw oo dhexe | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="🤼🏾‍♂" type="tts">rag lagdamaya: jidh nooc madaw oo dhexe</annotation>
+		<annotation cp="🤼🏿‍♂">jidh madaw | lagdin | rag | rag lagdamaya</annotation>
+		<annotation cp="🤼🏿‍♂" type="tts">rag lagdamaya: jidh madaw</annotation>
 		<annotation cp="🤽🏻">biyo | jidh fudud | kubad | qof cayaaraya kubadda biyaha</annotation>
 		<annotation cp="🤽🏻" type="tts">qof cayaaraya kubadda biyaha: jidh fudud</annotation>
 		<annotation cp="🤽🏼">biyo | jidh fudud oo dhexe | kubad | qof cayaaraya kubadda biyaha</annotation>
@@ -3993,6 +4303,8 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🇨🇴" type="tts">calan: Koloombiya</annotation>
 		<annotation cp="🇨🇵">calan</annotation>
 		<annotation cp="🇨🇵" type="tts">calan: Jasiiradda Kilibarton</annotation>
+		<annotation cp="🇨🇶">calan</annotation>
+		<annotation cp="🇨🇶" type="tts">calan: Sark</annotation>
 		<annotation cp="🇨🇷">calan</annotation>
 		<annotation cp="🇨🇷" type="tts">calan: Costa Rica</annotation>
 		<annotation cp="🇨🇺">calan</annotation>
@@ -4432,25 +4744,5 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="₺" type="tts">Liirada Turkiga</annotation>
 		<annotation cp="₼" type="tts">Manaata Asarbeyjan</annotation>
 		<annotation cp="₾" type="tts">Laariga Joorjiya</annotation>
-		<annotation cp="0⃣">daboolka furaha</annotation>
-		<annotation cp="0⃣" type="tts">daboolka furaha: 0</annotation>
-		<annotation cp="1⃣">daboolka furaha</annotation>
-		<annotation cp="1⃣" type="tts">daboolka furaha: 1</annotation>
-		<annotation cp="2⃣">daboolka furaha</annotation>
-		<annotation cp="2⃣" type="tts">daboolka furaha: 2</annotation>
-		<annotation cp="3⃣">daboolka furaha</annotation>
-		<annotation cp="3⃣" type="tts">daboolka furaha: 3</annotation>
-		<annotation cp="4⃣">daboolka furaha</annotation>
-		<annotation cp="4⃣" type="tts">daboolka furaha: 4</annotation>
-		<annotation cp="5⃣">daboolka furaha</annotation>
-		<annotation cp="5⃣" type="tts">daboolka furaha: 5</annotation>
-		<annotation cp="6⃣">daboolka furaha</annotation>
-		<annotation cp="6⃣" type="tts">daboolka furaha: 6</annotation>
-		<annotation cp="7⃣">daboolka furaha</annotation>
-		<annotation cp="7⃣" type="tts">daboolka furaha: 7</annotation>
-		<annotation cp="8⃣">daboolka furaha</annotation>
-		<annotation cp="8⃣" type="tts">daboolka furaha: 8</annotation>
-		<annotation cp="9⃣">daboolka furaha</annotation>
-		<annotation cp="9⃣" type="tts">daboolka furaha: 9</annotation>
 	</annotations>
 </ldml>

@@ -166,7 +166,7 @@ public class ChartGrammaticalForms extends Chart {
             }
             Set<String> failures = new LinkedHashSet<>();
             GrammarInfo grammarInfo = SDI.getGrammarInfo(localeId, false);
-            String localeName = CONFIG.getEnglish().getName(localeId);
+            String localeName = CONFIG.getEnglish().nameGetter().getNameFromIdentifier(localeId);
             for (GrammaticalFeature feature : GrammaticalFeature.values()) {
                 Map<GrammaticalScope, Set<String>> scopeToValues =
                         grammarInfo.get(GrammaticalTarget.nominal, feature);
@@ -500,7 +500,6 @@ public class ChartGrammaticalForms extends Chart {
                                     CldrUtility.getDoubleLinkMsg(),
                                     "class='source'",
                                     true)
-                            .setRepeatHeader(true)
                             .addColumn(
                                     "Size",
                                     "class='source' width='1%'",
@@ -560,7 +559,6 @@ public class ChartGrammaticalForms extends Chart {
                                     "class='source'",
                                     true)
                             .setSortPriority(0)
-                            .setRepeatHeader(true)
                             .addColumn(
                                     "Size",
                                     "class='source' width='1%'",
@@ -763,7 +761,6 @@ public class ChartGrammaticalForms extends Chart {
                                     "class='source'",
                                     true)
                             .setSortPriority(2)
-                            .setRepeatHeader(true)
                             .addColumn(
                                     "Case",
                                     "class='source' width='1%'",
@@ -905,7 +902,7 @@ public class ChartGrammaticalForms extends Chart {
                             powerTable));
 
             if (!info.isEmpty()) {
-                String name = ENGLISH.getName(locale);
+                String name = ENGLISH.nameGetter().getNameFromIdentifier(locale);
                 new Subchart(name + ": Unit Grammar Info", locale, info).writeChart(anchors);
             }
         }

@@ -12,7 +12,6 @@ import com.google.common.base.Suppliers;
 import com.google.common.collect.ComparisonChain;
 import com.google.common.collect.ImmutableList;
 import com.google.common.collect.ImmutableSet;
-import com.ibm.icu.dev.util.ElapsedTimer;
 import com.ibm.icu.impl.Row.R3;
 import com.ibm.icu.text.ListFormatter;
 import com.ibm.icu.text.MessageFormat;
@@ -30,6 +29,7 @@ import java.util.function.Function;
 import java.util.logging.Logger;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import org.unicode.cldr.icu.dev.util.ElapsedTimer;
 import org.unicode.cldr.test.CheckCLDR.CheckStatus.Subtype;
 import org.unicode.cldr.util.CLDRFile;
 import org.unicode.cldr.util.CLDRInfo.CandidateInfo;
@@ -159,18 +159,10 @@ public abstract class CheckCLDR implements CheckAccessor {
             return isForbidden;
         }
 
-        public boolean canShow() {
-            return !isForbidden;
-        }
-
         public boolean canVote() {
             // the one non-voting case
             if (this == ALLOW_TICKET_ONLY) return false;
             return !isForbidden();
-        }
-
-        public boolean canSubmit() {
-            return (this == ALLOW);
         }
     }
 
@@ -301,15 +293,12 @@ public abstract class CheckCLDR implements CheckAccessor {
          * @param enteredValue If null, means an abstention. If voting for an existing value,
          *     pathValueInfo.getValues().contains(enteredValue) MUST be true
          * @param pathValueInfo
-         * @param inputMethod
-         * @param status
          * @param userInfo
          * @return
          */
         public StatusAction getAcceptNewItemAction(
                 CandidateInfo enteredValue,
                 PathValueInfo pathValueInfo,
-                InputMethod inputMethod,
                 PathHeader ph,
                 UserInfo userInfo // can get voterInfo from this.
                 ) {
@@ -936,7 +925,15 @@ public abstract class CheckCLDR implements CheckAccessor {
             shortDateFieldInconsistentLength,
             illegalParameterValue,
             illegalAnnotationCode,
-            illegalCharacter;
+            nullOrEmptyValue,
+            ttsAnnotationMissing,
+            illegalCharacter,
+            missingNumberingSystem,
+            forbiddenValue,
+            inconsistentCoreDatePattern,
+            inconsistentCurrencyPattern,
+            inconsistentCompactPattern,
+            inconsistentPositiveAndNegativePatterns;
 
             @Override
             public String toString() {

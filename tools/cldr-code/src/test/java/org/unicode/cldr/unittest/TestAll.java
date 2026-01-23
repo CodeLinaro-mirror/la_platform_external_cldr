@@ -2,13 +2,14 @@
 
 package org.unicode.cldr.unittest;
 
-import com.ibm.icu.dev.test.TestFmwk.TestGroup;
 import com.ibm.icu.text.DateFormat;
 import com.ibm.icu.text.SimpleDateFormat;
 import java.io.OutputStream;
 import java.io.PrintWriter;
 import java.io.Writer;
 import java.util.Date;
+import org.unicode.cldr.icu.dev.test.TestFmwk;
+import org.unicode.cldr.icu.dev.test.TestFmwk.TestGroup;
 import org.unicode.cldr.util.CLDRConfig;
 
 /** Top level test used to run all other tests as a batch. */
@@ -147,29 +148,36 @@ public class TestAll extends TestGroup {
         }
     }
 
+    /** This is the entrypoint from the command line */
     public static void main(String[] args) {
-        int errCount = runTests(args);
-        if (errCount != 0) {
-            System.exit(1);
-        }
-    }
-
-    /** Run all tests, but do not System.exit at the end. */
-    public static int runTests(String[] args) {
+        // Special cldr-code setup and options
         final boolean doTimeStamps = false;
         TimeStampingPrintWriter tspw = new TimeStampingPrintWriter(System.out);
         if (!doTimeStamps) {
             tspw.setFormatableDate(new NullFormatableDate());
         }
         long startTime = System.currentTimeMillis();
-        int errCount = CLDRConfig.getInstance().setTestLog(new TestAll()).run(args, tspw);
+        int errCount = main(args, tspw);
         long endTime = System.currentTimeMillis();
         DateDisplayBean dispBean = new DateDisplayBean(endTime - startTime);
         StringBuffer sb = new StringBuffer();
         sb.append("Tests took ");
         sb.append(dispBean.toString());
         System.out.println(sb.toString());
-        return errCount;
+
+        if (errCount != 0) {
+            System.exit(1);
+        }
+    }
+
+    /** This is the entrypoint from JUnit */
+    public static int main(String[] args, PrintWriter logs) {
+        /** Setup stuff */
+        // No setup stuff for cldr-code currently.
+
+        /** boilerplate */
+        TestFmwk test = CLDRConfig.getInstance().setTestLog(new TestAll());
+        return test.run(args, logs);
     }
 
     public TestAll() {
@@ -185,16 +193,19 @@ public class TestAll extends TestGroup {
                     "org.unicode.cldr.unittest.TestAnnotations",
                     "org.unicode.cldr.unittest.TestAttributeValues",
                     "org.unicode.cldr.unittest.TestBasic",
+                    "org.unicode.cldr.unittest.TestBCP47",
                     "org.unicode.cldr.unittest.TestCLDRFile",
                     "org.unicode.cldr.unittest.TestCLDRUtils",
                     "org.unicode.cldr.unittest.TestCanonicalIds",
                     "org.unicode.cldr.unittest.TestCasingInfo",
                     "org.unicode.cldr.unittest.TestCheckAltOnly",
                     "org.unicode.cldr.unittest.TestCheckCLDR",
+                    "org.unicode.cldr.unittest.TestCheckNumbers",
                     "org.unicode.cldr.unittest.TestComparisonBuilder",
                     "org.unicode.cldr.unittest.TestCoverageLevel",
                     "org.unicode.cldr.unittest.TestDTDAttributes",
                     "org.unicode.cldr.unittest.TestDisplayAndInputProcessor",
+                    "org.unicode.cldr.unittest.TestExampleCache",
                     "org.unicode.cldr.unittest.TestExampleGenerator",
                     "org.unicode.cldr.unittest.TestExternalCodeAPIs",
                     "org.unicode.cldr.unittest.TestFallbackIterator",
@@ -210,9 +221,11 @@ public class TestAll extends TestGroup {
                     "org.unicode.cldr.unittest.TestOutdatedPaths",
                     "org.unicode.cldr.unittest.TestPathHeader",
                     "org.unicode.cldr.unittest.TestPaths",
+                    "org.unicode.cldr.unittest.TestPathStarrer",
                     "org.unicode.cldr.unittest.TestPseudolocalization",
                     "org.unicode.cldr.unittest.TestScriptMetadata",
                     "org.unicode.cldr.unittest.TestSupplementalInfo",
+                    "org.unicode.cldr.unittest.TestThreadSafeMapOfMapOfMap",
                     "org.unicode.cldr.unittest.TestTransforms",
                     "org.unicode.cldr.unittest.TestHelper",
                     "org.unicode.cldr.unittest.TestCLDRLocaleCoverage",

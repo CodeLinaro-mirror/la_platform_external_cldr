@@ -26,6 +26,7 @@ import org.unicode.cldr.util.XPathParts;
 
 public class CheckDisplayCollisions extends FactoryCheckCLDR {
     private static final String DEBUG_PATH_PART = "-mass"; // example:
+
     // "//ldml/dates/fields/field[@type=\"sun-narrow\"]/relative[@type=\"-1\"]";
     /** Set to true to get verbose logging of path removals */
     private static final boolean LOG_PATH_REMOVALS = false;
@@ -514,6 +515,20 @@ public class CheckDisplayCollisions extends FactoryCheckCLDR {
                 }
             }
         }
+        if (myType == Type.LANGUAGE) {
+            // We remove anything with @menu from the collision set.
+            // TBD
+            // If menu=core + "|" + menu=extension is equal for two DIFFERENT language codes,
+            // then there is a collision.
+            // But we have to add a special mechanism to detect that.
+            Iterator<String> iterator = paths.iterator();
+            while (iterator.hasNext()) {
+                String curPath = iterator.next();
+                if (curPath.contains("[@menu")) {
+                    iterator.remove();
+                }
+            }
+        }
 
         // Collisions between different lengths and counts of the same unit are allowed
         // Collisions between 'narrow' forms are allowed (the current is filtered by UNITS_IGNORE)
@@ -596,7 +611,7 @@ public class CheckDisplayCollisions extends FactoryCheckCLDR {
 
         // removeMatches(myType);
         // check again on size
-        if (paths.isEmpty()) {
+        if (paths.size() <= 1) {
             return this;
         }
 

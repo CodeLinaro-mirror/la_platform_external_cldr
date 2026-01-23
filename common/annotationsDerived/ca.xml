@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -173,15 +173,15 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👌🏾" type="tts">senyal d’aprovació amb la mà: pell fosca</annotation>
 		<annotation cp="👌🏿">acceptació | d’acord | entesos | genial | impressionant | mà | mà d’acceptació | ok | pell molt fosca | perfecte | senyal d’aprovació | senyal d’aprovació amb la mà</annotation>
 		<annotation cp="👌🏿" type="tts">senyal d’aprovació amb la mà: pell molt fosca</annotation>
-		<annotation cp="🤌🏻">dits | dits junts | gest de la mà | interrogació | paciència | pell molt clara | què dius | relaxació | sarcàstic</annotation>
+		<annotation cp="🤌🏻">dits | dits junts | gest de la mà | interrogació | italià | paciència | pell molt clara | què dius | relaxació | sarcàstic</annotation>
 		<annotation cp="🤌🏻" type="tts">dits junts: pell molt clara</annotation>
-		<annotation cp="🤌🏼">dits | dits junts | gest de la mà | interrogació | paciència | pell bastant clara | què dius | relaxació | sarcàstic</annotation>
+		<annotation cp="🤌🏼">dits | dits junts | gest de la mà | interrogació | italià | paciència | pell bastant clara | què dius | relaxació | sarcàstic</annotation>
 		<annotation cp="🤌🏼" type="tts">dits junts: pell bastant clara</annotation>
-		<annotation cp="🤌🏽">dits | dits junts | gest de la mà | interrogació | paciència | pell morena | què dius | relaxació | sarcàstic</annotation>
+		<annotation cp="🤌🏽">dits | dits junts | gest de la mà | interrogació | italià | paciència | pell morena | què dius | relaxació | sarcàstic</annotation>
 		<annotation cp="🤌🏽" type="tts">dits junts: pell morena</annotation>
-		<annotation cp="🤌🏾">dits | dits junts | gest de la mà | interrogació | paciència | pell fosca | què dius | relaxació | sarcàstic</annotation>
+		<annotation cp="🤌🏾">dits | dits junts | gest de la mà | interrogació | italià | paciència | pell fosca | què dius | relaxació | sarcàstic</annotation>
 		<annotation cp="🤌🏾" type="tts">dits junts: pell fosca</annotation>
-		<annotation cp="🤌🏿">dits | dits junts | gest de la mà | interrogació | paciència | pell molt fosca | què dius | relaxació | sarcàstic</annotation>
+		<annotation cp="🤌🏿">dits | dits junts | gest de la mà | interrogació | italià | paciència | pell molt fosca | què dius | relaxació | sarcàstic</annotation>
 		<annotation cp="🤌🏿" type="tts">dits junts: pell molt fosca</annotation>
 		<annotation cp="🤏🏻">dits | mà que pessiga | pell molt clara | petit | quantitat petita | una mica</annotation>
 		<annotation cp="🤏🏻" type="tts">mà que pessiga: pell molt clara</annotation>
@@ -603,6 +603,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾" type="tts">persona: pell fosca i cabells rossos</annotation>
 		<annotation cp="👱🏿">cabells | cabells curts rossos | cabells rossos | cara | home | pell molt fosca | persona | persona amb cabells curts i rossos | persona amb cabells rossos | persona amb els cabells rossos | persona rossa | persona: cabells rossos | ros</annotation>
 		<annotation cp="👱🏿" type="tts">persona: pell molt fosca i cabells rossos</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell bastant clara | pell molt clara | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼" type="tts">persones que lluiten: pell molt clara i pell bastant clara</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell molt clara | pell morena | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽" type="tts">persones que lluiten: pell molt clara i pell morena</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell fosca | pell molt clara | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾" type="tts">persones que lluiten: pell molt clara i pell fosca</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell molt clara | pell molt fosca | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿" type="tts">persones que lluiten: pell molt clara i pell molt fosca</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell bastant clara | pell molt clara | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻" type="tts">persones que lluiten: pell bastant clara i pell molt clara</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell bastant clara | pell morena | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽" type="tts">persones que lluiten: pell bastant clara i pell morena</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell bastant clara | pell fosca | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾" type="tts">persones que lluiten: pell bastant clara i pell fosca</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell bastant clara | pell molt fosca | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿" type="tts">persones que lluiten: pell bastant clara i pell molt fosca</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell molt clara | pell morena | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻" type="tts">persones que lluiten: pell morena i pell molt clara</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell bastant clara | pell morena | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼" type="tts">persones que lluiten: pell morena i pell bastant clara</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell fosca | pell morena | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾" type="tts">persones que lluiten: pell morena i pell fosca</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell molt fosca | pell morena | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿" type="tts">persones que lluiten: pell morena i pell molt fosca</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell fosca | pell molt clara | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻" type="tts">persones que lluiten: pell fosca i pell molt clara</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell bastant clara | pell fosca | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼" type="tts">persones que lluiten: pell fosca i pell bastant clara</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell fosca | pell morena | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽" type="tts">persones que lluiten: pell fosca i pell morena</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell fosca | pell molt fosca | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿" type="tts">persones que lluiten: pell fosca i pell molt fosca</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell molt clara | pell molt fosca | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻" type="tts">persones que lluiten: pell molt fosca i pell molt clara</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell bastant clara | pell molt fosca | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼" type="tts">persones que lluiten: pell molt fosca i pell bastant clara</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell molt fosca | pell morena | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽" type="tts">persones que lluiten: pell molt fosca i pell morena</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell fosca | pell molt fosca | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾" type="tts">persones que lluiten: pell molt fosca i pell fosca</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼">amor | aniversari | aventura | cita | cor | parella | pell bastant clara | pell molt clara | persona | petó | romàntic</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼" type="tts">petó: persona, persona, pell molt clara i pell bastant clara</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏽">amor | aniversari | aventura | cita | cor | parella | pell molt clara | pell morena | persona | petó | romàntic</annotation>
@@ -731,6 +771,56 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦲" type="tts">persona: pell fosca i calvície</annotation>
 		<annotation cp="🧑🏿‍🦲">adult | calvície | gènere neutre | pell molt fosca | persona</annotation>
 		<annotation cp="🧑🏿‍🦲" type="tts">persona: pell molt fosca i calvície</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell bastant clara | pell molt clara | persones | persones que ballen disfressades</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼" type="tts">persones que ballen disfressades: pell molt clara i pell bastant clara</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell molt clara | pell morena | persones | persones que ballen disfressades</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽" type="tts">persones que ballen disfressades: pell molt clara i pell morena</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell fosca | pell molt clara | persones | persones que ballen disfressades</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾" type="tts">persones que ballen disfressades: pell molt clara i pell fosca</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell molt clara | pell molt fosca | persones | persones que ballen disfressades</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿" type="tts">persones que ballen disfressades: pell molt clara i pell molt fosca</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell bastant clara | pell molt clara | persones | persones que ballen disfressades</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻" type="tts">persones que ballen disfressades: pell bastant clara i pell molt clara</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell bastant clara | pell morena | persones | persones que ballen disfressades</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽" type="tts">persones que ballen disfressades: pell bastant clara i pell morena</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell bastant clara | pell fosca | persones | persones que ballen disfressades</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾" type="tts">persones que ballen disfressades: pell bastant clara i pell fosca</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell bastant clara | pell molt fosca | persones | persones que ballen disfressades</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿" type="tts">persones que ballen disfressades: pell bastant clara i pell molt fosca</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell molt clara | pell morena | persones | persones que ballen disfressades</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻" type="tts">persones que ballen disfressades: pell morena i pell molt clara</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell bastant clara | pell morena | persones | persones que ballen disfressades</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼" type="tts">persones que ballen disfressades: pell morena i pell bastant clara</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell fosca | pell morena | persones | persones que ballen disfressades</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾" type="tts">persones que ballen disfressades: pell morena i pell fosca</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell molt fosca | pell morena | persones | persones que ballen disfressades</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿" type="tts">persones que ballen disfressades: pell morena i pell molt fosca</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell fosca | pell molt clara | persones | persones que ballen disfressades</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻" type="tts">persones que ballen disfressades: pell fosca i pell molt clara</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell bastant clara | pell fosca | persones | persones que ballen disfressades</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼" type="tts">persones que ballen disfressades: pell fosca i pell bastant clara</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell fosca | pell morena | persones | persones que ballen disfressades</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽" type="tts">persones que ballen disfressades: pell fosca i pell morena</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell fosca | pell molt fosca | persones | persones que ballen disfressades</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿" type="tts">persones que ballen disfressades: pell fosca i pell molt fosca</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell molt clara | pell molt fosca | persones | persones que ballen disfressades</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻" type="tts">persones que ballen disfressades: pell molt fosca i pell molt clara</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell bastant clara | pell molt fosca | persones | persones que ballen disfressades</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼" type="tts">persones que ballen disfressades: pell molt fosca i pell bastant clara</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell molt fosca | pell morena | persones | persones que ballen disfressades</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽" type="tts">persones que ballen disfressades: pell molt fosca i pell morena</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell fosca | pell molt fosca | persones | persones que ballen disfressades</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾" type="tts">persones que ballen disfressades: pell molt fosca i pell fosca</annotation>
+		<annotation cp="🧑🏻‍🩰">ballarí | ballet | pell molt clara</annotation>
+		<annotation cp="🧑🏻‍🩰" type="tts">ballarí de ballet: pell molt clara</annotation>
+		<annotation cp="🧑🏼‍🩰">ballarí | ballet | pell bastant clara</annotation>
+		<annotation cp="🧑🏼‍🩰" type="tts">ballarí de ballet: pell bastant clara</annotation>
+		<annotation cp="🧑🏽‍🩰">ballarí | ballet | pell morena</annotation>
+		<annotation cp="🧑🏽‍🩰" type="tts">ballarí de ballet: pell morena</annotation>
+		<annotation cp="🧑🏾‍🩰">ballarí | ballet | pell fosca</annotation>
+		<annotation cp="🧑🏾‍🩰" type="tts">ballarí de ballet: pell fosca</annotation>
+		<annotation cp="🧑🏿‍🩰">ballarí | ballet | pell molt fosca</annotation>
+		<annotation cp="🧑🏿‍🩰" type="tts">ballarí de ballet: pell molt fosca</annotation>
 		<annotation cp="👨🏻">amic | home | masculí | noi | pell molt clara | xicot</annotation>
 		<annotation cp="👨🏻" type="tts">home: pell molt clara</annotation>
 		<annotation cp="👨🏼">amic | home | masculí | noi | pell bastant clara | xicot</annotation>
@@ -771,6 +861,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♂" type="tts">home: pell fosca i cabell ros</annotation>
 		<annotation cp="👱🏿‍♂">cabell | home | home: cabell ros | pell molt fosca | ros</annotation>
 		<annotation cp="👱🏿‍♂" type="tts">home: pell molt fosca i cabell ros</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell bastant clara | pell molt clara | persones | quadrilàter</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼" type="tts">jugadors de lluita: pell molt clara i pell bastant clara</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell molt clara | pell morena | persones | quadrilàter</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽" type="tts">jugadors de lluita: pell molt clara i pell morena</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell fosca | pell molt clara | persones | quadrilàter</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾" type="tts">jugadors de lluita: pell molt clara i pell fosca</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell molt clara | pell molt fosca | persones | quadrilàter</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿" type="tts">jugadors de lluita: pell molt clara i pell molt fosca</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell bastant clara | pell molt clara | persones | quadrilàter</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻" type="tts">jugadors de lluita: pell bastant clara i pell molt clara</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell bastant clara | pell morena | persones | quadrilàter</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽" type="tts">jugadors de lluita: pell bastant clara i pell morena</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell bastant clara | pell fosca | persones | quadrilàter</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾" type="tts">jugadors de lluita: pell bastant clara i pell fosca</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell bastant clara | pell molt fosca | persones | quadrilàter</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿" type="tts">jugadors de lluita: pell bastant clara i pell molt fosca</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell molt clara | pell morena | persones | quadrilàter</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻" type="tts">jugadors de lluita: pell morena i pell molt clara</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell bastant clara | pell morena | persones | quadrilàter</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼" type="tts">jugadors de lluita: pell morena i pell bastant clara</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell fosca | pell morena | persones | quadrilàter</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾" type="tts">jugadors de lluita: pell morena i pell fosca</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell molt fosca | pell morena | persones | quadrilàter</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿" type="tts">jugadors de lluita: pell morena i pell molt fosca</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell fosca | pell molt clara | persones | quadrilàter</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻" type="tts">jugadors de lluita: pell fosca i pell molt clara</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell bastant clara | pell fosca | persones | quadrilàter</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼" type="tts">jugadors de lluita: pell fosca i pell bastant clara</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell fosca | pell morena | persones | quadrilàter</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽" type="tts">jugadors de lluita: pell fosca i pell morena</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell fosca | pell molt fosca | persones | quadrilàter</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿" type="tts">jugadors de lluita: pell fosca i pell molt fosca</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell molt clara | pell molt fosca | persones | quadrilàter</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻" type="tts">jugadors de lluita: pell molt fosca i pell molt clara</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell bastant clara | pell molt fosca | persones | quadrilàter</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼" type="tts">jugadors de lluita: pell molt fosca i pell bastant clara</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell molt fosca | pell morena | persones | quadrilàter</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽" type="tts">jugadors de lluita: pell molt fosca i pell morena</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell fosca | pell molt fosca | persones | quadrilàter</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾" type="tts">jugadors de lluita: pell molt fosca i pell fosca</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻">amor | aniversari | aventura | cita | cor | home | parella | pell molt clara | petó | romàntic</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻" type="tts">petó: home, home i pell molt clara</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏼">amor | aniversari | aventura | cita | cor | home | parella | pell bastant clara | pell molt clara | petó | romàntic</annotation>
@@ -919,6 +1049,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦲" type="tts">home: pell fosca i calvície</annotation>
 		<annotation cp="👨🏿‍🦲">amic | calvície | home | masculí | noi | pell molt fosca | xicot</annotation>
 		<annotation cp="👨🏿‍🦲" type="tts">home: pell molt fosca i calvície</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell bastant clara | pell molt clara</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼" type="tts">homes que ballen disfressats: pell molt clara i pell bastant clara</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell molt clara | pell morena</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽" type="tts">homes que ballen disfressats: pell molt clara i pell morena</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell fosca | pell molt clara</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾" type="tts">homes que ballen disfressats: pell molt clara i pell fosca</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell molt clara | pell molt fosca</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿" type="tts">homes que ballen disfressats: pell molt clara i pell molt fosca</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell bastant clara | pell molt clara</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻" type="tts">homes que ballen disfressats: pell bastant clara i pell molt clara</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell bastant clara | pell morena</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽" type="tts">homes que ballen disfressats: pell bastant clara i pell morena</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell bastant clara | pell fosca</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾" type="tts">homes que ballen disfressats: pell bastant clara i pell fosca</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell bastant clara | pell molt fosca</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿" type="tts">homes que ballen disfressats: pell bastant clara i pell molt fosca</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell molt clara | pell morena</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻" type="tts">homes que ballen disfressats: pell morena i pell molt clara</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell bastant clara | pell morena</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼" type="tts">homes que ballen disfressats: pell morena i pell bastant clara</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell fosca | pell morena</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾" type="tts">homes que ballen disfressats: pell morena i pell fosca</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell molt fosca | pell morena</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿" type="tts">homes que ballen disfressats: pell morena i pell molt fosca</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell fosca | pell molt clara</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻" type="tts">homes que ballen disfressats: pell fosca i pell molt clara</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell bastant clara | pell fosca</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼" type="tts">homes que ballen disfressats: pell fosca i pell bastant clara</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell fosca | pell morena</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽" type="tts">homes que ballen disfressats: pell fosca i pell morena</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell fosca | pell molt fosca</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿" type="tts">homes que ballen disfressats: pell fosca i pell molt fosca</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell molt clara | pell molt fosca</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻" type="tts">homes que ballen disfressats: pell molt fosca i pell molt clara</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell bastant clara | pell molt fosca</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼" type="tts">homes que ballen disfressats: pell molt fosca i pell bastant clara</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell molt fosca | pell morena</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽" type="tts">homes que ballen disfressats: pell molt fosca i pell morena</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell fosca | pell molt fosca</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾" type="tts">homes que ballen disfressats: pell molt fosca i pell fosca</annotation>
 		<annotation cp="👩🏻">adulta | castanya | dona | femení | pell molt clara | senyora | tall de cabells</annotation>
 		<annotation cp="👩🏻" type="tts">dona: pell molt clara</annotation>
 		<annotation cp="👩🏼">adulta | castanya | dona | femení | pell bastant clara | senyora | tall de cabells</annotation>
@@ -949,6 +1119,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♀" type="tts">dona: pell fosca i cabell ros</annotation>
 		<annotation cp="👱🏿‍♀">cabell | cabell ros | dona | dona: cabell ros | pell molt fosca | rossa</annotation>
 		<annotation cp="👱🏿‍♀" type="tts">dona: pell molt fosca i cabell ros</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell bastant clara | pell molt clara | persona | persones | quadrilàter</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼" type="tts">jugadores de lluita: pell molt clara i pell bastant clara</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell molt clara | pell morena | persona | persones | quadrilàter</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽" type="tts">jugadores de lluita: pell molt clara i pell morena</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell fosca | pell molt clara | persona | persones | quadrilàter</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾" type="tts">jugadores de lluita: pell molt clara i pell fosca</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell molt clara | pell molt fosca | persona | persones | quadrilàter</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿" type="tts">jugadores de lluita: pell molt clara i pell molt fosca</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell bastant clara | pell molt clara | persona | persones | quadrilàter</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻" type="tts">jugadores de lluita: pell bastant clara i pell molt clara</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell bastant clara | pell morena | persona | persones | quadrilàter</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽" type="tts">jugadores de lluita: pell bastant clara i pell morena</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell bastant clara | pell fosca | persona | persones | quadrilàter</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾" type="tts">jugadores de lluita: pell bastant clara i pell fosca</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell bastant clara | pell molt fosca | persona | persones | quadrilàter</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿" type="tts">jugadores de lluita: pell bastant clara i pell molt fosca</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell molt clara | pell morena | persona | persones | quadrilàter</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻" type="tts">jugadores de lluita: pell morena i pell molt clara</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell bastant clara | pell morena | persona | persones | quadrilàter</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼" type="tts">jugadores de lluita: pell morena i pell bastant clara</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell fosca | pell morena | persona | persones | quadrilàter</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾" type="tts">jugadores de lluita: pell morena i pell fosca</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell molt fosca | pell morena | persona | persones | quadrilàter</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿" type="tts">jugadores de lluita: pell morena i pell molt fosca</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell fosca | pell molt clara | persona | persones | quadrilàter</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻" type="tts">jugadores de lluita: pell fosca i pell molt clara</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell bastant clara | pell fosca | persona | persones | quadrilàter</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼" type="tts">jugadores de lluita: pell fosca i pell bastant clara</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell fosca | pell morena | persona | persones | quadrilàter</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽" type="tts">jugadores de lluita: pell fosca i pell morena</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell fosca | pell molt fosca | persona | persones | quadrilàter</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿" type="tts">jugadores de lluita: pell fosca i pell molt fosca</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell molt clara | pell molt fosca | persona | persones | quadrilàter</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻" type="tts">jugadores de lluita: pell molt fosca i pell molt clara</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell bastant clara | pell molt fosca | persona | persones | quadrilàter</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼" type="tts">jugadores de lluita: pell molt fosca i pell bastant clara</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell molt fosca | pell morena | persona | persones | quadrilàter</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽" type="tts">jugadores de lluita: pell molt fosca i pell morena</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell fosca | pell molt fosca | persona | persones | quadrilàter</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾" type="tts">jugadores de lluita: pell molt fosca i pell fosca</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻">amor | aniversari | aventura | cita | cor | dona | home | parella | pell molt clara | petó | romàntic</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻" type="tts">petó: dona, home i pell molt clara</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏼">amor | aniversari | aventura | cita | cor | dona | home | parella | pell bastant clara | pell molt clara | petó | romàntic</annotation>
@@ -1197,6 +1407,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦲" type="tts">dona: pell fosca i calvície</annotation>
 		<annotation cp="👩🏿‍🦲">adulta | calvície | castanya | dona | femení | pell molt fosca | senyora | tall de cabells</annotation>
 		<annotation cp="👩🏿‍🦲" type="tts">dona: pell molt fosca i calvície</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell bastant clara | pell molt clara</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼" type="tts">dones que ballen disfressades: pell molt clara i pell bastant clara</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell molt clara | pell morena</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽" type="tts">dones que ballen disfressades: pell molt clara i pell morena</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell fosca | pell molt clara</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾" type="tts">dones que ballen disfressades: pell molt clara i pell fosca</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell molt clara | pell molt fosca</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿" type="tts">dones que ballen disfressades: pell molt clara i pell molt fosca</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell bastant clara | pell molt clara</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻" type="tts">dones que ballen disfressades: pell bastant clara i pell molt clara</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell bastant clara | pell morena</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽" type="tts">dones que ballen disfressades: pell bastant clara i pell morena</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell bastant clara | pell fosca</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾" type="tts">dones que ballen disfressades: pell bastant clara i pell fosca</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell bastant clara | pell molt fosca</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿" type="tts">dones que ballen disfressades: pell bastant clara i pell molt fosca</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell molt clara | pell morena</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻" type="tts">dones que ballen disfressades: pell morena i pell molt clara</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell bastant clara | pell morena</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼" type="tts">dones que ballen disfressades: pell morena i pell bastant clara</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell fosca | pell morena</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾" type="tts">dones que ballen disfressades: pell morena i pell fosca</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell molt fosca | pell morena</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿" type="tts">dones que ballen disfressades: pell morena i pell molt fosca</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell fosca | pell molt clara</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻" type="tts">dones que ballen disfressades: pell fosca i pell molt clara</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell bastant clara | pell fosca</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼" type="tts">dones que ballen disfressades: pell fosca i pell bastant clara</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell fosca | pell morena</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽" type="tts">dones que ballen disfressades: pell fosca i pell morena</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell fosca | pell molt fosca</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿" type="tts">dones que ballen disfressades: pell fosca i pell molt fosca</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell molt clara | pell molt fosca</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻" type="tts">dones que ballen disfressades: pell molt fosca i pell molt clara</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell bastant clara | pell molt fosca</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼" type="tts">dones que ballen disfressades: pell molt fosca i pell bastant clara</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell molt fosca | pell morena</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽" type="tts">dones que ballen disfressades: pell molt fosca i pell morena</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell fosca | pell molt fosca</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾" type="tts">dones que ballen disfressades: pell molt fosca i pell fosca</annotation>
 		<annotation cp="🧓🏻">adult | gènere neutre | gran | pell molt clara | persona | persona anciana</annotation>
 		<annotation cp="🧓🏻" type="tts">persona gran: pell molt clara</annotation>
 		<annotation cp="🧓🏼">adult | gènere neutre | gran | pell bastant clara | persona | persona anciana</annotation>
@@ -2687,42 +2937,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🚶🏾‍♀" type="tts">dona que camina: pell fosca</annotation>
 		<annotation cp="🚶🏿‍♀">caminada | caminar | deambular | dona | dona caminant | dona que camina | femení | gambada | passejada | passejar xino-xano | pell molt fosca | vianant</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">dona que camina: pell molt fosca</annotation>
-		<annotation cp="🚶‍➡">caminada | caminar | home | home que camina | noi | passeig | passejada | passejar | passejar xino-xano | persona | persona caminant | persona que camina | vianant</annotation>
-		<annotation cp="🚶‍➡" type="tts">persona que camina que mira a la dreta</annotation>
-		<annotation cp="🚶🏻‍➡">caminada | caminar | home | home que camina | noi | passeig | passejada | passejar | passejar xino-xano | persona | persona caminant | persona que camina | vianant</annotation>
-		<annotation cp="🚶🏻‍➡" type="tts">persona que camina que mira a la dreta</annotation>
-		<annotation cp="🚶🏼‍➡">caminada | caminar | home | home que camina | noi | passeig | passejada | passejar | passejar xino-xano | persona | persona caminant | persona que camina | vianant</annotation>
-		<annotation cp="🚶🏼‍➡" type="tts">persona que camina que mira a la dreta</annotation>
-		<annotation cp="🚶🏽‍➡">caminada | caminar | home | home que camina | noi | passeig | passejada | passejar | passejar xino-xano | persona | persona caminant | persona que camina | vianant</annotation>
-		<annotation cp="🚶🏽‍➡" type="tts">persona que camina que mira a la dreta</annotation>
-		<annotation cp="🚶🏾‍➡">caminada | caminar | home | home que camina | noi | passeig | passejada | passejar | passejar xino-xano | persona | persona caminant | persona que camina | vianant</annotation>
-		<annotation cp="🚶🏾‍➡" type="tts">persona que camina que mira a la dreta</annotation>
-		<annotation cp="🚶🏿‍➡">caminada | caminar | home | home que camina | noi | passeig | passejada | passejar | passejar xino-xano | persona | persona caminant | persona que camina | vianant</annotation>
-		<annotation cp="🚶🏿‍➡" type="tts">persona que camina que mira a la dreta</annotation>
-		<annotation cp="🚶‍♀‍➡">caminada | caminar | deambular | dona | dona caminant | dona que camina | femení | gambada | passejada | passejar xino-xano | vianant</annotation>
-		<annotation cp="🚶‍♀‍➡" type="tts">dona que camina que mira a la dreta</annotation>
-		<annotation cp="🚶🏻‍♀‍➡">caminada | caminar | deambular | dona | dona caminant | dona que camina | femení | gambada | passejada | passejar xino-xano | vianant</annotation>
-		<annotation cp="🚶🏻‍♀‍➡" type="tts">dona que camina que mira a la dreta</annotation>
-		<annotation cp="🚶🏼‍♀‍➡">caminada | caminar | deambular | dona | dona caminant | dona que camina | femení | gambada | passejada | passejar xino-xano | vianant</annotation>
-		<annotation cp="🚶🏼‍♀‍➡" type="tts">dona que camina que mira a la dreta</annotation>
-		<annotation cp="🚶🏽‍♀‍➡">caminada | caminar | deambular | dona | dona caminant | dona que camina | femení | gambada | passejada | passejar xino-xano | vianant</annotation>
-		<annotation cp="🚶🏽‍♀‍➡" type="tts">dona que camina que mira a la dreta</annotation>
-		<annotation cp="🚶🏾‍♀‍➡">caminada | caminar | deambular | dona | dona caminant | dona que camina | femení | gambada | passejada | passejar xino-xano | vianant</annotation>
-		<annotation cp="🚶🏾‍♀‍➡" type="tts">dona que camina que mira a la dreta</annotation>
-		<annotation cp="🚶🏿‍♀‍➡">caminada | caminar | deambular | dona | dona caminant | dona que camina | femení | gambada | passejada | passejar xino-xano | vianant</annotation>
-		<annotation cp="🚶🏿‍♀‍➡" type="tts">dona que camina que mira a la dreta</annotation>
-		<annotation cp="🚶‍♂‍➡">caminada | home | home caminant | home que camina | masculí | passejada</annotation>
-		<annotation cp="🚶‍♂‍➡" type="tts">home que camina que mira a la dreta</annotation>
-		<annotation cp="🚶🏻‍♂‍➡">caminada | home | home caminant | home que camina | masculí | passejada</annotation>
-		<annotation cp="🚶🏻‍♂‍➡" type="tts">home que camina que mira a la dreta</annotation>
-		<annotation cp="🚶🏼‍♂‍➡">caminada | home | home caminant | home que camina | masculí | passejada</annotation>
-		<annotation cp="🚶🏼‍♂‍➡" type="tts">home que camina que mira a la dreta</annotation>
-		<annotation cp="🚶🏽‍♂‍➡">caminada | home | home caminant | home que camina | masculí | passejada</annotation>
-		<annotation cp="🚶🏽‍♂‍➡" type="tts">home que camina que mira a la dreta</annotation>
-		<annotation cp="🚶🏾‍♂‍➡">caminada | home | home caminant | home que camina | masculí | passejada</annotation>
-		<annotation cp="🚶🏾‍♂‍➡" type="tts">home que camina que mira a la dreta</annotation>
-		<annotation cp="🚶🏿‍♂‍➡">caminada | home | home caminant | home que camina | masculí | passejada</annotation>
-		<annotation cp="🚶🏿‍♂‍➡" type="tts">home que camina que mira a la dreta</annotation>
+		<annotation cp="🚶‍➡">a | caminada | caminar | dreta | home | home que camina | la | mira | noi | passeig | passejada | passejar | passejar xino-xano | persona | persona caminant | persona que camina | que | vianant</annotation>
+		<annotation cp="🚶‍➡" type="tts">persona que camina: que mira a la dreta</annotation>
+		<annotation cp="🚶🏻‍➡">a | caminada | caminar | dreta | home | home que camina | la | mira | noi | passeig | passejada | passejar | passejar xino-xano | pell molt clara | persona | persona caminant | persona que camina | que | vianant</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">persona que camina: pell molt clara i que mira a la dreta</annotation>
+		<annotation cp="🚶🏼‍➡">a | caminada | caminar | dreta | home | home que camina | la | mira | noi | passeig | passejada | passejar | passejar xino-xano | pell bastant clara | persona | persona caminant | persona que camina | que | vianant</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">persona que camina: pell bastant clara i que mira a la dreta</annotation>
+		<annotation cp="🚶🏽‍➡">a | caminada | caminar | dreta | home | home que camina | la | mira | noi | passeig | passejada | passejar | passejar xino-xano | pell morena | persona | persona caminant | persona que camina | que | vianant</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">persona que camina: pell morena i que mira a la dreta</annotation>
+		<annotation cp="🚶🏾‍➡">a | caminada | caminar | dreta | home | home que camina | la | mira | noi | passeig | passejada | passejar | passejar xino-xano | pell fosca | persona | persona caminant | persona que camina | que | vianant</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">persona que camina: pell fosca i que mira a la dreta</annotation>
+		<annotation cp="🚶🏿‍➡">a | caminada | caminar | dreta | home | home que camina | la | mira | noi | passeig | passejada | passejar | passejar xino-xano | pell molt fosca | persona | persona caminant | persona que camina | que | vianant</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">persona que camina: pell molt fosca i que mira a la dreta</annotation>
+		<annotation cp="🚶‍♀‍➡">a | caminada | caminar | deambular | dona | dona caminant | dona que camina | dreta | femení | gambada | la | mira | passejada | passejar xino-xano | que | vianant</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">dona que camina: que mira a la dreta</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">a | caminada | caminar | deambular | dona | dona caminant | dona que camina | dreta | femení | gambada | la | mira | passejada | passejar xino-xano | pell molt clara | que | vianant</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">dona que camina: pell molt clara i que mira a la dreta</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">a | caminada | caminar | deambular | dona | dona caminant | dona que camina | dreta | femení | gambada | la | mira | passejada | passejar xino-xano | pell bastant clara | que | vianant</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">dona que camina: pell bastant clara i que mira a la dreta</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">a | caminada | caminar | deambular | dona | dona caminant | dona que camina | dreta | femení | gambada | la | mira | passejada | passejar xino-xano | pell morena | que | vianant</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">dona que camina: pell morena i que mira a la dreta</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">a | caminada | caminar | deambular | dona | dona caminant | dona que camina | dreta | femení | gambada | la | mira | passejada | passejar xino-xano | pell fosca | que | vianant</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">dona que camina: pell fosca i que mira a la dreta</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">a | caminada | caminar | deambular | dona | dona caminant | dona que camina | dreta | femení | gambada | la | mira | passejada | passejar xino-xano | pell molt fosca | que | vianant</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">dona que camina: pell molt fosca i que mira a la dreta</annotation>
+		<annotation cp="🚶‍♂‍➡">a | caminada | dreta | home | home caminant | home que camina | la | masculí | mira | passejada | que</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">home que camina: que mira a la dreta</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">a | caminada | dreta | home | home caminant | home que camina | la | masculí | mira | passejada | pell molt clara | que</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">home que camina: pell molt clara i que mira a la dreta</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">a | caminada | dreta | home | home caminant | home que camina | la | masculí | mira | passejada | pell bastant clara | que</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">home que camina: pell bastant clara i que mira a la dreta</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">a | caminada | dreta | home | home caminant | home que camina | la | masculí | mira | passejada | pell morena | que</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">home que camina: pell morena i que mira a la dreta</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">a | caminada | dreta | home | home caminant | home que camina | la | masculí | mira | passejada | pell fosca | que</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">home que camina: pell fosca i que mira a la dreta</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">a | caminada | dreta | home | home caminant | home que camina | la | masculí | mira | passejada | pell molt fosca | que</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">home que camina: pell molt fosca i que mira a la dreta</annotation>
 		<annotation cp="🧍🏻">dempeus | dret | dreta | pell molt clara | persona dreta</annotation>
 		<annotation cp="🧍🏻" type="tts">persona dreta: pell molt clara</annotation>
 		<annotation cp="🧍🏼">dempeus | dret | dreta | pell bastant clara | persona dreta</annotation>
@@ -2783,42 +3033,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧎🏾‍♀" type="tts">dona agenollada: pell fosca</annotation>
 		<annotation cp="🧎🏿‍♀">agenollada | de genolls | dona | pell molt fosca</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">dona agenollada: pell molt fosca</annotation>
-		<annotation cp="🧎‍➡">agenollada | agenollat | de genolls | genoll | genolls | persona agenollada</annotation>
-		<annotation cp="🧎‍➡" type="tts">persona agenollada que mira a la dreta</annotation>
-		<annotation cp="🧎🏻‍➡">agenollada | agenollat | de genolls | genoll | genolls | persona agenollada</annotation>
-		<annotation cp="🧎🏻‍➡" type="tts">persona agenollada que mira a la dreta</annotation>
-		<annotation cp="🧎🏼‍➡">agenollada | agenollat | de genolls | genoll | genolls | persona agenollada</annotation>
-		<annotation cp="🧎🏼‍➡" type="tts">persona agenollada que mira a la dreta</annotation>
-		<annotation cp="🧎🏽‍➡">agenollada | agenollat | de genolls | genoll | genolls | persona agenollada</annotation>
-		<annotation cp="🧎🏽‍➡" type="tts">persona agenollada que mira a la dreta</annotation>
-		<annotation cp="🧎🏾‍➡">agenollada | agenollat | de genolls | genoll | genolls | persona agenollada</annotation>
-		<annotation cp="🧎🏾‍➡" type="tts">persona agenollada que mira a la dreta</annotation>
-		<annotation cp="🧎🏿‍➡">agenollada | agenollat | de genolls | genoll | genolls | persona agenollada</annotation>
-		<annotation cp="🧎🏿‍➡" type="tts">persona agenollada que mira a la dreta</annotation>
-		<annotation cp="🧎‍♀‍➡">agenollada | de genolls | dona</annotation>
-		<annotation cp="🧎‍♀‍➡" type="tts">dona agenollada que mira a la dreta</annotation>
-		<annotation cp="🧎🏻‍♀‍➡">agenollada | de genolls | dona</annotation>
-		<annotation cp="🧎🏻‍♀‍➡" type="tts">dona agenollada que mira a la dreta</annotation>
-		<annotation cp="🧎🏼‍♀‍➡">agenollada | de genolls | dona</annotation>
-		<annotation cp="🧎🏼‍♀‍➡" type="tts">dona agenollada que mira a la dreta</annotation>
-		<annotation cp="🧎🏽‍♀‍➡">agenollada | de genolls | dona</annotation>
-		<annotation cp="🧎🏽‍♀‍➡" type="tts">dona agenollada que mira a la dreta</annotation>
-		<annotation cp="🧎🏾‍♀‍➡">agenollada | de genolls | dona</annotation>
-		<annotation cp="🧎🏾‍♀‍➡" type="tts">dona agenollada que mira a la dreta</annotation>
-		<annotation cp="🧎🏿‍♀‍➡">agenollada | de genolls | dona</annotation>
-		<annotation cp="🧎🏿‍♀‍➡" type="tts">dona agenollada que mira a la dreta</annotation>
-		<annotation cp="🧎‍♂‍➡">agenollat | de genolls | home</annotation>
-		<annotation cp="🧎‍♂‍➡" type="tts">home agenollat que mira a la dreta</annotation>
-		<annotation cp="🧎🏻‍♂‍➡">agenollat | de genolls | home</annotation>
-		<annotation cp="🧎🏻‍♂‍➡" type="tts">home agenollat que mira a la dreta</annotation>
-		<annotation cp="🧎🏼‍♂‍➡">agenollat | de genolls | home</annotation>
-		<annotation cp="🧎🏼‍♂‍➡" type="tts">home agenollat que mira a la dreta</annotation>
-		<annotation cp="🧎🏽‍♂‍➡">agenollat | de genolls | home</annotation>
-		<annotation cp="🧎🏽‍♂‍➡" type="tts">home agenollat que mira a la dreta</annotation>
-		<annotation cp="🧎🏾‍♂‍➡">agenollat | de genolls | home</annotation>
-		<annotation cp="🧎🏾‍♂‍➡" type="tts">home agenollat que mira a la dreta</annotation>
-		<annotation cp="🧎🏿‍♂‍➡">agenollat | de genolls | home</annotation>
-		<annotation cp="🧎🏿‍♂‍➡" type="tts">home agenollat que mira a la dreta</annotation>
+		<annotation cp="🧎‍➡">a | agenollada | agenollat | de genolls | dreta | genoll | genolls | la | mira | persona agenollada | que</annotation>
+		<annotation cp="🧎‍➡" type="tts">persona agenollada: que mira a la dreta</annotation>
+		<annotation cp="🧎🏻‍➡">a | agenollada | agenollat | de genolls | dreta | genoll | genolls | la | mira | pell molt clara | persona agenollada | que</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">persona agenollada: pell molt clara i que mira a la dreta</annotation>
+		<annotation cp="🧎🏼‍➡">a | agenollada | agenollat | de genolls | dreta | genoll | genolls | la | mira | pell bastant clara | persona agenollada | que</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">persona agenollada: pell bastant clara i que mira a la dreta</annotation>
+		<annotation cp="🧎🏽‍➡">a | agenollada | agenollat | de genolls | dreta | genoll | genolls | la | mira | pell morena | persona agenollada | que</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">persona agenollada: pell morena i que mira a la dreta</annotation>
+		<annotation cp="🧎🏾‍➡">a | agenollada | agenollat | de genolls | dreta | genoll | genolls | la | mira | pell fosca | persona agenollada | que</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">persona agenollada: pell fosca i que mira a la dreta</annotation>
+		<annotation cp="🧎🏿‍➡">a | agenollada | agenollat | de genolls | dreta | genoll | genolls | la | mira | pell molt fosca | persona agenollada | que</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">persona agenollada: pell molt fosca i que mira a la dreta</annotation>
+		<annotation cp="🧎‍♀‍➡">a | agenollada | de genolls | dona | dreta | la | mira | que</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">dona agenollada: que mira a la dreta</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">a | agenollada | de genolls | dona | dreta | la | mira | pell molt clara | que</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">dona agenollada: pell molt clara i que mira a la dreta</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">a | agenollada | de genolls | dona | dreta | la | mira | pell bastant clara | que</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">dona agenollada: pell bastant clara i que mira a la dreta</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">a | agenollada | de genolls | dona | dreta | la | mira | pell morena | que</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">dona agenollada: pell morena i que mira a la dreta</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">a | agenollada | de genolls | dona | dreta | la | mira | pell fosca | que</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">dona agenollada: pell fosca i que mira a la dreta</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">a | agenollada | de genolls | dona | dreta | la | mira | pell molt fosca | que</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">dona agenollada: pell molt fosca i que mira a la dreta</annotation>
+		<annotation cp="🧎‍♂‍➡">a | agenollat | de genolls | dreta | home | la | mira | que</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">home agenollat: que mira a la dreta</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">a | agenollat | de genolls | dreta | home | la | mira | pell molt clara | que</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">home agenollat: pell molt clara i que mira a la dreta</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">a | agenollat | de genolls | dreta | home | la | mira | pell bastant clara | que</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">home agenollat: pell bastant clara i que mira a la dreta</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">a | agenollat | de genolls | dreta | home | la | mira | pell morena | que</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">home agenollat: pell morena i que mira a la dreta</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">a | agenollat | de genolls | dreta | home | la | mira | pell fosca | que</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">home agenollat: pell fosca i que mira a la dreta</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">a | agenollat | de genolls | dreta | home | la | mira | pell molt fosca | que</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">home agenollat: pell molt fosca i que mira a la dreta</annotation>
 		<annotation cp="🧑🏻‍🦯">accessibilitat | invident | pell molt clara | persona amb un bastó per a invidents</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">persona amb un bastó per a invidents: pell molt clara</annotation>
 		<annotation cp="🧑🏼‍🦯">accessibilitat | invident | pell bastant clara | persona amb un bastó per a invidents</annotation>
@@ -2829,18 +3079,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦯" type="tts">persona amb un bastó per a invidents: pell fosca</annotation>
 		<annotation cp="🧑🏿‍🦯">accessibilitat | invident | pell molt fosca | persona amb un bastó per a invidents</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">persona amb un bastó per a invidents: pell molt fosca</annotation>
-		<annotation cp="🧑‍🦯‍➡">accessibilitat | invident | persona amb un bastó per a invidents</annotation>
-		<annotation cp="🧑‍🦯‍➡" type="tts">persona amb un bastó per a invidents que mira a la dreta</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡">accessibilitat | invident | persona amb un bastó per a invidents</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡" type="tts">persona amb un bastó per a invidents que mira a la dreta</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡">accessibilitat | invident | persona amb un bastó per a invidents</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡" type="tts">persona amb un bastó per a invidents que mira a la dreta</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡">accessibilitat | invident | persona amb un bastó per a invidents</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡" type="tts">persona amb un bastó per a invidents que mira a la dreta</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡">accessibilitat | invident | persona amb un bastó per a invidents</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡" type="tts">persona amb un bastó per a invidents que mira a la dreta</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡">accessibilitat | invident | persona amb un bastó per a invidents</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡" type="tts">persona amb un bastó per a invidents que mira a la dreta</annotation>
+		<annotation cp="🧑‍🦯‍➡">a | accessibilitat | dreta | invident | la | mira | persona amb un bastó per a invidents | que</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">persona amb un bastó per a invidents: que mira a la dreta</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">a | accessibilitat | dreta | invident | la | mira | pell molt clara | persona amb un bastó per a invidents | que</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">persona amb un bastó per a invidents: pell molt clara i que mira a la dreta</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">a | accessibilitat | dreta | invident | la | mira | pell bastant clara | persona amb un bastó per a invidents | que</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">persona amb un bastó per a invidents: pell bastant clara i que mira a la dreta</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">a | accessibilitat | dreta | invident | la | mira | pell morena | persona amb un bastó per a invidents | que</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">persona amb un bastó per a invidents: pell morena i que mira a la dreta</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">a | accessibilitat | dreta | invident | la | mira | pell fosca | persona amb un bastó per a invidents | que</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">persona amb un bastó per a invidents: pell fosca i que mira a la dreta</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">a | accessibilitat | dreta | invident | la | mira | pell molt fosca | persona amb un bastó per a invidents | que</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">persona amb un bastó per a invidents: pell molt fosca i que mira a la dreta</annotation>
 		<annotation cp="👨🏻‍🦯">accessibilitat | cec | home | home amb un bastó per a cecs | home amb un bastó per a invidents | invident | pell molt clara</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">home amb un bastó per a invidents: pell molt clara</annotation>
 		<annotation cp="👨🏼‍🦯">accessibilitat | cec | home | home amb un bastó per a cecs | home amb un bastó per a invidents | invident | pell bastant clara</annotation>
@@ -2851,18 +3101,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦯" type="tts">home amb un bastó per a invidents: pell fosca</annotation>
 		<annotation cp="👨🏿‍🦯">accessibilitat | cec | home | home amb un bastó per a cecs | home amb un bastó per a invidents | invident | pell molt fosca</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">home amb un bastó per a invidents: pell molt fosca</annotation>
-		<annotation cp="👨‍🦯‍➡">accessibilitat | cec | home | home amb un bastó per a cecs | home amb un bastó per a invidents | invident</annotation>
-		<annotation cp="👨‍🦯‍➡" type="tts">home amb un bastó per a invidents que mira a la dreta</annotation>
-		<annotation cp="👨🏻‍🦯‍➡">accessibilitat | cec | home | home amb un bastó per a cecs | home amb un bastó per a invidents | invident</annotation>
-		<annotation cp="👨🏻‍🦯‍➡" type="tts">home amb un bastó per a invidents que mira a la dreta</annotation>
-		<annotation cp="👨🏼‍🦯‍➡">accessibilitat | cec | home | home amb un bastó per a cecs | home amb un bastó per a invidents | invident</annotation>
-		<annotation cp="👨🏼‍🦯‍➡" type="tts">home amb un bastó per a invidents que mira a la dreta</annotation>
-		<annotation cp="👨🏽‍🦯‍➡">accessibilitat | cec | home | home amb un bastó per a cecs | home amb un bastó per a invidents | invident</annotation>
-		<annotation cp="👨🏽‍🦯‍➡" type="tts">home amb un bastó per a invidents que mira a la dreta</annotation>
-		<annotation cp="👨🏾‍🦯‍➡">accessibilitat | cec | home | home amb un bastó per a cecs | home amb un bastó per a invidents | invident</annotation>
-		<annotation cp="👨🏾‍🦯‍➡" type="tts">home amb un bastó per a invidents que mira a la dreta</annotation>
-		<annotation cp="👨🏿‍🦯‍➡">accessibilitat | cec | home | home amb un bastó per a cecs | home amb un bastó per a invidents | invident</annotation>
-		<annotation cp="👨🏿‍🦯‍➡" type="tts">home amb un bastó per a invidents que mira a la dreta</annotation>
+		<annotation cp="👨‍🦯‍➡">a | accessibilitat | cec | dreta | home | home amb un bastó per a cecs | home amb un bastó per a invidents | invident | la | mira | que</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">home amb un bastó per a invidents: que mira a la dreta</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">a | accessibilitat | cec | dreta | home | home amb un bastó per a cecs | home amb un bastó per a invidents | invident | la | mira | pell molt clara | que</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">home amb un bastó per a invidents: pell molt clara i que mira a la dreta</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">a | accessibilitat | cec | dreta | home | home amb un bastó per a cecs | home amb un bastó per a invidents | invident | la | mira | pell bastant clara | que</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">home amb un bastó per a invidents: pell bastant clara i que mira a la dreta</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">a | accessibilitat | cec | dreta | home | home amb un bastó per a cecs | home amb un bastó per a invidents | invident | la | mira | pell morena | que</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">home amb un bastó per a invidents: pell morena i que mira a la dreta</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">a | accessibilitat | cec | dreta | home | home amb un bastó per a cecs | home amb un bastó per a invidents | invident | la | mira | pell fosca | que</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">home amb un bastó per a invidents: pell fosca i que mira a la dreta</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">a | accessibilitat | cec | dreta | home | home amb un bastó per a cecs | home amb un bastó per a invidents | invident | la | mira | pell molt fosca | que</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">home amb un bastó per a invidents: pell molt fosca i que mira a la dreta</annotation>
 		<annotation cp="👩🏻‍🦯">accessibilitat | cega | dona | dona amb un bastó per a invidents | invident | pell molt clara</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">dona amb un bastó per a invidents: pell molt clara</annotation>
 		<annotation cp="👩🏼‍🦯">accessibilitat | cega | dona | dona amb un bastó per a invidents | invident | pell bastant clara</annotation>
@@ -2873,18 +3123,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦯" type="tts">dona amb un bastó per a invidents: pell fosca</annotation>
 		<annotation cp="👩🏿‍🦯">accessibilitat | cega | dona | dona amb un bastó per a invidents | invident | pell molt fosca</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">dona amb un bastó per a invidents: pell molt fosca</annotation>
-		<annotation cp="👩‍🦯‍➡">accessibilitat | cega | dona | dona amb un bastó per a invidents | invident</annotation>
-		<annotation cp="👩‍🦯‍➡" type="tts">dona amb un bastó per a invidents que mira a la dreta</annotation>
-		<annotation cp="👩🏻‍🦯‍➡">accessibilitat | cega | dona | dona amb un bastó per a invidents | invident</annotation>
-		<annotation cp="👩🏻‍🦯‍➡" type="tts">dona amb un bastó per a invidents que mira a la dreta</annotation>
-		<annotation cp="👩🏼‍🦯‍➡">accessibilitat | cega | dona | dona amb un bastó per a invidents | invident</annotation>
-		<annotation cp="👩🏼‍🦯‍➡" type="tts">dona amb un bastó per a invidents que mira a la dreta</annotation>
-		<annotation cp="👩🏽‍🦯‍➡">accessibilitat | cega | dona | dona amb un bastó per a invidents | invident</annotation>
-		<annotation cp="👩🏽‍🦯‍➡" type="tts">dona amb un bastó per a invidents que mira a la dreta</annotation>
-		<annotation cp="👩🏾‍🦯‍➡">accessibilitat | cega | dona | dona amb un bastó per a invidents | invident</annotation>
-		<annotation cp="👩🏾‍🦯‍➡" type="tts">dona amb un bastó per a invidents que mira a la dreta</annotation>
-		<annotation cp="👩🏿‍🦯‍➡">accessibilitat | cega | dona | dona amb un bastó per a invidents | invident</annotation>
-		<annotation cp="👩🏿‍🦯‍➡" type="tts">dona amb un bastó per a invidents que mira a la dreta</annotation>
+		<annotation cp="👩‍🦯‍➡">a | accessibilitat | cega | dona | dona amb un bastó per a invidents | dreta | invident | la | mira | que</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">dona amb un bastó per a invidents: que mira a la dreta</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">a | accessibilitat | cega | dona | dona amb un bastó per a invidents | dreta | invident | la | mira | pell molt clara | que</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">dona amb un bastó per a invidents: pell molt clara i que mira a la dreta</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">a | accessibilitat | cega | dona | dona amb un bastó per a invidents | dreta | invident | la | mira | pell bastant clara | que</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">dona amb un bastó per a invidents: pell bastant clara i que mira a la dreta</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">a | accessibilitat | cega | dona | dona amb un bastó per a invidents | dreta | invident | la | mira | pell morena | que</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">dona amb un bastó per a invidents: pell morena i que mira a la dreta</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">a | accessibilitat | cega | dona | dona amb un bastó per a invidents | dreta | invident | la | mira | pell fosca | que</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">dona amb un bastó per a invidents: pell fosca i que mira a la dreta</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">a | accessibilitat | cega | dona | dona amb un bastó per a invidents | dreta | invident | la | mira | pell molt fosca | que</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">dona amb un bastó per a invidents: pell molt fosca i que mira a la dreta</annotation>
 		<annotation cp="🧑🏻‍🦼">accessibilitat | cadira de rodes amb motor | cadira de rodes elèctrica | pell molt clara | persona amb una cadira de rodes amb motor | persona amb una cadira de rodes elèctrica</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">persona amb una cadira de rodes elèctrica: pell molt clara</annotation>
 		<annotation cp="🧑🏼‍🦼">accessibilitat | cadira de rodes amb motor | cadira de rodes elèctrica | pell bastant clara | persona amb una cadira de rodes amb motor | persona amb una cadira de rodes elèctrica</annotation>
@@ -2895,18 +3145,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦼" type="tts">persona amb una cadira de rodes elèctrica: pell fosca</annotation>
 		<annotation cp="🧑🏿‍🦼">accessibilitat | cadira de rodes amb motor | cadira de rodes elèctrica | pell molt fosca | persona amb una cadira de rodes amb motor | persona amb una cadira de rodes elèctrica</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">persona amb una cadira de rodes elèctrica: pell molt fosca</annotation>
-		<annotation cp="🧑‍🦼‍➡">accessibilitat | cadira de rodes amb motor | cadira de rodes elèctrica | persona amb una cadira de rodes amb motor | persona amb una cadira de rodes elèctrica</annotation>
-		<annotation cp="🧑‍🦼‍➡" type="tts">persona amb una cadira de rodes elèctrica que mira a la dreta</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡">accessibilitat | cadira de rodes amb motor | cadira de rodes elèctrica | persona amb una cadira de rodes amb motor | persona amb una cadira de rodes elèctrica</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡" type="tts">persona amb una cadira de rodes elèctrica que mira a la dreta</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡">accessibilitat | cadira de rodes amb motor | cadira de rodes elèctrica | persona amb una cadira de rodes amb motor | persona amb una cadira de rodes elèctrica</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡" type="tts">persona amb una cadira de rodes elèctrica que mira a la dreta</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡">accessibilitat | cadira de rodes amb motor | cadira de rodes elèctrica | persona amb una cadira de rodes amb motor | persona amb una cadira de rodes elèctrica</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡" type="tts">persona amb una cadira de rodes elèctrica que mira a la dreta</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡">accessibilitat | cadira de rodes amb motor | cadira de rodes elèctrica | persona amb una cadira de rodes amb motor | persona amb una cadira de rodes elèctrica</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡" type="tts">persona amb una cadira de rodes elèctrica que mira a la dreta</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡">accessibilitat | cadira de rodes amb motor | cadira de rodes elèctrica | persona amb una cadira de rodes amb motor | persona amb una cadira de rodes elèctrica</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡" type="tts">persona amb una cadira de rodes elèctrica que mira a la dreta</annotation>
+		<annotation cp="🧑‍🦼‍➡">a | accessibilitat | cadira de rodes amb motor | cadira de rodes elèctrica | dreta | la | mira | persona amb una cadira de rodes amb motor | persona amb una cadira de rodes elèctrica | que</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">persona amb una cadira de rodes elèctrica: que mira a la dreta</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">a | accessibilitat | cadira de rodes amb motor | cadira de rodes elèctrica | dreta | la | mira | pell molt clara | persona amb una cadira de rodes amb motor | persona amb una cadira de rodes elèctrica | que</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">persona amb una cadira de rodes elèctrica: pell molt clara i que mira a la dreta</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">a | accessibilitat | cadira de rodes amb motor | cadira de rodes elèctrica | dreta | la | mira | pell bastant clara | persona amb una cadira de rodes amb motor | persona amb una cadira de rodes elèctrica | que</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">persona amb una cadira de rodes elèctrica: pell bastant clara i que mira a la dreta</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">a | accessibilitat | cadira de rodes amb motor | cadira de rodes elèctrica | dreta | la | mira | pell morena | persona amb una cadira de rodes amb motor | persona amb una cadira de rodes elèctrica | que</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">persona amb una cadira de rodes elèctrica: pell morena i que mira a la dreta</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">a | accessibilitat | cadira de rodes amb motor | cadira de rodes elèctrica | dreta | la | mira | pell fosca | persona amb una cadira de rodes amb motor | persona amb una cadira de rodes elèctrica | que</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">persona amb una cadira de rodes elèctrica: pell fosca i que mira a la dreta</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">a | accessibilitat | cadira de rodes amb motor | cadira de rodes elèctrica | dreta | la | mira | pell molt fosca | persona amb una cadira de rodes amb motor | persona amb una cadira de rodes elèctrica | que</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">persona amb una cadira de rodes elèctrica: pell molt fosca i que mira a la dreta</annotation>
 		<annotation cp="👨🏻‍🦼">accessibilitat | cadira de rodes | home | home amb una cadira de rodes amb motor | home amb una cadira de rodes elèctrica | home amb una cadira de rodes motoritzada | pell molt clara</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">home amb una cadira de rodes elèctrica: pell molt clara</annotation>
 		<annotation cp="👨🏼‍🦼">accessibilitat | cadira de rodes | home | home amb una cadira de rodes amb motor | home amb una cadira de rodes elèctrica | home amb una cadira de rodes motoritzada | pell bastant clara</annotation>
@@ -2917,18 +3167,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦼" type="tts">home amb una cadira de rodes elèctrica: pell fosca</annotation>
 		<annotation cp="👨🏿‍🦼">accessibilitat | cadira de rodes | home | home amb una cadira de rodes amb motor | home amb una cadira de rodes elèctrica | home amb una cadira de rodes motoritzada | pell molt fosca</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">home amb una cadira de rodes elèctrica: pell molt fosca</annotation>
-		<annotation cp="👨‍🦼‍➡">accessibilitat | cadira de rodes | home | home amb una cadira de rodes amb motor | home amb una cadira de rodes elèctrica | home amb una cadira de rodes motoritzada</annotation>
-		<annotation cp="👨‍🦼‍➡" type="tts">home amb una cadira de rodes elèctrica que mira a la dreta</annotation>
-		<annotation cp="👨🏻‍🦼‍➡">accessibilitat | cadira de rodes | home | home amb una cadira de rodes amb motor | home amb una cadira de rodes elèctrica | home amb una cadira de rodes motoritzada</annotation>
-		<annotation cp="👨🏻‍🦼‍➡" type="tts">home amb una cadira de rodes elèctrica que mira a la dreta</annotation>
-		<annotation cp="👨🏼‍🦼‍➡">accessibilitat | cadira de rodes | home | home amb una cadira de rodes amb motor | home amb una cadira de rodes elèctrica | home amb una cadira de rodes motoritzada</annotation>
-		<annotation cp="👨🏼‍🦼‍➡" type="tts">home amb una cadira de rodes elèctrica que mira a la dreta</annotation>
-		<annotation cp="👨🏽‍🦼‍➡">accessibilitat | cadira de rodes | home | home amb una cadira de rodes amb motor | home amb una cadira de rodes elèctrica | home amb una cadira de rodes motoritzada</annotation>
-		<annotation cp="👨🏽‍🦼‍➡" type="tts">home amb una cadira de rodes elèctrica que mira a la dreta</annotation>
-		<annotation cp="👨🏾‍🦼‍➡">accessibilitat | cadira de rodes | home | home amb una cadira de rodes amb motor | home amb una cadira de rodes elèctrica | home amb una cadira de rodes motoritzada</annotation>
-		<annotation cp="👨🏾‍🦼‍➡" type="tts">home amb una cadira de rodes elèctrica que mira a la dreta</annotation>
-		<annotation cp="👨🏿‍🦼‍➡">accessibilitat | cadira de rodes | home | home amb una cadira de rodes amb motor | home amb una cadira de rodes elèctrica | home amb una cadira de rodes motoritzada</annotation>
-		<annotation cp="👨🏿‍🦼‍➡" type="tts">home amb una cadira de rodes elèctrica que mira a la dreta</annotation>
+		<annotation cp="👨‍🦼‍➡">a | accessibilitat | cadira de rodes | dreta | home | home amb una cadira de rodes amb motor | home amb una cadira de rodes elèctrica | home amb una cadira de rodes motoritzada | la | mira | que</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">home amb una cadira de rodes elèctrica: que mira a la dreta</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">a | accessibilitat | cadira de rodes | dreta | home | home amb una cadira de rodes amb motor | home amb una cadira de rodes elèctrica | home amb una cadira de rodes motoritzada | la | mira | pell molt clara | que</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">home amb una cadira de rodes elèctrica: pell molt clara i que mira a la dreta</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">a | accessibilitat | cadira de rodes | dreta | home | home amb una cadira de rodes amb motor | home amb una cadira de rodes elèctrica | home amb una cadira de rodes motoritzada | la | mira | pell bastant clara | que</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">home amb una cadira de rodes elèctrica: pell bastant clara i que mira a la dreta</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">a | accessibilitat | cadira de rodes | dreta | home | home amb una cadira de rodes amb motor | home amb una cadira de rodes elèctrica | home amb una cadira de rodes motoritzada | la | mira | pell morena | que</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">home amb una cadira de rodes elèctrica: pell morena i que mira a la dreta</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">a | accessibilitat | cadira de rodes | dreta | home | home amb una cadira de rodes amb motor | home amb una cadira de rodes elèctrica | home amb una cadira de rodes motoritzada | la | mira | pell fosca | que</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">home amb una cadira de rodes elèctrica: pell fosca i que mira a la dreta</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">a | accessibilitat | cadira de rodes | dreta | home | home amb una cadira de rodes amb motor | home amb una cadira de rodes elèctrica | home amb una cadira de rodes motoritzada | la | mira | pell molt fosca | que</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">home amb una cadira de rodes elèctrica: pell molt fosca i que mira a la dreta</annotation>
 		<annotation cp="👩🏻‍🦼">accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes amb motor | dona amb una cadira de rodes elèctrica | dona amb una cadira de rodes motoritzada | pell molt clara</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">dona amb una cadira de rodes elèctrica: pell molt clara</annotation>
 		<annotation cp="👩🏼‍🦼">accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes amb motor | dona amb una cadira de rodes elèctrica | dona amb una cadira de rodes motoritzada | pell bastant clara</annotation>
@@ -2939,18 +3189,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦼" type="tts">dona amb una cadira de rodes elèctrica: pell fosca</annotation>
 		<annotation cp="👩🏿‍🦼">accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes amb motor | dona amb una cadira de rodes elèctrica | dona amb una cadira de rodes motoritzada | pell molt fosca</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">dona amb una cadira de rodes elèctrica: pell molt fosca</annotation>
-		<annotation cp="👩‍🦼‍➡">accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes amb motor | dona amb una cadira de rodes elèctrica | dona amb una cadira de rodes motoritzada</annotation>
-		<annotation cp="👩‍🦼‍➡" type="tts">dona amb una cadira de rodes elèctrica que mira a la dreta</annotation>
-		<annotation cp="👩🏻‍🦼‍➡">accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes amb motor | dona amb una cadira de rodes elèctrica | dona amb una cadira de rodes motoritzada</annotation>
-		<annotation cp="👩🏻‍🦼‍➡" type="tts">dona amb una cadira de rodes elèctrica que mira a la dreta</annotation>
-		<annotation cp="👩🏼‍🦼‍➡">accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes amb motor | dona amb una cadira de rodes elèctrica | dona amb una cadira de rodes motoritzada</annotation>
-		<annotation cp="👩🏼‍🦼‍➡" type="tts">dona amb una cadira de rodes elèctrica que mira a la dreta</annotation>
-		<annotation cp="👩🏽‍🦼‍➡">accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes amb motor | dona amb una cadira de rodes elèctrica | dona amb una cadira de rodes motoritzada</annotation>
-		<annotation cp="👩🏽‍🦼‍➡" type="tts">dona amb una cadira de rodes elèctrica que mira a la dreta</annotation>
-		<annotation cp="👩🏾‍🦼‍➡">accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes amb motor | dona amb una cadira de rodes elèctrica | dona amb una cadira de rodes motoritzada</annotation>
-		<annotation cp="👩🏾‍🦼‍➡" type="tts">dona amb una cadira de rodes elèctrica que mira a la dreta</annotation>
-		<annotation cp="👩🏿‍🦼‍➡">accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes amb motor | dona amb una cadira de rodes elèctrica | dona amb una cadira de rodes motoritzada</annotation>
-		<annotation cp="👩🏿‍🦼‍➡" type="tts">dona amb una cadira de rodes elèctrica que mira a la dreta</annotation>
+		<annotation cp="👩‍🦼‍➡">a | accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes amb motor | dona amb una cadira de rodes elèctrica | dona amb una cadira de rodes motoritzada | dreta | la | mira | que</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">dona amb una cadira de rodes elèctrica: que mira a la dreta</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">a | accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes amb motor | dona amb una cadira de rodes elèctrica | dona amb una cadira de rodes motoritzada | dreta | la | mira | pell molt clara | que</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">dona amb una cadira de rodes elèctrica: pell molt clara i que mira a la dreta</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">a | accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes amb motor | dona amb una cadira de rodes elèctrica | dona amb una cadira de rodes motoritzada | dreta | la | mira | pell bastant clara | que</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">dona amb una cadira de rodes elèctrica: pell bastant clara i que mira a la dreta</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">a | accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes amb motor | dona amb una cadira de rodes elèctrica | dona amb una cadira de rodes motoritzada | dreta | la | mira | pell morena | que</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">dona amb una cadira de rodes elèctrica: pell morena i que mira a la dreta</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">a | accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes amb motor | dona amb una cadira de rodes elèctrica | dona amb una cadira de rodes motoritzada | dreta | la | mira | pell fosca | que</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">dona amb una cadira de rodes elèctrica: pell fosca i que mira a la dreta</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">a | accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes amb motor | dona amb una cadira de rodes elèctrica | dona amb una cadira de rodes motoritzada | dreta | la | mira | pell molt fosca | que</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">dona amb una cadira de rodes elèctrica: pell molt fosca i que mira a la dreta</annotation>
 		<annotation cp="🧑🏻‍🦽">accessibilitat | cadira de rodes manual | pell molt clara | persona amb una cadira de rodes manual</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">persona amb una cadira de rodes manual: pell molt clara</annotation>
 		<annotation cp="🧑🏼‍🦽">accessibilitat | cadira de rodes manual | pell bastant clara | persona amb una cadira de rodes manual</annotation>
@@ -2961,18 +3211,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦽" type="tts">persona amb una cadira de rodes manual: pell fosca</annotation>
 		<annotation cp="🧑🏿‍🦽">accessibilitat | cadira de rodes manual | pell molt fosca | persona amb una cadira de rodes manual</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">persona amb una cadira de rodes manual: pell molt fosca</annotation>
-		<annotation cp="🧑‍🦽‍➡">accessibilitat | cadira de rodes manual | persona amb una cadira de rodes manual</annotation>
-		<annotation cp="🧑‍🦽‍➡" type="tts">persona amb una cadira de rodes manual que mira a la dreta</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡">accessibilitat | cadira de rodes manual | persona amb una cadira de rodes manual</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡" type="tts">persona amb una cadira de rodes manual que mira a la dreta</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡">accessibilitat | cadira de rodes manual | persona amb una cadira de rodes manual</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡" type="tts">persona amb una cadira de rodes manual que mira a la dreta</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡">accessibilitat | cadira de rodes manual | persona amb una cadira de rodes manual</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡" type="tts">persona amb una cadira de rodes manual que mira a la dreta</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡">accessibilitat | cadira de rodes manual | persona amb una cadira de rodes manual</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡" type="tts">persona amb una cadira de rodes manual que mira a la dreta</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡">accessibilitat | cadira de rodes manual | persona amb una cadira de rodes manual</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡" type="tts">persona amb una cadira de rodes manual que mira a la dreta</annotation>
+		<annotation cp="🧑‍🦽‍➡">a | accessibilitat | cadira de rodes manual | dreta | la | mira | persona amb una cadira de rodes manual | que</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">persona amb una cadira de rodes manual: que mira a la dreta</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">a | accessibilitat | cadira de rodes manual | dreta | la | mira | pell molt clara | persona amb una cadira de rodes manual | que</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">persona amb una cadira de rodes manual: pell molt clara i que mira a la dreta</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">a | accessibilitat | cadira de rodes manual | dreta | la | mira | pell bastant clara | persona amb una cadira de rodes manual | que</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">persona amb una cadira de rodes manual: pell bastant clara i que mira a la dreta</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">a | accessibilitat | cadira de rodes manual | dreta | la | mira | pell morena | persona amb una cadira de rodes manual | que</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">persona amb una cadira de rodes manual: pell morena i que mira a la dreta</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">a | accessibilitat | cadira de rodes manual | dreta | la | mira | pell fosca | persona amb una cadira de rodes manual | que</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">persona amb una cadira de rodes manual: pell fosca i que mira a la dreta</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">a | accessibilitat | cadira de rodes manual | dreta | la | mira | pell molt fosca | persona amb una cadira de rodes manual | que</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">persona amb una cadira de rodes manual: pell molt fosca i que mira a la dreta</annotation>
 		<annotation cp="👨🏻‍🦽">accessibilitat | cadira de rodes | home | home amb una cadira de rodes manual | pell molt clara</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">home amb una cadira de rodes manual: pell molt clara</annotation>
 		<annotation cp="👨🏼‍🦽">accessibilitat | cadira de rodes | home | home amb una cadira de rodes manual | pell bastant clara</annotation>
@@ -2983,18 +3233,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦽" type="tts">home amb una cadira de rodes manual: pell fosca</annotation>
 		<annotation cp="👨🏿‍🦽">accessibilitat | cadira de rodes | home | home amb una cadira de rodes manual | pell molt fosca</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">home amb una cadira de rodes manual: pell molt fosca</annotation>
-		<annotation cp="👨‍🦽‍➡">accessibilitat | cadira de rodes | home | home amb una cadira de rodes manual</annotation>
-		<annotation cp="👨‍🦽‍➡" type="tts">home amb una cadira de rodes manual que mira a la dreta</annotation>
-		<annotation cp="👨🏻‍🦽‍➡">accessibilitat | cadira de rodes | home | home amb una cadira de rodes manual</annotation>
-		<annotation cp="👨🏻‍🦽‍➡" type="tts">home amb una cadira de rodes manual que mira a la dreta</annotation>
-		<annotation cp="👨🏼‍🦽‍➡">accessibilitat | cadira de rodes | home | home amb una cadira de rodes manual</annotation>
-		<annotation cp="👨🏼‍🦽‍➡" type="tts">home amb una cadira de rodes manual que mira a la dreta</annotation>
-		<annotation cp="👨🏽‍🦽‍➡">accessibilitat | cadira de rodes | home | home amb una cadira de rodes manual</annotation>
-		<annotation cp="👨🏽‍🦽‍➡" type="tts">home amb una cadira de rodes manual que mira a la dreta</annotation>
-		<annotation cp="👨🏾‍🦽‍➡">accessibilitat | cadira de rodes | home | home amb una cadira de rodes manual</annotation>
-		<annotation cp="👨🏾‍🦽‍➡" type="tts">home amb una cadira de rodes manual que mira a la dreta</annotation>
-		<annotation cp="👨🏿‍🦽‍➡">accessibilitat | cadira de rodes | home | home amb una cadira de rodes manual</annotation>
-		<annotation cp="👨🏿‍🦽‍➡" type="tts">home amb una cadira de rodes manual que mira a la dreta</annotation>
+		<annotation cp="👨‍🦽‍➡">a | accessibilitat | cadira de rodes | dreta | home | home amb una cadira de rodes manual | la | mira | que</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">home amb una cadira de rodes manual: que mira a la dreta</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">a | accessibilitat | cadira de rodes | dreta | home | home amb una cadira de rodes manual | la | mira | pell molt clara | que</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">home amb una cadira de rodes manual: pell molt clara i que mira a la dreta</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">a | accessibilitat | cadira de rodes | dreta | home | home amb una cadira de rodes manual | la | mira | pell bastant clara | que</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">home amb una cadira de rodes manual: pell bastant clara i que mira a la dreta</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">a | accessibilitat | cadira de rodes | dreta | home | home amb una cadira de rodes manual | la | mira | pell morena | que</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">home amb una cadira de rodes manual: pell morena i que mira a la dreta</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">a | accessibilitat | cadira de rodes | dreta | home | home amb una cadira de rodes manual | la | mira | pell fosca | que</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">home amb una cadira de rodes manual: pell fosca i que mira a la dreta</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">a | accessibilitat | cadira de rodes | dreta | home | home amb una cadira de rodes manual | la | mira | pell molt fosca | que</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">home amb una cadira de rodes manual: pell molt fosca i que mira a la dreta</annotation>
 		<annotation cp="👩🏻‍🦽">accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes manual | pell molt clara</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">dona amb una cadira de rodes manual: pell molt clara</annotation>
 		<annotation cp="👩🏼‍🦽">accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes manual | pell bastant clara</annotation>
@@ -3005,18 +3255,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦽" type="tts">dona amb una cadira de rodes manual: pell fosca</annotation>
 		<annotation cp="👩🏿‍🦽">accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes manual | pell molt fosca</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">dona amb una cadira de rodes manual: pell molt fosca</annotation>
-		<annotation cp="👩‍🦽‍➡">accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes manual</annotation>
-		<annotation cp="👩‍🦽‍➡" type="tts">dona amb una cadira de rodes manual que mira a la dreta</annotation>
-		<annotation cp="👩🏻‍🦽‍➡">accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes manual</annotation>
-		<annotation cp="👩🏻‍🦽‍➡" type="tts">dona amb una cadira de rodes manual que mira a la dreta</annotation>
-		<annotation cp="👩🏼‍🦽‍➡">accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes manual</annotation>
-		<annotation cp="👩🏼‍🦽‍➡" type="tts">dona amb una cadira de rodes manual que mira a la dreta</annotation>
-		<annotation cp="👩🏽‍🦽‍➡">accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes manual</annotation>
-		<annotation cp="👩🏽‍🦽‍➡" type="tts">dona amb una cadira de rodes manual que mira a la dreta</annotation>
-		<annotation cp="👩🏾‍🦽‍➡">accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes manual</annotation>
-		<annotation cp="👩🏾‍🦽‍➡" type="tts">dona amb una cadira de rodes manual que mira a la dreta</annotation>
-		<annotation cp="👩🏿‍🦽‍➡">accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes manual</annotation>
-		<annotation cp="👩🏿‍🦽‍➡" type="tts">dona amb una cadira de rodes manual que mira a la dreta</annotation>
+		<annotation cp="👩‍🦽‍➡">a | accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes manual | dreta | la | mira | que</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">dona amb una cadira de rodes manual: que mira a la dreta</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">a | accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes manual | dreta | la | mira | pell molt clara | que</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">dona amb una cadira de rodes manual: pell molt clara i que mira a la dreta</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">a | accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes manual | dreta | la | mira | pell bastant clara | que</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">dona amb una cadira de rodes manual: pell bastant clara i que mira a la dreta</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">a | accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes manual | dreta | la | mira | pell morena | que</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">dona amb una cadira de rodes manual: pell morena i que mira a la dreta</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">a | accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes manual | dreta | la | mira | pell fosca | que</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">dona amb una cadira de rodes manual: pell fosca i que mira a la dreta</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">a | accessibilitat | cadira de rodes | dona | dona amb una cadira de rodes manual | dreta | la | mira | pell molt fosca | que</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">dona amb una cadira de rodes manual: pell molt fosca i que mira a la dreta</annotation>
 		<annotation cp="🏃🏻">corredor | corredora | corrent | cursa | esport | marató | pell molt clara | persona | persona que corre | pressa | ràpid | ràpida | velocitat</annotation>
 		<annotation cp="🏃🏻" type="tts">persona que corre: pell molt clara</annotation>
 		<annotation cp="🏃🏼">corredor | corredora | corrent | cursa | esport | marató | pell bastant clara | persona | persona que corre | pressa | ràpid | ràpida | velocitat</annotation>
@@ -3047,42 +3297,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🏃🏾‍♀" type="tts">dona que corre: pell fosca</annotation>
 		<annotation cp="🏃🏿‍♀">afanyar-se | corredora | corrent | córrer | cursa | de pressa | dona | dona que corre | marató | pell molt fosca | pressa | ràpid | velocitat</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">dona que corre: pell molt fosca</annotation>
-		<annotation cp="🏃‍➡">corredor | corredora | corrent | cursa | esport | marató | persona | persona que corre | pressa | ràpid | ràpida | velocitat</annotation>
-		<annotation cp="🏃‍➡" type="tts">persona que corre que mira a la dreta</annotation>
-		<annotation cp="🏃🏻‍➡">corredor | corredora | corrent | cursa | esport | marató | persona | persona que corre | pressa | ràpid | ràpida | velocitat</annotation>
-		<annotation cp="🏃🏻‍➡" type="tts">persona que corre que mira a la dreta</annotation>
-		<annotation cp="🏃🏼‍➡">corredor | corredora | corrent | cursa | esport | marató | persona | persona que corre | pressa | ràpid | ràpida | velocitat</annotation>
-		<annotation cp="🏃🏼‍➡" type="tts">persona que corre que mira a la dreta</annotation>
-		<annotation cp="🏃🏽‍➡">corredor | corredora | corrent | cursa | esport | marató | persona | persona que corre | pressa | ràpid | ràpida | velocitat</annotation>
-		<annotation cp="🏃🏽‍➡" type="tts">persona que corre que mira a la dreta</annotation>
-		<annotation cp="🏃🏾‍➡">corredor | corredora | corrent | cursa | esport | marató | persona | persona que corre | pressa | ràpid | ràpida | velocitat</annotation>
-		<annotation cp="🏃🏾‍➡" type="tts">persona que corre que mira a la dreta</annotation>
-		<annotation cp="🏃🏿‍➡">corredor | corredora | corrent | cursa | esport | marató | persona | persona que corre | pressa | ràpid | ràpida | velocitat</annotation>
-		<annotation cp="🏃🏿‍➡" type="tts">persona que corre que mira a la dreta</annotation>
-		<annotation cp="🏃‍♀‍➡">afanyar-se | corredora | corrent | córrer | cursa | de pressa | dona | dona que corre | marató | pressa | ràpid | velocitat</annotation>
-		<annotation cp="🏃‍♀‍➡" type="tts">dona que corre que mira a la dreta</annotation>
-		<annotation cp="🏃🏻‍♀‍➡">afanyar-se | corredora | corrent | córrer | cursa | de pressa | dona | dona que corre | marató | pressa | ràpid | velocitat</annotation>
-		<annotation cp="🏃🏻‍♀‍➡" type="tts">dona que corre que mira a la dreta</annotation>
-		<annotation cp="🏃🏼‍♀‍➡">afanyar-se | corredora | corrent | córrer | cursa | de pressa | dona | dona que corre | marató | pressa | ràpid | velocitat</annotation>
-		<annotation cp="🏃🏼‍♀‍➡" type="tts">dona que corre que mira a la dreta</annotation>
-		<annotation cp="🏃🏽‍♀‍➡">afanyar-se | corredora | corrent | córrer | cursa | de pressa | dona | dona que corre | marató | pressa | ràpid | velocitat</annotation>
-		<annotation cp="🏃🏽‍♀‍➡" type="tts">dona que corre que mira a la dreta</annotation>
-		<annotation cp="🏃🏾‍♀‍➡">afanyar-se | corredora | corrent | córrer | cursa | de pressa | dona | dona que corre | marató | pressa | ràpid | velocitat</annotation>
-		<annotation cp="🏃🏾‍♀‍➡" type="tts">dona que corre que mira a la dreta</annotation>
-		<annotation cp="🏃🏿‍♀‍➡">afanyar-se | corredora | corrent | córrer | cursa | de pressa | dona | dona que corre | marató | pressa | ràpid | velocitat</annotation>
-		<annotation cp="🏃🏿‍♀‍➡" type="tts">dona que corre que mira a la dreta</annotation>
-		<annotation cp="🏃‍♂‍➡">córrer | cursa | home | home que corre | marató</annotation>
-		<annotation cp="🏃‍♂‍➡" type="tts">home que corre que mira a la dreta</annotation>
-		<annotation cp="🏃🏻‍♂‍➡">córrer | cursa | home | home que corre | marató</annotation>
-		<annotation cp="🏃🏻‍♂‍➡" type="tts">home que corre que mira a la dreta</annotation>
-		<annotation cp="🏃🏼‍♂‍➡">córrer | cursa | home | home que corre | marató</annotation>
-		<annotation cp="🏃🏼‍♂‍➡" type="tts">home que corre que mira a la dreta</annotation>
-		<annotation cp="🏃🏽‍♂‍➡">córrer | cursa | home | home que corre | marató</annotation>
-		<annotation cp="🏃🏽‍♂‍➡" type="tts">home que corre que mira a la dreta</annotation>
-		<annotation cp="🏃🏾‍♂‍➡">córrer | cursa | home | home que corre | marató</annotation>
-		<annotation cp="🏃🏾‍♂‍➡" type="tts">home que corre que mira a la dreta</annotation>
-		<annotation cp="🏃🏿‍♂‍➡">córrer | cursa | home | home que corre | marató</annotation>
-		<annotation cp="🏃🏿‍♂‍➡" type="tts">home que corre que mira a la dreta</annotation>
+		<annotation cp="🏃‍➡">a | corredor | corredora | corrent | cursa | dreta | esport | la | marató | mira | persona | persona que corre | pressa | que | ràpid | ràpida | velocitat</annotation>
+		<annotation cp="🏃‍➡" type="tts">persona que corre: que mira a la dreta</annotation>
+		<annotation cp="🏃🏻‍➡">a | corredor | corredora | corrent | cursa | dreta | esport | la | marató | mira | pell molt clara | persona | persona que corre | pressa | que | ràpid | ràpida | velocitat</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">persona que corre: pell molt clara i que mira a la dreta</annotation>
+		<annotation cp="🏃🏼‍➡">a | corredor | corredora | corrent | cursa | dreta | esport | la | marató | mira | pell bastant clara | persona | persona que corre | pressa | que | ràpid | ràpida | velocitat</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">persona que corre: pell bastant clara i que mira a la dreta</annotation>
+		<annotation cp="🏃🏽‍➡">a | corredor | corredora | corrent | cursa | dreta | esport | la | marató | mira | pell morena | persona | persona que corre | pressa | que | ràpid | ràpida | velocitat</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">persona que corre: pell morena i que mira a la dreta</annotation>
+		<annotation cp="🏃🏾‍➡">a | corredor | corredora | corrent | cursa | dreta | esport | la | marató | mira | pell fosca | persona | persona que corre | pressa | que | ràpid | ràpida | velocitat</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">persona que corre: pell fosca i que mira a la dreta</annotation>
+		<annotation cp="🏃🏿‍➡">a | corredor | corredora | corrent | cursa | dreta | esport | la | marató | mira | pell molt fosca | persona | persona que corre | pressa | que | ràpid | ràpida | velocitat</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">persona que corre: pell molt fosca i que mira a la dreta</annotation>
+		<annotation cp="🏃‍♀‍➡">a | afanyar-se | corredora | corrent | córrer | cursa | de pressa | dona | dona que corre | dreta | la | marató | mira | pressa | que | ràpid | velocitat</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">dona que corre: que mira a la dreta</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">a | afanyar-se | corredora | corrent | córrer | cursa | de pressa | dona | dona que corre | dreta | la | marató | mira | pell molt clara | pressa | que | ràpid | velocitat</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">dona que corre: pell molt clara i que mira a la dreta</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">a | afanyar-se | corredora | corrent | córrer | cursa | de pressa | dona | dona que corre | dreta | la | marató | mira | pell bastant clara | pressa | que | ràpid | velocitat</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">dona que corre: pell bastant clara i que mira a la dreta</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">a | afanyar-se | corredora | corrent | córrer | cursa | de pressa | dona | dona que corre | dreta | la | marató | mira | pell morena | pressa | que | ràpid | velocitat</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">dona que corre: pell morena i que mira a la dreta</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">a | afanyar-se | corredora | corrent | córrer | cursa | de pressa | dona | dona que corre | dreta | la | marató | mira | pell fosca | pressa | que | ràpid | velocitat</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">dona que corre: pell fosca i que mira a la dreta</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">a | afanyar-se | corredora | corrent | córrer | cursa | de pressa | dona | dona que corre | dreta | la | marató | mira | pell molt fosca | pressa | que | ràpid | velocitat</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">dona que corre: pell molt fosca i que mira a la dreta</annotation>
+		<annotation cp="🏃‍♂‍➡">a | córrer | cursa | dreta | home | home que corre | la | marató | mira | que</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">home que corre: que mira a la dreta</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">a | córrer | cursa | dreta | home | home que corre | la | marató | mira | pell molt clara | que</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">home que corre: pell molt clara i que mira a la dreta</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">a | córrer | cursa | dreta | home | home que corre | la | marató | mira | pell bastant clara | que</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">home que corre: pell bastant clara i que mira a la dreta</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">a | córrer | cursa | dreta | home | home que corre | la | marató | mira | pell morena | que</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">home que corre: pell morena i que mira a la dreta</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">a | córrer | cursa | dreta | home | home que corre | la | marató | mira | pell fosca | que</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">home que corre: pell fosca i que mira a la dreta</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">a | córrer | cursa | dreta | home | home que corre | la | marató | mira | pell molt fosca | que</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">home que corre: pell molt fosca i que mira a la dreta</annotation>
 		<annotation cp="💃🏻">ballant | ballarina | dansa | dona | dona que balla | elegant | festiva | flamenc | flamenca | pell molt clara | ritme | salsa | talent | tango</annotation>
 		<annotation cp="💃🏻" type="tts">dona que balla: pell molt clara</annotation>
 		<annotation cp="💃🏼">ballant | ballarina | dansa | dona | dona que balla | elegant | festiva | flamenc | flamenca | pell bastant clara | ritme | salsa | talent | tango</annotation>
@@ -3113,6 +3363,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🕴🏾" type="tts">home de negocis que levita: pell fosca</annotation>
 		<annotation cp="🕴🏿">home | home amb vestit de negocis que levita | home de negocis que levita | levitar | negocis | pell molt fosca | vestit</annotation>
 		<annotation cp="🕴🏿" type="tts">home de negocis que levita: pell molt fosca</annotation>
+		<annotation cp="👯🏻">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell molt clara | persones | persones que ballen disfressades</annotation>
+		<annotation cp="👯🏻" type="tts">persones que ballen disfressades: pell molt clara</annotation>
+		<annotation cp="👯🏼">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell bastant clara | persones | persones que ballen disfressades</annotation>
+		<annotation cp="👯🏼" type="tts">persones que ballen disfressades: pell bastant clara</annotation>
+		<annotation cp="👯🏽">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell morena | persones | persones que ballen disfressades</annotation>
+		<annotation cp="👯🏽" type="tts">persones que ballen disfressades: pell morena</annotation>
+		<annotation cp="👯🏾">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell fosca | persones | persones que ballen disfressades</annotation>
+		<annotation cp="👯🏾" type="tts">persones que ballen disfressades: pell fosca</annotation>
+		<annotation cp="👯🏿">amigues | ballarines | bessones | conillet | conilletes | dansaires | dobles | dones | dones idèntiques | dues dones | dues noies | festa | germanes | noies idèntiques | orelles de conill | orelletes de conill | parella | pell molt fosca | persones | persones que ballen disfressades</annotation>
+		<annotation cp="👯🏿" type="tts">persones que ballen disfressades: pell molt fosca</annotation>
+		<annotation cp="👯🏻‍♀">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell molt clara</annotation>
+		<annotation cp="👯🏻‍♀" type="tts">dones que ballen disfressades: pell molt clara</annotation>
+		<annotation cp="👯🏼‍♀">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell bastant clara</annotation>
+		<annotation cp="👯🏼‍♀" type="tts">dones que ballen disfressades: pell bastant clara</annotation>
+		<annotation cp="👯🏽‍♀">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell morena</annotation>
+		<annotation cp="👯🏽‍♀" type="tts">dones que ballen disfressades: pell morena</annotation>
+		<annotation cp="👯🏾‍♀">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell fosca</annotation>
+		<annotation cp="👯🏾‍♀" type="tts">dones que ballen disfressades: pell fosca</annotation>
+		<annotation cp="👯🏿‍♀">ballarina | ballarines amb orelles de conill | conilleta | dones que ballen disfressades | festa | pell molt fosca</annotation>
+		<annotation cp="👯🏿‍♀" type="tts">dones que ballen disfressades: pell molt fosca</annotation>
+		<annotation cp="👯🏻‍♂">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell molt clara</annotation>
+		<annotation cp="👯🏻‍♂" type="tts">homes que ballen disfressats: pell molt clara</annotation>
+		<annotation cp="👯🏼‍♂">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell bastant clara</annotation>
+		<annotation cp="👯🏼‍♂" type="tts">homes que ballen disfressats: pell bastant clara</annotation>
+		<annotation cp="👯🏽‍♂">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell morena</annotation>
+		<annotation cp="👯🏽‍♂" type="tts">homes que ballen disfressats: pell morena</annotation>
+		<annotation cp="👯🏾‍♂">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell fosca</annotation>
+		<annotation cp="👯🏾‍♂" type="tts">homes que ballen disfressats: pell fosca</annotation>
+		<annotation cp="👯🏿‍♂">ballarí | ballarins amb orelles de conill | conillet | dos homes idèntics | festa | homes | homes que ballen disfressats | millor amic | pell molt fosca</annotation>
+		<annotation cp="👯🏿‍♂" type="tts">homes que ballen disfressats: pell molt fosca</annotation>
 		<annotation cp="🧖🏻">bany de vapor | pell molt clara | persona | persona a la sauna | persona en un bany de vapor | persona en una sauna | relaxació | sauna | spa | vapor</annotation>
 		<annotation cp="🧖🏻" type="tts">persona a la sauna: pell molt clara</annotation>
 		<annotation cp="🧖🏼">bany de vapor | pell bastant clara | persona | persona a la sauna | persona en un bany de vapor | persona en una sauna | relaxació | sauna | spa | vapor</annotation>
@@ -3343,36 +3623,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="⛹🏾‍♀" type="tts">dona amb una pilota: pell fosca</annotation>
 		<annotation cp="⛹🏿‍♀">dona | dona amb una pilota | femení | pell molt fosca | pilota</annotation>
 		<annotation cp="⛹🏿‍♀" type="tts">dona amb una pilota: pell molt fosca</annotation>
-		<annotation cp="🏋🏻">aixecador | culturista | entrenament | esport | exercici | halter | halterofília | home que aixeca peses | pell molt clara | persona | persona que aixeca peses | persona que practica halterofília | pes | pesa</annotation>
-		<annotation cp="🏋🏻" type="tts">persona que aixeca peses: pell molt clara</annotation>
-		<annotation cp="🏋🏼">aixecador | culturista | entrenament | esport | exercici | halter | halterofília | home que aixeca peses | pell bastant clara | persona | persona que aixeca peses | persona que practica halterofília | pes | pesa</annotation>
-		<annotation cp="🏋🏼" type="tts">persona que aixeca peses: pell bastant clara</annotation>
-		<annotation cp="🏋🏽">aixecador | culturista | entrenament | esport | exercici | halter | halterofília | home que aixeca peses | pell morena | persona | persona que aixeca peses | persona que practica halterofília | pes | pesa</annotation>
-		<annotation cp="🏋🏽" type="tts">persona que aixeca peses: pell morena</annotation>
-		<annotation cp="🏋🏾">aixecador | culturista | entrenament | esport | exercici | halter | halterofília | home que aixeca peses | pell fosca | persona | persona que aixeca peses | persona que practica halterofília | pes | pesa</annotation>
-		<annotation cp="🏋🏾" type="tts">persona que aixeca peses: pell fosca</annotation>
-		<annotation cp="🏋🏿">aixecador | culturista | entrenament | esport | exercici | halter | halterofília | home que aixeca peses | pell molt fosca | persona | persona que aixeca peses | persona que practica halterofília | pes | pesa</annotation>
-		<annotation cp="🏋🏿" type="tts">persona que aixeca peses: pell molt fosca</annotation>
-		<annotation cp="🏋🏻‍♂">aixecador | home | home que aixeca peses | masculí | pell molt clara | peses</annotation>
-		<annotation cp="🏋🏻‍♂" type="tts">home que aixeca peses: pell molt clara</annotation>
-		<annotation cp="🏋🏼‍♂">aixecador | home | home que aixeca peses | masculí | pell bastant clara | peses</annotation>
-		<annotation cp="🏋🏼‍♂" type="tts">home que aixeca peses: pell bastant clara</annotation>
-		<annotation cp="🏋🏽‍♂">aixecador | home | home que aixeca peses | masculí | pell morena | peses</annotation>
-		<annotation cp="🏋🏽‍♂" type="tts">home que aixeca peses: pell morena</annotation>
-		<annotation cp="🏋🏾‍♂">aixecador | home | home que aixeca peses | masculí | pell fosca | peses</annotation>
-		<annotation cp="🏋🏾‍♂" type="tts">home que aixeca peses: pell fosca</annotation>
-		<annotation cp="🏋🏿‍♂">aixecador | home | home que aixeca peses | masculí | pell molt fosca | peses</annotation>
-		<annotation cp="🏋🏿‍♂" type="tts">home que aixeca peses: pell molt fosca</annotation>
-		<annotation cp="🏋🏻‍♀">aixecadora | dona | dona que aixeca peses | femení | pell molt clara | peses</annotation>
-		<annotation cp="🏋🏻‍♀" type="tts">dona que aixeca peses: pell molt clara</annotation>
-		<annotation cp="🏋🏼‍♀">aixecadora | dona | dona que aixeca peses | femení | pell bastant clara | peses</annotation>
-		<annotation cp="🏋🏼‍♀" type="tts">dona que aixeca peses: pell bastant clara</annotation>
-		<annotation cp="🏋🏽‍♀">aixecadora | dona | dona que aixeca peses | femení | pell morena | peses</annotation>
-		<annotation cp="🏋🏽‍♀" type="tts">dona que aixeca peses: pell morena</annotation>
-		<annotation cp="🏋🏾‍♀">aixecadora | dona | dona que aixeca peses | femení | pell fosca | peses</annotation>
-		<annotation cp="🏋🏾‍♀" type="tts">dona que aixeca peses: pell fosca</annotation>
-		<annotation cp="🏋🏿‍♀">aixecadora | dona | dona que aixeca peses | femení | pell molt fosca | peses</annotation>
-		<annotation cp="🏋🏿‍♀" type="tts">dona que aixeca peses: pell molt fosca</annotation>
+		<annotation cp="🏋🏻">aixecador | culturista | entrenament | esport | exercici | halter | halterofília | home que aixeca pesos | pell molt clara | persona | persona que aixeca pesos | persona que practica halterofília | pes</annotation>
+		<annotation cp="🏋🏻" type="tts">persona que aixeca pesos: pell molt clara</annotation>
+		<annotation cp="🏋🏼">aixecador | culturista | entrenament | esport | exercici | halter | halterofília | home que aixeca pesos | pell bastant clara | persona | persona que aixeca pesos | persona que practica halterofília | pes</annotation>
+		<annotation cp="🏋🏼" type="tts">persona que aixeca pesos: pell bastant clara</annotation>
+		<annotation cp="🏋🏽">aixecador | culturista | entrenament | esport | exercici | halter | halterofília | home que aixeca pesos | pell morena | persona | persona que aixeca pesos | persona que practica halterofília | pes</annotation>
+		<annotation cp="🏋🏽" type="tts">persona que aixeca pesos: pell morena</annotation>
+		<annotation cp="🏋🏾">aixecador | culturista | entrenament | esport | exercici | halter | halterofília | home que aixeca pesos | pell fosca | persona | persona que aixeca pesos | persona que practica halterofília | pes</annotation>
+		<annotation cp="🏋🏾" type="tts">persona que aixeca pesos: pell fosca</annotation>
+		<annotation cp="🏋🏿">aixecador | culturista | entrenament | esport | exercici | halter | halterofília | home que aixeca pesos | pell molt fosca | persona | persona que aixeca pesos | persona que practica halterofília | pes</annotation>
+		<annotation cp="🏋🏿" type="tts">persona que aixeca pesos: pell molt fosca</annotation>
+		<annotation cp="🏋🏻‍♂">aixecador | home | home que aixeca pesos | masculí | pell molt clara | pes | pesos</annotation>
+		<annotation cp="🏋🏻‍♂" type="tts">home que aixeca pesos: pell molt clara</annotation>
+		<annotation cp="🏋🏼‍♂">aixecador | home | home que aixeca pesos | masculí | pell bastant clara | pes | pesos</annotation>
+		<annotation cp="🏋🏼‍♂" type="tts">home que aixeca pesos: pell bastant clara</annotation>
+		<annotation cp="🏋🏽‍♂">aixecador | home | home que aixeca pesos | masculí | pell morena | pes | pesos</annotation>
+		<annotation cp="🏋🏽‍♂" type="tts">home que aixeca pesos: pell morena</annotation>
+		<annotation cp="🏋🏾‍♂">aixecador | home | home que aixeca pesos | masculí | pell fosca | pes | pesos</annotation>
+		<annotation cp="🏋🏾‍♂" type="tts">home que aixeca pesos: pell fosca</annotation>
+		<annotation cp="🏋🏿‍♂">aixecador | home | home que aixeca pesos | masculí | pell molt fosca | pes | pesos</annotation>
+		<annotation cp="🏋🏿‍♂" type="tts">home que aixeca pesos: pell molt fosca</annotation>
+		<annotation cp="🏋🏻‍♀">aixecadora | dona | dona que aixeca pesos | femení | pell molt clara | pes | pesos</annotation>
+		<annotation cp="🏋🏻‍♀" type="tts">dona que aixeca pesos: pell molt clara</annotation>
+		<annotation cp="🏋🏼‍♀">aixecadora | dona | dona que aixeca pesos | femení | pell bastant clara | pes | pesos</annotation>
+		<annotation cp="🏋🏼‍♀" type="tts">dona que aixeca pesos: pell bastant clara</annotation>
+		<annotation cp="🏋🏽‍♀">aixecadora | dona | dona que aixeca pesos | femení | pell morena | pes | pesos</annotation>
+		<annotation cp="🏋🏽‍♀" type="tts">dona que aixeca pesos: pell morena</annotation>
+		<annotation cp="🏋🏾‍♀">aixecadora | dona | dona que aixeca pesos | femení | pell fosca | pes | pesos</annotation>
+		<annotation cp="🏋🏾‍♀" type="tts">dona que aixeca pesos: pell fosca</annotation>
+		<annotation cp="🏋🏿‍♀">aixecadora | dona | dona que aixeca pesos | femení | pell molt fosca | pes | pesos</annotation>
+		<annotation cp="🏋🏿‍♀" type="tts">dona que aixeca pesos: pell molt fosca</annotation>
 		<annotation cp="🚴🏻">bici | bicicleta | ciclisme | ciclista | esport | pell molt clara | persona | persona amb bicicleta | persona en bicicleta | persona pedalejant</annotation>
 		<annotation cp="🚴🏻" type="tts">ciclista: pell molt clara</annotation>
 		<annotation cp="🚴🏼">bici | bicicleta | ciclisme | ciclista | esport | pell bastant clara | persona | persona amb bicicleta | persona en bicicleta | persona pedalejant</annotation>
@@ -3463,6 +3743,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤸🏾‍♀" type="tts">dona que fa la roda: pell fosca</annotation>
 		<annotation cp="🤸🏿‍♀">dona | dona activa | dona emocionada | dona que fa la roda | emoció | esport | felicitat | fer la roda | gimnàstica | noia | noia activa | noia emocionada | noia que fa la roda | pell molt fosca | persona | roda | salt | tombarella</annotation>
 		<annotation cp="🤸🏿‍♀" type="tts">dona que fa la roda: pell molt fosca</annotation>
+		<annotation cp="🤼🏻">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell molt clara | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🤼🏻" type="tts">persones que lluiten: pell molt clara</annotation>
+		<annotation cp="🤼🏼">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell bastant clara | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🤼🏼" type="tts">persones que lluiten: pell bastant clara</annotation>
+		<annotation cp="🤼🏽">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell morena | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🤼🏽" type="tts">persones que lluiten: pell morena</annotation>
+		<annotation cp="🤼🏾">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell fosca | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🤼🏾" type="tts">persones que lluiten: pell fosca</annotation>
+		<annotation cp="🤼🏿">combat | enfrontament | esport | lluita grecoromana | lluita lliure | lluitadores | lluitadors | lluitar | pell molt fosca | persones | persones lluitant | persones que lluiten | quadrilàter</annotation>
+		<annotation cp="🤼🏿" type="tts">persones que lluiten: pell molt fosca</annotation>
+		<annotation cp="🤼🏻‍♀">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell molt clara | persona | persones | quadrilàter</annotation>
+		<annotation cp="🤼🏻‍♀" type="tts">jugadores de lluita: pell molt clara</annotation>
+		<annotation cp="🤼🏼‍♀">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell bastant clara | persona | persones | quadrilàter</annotation>
+		<annotation cp="🤼🏼‍♀" type="tts">jugadores de lluita: pell bastant clara</annotation>
+		<annotation cp="🤼🏽‍♀">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell morena | persona | persones | quadrilàter</annotation>
+		<annotation cp="🤼🏽‍♀" type="tts">jugadores de lluita: pell morena</annotation>
+		<annotation cp="🤼🏾‍♀">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell fosca | persona | persones | quadrilàter</annotation>
+		<annotation cp="🤼🏾‍♀" type="tts">jugadores de lluita: pell fosca</annotation>
+		<annotation cp="🤼🏿‍♀">combat | dona | dones | dones lluitant | dones que lluiten | enfrontament | esport | femení | jugadores de lluita | lluita | lluita grecoromana | lluita lliure | lluitadores | lluitar | pell molt fosca | persona | persones | quadrilàter</annotation>
+		<annotation cp="🤼🏿‍♀" type="tts">jugadores de lluita: pell molt fosca</annotation>
+		<annotation cp="🤼🏻‍♂">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell molt clara | persones | quadrilàter</annotation>
+		<annotation cp="🤼🏻‍♂" type="tts">jugadors de lluita: pell molt clara</annotation>
+		<annotation cp="🤼🏼‍♂">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell bastant clara | persones | quadrilàter</annotation>
+		<annotation cp="🤼🏼‍♂" type="tts">jugadors de lluita: pell bastant clara</annotation>
+		<annotation cp="🤼🏽‍♂">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell morena | persones | quadrilàter</annotation>
+		<annotation cp="🤼🏽‍♂" type="tts">jugadors de lluita: pell morena</annotation>
+		<annotation cp="🤼🏾‍♂">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell fosca | persones | quadrilàter</annotation>
+		<annotation cp="🤼🏾‍♂" type="tts">jugadors de lluita: pell fosca</annotation>
+		<annotation cp="🤼🏿‍♂">combat | enfrontament | esport | homes | homes lluitant | homes que lluiten | jugadors de lluita | lluita | lluita grecoromana | lluita lliure | lluitadors | lluitar | masculí | pell molt fosca | persones | quadrilàter</annotation>
+		<annotation cp="🤼🏿‍♂" type="tts">jugadors de lluita: pell molt fosca</annotation>
 		<annotation cp="🤽🏻">aigua | esport | esport aquàtic | esportista | pell molt clara | persona | persona jugant a waterpolo | persona que juga a waterpolo | waterpolista | waterpolo</annotation>
 		<annotation cp="🤽🏻" type="tts">persona que juga a waterpolo: pell molt clara</annotation>
 		<annotation cp="🤽🏼">aigua | esport | esport aquàtic | esportista | pell bastant clara | persona | persona jugant a waterpolo | persona que juga a waterpolo | waterpolista | waterpolo</annotation>
@@ -4434,26 +4744,6 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="₺" type="tts">lira turca</annotation>
 		<annotation cp="₼" type="tts">manat azerbaidjanès</annotation>
 		<annotation cp="₾" type="tts">lari</annotation>
-		<annotation cp="0⃣">tecla</annotation>
-		<annotation cp="0⃣" type="tts">tecla: 0</annotation>
-		<annotation cp="1⃣">tecla</annotation>
-		<annotation cp="1⃣" type="tts">tecla: 1</annotation>
-		<annotation cp="2⃣">tecla</annotation>
-		<annotation cp="2⃣" type="tts">tecla: 2</annotation>
-		<annotation cp="3⃣">tecla</annotation>
-		<annotation cp="3⃣" type="tts">tecla: 3</annotation>
-		<annotation cp="4⃣">tecla</annotation>
-		<annotation cp="4⃣" type="tts">tecla: 4</annotation>
-		<annotation cp="5⃣">tecla</annotation>
-		<annotation cp="5⃣" type="tts">tecla: 5</annotation>
-		<annotation cp="6⃣">tecla</annotation>
-		<annotation cp="6⃣" type="tts">tecla: 6</annotation>
-		<annotation cp="7⃣">tecla</annotation>
-		<annotation cp="7⃣" type="tts">tecla: 7</annotation>
-		<annotation cp="8⃣">tecla</annotation>
-		<annotation cp="8⃣" type="tts">tecla: 8</annotation>
-		<annotation cp="9⃣">tecla</annotation>
-		<annotation cp="9⃣" type="tts">tecla: 9</annotation>
 		<annotation cp="₧" type="tts">pesseta espanyola</annotation>
 	</annotations>
 </ldml>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -603,6 +603,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾" type="tts">ᏴᏫ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᏓᎶᏂᎨ-ᎤᏍᏘᎩ</annotation>
 		<annotation cp="👱🏿">ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏍᏘᎩ | ᏓᎶᏂᎨ | ᏓᎶᏂᎨ-ᎤᏍᏘᎩ | ᏓᎶᏂᎨ-ᎤᏍᏘᎩ ᏴᏫ | ᏴᏫ: ᏓᎶᏂᎨ-ᎤᏍᏘᎩ</annotation>
 		<annotation cp="👱🏿" type="tts">ᏴᏫ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᏓᎶᏂᎨ-ᎤᏍᏘᎩ</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼">ᎠᏔᏪᏙᎢᏍᏗ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎤᏔᎾ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏗᎾᏤᎯ</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼" type="tts">ᎠᏔᏪᏙᎢᏍᏗ: ᎤᏔᎾ, ᎤᏔᎾ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏽">ᎠᏔᏪᏙᎢᏍᏗ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏔᎾ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏗᎾᏤᎯ</annotation>
@@ -731,6 +771,56 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦲" type="tts">ᎤᏔᎾ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᎨᏬᏗ</annotation>
 		<annotation cp="🧑🏿‍🦲">ᎢᏳᏍᏗ ᎨᎲ ᏄᏬᎵᏍᏛᎾ | ᎢᏳᏍᏗ ᎨᎲ-ᎢᏳᏍᏗᏊ | ᎤᎨᏬᏗ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏔᎾ | ᏴᏫ</annotation>
 		<annotation cp="🧑🏿‍🦲" type="tts">ᎤᏔᎾ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᎨᏬᏗ</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿">ᎠᎵᏍᎩᏍᎩ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻">ᎠᎵᏍᎩᏍᎩ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏻‍🩰">ᎠᎵᏍᎩᏍᎩ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏆᎴ</annotation>
+		<annotation cp="🧑🏻‍🩰" type="tts">ᏆᎴ ᎠᎵᏍᎩᏍᎩ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏼‍🩰">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᏆᎴ</annotation>
+		<annotation cp="🧑🏼‍🩰" type="tts">ᏆᎴ ᎠᎵᏍᎩᏍᎩ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏽‍🩰">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏆᎴ</annotation>
+		<annotation cp="🧑🏽‍🩰" type="tts">ᏆᎴ ᎠᎵᏍᎩᏍᎩ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏾‍🩰">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏆᎴ</annotation>
+		<annotation cp="🧑🏾‍🩰" type="tts">ᏆᎴ ᎠᎵᏍᎩᏍᎩ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🧑🏿‍🩰">ᎠᎵᏍᎩᏍᎩ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏆᎴ</annotation>
+		<annotation cp="🧑🏿‍🩰" type="tts">ᏆᎴ ᎠᎵᏍᎩᏍᎩ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👨🏻">ᎠᏍᎦᏯ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👨🏻" type="tts">ᎠᏍᎦᏯ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👨🏼">ᎠᏍᎦᏯ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
@@ -771,6 +861,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♂" type="tts">ᎠᏍᎦᏯ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᏓᎶᏂᎨ ᎤᏍᏘᎩ</annotation>
 		<annotation cp="👱🏿‍♂">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ: ᏓᎶᏂᎨ ᎤᏍᏘᎩ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏍᏘᎩ | ᏓᎶᏂᎨ | ᏓᎶᏂᎨ-ᎤᏍᏘᎩ ᎠᏍᎦᏯ</annotation>
 		<annotation cp="👱🏿‍♂" type="tts">ᎠᏍᎦᏯ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᏓᎶᏂᎨ ᎤᏍᏘᎩ</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻">ᎠᏍᎦᏯ | ᎠᏔᏪᏙᎢᏍᏗ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏗᎾᏤᎯ</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻" type="tts">ᎠᏔᏪᏙᎢᏍᏗ: ᎠᏍᎦᏯ, ᎠᏍᎦᏯ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏼">ᎠᏍᎦᏯ | ᎠᏔᏪᏙᎢᏍᏗ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏗᎾᏤᎯ</annotation>
@@ -919,6 +1049,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦲" type="tts">ᎠᏍᎦᏯ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᎨᏬᏗ</annotation>
 		<annotation cp="👨🏿‍🦲">ᎠᏍᎦᏯ | ᎤᎨᏬᏗ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👨🏿‍🦲" type="tts">ᎠᏍᎦᏯ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᎨᏬᏗ</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👩🏻">ᎠᎨᏯ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👩🏻" type="tts">ᎠᎨᏯ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👩🏼">ᎠᎨᏯ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
@@ -949,6 +1119,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♀" type="tts">ᎠᎨᏯ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᏓᎶᏂᎨ ᎤᏍᏘᎩ</annotation>
 		<annotation cp="👱🏿‍♀">ᎠᎨᏯ | ᎠᎨᏯ: ᏓᎶᏂᎨ ᎤᏍᏘᎩ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏍᏘᎩ | ᏓᎶᏂᎨ | ᏓᎶᏂᎨ-ᎤᏍᏘᎩ ᎠᎨᏯ</annotation>
 		<annotation cp="👱🏿‍♀" type="tts">ᎠᎨᏯ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᏓᎶᏂᎨ ᎤᏍᏘᎩ</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻">ᎠᎨᏯ | ᎠᏍᎦᏯ | ᎠᏔᏪᏙᎢᏍᏗ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏗᎾᏤᎯ</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻" type="tts">ᎠᏔᏪᏙᎢᏍᏗ: ᎠᎨᏯ, ᎠᏍᎦᏯ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏼">ᎠᎨᏯ | ᎠᏍᎦᏯ | ᎠᏔᏪᏙᎢᏍᏗ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏗᎾᏤᎯ</annotation>
@@ -1197,6 +1407,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦲" type="tts">ᎠᎨᏯ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᎨᏬᏗ</annotation>
 		<annotation cp="👩🏿‍🦲">ᎠᎨᏯ | ᎤᎨᏬᏗ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👩🏿‍🦲" type="tts">ᎠᎨᏯ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᎨᏬᏗ</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🧓🏻">ᎠᎦᏴᎵ | ᎠᎦᏴᎵ ᎤᏔᎾ | ᎠᎦᏴᎵ ᏴᏫ | ᎢᏳᏍᏗ ᎨᎲ ᏄᏬᎵᏍᏛᎾ | ᎢᏳᏍᏗ ᎨᎲ-ᎢᏳᏍᏗᏊ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🧓🏻" type="tts">ᎠᎦᏴᎵ ᎤᏔᎾ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🧓🏼">ᎠᎦᏴᎵ | ᎠᎦᏴᎵ ᎤᏔᎾ | ᎠᎦᏴᎵ ᏴᏫ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎢᏳᏍᏗ ᎨᎲ ᏄᏬᎵᏍᏛᎾ | ᎢᏳᏍᏗ ᎨᎲ-ᎢᏳᏍᏗᏊ</annotation>
@@ -2377,15 +2627,15 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤶🏾" type="tts">ᎠᎨᏯ ᎦᏁᎵ. ᏧᏠᎦᎴᏓ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🤶🏿">ᎠᎨᏯ ᎦᏁᎵ. | ᎠᎨᏯ ᎦᏁᎵ. ᏧᏠᎦᎴᏓ | ᎠᎾᎵᎮᎵᎬᎢ | ᎡᏥ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏓᏂᏍᏓᏲᎯᎲᎢ | ᏧᏠᎦᎴᏓ</annotation>
 		<annotation cp="🤶🏿" type="tts">ᎠᎨᏯ ᎦᏁᎵ. ᏧᏠᎦᎴᏓ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
-		<annotation cp="🧑🏻‍🎄">ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏓᏂᏍᏓᏲᎯᎲᎢ | ᏧᏠᎦᎴᏓ | ᏧᏠᏱ ᏧᏠᎦᎴᏓ</annotation>
+		<annotation cp="🧑🏻‍🎄">Mx | ᎤᎾᏕᏘᏱᏍᎬ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎤᏬᏢᏗ | ᎧᎳᏍ | ᏌᏔ | ᏓᏂᏍᏓᏲᎯᎲᎢ | ᏗᎦᎸᏫᏍᏓᏁᏗ ᏂᎨᏒᎾ ᎢᎦ | ᏱᏁᎯ</annotation>
 		<annotation cp="🧑🏻‍🎄" type="tts">ᏧᏠᏱ ᏧᏠᎦᎴᏓ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
-		<annotation cp="🧑🏼‍🎄">ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᏓᏂᏍᏓᏲᎯᎲᎢ | ᏧᏠᎦᎴᏓ | ᏧᏠᏱ ᏧᏠᎦᎴᏓ</annotation>
+		<annotation cp="🧑🏼‍🎄">Mx | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎤᎾᏕᏘᏱᏍᎬ | ᎤᏬᏢᏗ | ᎧᎳᏍ | ᏌᏔ | ᏓᏂᏍᏓᏲᎯᎲᎢ | ᏗᎦᎸᏫᏍᏓᏁᏗ ᏂᎨᏒᎾ ᎢᎦ | ᏱᏁᎯ</annotation>
 		<annotation cp="🧑🏼‍🎄" type="tts">ᏧᏠᏱ ᏧᏠᎦᎴᏓ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
-		<annotation cp="🧑🏽‍🎄">ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏓᏂᏍᏓᏲᎯᎲᎢ | ᏧᏠᎦᎴᏓ | ᏧᏠᏱ ᏧᏠᎦᎴᏓ</annotation>
+		<annotation cp="🧑🏽‍🎄">Mx | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᎾᏕᏘᏱᏍᎬ | ᎤᏬᏢᏗ | ᎧᎳᏍ | ᏌᏔ | ᏓᏂᏍᏓᏲᎯᎲᎢ | ᏗᎦᎸᏫᏍᏓᏁᏗ ᏂᎨᏒᎾ ᎢᎦ | ᏱᏁᎯ</annotation>
 		<annotation cp="🧑🏽‍🎄" type="tts">ᏧᏠᏱ ᏧᏠᎦᎴᏓ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
-		<annotation cp="🧑🏾‍🎄">ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏓᏂᏍᏓᏲᎯᎲᎢ | ᏧᏠᎦᎴᏓ | ᏧᏠᏱ ᏧᏠᎦᎴᏓ</annotation>
+		<annotation cp="🧑🏾‍🎄">Mx | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᎾᏕᏘᏱᏍᎬ | ᎤᏬᏢᏗ | ᎧᎳᏍ | ᏌᏔ | ᏓᏂᏍᏓᏲᎯᎲᎢ | ᏗᎦᎸᏫᏍᏓᏁᏗ ᏂᎨᏒᎾ ᎢᎦ | ᏱᏁᎯ</annotation>
 		<annotation cp="🧑🏾‍🎄" type="tts">ᏧᏠᏱ ᏧᏠᎦᎴᏓ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
-		<annotation cp="🧑🏿‍🎄">ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏓᏂᏍᏓᏲᎯᎲᎢ | ᏧᏠᎦᎴᏓ | ᏧᏠᏱ ᏧᏠᎦᎴᏓ</annotation>
+		<annotation cp="🧑🏿‍🎄">Mx | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎤᎾᏕᏘᏱᏍᎬ | ᎤᏬᏢᏗ | ᎧᎳᏍ | ᏌᏔ | ᏓᏂᏍᏓᏲᎯᎲᎢ | ᏗᎦᎸᏫᏍᏓᏁᏗ ᏂᎨᏒᎾ ᎢᎦ | ᏱᏁᎯ</annotation>
 		<annotation cp="🧑🏿‍🎄" type="tts">ᏧᏠᏱ ᏧᏠᎦᎴᏓ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🦸🏻">ᎣᏍᏓ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏄᎬᏫᏳᏒᎩ ᎤᏟᏂᎩᏓ | ᏄᎬᏫᏳᏒᎩ ᏩᏥᎸᏉᏛ | ᏩᏥᎸᏉᏛ | ᏬᏂᎸᏉᏛᎢ</annotation>
 		<annotation cp="🦸🏻" type="tts">ᏄᎬᏫᏳᏒᎩ ᏩᏥᎸᏉᏛ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
@@ -2687,42 +2937,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🚶🏾‍♀" type="tts">ᎠᎨᏯ ᎠᏨᏏᏰ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🚶🏿‍♀">ᎠᎨᏯ | ᎠᎨᏯ ᎠᏨᏏᏰ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">ᎠᎨᏯ ᎠᏨᏏᏰ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
-		<annotation cp="🚶‍➡">ᎠᏨᏏᏰ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ | ᏴᏫ ᎠᏨᏏᏰ</annotation>
-		<annotation cp="🚶‍➡" type="tts">ᏴᏫ ᎠᏨᏏᏰ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🚶🏻‍➡">ᎠᏨᏏᏰ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ | ᏴᏫ ᎠᏨᏏᏰ</annotation>
-		<annotation cp="🚶🏻‍➡" type="tts">ᏴᏫ ᎠᏨᏏᏰ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🚶🏼‍➡">ᎠᏨᏏᏰ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ | ᏴᏫ ᎠᏨᏏᏰ</annotation>
-		<annotation cp="🚶🏼‍➡" type="tts">ᏴᏫ ᎠᏨᏏᏰ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🚶🏽‍➡">ᎠᏨᏏᏰ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ | ᏴᏫ ᎠᏨᏏᏰ</annotation>
-		<annotation cp="🚶🏽‍➡" type="tts">ᏴᏫ ᎠᏨᏏᏰ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🚶🏾‍➡">ᎠᏨᏏᏰ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ | ᏴᏫ ᎠᏨᏏᏰ</annotation>
-		<annotation cp="🚶🏾‍➡" type="tts">ᏴᏫ ᎠᏨᏏᏰ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🚶🏿‍➡">ᎠᏨᏏᏰ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ | ᏴᏫ ᎠᏨᏏᏰ</annotation>
-		<annotation cp="🚶🏿‍➡" type="tts">ᏴᏫ ᎠᏨᏏᏰ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🚶‍♀‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᎠᏨᏏᏰ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
-		<annotation cp="🚶‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏨᏏᏰ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🚶🏻‍♀‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᎠᏨᏏᏰ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
-		<annotation cp="🚶🏻‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏨᏏᏰ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🚶🏼‍♀‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᎠᏨᏏᏰ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
-		<annotation cp="🚶🏼‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏨᏏᏰ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🚶🏽‍♀‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᎠᏨᏏᏰ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
-		<annotation cp="🚶🏽‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏨᏏᏰ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🚶🏾‍♀‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᎠᏨᏏᏰ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
-		<annotation cp="🚶🏾‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏨᏏᏰ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🚶🏿‍♀‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᎠᏨᏏᏰ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
-		<annotation cp="🚶🏿‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏨᏏᏰ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🚶‍♂‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎠᏨᏏᏰ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
-		<annotation cp="🚶‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏨᏏᏰ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🚶🏻‍♂‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎠᏨᏏᏰ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
-		<annotation cp="🚶🏻‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏨᏏᏰ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🚶🏼‍♂‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎠᏨᏏᏰ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
-		<annotation cp="🚶🏼‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏨᏏᏰ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🚶🏽‍♂‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎠᏨᏏᏰ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
-		<annotation cp="🚶🏽‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏨᏏᏰ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🚶🏾‍♂‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎠᏨᏏᏰ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
-		<annotation cp="🚶🏾‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏨᏏᏰ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🚶🏿‍♂‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎠᏨᏏᏰ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
-		<annotation cp="🚶🏿‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏨᏏᏰ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🚶‍➡">ᎠᎦᏘᏏ | ᎠᏨᏏᏰ | ᎢᏗᏢ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ | ᏴᏫ ᎠᏨᏏᏰ</annotation>
+		<annotation cp="🚶‍➡" type="tts">ᏴᏫ ᎠᏨᏏᏰ: ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🚶🏻‍➡">ᎠᎦᏘᏏ | ᎠᏨᏏᏰ | ᎢᏗᏢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ | ᏴᏫ ᎠᏨᏏᏰ</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">ᏴᏫ ᎠᏨᏏᏰ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🚶🏼‍➡">ᎠᎦᏘᏏ | ᎠᏨᏏᏰ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎢᏗᏢ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ | ᏴᏫ ᎠᏨᏏᏰ</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">ᏴᏫ ᎠᏨᏏᏰ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🚶🏽‍➡">ᎠᎦᏘᏏ | ᎠᏨᏏᏰ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ | ᏴᏫ ᎠᏨᏏᏰ</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">ᏴᏫ ᎠᏨᏏᏰ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🚶🏾‍➡">ᎠᎦᏘᏏ | ᎠᏨᏏᏰ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ | ᏴᏫ ᎠᏨᏏᏰ</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">ᏴᏫ ᎠᏨᏏᏰ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🚶🏿‍➡">ᎠᎦᏘᏏ | ᎠᏨᏏᏰ | ᎢᏗᏢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ | ᏴᏫ ᎠᏨᏏᏰ</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">ᏴᏫ ᎠᏨᏏᏰ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🚶‍♀‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᎠᏨᏏᏰ | ᎢᏗᏢ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏨᏏᏰ: ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᎠᏨᏏᏰ | ᎢᏗᏢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏨᏏᏰ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᎠᏨᏏᏰ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎢᏗᏢ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏨᏏᏰ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᎠᏨᏏᏰ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏨᏏᏰ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᎠᏨᏏᏰ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏨᏏᏰ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᎠᏨᏏᏰ | ᎢᏗᏢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏨᏏᏰ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🚶‍♂‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎠᏨᏏᏰ | ᎢᏗᏢ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏨᏏᏰ: ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎠᏨᏏᏰ | ᎢᏗᏢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏨᏏᏰ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎠᏨᏏᏰ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎢᏗᏢ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏨᏏᏰ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎠᏨᏏᏰ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏨᏏᏰ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎠᏨᏏᏰ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏨᏏᏰ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎠᏨᏏᏰ | ᎢᏗᏢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎭᏨᏏᏯ | ᏓᎳᏍᎨ</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏨᏏᏰ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
 		<annotation cp="🧍🏻">ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎦᏙᎦ | ᎦᏙᎬ | ᏴᏫ ᎦᏙᎦ</annotation>
 		<annotation cp="🧍🏻" type="tts">ᏴᏫ ᎦᏙᎦ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🧍🏼">ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎦᏙᎦ | ᎦᏙᎬ | ᏴᏫ ᎦᏙᎦ</annotation>
@@ -2783,42 +3033,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧎🏾‍♀" type="tts">ᎠᎨᏯ ᏕᏥᎾᏆᎾ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🧎🏿‍♀">ᎠᎨᏯ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏕᏥᎾᏆᎾ</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">ᎠᎨᏯ ᏕᏥᎾᏆᎾ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
-		<annotation cp="🧎‍➡">ᏕᏥᎾᏆᎾ | ᏗᎵᏂᏆᏅᏗ | ᏴᏫ ᏕᏥᎾᏆᎾ</annotation>
-		<annotation cp="🧎‍➡" type="tts">ᏴᏫ ᏕᏥᎾᏆᎾ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧎🏻‍➡">ᏕᏥᎾᏆᎾ | ᏗᎵᏂᏆᏅᏗ | ᏴᏫ ᏕᏥᎾᏆᎾ</annotation>
-		<annotation cp="🧎🏻‍➡" type="tts">ᏴᏫ ᏕᏥᎾᏆᎾ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧎🏼‍➡">ᏕᏥᎾᏆᎾ | ᏗᎵᏂᏆᏅᏗ | ᏴᏫ ᏕᏥᎾᏆᎾ</annotation>
-		<annotation cp="🧎🏼‍➡" type="tts">ᏴᏫ ᏕᏥᎾᏆᎾ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧎🏽‍➡">ᏕᏥᎾᏆᎾ | ᏗᎵᏂᏆᏅᏗ | ᏴᏫ ᏕᏥᎾᏆᎾ</annotation>
-		<annotation cp="🧎🏽‍➡" type="tts">ᏴᏫ ᏕᏥᎾᏆᎾ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧎🏾‍➡">ᏕᏥᎾᏆᎾ | ᏗᎵᏂᏆᏅᏗ | ᏴᏫ ᏕᏥᎾᏆᎾ</annotation>
-		<annotation cp="🧎🏾‍➡" type="tts">ᏴᏫ ᏕᏥᎾᏆᎾ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧎🏿‍➡">ᏕᏥᎾᏆᎾ | ᏗᎵᏂᏆᏅᏗ | ᏴᏫ ᏕᏥᎾᏆᎾ</annotation>
-		<annotation cp="🧎🏿‍➡" type="tts">ᏴᏫ ᏕᏥᎾᏆᎾ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧎‍♀‍➡">ᎠᎨᏯ | ᏕᏥᎾᏆᎾ</annotation>
-		<annotation cp="🧎‍♀‍➡" type="tts">ᎠᎨᏯ ᏕᏥᎾᏆᎾ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧎🏻‍♀‍➡">ᎠᎨᏯ | ᏕᏥᎾᏆᎾ</annotation>
-		<annotation cp="🧎🏻‍♀‍➡" type="tts">ᎠᎨᏯ ᏕᏥᎾᏆᎾ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧎🏼‍♀‍➡">ᎠᎨᏯ | ᏕᏥᎾᏆᎾ</annotation>
-		<annotation cp="🧎🏼‍♀‍➡" type="tts">ᎠᎨᏯ ᏕᏥᎾᏆᎾ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧎🏽‍♀‍➡">ᎠᎨᏯ | ᏕᏥᎾᏆᎾ</annotation>
-		<annotation cp="🧎🏽‍♀‍➡" type="tts">ᎠᎨᏯ ᏕᏥᎾᏆᎾ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧎🏾‍♀‍➡">ᎠᎨᏯ | ᏕᏥᎾᏆᎾ</annotation>
-		<annotation cp="🧎🏾‍♀‍➡" type="tts">ᎠᎨᏯ ᏕᏥᎾᏆᎾ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧎🏿‍♀‍➡">ᎠᎨᏯ | ᏕᏥᎾᏆᎾ</annotation>
-		<annotation cp="🧎🏿‍♀‍➡" type="tts">ᎠᎨᏯ ᏕᏥᎾᏆᎾ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧎‍♂‍➡">ᎠᏍᎦᏯ | ᏕᏥᎾᏆᎾ</annotation>
-		<annotation cp="🧎‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᏕᏥᎾᏆᎾ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧎🏻‍♂‍➡">ᎠᏍᎦᏯ | ᏕᏥᎾᏆᎾ</annotation>
-		<annotation cp="🧎🏻‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᏕᏥᎾᏆᎾ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧎🏼‍♂‍➡">ᎠᏍᎦᏯ | ᏕᏥᎾᏆᎾ</annotation>
-		<annotation cp="🧎🏼‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᏕᏥᎾᏆᎾ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧎🏽‍♂‍➡">ᎠᏍᎦᏯ | ᏕᏥᎾᏆᎾ</annotation>
-		<annotation cp="🧎🏽‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᏕᏥᎾᏆᎾ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧎🏾‍♂‍➡">ᎠᏍᎦᏯ | ᏕᏥᎾᏆᎾ</annotation>
-		<annotation cp="🧎🏾‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᏕᏥᎾᏆᎾ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧎🏿‍♂‍➡">ᎠᏍᎦᏯ | ᏕᏥᎾᏆᎾ</annotation>
-		<annotation cp="🧎🏿‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᏕᏥᎾᏆᎾ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧎‍➡">ᎠᎦᏘᏏ | ᎢᏗᏢ | ᏕᏥᎾᏆᎾ | ᏗᎵᏂᏆᏅᏗ | ᏴᏫ ᏕᏥᎾᏆᎾ</annotation>
+		<annotation cp="🧎‍➡" type="tts">ᏴᏫ ᏕᏥᎾᏆᎾ: ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧎🏻‍➡">ᎠᎦᏘᏏ | ᎢᏗᏢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏕᏥᎾᏆᎾ | ᏗᎵᏂᏆᏅᏗ | ᏴᏫ ᏕᏥᎾᏆᎾ</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">ᏴᏫ ᏕᏥᎾᏆᎾ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧎🏼‍➡">ᎠᎦᏘᏏ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎢᏗᏢ | ᏕᏥᎾᏆᎾ | ᏗᎵᏂᏆᏅᏗ | ᏴᏫ ᏕᏥᎾᏆᎾ</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">ᏴᏫ ᏕᏥᎾᏆᎾ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧎🏽‍➡">ᎠᎦᏘᏏ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᏕᏥᎾᏆᎾ | ᏗᎵᏂᏆᏅᏗ | ᏴᏫ ᏕᏥᎾᏆᎾ</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">ᏴᏫ ᏕᏥᎾᏆᎾ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧎🏾‍➡">ᎠᎦᏘᏏ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᏕᏥᎾᏆᎾ | ᏗᎵᏂᏆᏅᏗ | ᏴᏫ ᏕᏥᎾᏆᎾ</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">ᏴᏫ ᏕᏥᎾᏆᎾ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧎🏿‍➡">ᎠᎦᏘᏏ | ᎢᏗᏢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏕᏥᎾᏆᎾ | ᏗᎵᏂᏆᏅᏗ | ᏴᏫ ᏕᏥᎾᏆᎾ</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">ᏴᏫ ᏕᏥᎾᏆᎾ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧎‍♀‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎢᏗᏢ | ᏕᏥᎾᏆᎾ</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">ᎠᎨᏯ ᏕᏥᎾᏆᎾ: ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎢᏗᏢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏕᏥᎾᏆᎾ</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">ᎠᎨᏯ ᏕᏥᎾᏆᎾ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎢᏗᏢ | ᏕᏥᎾᏆᎾ</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">ᎠᎨᏯ ᏕᏥᎾᏆᎾ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᏕᏥᎾᏆᎾ</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">ᎠᎨᏯ ᏕᏥᎾᏆᎾ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᏕᏥᎾᏆᎾ</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">ᎠᎨᏯ ᏕᏥᎾᏆᎾ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎢᏗᏢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏕᏥᎾᏆᎾ</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">ᎠᎨᏯ ᏕᏥᎾᏆᎾ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧎‍♂‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎢᏗᏢ | ᏕᏥᎾᏆᎾ</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᏕᏥᎾᏆᎾ: ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎢᏗᏢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏕᏥᎾᏆᎾ</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᏕᏥᎾᏆᎾ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎢᏗᏢ | ᏕᏥᎾᏆᎾ</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᏕᏥᎾᏆᎾ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᏕᏥᎾᏆᎾ</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᏕᏥᎾᏆᎾ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᏕᏥᎾᏆᎾ</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᏕᏥᎾᏆᎾ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎢᏗᏢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏕᏥᎾᏆᎾ</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᏕᏥᎾᏆᎾ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
 		<annotation cp="🧑🏻‍🦯">ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ | ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🧑🏼‍🦯">ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ | ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ</annotation>
@@ -2829,18 +3079,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦯" type="tts">ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🧑🏿‍🦯">ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ | ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
-		<annotation cp="🧑‍🦯‍➡">ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ | ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ</annotation>
-		<annotation cp="🧑‍🦯‍➡" type="tts">ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡">ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ | ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡" type="tts">ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡">ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ | ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡" type="tts">ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡">ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ | ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡" type="tts">ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡">ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ | ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡" type="tts">ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡">ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ | ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡" type="tts">ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧑‍🦯‍➡">ᎠᎦᏘᏏ | ᎢᏗᏢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ | ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ: ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">ᎠᎦᏘᏏ | ᎢᏗᏢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ | ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">ᎠᎦᏘᏏ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎢᏗᏢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ | ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">ᎠᎦᏘᏏ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ | ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">ᎠᎦᏘᏏ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ | ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">ᎠᎦᏘᏏ | ᎢᏗᏢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ | ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">ᏴᏫ ᏗᎨᏫ ᎬᏂᏍᏓ ᎬᏗ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
 		<annotation cp="👨🏻‍🦯">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👨🏼‍🦯">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
@@ -2851,18 +3101,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦯" type="tts">ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👨🏿‍🦯">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
-		<annotation cp="👨‍🦯‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
-		<annotation cp="👨‍🦯‍➡" type="tts">ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👨🏻‍🦯‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
-		<annotation cp="👨🏻‍🦯‍➡" type="tts">ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👨🏼‍🦯‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
-		<annotation cp="👨🏼‍🦯‍➡" type="tts">ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👨🏽‍🦯‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
-		<annotation cp="👨🏽‍🦯‍➡" type="tts">ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👨🏾‍🦯‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
-		<annotation cp="👨🏾‍🦯‍➡" type="tts">ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👨🏿‍🦯‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
-		<annotation cp="👨🏿‍🦯‍➡" type="tts">ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👨‍🦯‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎢᏗᏢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ: ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎢᏗᏢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎢᏗᏢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎢᏗᏢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">ᎠᏍᎦᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
 		<annotation cp="👩🏻‍🦯">ᎠᎨᏯ | ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👩🏼‍🦯">ᎠᎨᏯ | ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
@@ -2873,18 +3123,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦯" type="tts">ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👩🏿‍🦯">ᎠᎨᏯ | ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
-		<annotation cp="👩‍🦯‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
-		<annotation cp="👩‍🦯‍➡" type="tts">ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👩🏻‍🦯‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
-		<annotation cp="👩🏻‍🦯‍➡" type="tts">ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👩🏼‍🦯‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
-		<annotation cp="👩🏼‍🦯‍➡" type="tts">ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👩🏽‍🦯‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
-		<annotation cp="👩🏽‍🦯‍➡" type="tts">ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👩🏾‍🦯‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
-		<annotation cp="👩🏾‍🦯‍➡" type="tts">ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👩🏿‍🦯‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
-		<annotation cp="👩🏿‍🦯‍➡" type="tts">ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👩‍🦯‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎢᏗᏢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ: ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎢᏗᏢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎢᏗᏢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ | ᎢᏗᏢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏗᎨᏫ</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">ᎠᎨᏯ ᏗᎨᏫ ᎦᏅᏍᏓ ᎬᏗ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
 		<annotation cp="🧑🏻‍🦼">ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🧑🏼‍🦼">ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ</annotation>
@@ -2895,18 +3145,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦼" type="tts">ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🧑🏿‍🦼">ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
-		<annotation cp="🧑‍🦼‍➡">ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ</annotation>
-		<annotation cp="🧑‍🦼‍➡" type="tts">ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡">ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡" type="tts">ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡">ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡" type="tts">ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡">ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡" type="tts">ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡">ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡" type="tts">ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡">ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡" type="tts">ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧑‍🦼‍➡">ᎠᎦᏘᏏ | ᎢᏗᏢ | ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ: ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">ᎠᎦᏘᏏ | ᎢᏗᏢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">ᎠᎦᏘᏏ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎢᏗᏢ | ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">ᎠᎦᏘᏏ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">ᎠᎦᏘᏏ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">ᎠᎦᏘᏏ | ᎢᏗᏢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">ᏴᏫ ᎠᎾᎦᎵᏍᎩ ᎦᏆᏘᏗ ᎦᏍᏗᎶ ᎬᏗ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
 		<annotation cp="👨🏻‍🦼">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👨🏼‍🦼">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
@@ -2917,18 +3167,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦼" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👨🏿‍🦼">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
-		<annotation cp="👨‍🦼‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👨‍🦼‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👨🏻‍🦼‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👨🏻‍🦼‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👨🏼‍🦼‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👨🏼‍🦼‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👨🏽‍🦼‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👨🏽‍🦼‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👨🏾‍🦼‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👨🏾‍🦼‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👨🏿‍🦼‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👨🏿‍🦼‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👨‍🦼‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎢᏗᏢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎢᏗᏢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎢᏗᏢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎢᏗᏢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
 		<annotation cp="👩🏻‍🦼">ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👩🏼‍🦼">ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
@@ -2939,18 +3189,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦼" type="tts">ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👩🏿‍🦼">ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
-		<annotation cp="👩‍🦼‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👩‍🦼‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👩🏻‍🦼‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👩🏻‍🦼‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👩🏼‍🦼‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👩🏼‍🦼‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👩🏽‍🦼‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👩🏽‍🦼‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👩🏾‍🦼‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👩🏾‍🦼‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👩🏿‍🦼‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👩🏿‍🦼‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👩‍🦼‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎢᏗᏢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎢᏗᏢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎢᏗᏢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎢᏗᏢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎠᏂᎩᏍᏗᏍᎩ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
 		<annotation cp="🧑🏻‍🦽">ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🧑🏼‍🦽">ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ</annotation>
@@ -2961,18 +3211,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦽" type="tts">ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🧑🏿‍🦽">ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
-		<annotation cp="🧑‍🦽‍➡">ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ</annotation>
-		<annotation cp="🧑‍🦽‍➡" type="tts">ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡">ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡" type="tts">ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡">ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡" type="tts">ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡">ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡" type="tts">ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡">ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡" type="tts">ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡">ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡" type="tts">ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧑‍🦽‍➡">ᎠᎦᏘᏏ | ᎢᏗᏢ | ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ: ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">ᎠᎦᏘᏏ | ᎢᏗᏢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">ᎠᎦᏘᏏ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎢᏗᏢ | ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">ᎠᎦᏘᏏ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">ᎠᎦᏘᏏ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">ᎠᎦᏘᏏ | ᎢᏗᏢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎦᏆᏘᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ | ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">ᏴᏫ ᎦᏆᏘᏗ ᎦᏍᎩᎶ ᎬᏗ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
 		<annotation cp="👨🏻‍🦽">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👨🏼‍🦽">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
@@ -2983,18 +3233,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦽" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👨🏿‍🦽">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
-		<annotation cp="👨‍🦽‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👨‍🦽‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👨🏻‍🦽‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👨🏻‍🦽‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👨🏼‍🦽‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👨🏼‍🦽‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👨🏽‍🦽‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👨🏽‍🦽‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👨🏾‍🦽‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👨🏾‍🦽‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👨🏿‍🦽‍➡">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👨🏿‍🦽‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👨‍🦽‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎢᏗᏢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎢᏗᏢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎢᏗᏢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎢᏗᏢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">ᎠᏍᎦᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
 		<annotation cp="👩🏻‍🦽">ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👩🏼‍🦽">ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
@@ -3005,18 +3255,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦽" type="tts">ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="👩🏿‍🦽">ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
-		<annotation cp="👩‍🦽‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👩‍🦽‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👩🏻‍🦽‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👩🏻‍🦽‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👩🏼‍🦽‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👩🏼‍🦽‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👩🏽‍🦽‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👩🏽‍🦽‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👩🏾‍🦽‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👩🏾‍🦽‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="👩🏿‍🦽‍➡">ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
-		<annotation cp="👩🏿‍🦽‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👩‍🦽‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎢᏗᏢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎢᏗᏢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎢᏗᏢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎢᏗᏢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎦᏆᏙᏗ ᎦᏍᎩᎶ | ᎬᏴᏍᏗ ᎨᏒᎢ</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">ᎠᎨᏯ ᎬᏗ ᎦᏆᏙᏗ ᎦᏍᎩᎶ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
 		<annotation cp="🏃🏻">ᎠᏛᏟᏒᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎪᎯᏓ | ᏴᏫ ᎠᏛᏟᏒᎢ</annotation>
 		<annotation cp="🏃🏻" type="tts">ᏴᏫ ᎠᏛᏟᏒᎢ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🏃🏼">ᎠᏛᏟᏒᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎪᎯᏓ | ᏴᏫ ᎠᏛᏟᏒᎢ</annotation>
@@ -3047,42 +3297,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🏃🏾‍♀" type="tts">ᎠᎨᏯ ᎠᏛᏟᏒᎢ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🏃🏿‍♀">ᎠᎨᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎪᎯᏓ</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">ᎠᎨᏯ ᎠᏛᏟᏒᎢ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
-		<annotation cp="🏃‍➡">ᎠᏛᏟᏒᎢ | ᎪᎯᏓ | ᏴᏫ ᎠᏛᏟᏒᎢ</annotation>
-		<annotation cp="🏃‍➡" type="tts">ᏴᏫ ᎠᏛᏟᏒᎢ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🏃🏻‍➡">ᎠᏛᏟᏒᎢ | ᎪᎯᏓ | ᏴᏫ ᎠᏛᏟᏒᎢ</annotation>
-		<annotation cp="🏃🏻‍➡" type="tts">ᏴᏫ ᎠᏛᏟᏒᎢ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🏃🏼‍➡">ᎠᏛᏟᏒᎢ | ᎪᎯᏓ | ᏴᏫ ᎠᏛᏟᏒᎢ</annotation>
-		<annotation cp="🏃🏼‍➡" type="tts">ᏴᏫ ᎠᏛᏟᏒᎢ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🏃🏽‍➡">ᎠᏛᏟᏒᎢ | ᎪᎯᏓ | ᏴᏫ ᎠᏛᏟᏒᎢ</annotation>
-		<annotation cp="🏃🏽‍➡" type="tts">ᏴᏫ ᎠᏛᏟᏒᎢ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🏃🏾‍➡">ᎠᏛᏟᏒᎢ | ᎪᎯᏓ | ᏴᏫ ᎠᏛᏟᏒᎢ</annotation>
-		<annotation cp="🏃🏾‍➡" type="tts">ᏴᏫ ᎠᏛᏟᏒᎢ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🏃🏿‍➡">ᎠᏛᏟᏒᎢ | ᎪᎯᏓ | ᏴᏫ ᎠᏛᏟᏒᎢ</annotation>
-		<annotation cp="🏃🏿‍➡" type="tts">ᏴᏫ ᎠᏛᏟᏒᎢ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🏃‍♀‍➡">ᎠᎨᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎪᎯᏓ</annotation>
-		<annotation cp="🏃‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏛᏟᏒᎢ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🏃🏻‍♀‍➡">ᎠᎨᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎪᎯᏓ</annotation>
-		<annotation cp="🏃🏻‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏛᏟᏒᎢ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🏃🏼‍♀‍➡">ᎠᎨᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎪᎯᏓ</annotation>
-		<annotation cp="🏃🏼‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏛᏟᏒᎢ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🏃🏽‍♀‍➡">ᎠᎨᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎪᎯᏓ</annotation>
-		<annotation cp="🏃🏽‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏛᏟᏒᎢ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🏃🏾‍♀‍➡">ᎠᎨᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎪᎯᏓ</annotation>
-		<annotation cp="🏃🏾‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏛᏟᏒᎢ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🏃🏿‍♀‍➡">ᎠᎨᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎪᎯᏓ</annotation>
-		<annotation cp="🏃🏿‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏛᏟᏒᎢ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🏃‍♂‍➡">ᎠᏍᎦᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎪᎯᏓ</annotation>
-		<annotation cp="🏃‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏛᏟᏒᎢ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🏃🏻‍♂‍➡">ᎠᏍᎦᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎪᎯᏓ</annotation>
-		<annotation cp="🏃🏻‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏛᏟᏒᎢ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🏃🏼‍♂‍➡">ᎠᏍᎦᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎪᎯᏓ</annotation>
-		<annotation cp="🏃🏼‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏛᏟᏒᎢ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🏃🏽‍♂‍➡">ᎠᏍᎦᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎪᎯᏓ</annotation>
-		<annotation cp="🏃🏽‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏛᏟᏒᎢ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🏃🏾‍♂‍➡">ᎠᏍᎦᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎪᎯᏓ</annotation>
-		<annotation cp="🏃🏾‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏛᏟᏒᎢ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
-		<annotation cp="🏃🏿‍♂‍➡">ᎠᏍᎦᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎪᎯᏓ</annotation>
-		<annotation cp="🏃🏿‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏛᏟᏒᎢ ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🏃‍➡">ᎠᎦᏘᏏ | ᎠᏛᏟᏒᎢ | ᎢᏗᏢ | ᎪᎯᏓ | ᏴᏫ ᎠᏛᏟᏒᎢ</annotation>
+		<annotation cp="🏃‍➡" type="tts">ᏴᏫ ᎠᏛᏟᏒᎢ: ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🏃🏻‍➡">ᎠᎦᏘᏏ | ᎠᏛᏟᏒᎢ | ᎢᏗᏢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎪᎯᏓ | ᏴᏫ ᎠᏛᏟᏒᎢ</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">ᏴᏫ ᎠᏛᏟᏒᎢ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🏃🏼‍➡">ᎠᎦᏘᏏ | ᎠᏛᏟᏒᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎢᏗᏢ | ᎪᎯᏓ | ᏴᏫ ᎠᏛᏟᏒᎢ</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">ᏴᏫ ᎠᏛᏟᏒᎢ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🏃🏽‍➡">ᎠᎦᏘᏏ | ᎠᏛᏟᏒᎢ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎪᎯᏓ | ᏴᏫ ᎠᏛᏟᏒᎢ</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">ᏴᏫ ᎠᏛᏟᏒᎢ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🏃🏾‍➡">ᎠᎦᏘᏏ | ᎠᏛᏟᏒᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎪᎯᏓ | ᏴᏫ ᎠᏛᏟᏒᎢ</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">ᏴᏫ ᎠᏛᏟᏒᎢ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🏃🏿‍➡">ᎠᎦᏘᏏ | ᎠᏛᏟᏒᎢ | ᎢᏗᏢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎪᎯᏓ | ᏴᏫ ᎠᏛᏟᏒᎢ</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">ᏴᏫ ᎠᏛᏟᏒᎢ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🏃‍♀‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎢᏗᏢ | ᎪᎯᏓ</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏛᏟᏒᎢ: ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎢᏗᏢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎪᎯᏓ</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏛᏟᏒᎢ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎢᏗᏢ | ᎪᎯᏓ</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏛᏟᏒᎢ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎪᎯᏓ</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏛᏟᏒᎢ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎪᎯᏓ</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏛᏟᏒᎢ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">ᎠᎦᏘᏏ | ᎠᎨᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎢᏗᏢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎪᎯᏓ</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">ᎠᎨᏯ ᎠᏛᏟᏒᎢ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🏃‍♂‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎢᏗᏢ | ᎪᎯᏓ</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏛᏟᏒᎢ: ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎢᏗᏢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎪᎯᏓ</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏛᏟᏒᎢ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎢᏗᏢ | ᎪᎯᏓ</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏛᏟᏒᎢ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎪᎯᏓ</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏛᏟᏒᎢ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎢᏗᏢ | ᎪᎯᏓ</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏛᏟᏒᎢ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">ᎠᎦᏘᏏ | ᎠᏍᎦᏯ | ᎠᏙᎩᏯ | ᎠᏛᏟᏒᎢ | ᎢᏗᏢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎪᎯᏓ</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">ᎠᏍᎦᏯ ᎠᏛᏟᏒᎢ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ, ᎠᎦᏘᏏ ᎢᏗᏢ</annotation>
 		<annotation cp="💃🏻">ᎠᎨᏯ | ᎠᎵᏍᎩᏍᎩ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="💃🏻" type="tts">ᎠᎨᏯ ᎠᎵᏍᎩᏍᎩ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="💃🏼">ᎠᎨᏯ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
@@ -3113,6 +3363,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🕴🏾" type="tts">ᎠᏍᎦᏯ ᏚᎸᏫᏍᏓᏁᎯ ᏧᏠᏱᎭ ᏓᎴᎲᏍᎬᎢ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🕴🏿">ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏚᎸᏫᏍᏓᏁᎯ ᏧᏠᏱᎭ ᏓᎴᎲᏍᎬᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏗᎦᎸᏫᏍᏓᏁᏗ | ᏧᏠᏱᎭ</annotation>
 		<annotation cp="🕴🏿" type="tts">ᎠᏍᎦᏯ ᏚᎸᏫᏍᏓᏁᎯ ᏧᏠᏱᎭ ᏓᎴᎲᏍᎬᎢ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👯🏻">ᎠᎵᏍᎩᏍᎩ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="👯🏻" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👯🏼">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="👯🏼" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👯🏽">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="👯🏽" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👯🏾">ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="👯🏾" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👯🏿">ᎠᎵᏍᎩᏍᎩ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ | ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ</annotation>
+		<annotation cp="👯🏿" type="tts">ᏴᏫ ᏥᏍᏚ ᏗᎦᎴ ᎤᏂᏍᏆᎸᎡᎲᎢ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👯🏻‍♀">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👯🏻‍♀" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👯🏼‍♀">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👯🏼‍♀" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👯🏽‍♀">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👯🏽‍♀" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👯🏾‍♀">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👯🏾‍♀" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👯🏿‍♀">ᎠᎨᏯ | ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᎵᏍᎩᏍᎩ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👯🏿‍♀" type="tts">ᎠᎨᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👯🏻‍♂">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👯🏻‍♂" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👯🏼‍♂">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👯🏼‍♂" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="👯🏽‍♂">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👯🏽‍♂" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👯🏾‍♂">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👯🏾‍♂" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="👯🏿‍♂">ᎠᎵᏍᎩᏍᎩ | ᎠᏍᎦᏯ | ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏥᏍᏚ ᏗᎦᎴ</annotation>
+		<annotation cp="👯🏿‍♂" type="tts">ᎠᏍᎦᏯ ᏥᏍᏚ ᏗᎦᎴ ᎣᏍᏓ ᎤᏍᏆᎸᎡᎲᎢ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🧖🏻">ᎠᏔᎶᎴᎬ ᎧᏅᏑᎸ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᎩᎶ ᎠᏯᎠ ᎠᏔᎶᎴᎬ ᎧᏅᏑᎸ | ᏌᎾ</annotation>
 		<annotation cp="🧖🏻" type="tts">ᎩᎶ ᎠᏯᎠ ᎠᏔᎶᎴᎬ ᎧᏅᏑᎸ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🧖🏼">ᎠᏔᎶᎴᎬ ᎧᏅᏑᎸ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᎩᎶ ᎠᏯᎠ ᎠᏔᎶᎴᎬ ᎧᏅᏑᎸ | ᏌᎾ</annotation>
@@ -3463,6 +3743,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤸🏾‍♀" type="tts">ᎠᎨᏯ ᏓᏁᏍᏆᏕᎬ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🤸🏿‍♀">ᎠᎨᏯ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏓᎾᎵᏔᏕᏏᏙᎲᎢ | ᏓᏁᏍᏆᏕᎬ</annotation>
 		<annotation cp="🤸🏿‍♀" type="tts">ᎠᎨᏯ ᏓᏁᏍᏆᏕᎬ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏻">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🤼🏻" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏼">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🤼🏼" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏽">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🤼🏽" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏾">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🤼🏾" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏿">ᎠᏁᏍᏗ | ᎠᏂᏴᏫ ᏓᏁᎯᎲ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ | ᏗᏁᎯᎯ</annotation>
+		<annotation cp="🤼🏿" type="tts">ᎠᏂᏴᏫ ᏓᏁᎯᎲ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏻‍♀">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏻‍♀" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏼‍♀">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏼‍♀" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏽‍♀">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏽‍♀" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏾‍♀">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏾‍♀" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏿‍♀">ᎠᎨᏯ | ᎠᎨᏯ ᏓᏁᎯᎲ | ᎠᏁᏍᏗ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏿‍♀" type="tts">ᎠᎨᏯ ᏓᏁᎯᎲ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏻‍♂">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏻‍♂" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏼‍♂">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏼‍♂" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏽‍♂">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏽‍♂" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏾‍♂">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏾‍♂" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎠᏲᏟᎨ-ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏿‍♂">ᎠᏁᏍᏗ | ᎠᏂᏍᎦᏯ | ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ | ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
+		<annotation cp="🤼🏿‍♂" type="tts">ᎠᏂᏍᎦᏯ ᏓᏁᎯᎲ: ᎤᎵᏏᎩ ᎣᏁᎦᎸ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🤽🏻">ᎠᎳᏍᎦᎵᏙᏗ | ᎠᎹ | ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ | ᏴᏫ ᏓᏁᎶᎲᏍᎬ ᎠᎹ ᎠᎳᏍᎦᎵᏙᏗ</annotation>
 		<annotation cp="🤽🏻" type="tts">ᏴᏫ ᏓᏁᎶᎲᏍᎬ ᎠᎹ ᎠᎳᏍᎦᎵᏙᏗ: ᎤᏗᏴᎳᏘ ᎤᏁᎦᎵ ᏄᏍᏛᎢ</annotation>
 		<annotation cp="🤽🏼">ᎠᎳᏍᎦᎵᏙᏗ | ᎠᎹ | ᎠᏲᏟᎨ-ᎤᏗᏴᎳᏘ ᎤᏁᎦᎸ ᏄᎿᏍᏛᎢ | ᏴᏫ ᏓᏁᎶᎲᏍᎬ ᎠᎹ ᎠᎳᏍᎦᎵᏙᏗ</annotation>
@@ -3993,6 +4303,8 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🇨🇴" type="tts">ᎦᏓᏗ: ᎪᎸᎻᏈᎢᎠ</annotation>
 		<annotation cp="🇨🇵">ᎦᏓᏗ</annotation>
 		<annotation cp="🇨🇵" type="tts">ᎦᏓᏗ: ᎦᏂᏴᏔᏅᎣᏓᎸ ᎤᎦᏚᏛᎢ</annotation>
+		<annotation cp="🇨🇶">ᎦᏓᏗ</annotation>
+		<annotation cp="🇨🇶" type="tts">ᎦᏓᏗ: ᏌᎬ</annotation>
 		<annotation cp="🇨🇷">ᎦᏓᏗ</annotation>
 		<annotation cp="🇨🇷" type="tts">ᎦᏓᏗ: ᎪᏍᏓ ᎵᎧ</annotation>
 		<annotation cp="🇨🇺">ᎦᏓᏗ</annotation>
@@ -4426,25 +4738,5 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="₺" type="tts">ᎬᏃ ᎠᏕᎳ</annotation>
 		<annotation cp="₼" type="tts">ᎠᏏᎵᏆᏌᏂ ᎠᏕᎳ</annotation>
 		<annotation cp="₾" type="tts">ᏣᎠᏥᎢ ᎠᏕᎳ</annotation>
-		<annotation cp="0⃣">ᎠᏚᎢᏍᏘᎠᎵᏚᎶ</annotation>
-		<annotation cp="0⃣" type="tts">ᎠᏚᎢᏍᏘᎠᎵᏚᎶ: 0</annotation>
-		<annotation cp="1⃣">ᎠᏚᎢᏍᏘᎠᎵᏚᎶ</annotation>
-		<annotation cp="1⃣" type="tts">ᎠᏚᎢᏍᏘᎠᎵᏚᎶ: 1</annotation>
-		<annotation cp="2⃣">ᎠᏚᎢᏍᏘᎠᎵᏚᎶ</annotation>
-		<annotation cp="2⃣" type="tts">ᎠᏚᎢᏍᏘᎠᎵᏚᎶ: 2</annotation>
-		<annotation cp="3⃣">ᎠᏚᎢᏍᏘᎠᎵᏚᎶ</annotation>
-		<annotation cp="3⃣" type="tts">ᎠᏚᎢᏍᏘᎠᎵᏚᎶ: 3</annotation>
-		<annotation cp="4⃣">ᎠᏚᎢᏍᏘᎠᎵᏚᎶ</annotation>
-		<annotation cp="4⃣" type="tts">ᎠᏚᎢᏍᏘᎠᎵᏚᎶ: 4</annotation>
-		<annotation cp="5⃣">ᎠᏚᎢᏍᏘᎠᎵᏚᎶ</annotation>
-		<annotation cp="5⃣" type="tts">ᎠᏚᎢᏍᏘᎠᎵᏚᎶ: 5</annotation>
-		<annotation cp="6⃣">ᎠᏚᎢᏍᏘᎠᎵᏚᎶ</annotation>
-		<annotation cp="6⃣" type="tts">ᎠᏚᎢᏍᏘᎠᎵᏚᎶ: 6</annotation>
-		<annotation cp="7⃣">ᎠᏚᎢᏍᏘᎠᎵᏚᎶ</annotation>
-		<annotation cp="7⃣" type="tts">ᎠᏚᎢᏍᏘᎠᎵᏚᎶ: 7</annotation>
-		<annotation cp="8⃣">ᎠᏚᎢᏍᏘᎠᎵᏚᎶ</annotation>
-		<annotation cp="8⃣" type="tts">ᎠᏚᎢᏍᏘᎠᎵᏚᎶ: 8</annotation>
-		<annotation cp="9⃣">ᎠᏚᎢᏍᏘᎠᎵᏚᎶ</annotation>
-		<annotation cp="9⃣" type="tts">ᎠᏚᎢᏍᏘᎠᎵᏚᎶ: 9</annotation>
 	</annotations>
 </ldml>

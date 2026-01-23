@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -604,6 +604,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾" type="tts">person: medium-dark skin, blond hair</annotation>
 		<annotation cp="👱🏿">blond | blond-hair wala vyakti | dark skin | hair | person: blond hair</annotation>
 		<annotation cp="👱🏿" type="tts">person: dark skin, blond hair</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼">Fair skin | medium-fair skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼" type="tts">wrestling karte log: Fair skin, medium-fair skin</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽">Fair skin | medium skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽" type="tts">wrestling karte log: Fair skin, medium skin</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾">Fair skin | medium-dark skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾" type="tts">wrestling karte log: Fair skin, medium-dark skin</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿">dark skin | Fair skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿" type="tts">wrestling karte log: Fair skin, dark skin</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻">Fair skin | medium-fair skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻" type="tts">wrestling karte log: medium-fair skin, Fair skin</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽">medium skin | medium-fair skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽" type="tts">wrestling karte log: medium-fair skin, medium skin</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾">medium-dark skin | medium-fair skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾" type="tts">wrestling karte log: medium-fair skin, medium-dark skin</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿">dark skin | medium-fair skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿" type="tts">wrestling karte log: medium-fair skin, dark skin</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻">Fair skin | medium skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻" type="tts">wrestling karte log: medium skin, Fair skin</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼">medium skin | medium-fair skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼" type="tts">wrestling karte log: medium skin, medium-fair skin</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾">medium skin | medium-dark skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾" type="tts">wrestling karte log: medium skin, medium-dark skin</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿">dark skin | medium skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿" type="tts">wrestling karte log: medium skin, dark skin</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻">Fair skin | medium-dark skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻" type="tts">wrestling karte log: medium-dark skin, Fair skin</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼">medium-dark skin | medium-fair skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼" type="tts">wrestling karte log: medium-dark skin, medium-fair skin</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽">medium skin | medium-dark skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽" type="tts">wrestling karte log: medium-dark skin, medium skin</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿">dark skin | medium-dark skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿" type="tts">wrestling karte log: medium-dark skin, dark skin</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻">dark skin | Fair skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻" type="tts">wrestling karte log: dark skin, Fair skin</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼">dark skin | medium-fair skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼" type="tts">wrestling karte log: dark skin, medium-fair skin</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽">dark skin | medium skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽" type="tts">wrestling karte log: dark skin, medium skin</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾">dark skin | medium-dark skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾" type="tts">wrestling karte log: dark skin, medium-dark skin</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼">anniversary | babe | couple | dating | Fair skin | heart | kiss | love | medium-fair skin | person | romance | together</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼" type="tts">kiss: person, person, Fair skin, medium-fair skin</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏽">anniversary | babe | couple | dating | Fair skin | heart | kiss | love | medium skin | person | romance | together</annotation>
@@ -724,6 +764,56 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦲" type="tts">person: medium-dark skin, bald</annotation>
 		<annotation cp="🧑🏿‍🦲">adult | bald | dark skin | person</annotation>
 		<annotation cp="🧑🏿‍🦲" type="tts">person: dark skin, bald</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼">dancer | Fair skin | khargosh ke kaan | khargosh ke kaan wale log | medium-fair skin | party karna</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼" type="tts">khargosh ke kaan wale log: Fair skin, medium-fair skin</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽">dancer | Fair skin | khargosh ke kaan | khargosh ke kaan wale log | medium skin | party karna</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽" type="tts">khargosh ke kaan wale log: Fair skin, medium skin</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾">dancer | Fair skin | khargosh ke kaan | khargosh ke kaan wale log | medium-dark skin | party karna</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾" type="tts">khargosh ke kaan wale log: Fair skin, medium-dark skin</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿">dancer | dark skin | Fair skin | khargosh ke kaan | khargosh ke kaan wale log | party karna</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿" type="tts">khargosh ke kaan wale log: Fair skin, dark skin</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻">dancer | Fair skin | khargosh ke kaan | khargosh ke kaan wale log | medium-fair skin | party karna</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻" type="tts">khargosh ke kaan wale log: medium-fair skin, Fair skin</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽">dancer | khargosh ke kaan | khargosh ke kaan wale log | medium skin | medium-fair skin | party karna</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽" type="tts">khargosh ke kaan wale log: medium-fair skin, medium skin</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾">dancer | khargosh ke kaan | khargosh ke kaan wale log | medium-dark skin | medium-fair skin | party karna</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾" type="tts">khargosh ke kaan wale log: medium-fair skin, medium-dark skin</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿">dancer | dark skin | khargosh ke kaan | khargosh ke kaan wale log | medium-fair skin | party karna</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿" type="tts">khargosh ke kaan wale log: medium-fair skin, dark skin</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻">dancer | Fair skin | khargosh ke kaan | khargosh ke kaan wale log | medium skin | party karna</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻" type="tts">khargosh ke kaan wale log: medium skin, Fair skin</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼">dancer | khargosh ke kaan | khargosh ke kaan wale log | medium skin | medium-fair skin | party karna</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼" type="tts">khargosh ke kaan wale log: medium skin, medium-fair skin</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾">dancer | khargosh ke kaan | khargosh ke kaan wale log | medium skin | medium-dark skin | party karna</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾" type="tts">khargosh ke kaan wale log: medium skin, medium-dark skin</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿">dancer | dark skin | khargosh ke kaan | khargosh ke kaan wale log | medium skin | party karna</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿" type="tts">khargosh ke kaan wale log: medium skin, dark skin</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻">dancer | Fair skin | khargosh ke kaan | khargosh ke kaan wale log | medium-dark skin | party karna</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻" type="tts">khargosh ke kaan wale log: medium-dark skin, Fair skin</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼">dancer | khargosh ke kaan | khargosh ke kaan wale log | medium-dark skin | medium-fair skin | party karna</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼" type="tts">khargosh ke kaan wale log: medium-dark skin, medium-fair skin</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽">dancer | khargosh ke kaan | khargosh ke kaan wale log | medium skin | medium-dark skin | party karna</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽" type="tts">khargosh ke kaan wale log: medium-dark skin, medium skin</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿">dancer | dark skin | khargosh ke kaan | khargosh ke kaan wale log | medium-dark skin | party karna</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿" type="tts">khargosh ke kaan wale log: medium-dark skin, dark skin</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻">dancer | dark skin | Fair skin | khargosh ke kaan | khargosh ke kaan wale log | party karna</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻" type="tts">khargosh ke kaan wale log: dark skin, Fair skin</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼">dancer | dark skin | khargosh ke kaan | khargosh ke kaan wale log | medium-fair skin | party karna</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼" type="tts">khargosh ke kaan wale log: dark skin, medium-fair skin</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽">dancer | dark skin | khargosh ke kaan | khargosh ke kaan wale log | medium skin | party karna</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽" type="tts">khargosh ke kaan wale log: dark skin, medium skin</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾">dancer | dark skin | khargosh ke kaan | khargosh ke kaan wale log | medium-dark skin | party karna</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾" type="tts">khargosh ke kaan wale log: dark skin, medium-dark skin</annotation>
+		<annotation cp="🧑🏻‍🩰">ballet | dancer | Fair skin</annotation>
+		<annotation cp="🧑🏻‍🩰" type="tts">ballet dancer: Fair skin</annotation>
+		<annotation cp="🧑🏼‍🩰">ballet | dancer | medium-fair skin</annotation>
+		<annotation cp="🧑🏼‍🩰" type="tts">ballet dancer: medium-fair skin</annotation>
+		<annotation cp="🧑🏽‍🩰">ballet | dancer | medium skin</annotation>
+		<annotation cp="🧑🏽‍🩰" type="tts">ballet dancer: medium skin</annotation>
+		<annotation cp="🧑🏾‍🩰">ballet | dancer | medium-dark skin</annotation>
+		<annotation cp="🧑🏾‍🩰" type="tts">ballet dancer: medium-dark skin</annotation>
+		<annotation cp="🧑🏿‍🩰">ballet | dancer | dark skin</annotation>
+		<annotation cp="🧑🏿‍🩰" type="tts">ballet dancer: dark skin</annotation>
 		<annotation cp="👨🏻">adult | bro | Fair skin | man</annotation>
 		<annotation cp="👨🏻" type="tts">man: Fair skin</annotation>
 		<annotation cp="👨🏼">adult | bro | man | medium-fair skin</annotation>
@@ -764,6 +854,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♂" type="tts">male: medium-dark skin, blond hair</annotation>
 		<annotation cp="👱🏿‍♂">blond | blond-hair wala aadmi | dark skin | hair | male: blond hair | man</annotation>
 		<annotation cp="👱🏿‍♂" type="tts">male: dark skin, blond hair</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼">Fair skin | medium-fair skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼" type="tts">wrestling karte aadmi: Fair skin, medium-fair skin</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽">Fair skin | medium skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽" type="tts">wrestling karte aadmi: Fair skin, medium skin</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾">Fair skin | medium-dark skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾" type="tts">wrestling karte aadmi: Fair skin, medium-dark skin</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿">dark skin | Fair skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿" type="tts">wrestling karte aadmi: Fair skin, dark skin</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻">Fair skin | medium-fair skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻" type="tts">wrestling karte aadmi: medium-fair skin, Fair skin</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽">medium skin | medium-fair skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽" type="tts">wrestling karte aadmi: medium-fair skin, medium skin</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾">medium-dark skin | medium-fair skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾" type="tts">wrestling karte aadmi: medium-fair skin, medium-dark skin</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿">dark skin | medium-fair skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿" type="tts">wrestling karte aadmi: medium-fair skin, dark skin</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻">Fair skin | medium skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻" type="tts">wrestling karte aadmi: medium skin, Fair skin</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼">medium skin | medium-fair skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼" type="tts">wrestling karte aadmi: medium skin, medium-fair skin</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾">medium skin | medium-dark skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾" type="tts">wrestling karte aadmi: medium skin, medium-dark skin</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿">dark skin | medium skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿" type="tts">wrestling karte aadmi: medium skin, dark skin</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻">Fair skin | medium-dark skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻" type="tts">wrestling karte aadmi: medium-dark skin, Fair skin</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼">medium-dark skin | medium-fair skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼" type="tts">wrestling karte aadmi: medium-dark skin, medium-fair skin</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽">medium skin | medium-dark skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽" type="tts">wrestling karte aadmi: medium-dark skin, medium skin</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿">dark skin | medium-dark skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿" type="tts">wrestling karte aadmi: medium-dark skin, dark skin</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻">dark skin | Fair skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻" type="tts">wrestling karte aadmi: dark skin, Fair skin</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼">dark skin | medium-fair skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼" type="tts">wrestling karte aadmi: dark skin, medium-fair skin</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽">dark skin | medium skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽" type="tts">wrestling karte aadmi: dark skin, medium skin</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾">dark skin | medium-dark skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾" type="tts">wrestling karte aadmi: dark skin, medium-dark skin</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻">anniversary | babe | couple | dating | Fair skin | heart | kiss | love | man | romance | together</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻" type="tts">kiss: man, man, Fair skin</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏼">anniversary | babe | couple | dating | Fair skin | heart | kiss | love | man | medium-fair skin | romance | together</annotation>
@@ -904,6 +1034,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦲" type="tts">man: medium-dark skin, bald</annotation>
 		<annotation cp="👨🏿‍🦲">adult | bald | bro | dark skin | man</annotation>
 		<annotation cp="👨🏿‍🦲" type="tts">man: dark skin, bald</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼">bunny ear | dancer | Fair skin | khargosh ke kaan wale aadmi | medium-fair skin | men | partying</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼" type="tts">khargosh ke kaan wale aadmi: Fair skin, medium-fair skin</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽">bunny ear | dancer | Fair skin | khargosh ke kaan wale aadmi | medium skin | men | partying</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽" type="tts">khargosh ke kaan wale aadmi: Fair skin, medium skin</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾">bunny ear | dancer | Fair skin | khargosh ke kaan wale aadmi | medium-dark skin | men | partying</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾" type="tts">khargosh ke kaan wale aadmi: Fair skin, medium-dark skin</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿">bunny ear | dancer | dark skin | Fair skin | khargosh ke kaan wale aadmi | men | partying</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿" type="tts">khargosh ke kaan wale aadmi: Fair skin, dark skin</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻">bunny ear | dancer | Fair skin | khargosh ke kaan wale aadmi | medium-fair skin | men | partying</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻" type="tts">khargosh ke kaan wale aadmi: medium-fair skin, Fair skin</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽">bunny ear | dancer | khargosh ke kaan wale aadmi | medium skin | medium-fair skin | men | partying</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽" type="tts">khargosh ke kaan wale aadmi: medium-fair skin, medium skin</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾">bunny ear | dancer | khargosh ke kaan wale aadmi | medium-dark skin | medium-fair skin | men | partying</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾" type="tts">khargosh ke kaan wale aadmi: medium-fair skin, medium-dark skin</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿">bunny ear | dancer | dark skin | khargosh ke kaan wale aadmi | medium-fair skin | men | partying</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿" type="tts">khargosh ke kaan wale aadmi: medium-fair skin, dark skin</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻">bunny ear | dancer | Fair skin | khargosh ke kaan wale aadmi | medium skin | men | partying</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻" type="tts">khargosh ke kaan wale aadmi: medium skin, Fair skin</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼">bunny ear | dancer | khargosh ke kaan wale aadmi | medium skin | medium-fair skin | men | partying</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼" type="tts">khargosh ke kaan wale aadmi: medium skin, medium-fair skin</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾">bunny ear | dancer | khargosh ke kaan wale aadmi | medium skin | medium-dark skin | men | partying</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾" type="tts">khargosh ke kaan wale aadmi: medium skin, medium-dark skin</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿">bunny ear | dancer | dark skin | khargosh ke kaan wale aadmi | medium skin | men | partying</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿" type="tts">khargosh ke kaan wale aadmi: medium skin, dark skin</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻">bunny ear | dancer | Fair skin | khargosh ke kaan wale aadmi | medium-dark skin | men | partying</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻" type="tts">khargosh ke kaan wale aadmi: medium-dark skin, Fair skin</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼">bunny ear | dancer | khargosh ke kaan wale aadmi | medium-dark skin | medium-fair skin | men | partying</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼" type="tts">khargosh ke kaan wale aadmi: medium-dark skin, medium-fair skin</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽">bunny ear | dancer | khargosh ke kaan wale aadmi | medium skin | medium-dark skin | men | partying</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽" type="tts">khargosh ke kaan wale aadmi: medium-dark skin, medium skin</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿">bunny ear | dancer | dark skin | khargosh ke kaan wale aadmi | medium-dark skin | men | partying</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿" type="tts">khargosh ke kaan wale aadmi: medium-dark skin, dark skin</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻">bunny ear | dancer | dark skin | Fair skin | khargosh ke kaan wale aadmi | men | partying</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻" type="tts">khargosh ke kaan wale aadmi: dark skin, Fair skin</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼">bunny ear | dancer | dark skin | khargosh ke kaan wale aadmi | medium-fair skin | men | partying</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼" type="tts">khargosh ke kaan wale aadmi: dark skin, medium-fair skin</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽">bunny ear | dancer | dark skin | khargosh ke kaan wale aadmi | medium skin | men | partying</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽" type="tts">khargosh ke kaan wale aadmi: dark skin, medium skin</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾">bunny ear | dancer | dark skin | khargosh ke kaan wale aadmi | medium-dark skin | men | partying</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾" type="tts">khargosh ke kaan wale aadmi: dark skin, medium-dark skin</annotation>
 		<annotation cp="👩🏻">adult | Fair skin | lady | woman</annotation>
 		<annotation cp="👩🏻" type="tts">woman: Fair skin</annotation>
 		<annotation cp="👩🏼">adult | lady | medium-fair skin | woman</annotation>
@@ -934,6 +1104,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♀" type="tts">female: medium-dark skin, blond hair</annotation>
 		<annotation cp="👱🏿‍♀">blond hair | blond-hair wali mahila | blonde | dark skin | female: blond hair | hair | woman</annotation>
 		<annotation cp="👱🏿‍♀" type="tts">female: dark skin, blond hair</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼">Fair skin | medium-fair skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼" type="tts">wrestling karti mahilaayein: Fair skin, medium-fair skin</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽">Fair skin | medium skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽" type="tts">wrestling karti mahilaayein: Fair skin, medium skin</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾">Fair skin | medium-dark skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾" type="tts">wrestling karti mahilaayein: Fair skin, medium-dark skin</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿">dark skin | Fair skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿" type="tts">wrestling karti mahilaayein: Fair skin, dark skin</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻">Fair skin | medium-fair skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻" type="tts">wrestling karti mahilaayein: medium-fair skin, Fair skin</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽">medium skin | medium-fair skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽" type="tts">wrestling karti mahilaayein: medium-fair skin, medium skin</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾">medium-dark skin | medium-fair skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾" type="tts">wrestling karti mahilaayein: medium-fair skin, medium-dark skin</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿">dark skin | medium-fair skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿" type="tts">wrestling karti mahilaayein: medium-fair skin, dark skin</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻">Fair skin | medium skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻" type="tts">wrestling karti mahilaayein: medium skin, Fair skin</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼">medium skin | medium-fair skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼" type="tts">wrestling karti mahilaayein: medium skin, medium-fair skin</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾">medium skin | medium-dark skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾" type="tts">wrestling karti mahilaayein: medium skin, medium-dark skin</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿">dark skin | medium skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿" type="tts">wrestling karti mahilaayein: medium skin, dark skin</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻">Fair skin | medium-dark skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻" type="tts">wrestling karti mahilaayein: medium-dark skin, Fair skin</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼">medium-dark skin | medium-fair skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼" type="tts">wrestling karti mahilaayein: medium-dark skin, medium-fair skin</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽">medium skin | medium-dark skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽" type="tts">wrestling karti mahilaayein: medium-dark skin, medium skin</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿">dark skin | medium-dark skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿" type="tts">wrestling karti mahilaayein: medium-dark skin, dark skin</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻">dark skin | Fair skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻" type="tts">wrestling karti mahilaayein: dark skin, Fair skin</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼">dark skin | medium-fair skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼" type="tts">wrestling karti mahilaayein: dark skin, medium-fair skin</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽">dark skin | medium skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽" type="tts">wrestling karti mahilaayein: dark skin, medium skin</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾">dark skin | medium-dark skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾" type="tts">wrestling karti mahilaayein: dark skin, medium-dark skin</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻">anniversary | babe | couple | dating | Fair skin | heart | kiss | love | man | romance | together | woman</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻" type="tts">kiss: woman, man, Fair skin</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏼">anniversary | babe | couple | dating | Fair skin | heart | kiss | love | man | medium-fair skin | romance | together | woman</annotation>
@@ -1174,6 +1384,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦲" type="tts">woman: medium-dark skin, bald</annotation>
 		<annotation cp="👩🏿‍🦲">adult | bald | dark skin | lady | woman</annotation>
 		<annotation cp="👩🏿‍🦲" type="tts">woman: dark skin, bald</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼">bunny ear | dancer | Fair skin | khargosh ke kaan wali mahilaayein | medium-fair skin | partying | women</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼" type="tts">khargosh ke kaan wali mahilaayein: Fair skin, medium-fair skin</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽">bunny ear | dancer | Fair skin | khargosh ke kaan wali mahilaayein | medium skin | partying | women</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽" type="tts">khargosh ke kaan wali mahilaayein: Fair skin, medium skin</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾">bunny ear | dancer | Fair skin | khargosh ke kaan wali mahilaayein | medium-dark skin | partying | women</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾" type="tts">khargosh ke kaan wali mahilaayein: Fair skin, medium-dark skin</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿">bunny ear | dancer | dark skin | Fair skin | khargosh ke kaan wali mahilaayein | partying | women</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿" type="tts">khargosh ke kaan wali mahilaayein: Fair skin, dark skin</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻">bunny ear | dancer | Fair skin | khargosh ke kaan wali mahilaayein | medium-fair skin | partying | women</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻" type="tts">khargosh ke kaan wali mahilaayein: medium-fair skin, Fair skin</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽">bunny ear | dancer | khargosh ke kaan wali mahilaayein | medium skin | medium-fair skin | partying | women</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽" type="tts">khargosh ke kaan wali mahilaayein: medium-fair skin, medium skin</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾">bunny ear | dancer | khargosh ke kaan wali mahilaayein | medium-dark skin | medium-fair skin | partying | women</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾" type="tts">khargosh ke kaan wali mahilaayein: medium-fair skin, medium-dark skin</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿">bunny ear | dancer | dark skin | khargosh ke kaan wali mahilaayein | medium-fair skin | partying | women</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿" type="tts">khargosh ke kaan wali mahilaayein: medium-fair skin, dark skin</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻">bunny ear | dancer | Fair skin | khargosh ke kaan wali mahilaayein | medium skin | partying | women</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻" type="tts">khargosh ke kaan wali mahilaayein: medium skin, Fair skin</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼">bunny ear | dancer | khargosh ke kaan wali mahilaayein | medium skin | medium-fair skin | partying | women</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼" type="tts">khargosh ke kaan wali mahilaayein: medium skin, medium-fair skin</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾">bunny ear | dancer | khargosh ke kaan wali mahilaayein | medium skin | medium-dark skin | partying | women</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾" type="tts">khargosh ke kaan wali mahilaayein: medium skin, medium-dark skin</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿">bunny ear | dancer | dark skin | khargosh ke kaan wali mahilaayein | medium skin | partying | women</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿" type="tts">khargosh ke kaan wali mahilaayein: medium skin, dark skin</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻">bunny ear | dancer | Fair skin | khargosh ke kaan wali mahilaayein | medium-dark skin | partying | women</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻" type="tts">khargosh ke kaan wali mahilaayein: medium-dark skin, Fair skin</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼">bunny ear | dancer | khargosh ke kaan wali mahilaayein | medium-dark skin | medium-fair skin | partying | women</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼" type="tts">khargosh ke kaan wali mahilaayein: medium-dark skin, medium-fair skin</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽">bunny ear | dancer | khargosh ke kaan wali mahilaayein | medium skin | medium-dark skin | partying | women</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽" type="tts">khargosh ke kaan wali mahilaayein: medium-dark skin, medium skin</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿">bunny ear | dancer | dark skin | khargosh ke kaan wali mahilaayein | medium-dark skin | partying | women</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿" type="tts">khargosh ke kaan wali mahilaayein: medium-dark skin, dark skin</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻">bunny ear | dancer | dark skin | Fair skin | khargosh ke kaan wali mahilaayein | partying | women</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻" type="tts">khargosh ke kaan wali mahilaayein: dark skin, Fair skin</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼">bunny ear | dancer | dark skin | khargosh ke kaan wali mahilaayein | medium-fair skin | partying | women</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼" type="tts">khargosh ke kaan wali mahilaayein: dark skin, medium-fair skin</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽">bunny ear | dancer | dark skin | khargosh ke kaan wali mahilaayein | medium skin | partying | women</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽" type="tts">khargosh ke kaan wali mahilaayein: dark skin, medium skin</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾">bunny ear | dancer | dark skin | khargosh ke kaan wali mahilaayein | medium-dark skin | partying | women</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾" type="tts">khargosh ke kaan wali mahilaayein: dark skin, medium-dark skin</annotation>
 		<annotation cp="🧓🏻">adult | elderly | Fair skin | grandparent | old | person | wise</annotation>
 		<annotation cp="🧓🏻" type="tts">older person: Fair skin</annotation>
 		<annotation cp="🧓🏼">adult | elderly | grandparent | medium-fair skin | old | person | wise</annotation>
@@ -2664,42 +2914,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🚶🏾‍♀" type="tts">walk karti mahila: medium-dark skin</annotation>
 		<annotation cp="🚶🏿‍♀">dark skin | hike | walk | walk karti mahila | woman</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">walk karti mahila: dark skin</annotation>
-		<annotation cp="🚶‍➡">hike | walk | walk karta vyakti | walking</annotation>
-		<annotation cp="🚶‍➡" type="tts">walk karta vyakti facing right</annotation>
-		<annotation cp="🚶🏻‍➡">hike | walk | walk karta vyakti | walking</annotation>
-		<annotation cp="🚶🏻‍➡" type="tts">walk karta vyakti facing right</annotation>
-		<annotation cp="🚶🏼‍➡">hike | walk | walk karta vyakti | walking</annotation>
-		<annotation cp="🚶🏼‍➡" type="tts">walk karta vyakti facing right</annotation>
-		<annotation cp="🚶🏽‍➡">hike | walk | walk karta vyakti | walking</annotation>
-		<annotation cp="🚶🏽‍➡" type="tts">walk karta vyakti facing right</annotation>
-		<annotation cp="🚶🏾‍➡">hike | walk | walk karta vyakti | walking</annotation>
-		<annotation cp="🚶🏾‍➡" type="tts">walk karta vyakti facing right</annotation>
-		<annotation cp="🚶🏿‍➡">hike | walk | walk karta vyakti | walking</annotation>
-		<annotation cp="🚶🏿‍➡" type="tts">walk karta vyakti facing right</annotation>
-		<annotation cp="🚶‍♀‍➡">hike | walk | walk karti mahila | woman</annotation>
-		<annotation cp="🚶‍♀‍➡" type="tts">walk karti mahila facing right</annotation>
-		<annotation cp="🚶🏻‍♀‍➡">hike | walk | walk karti mahila | woman</annotation>
-		<annotation cp="🚶🏻‍♀‍➡" type="tts">walk karti mahila facing right</annotation>
-		<annotation cp="🚶🏼‍♀‍➡">hike | walk | walk karti mahila | woman</annotation>
-		<annotation cp="🚶🏼‍♀‍➡" type="tts">walk karti mahila facing right</annotation>
-		<annotation cp="🚶🏽‍♀‍➡">hike | walk | walk karti mahila | woman</annotation>
-		<annotation cp="🚶🏽‍♀‍➡" type="tts">walk karti mahila facing right</annotation>
-		<annotation cp="🚶🏾‍♀‍➡">hike | walk | walk karti mahila | woman</annotation>
-		<annotation cp="🚶🏾‍♀‍➡" type="tts">walk karti mahila facing right</annotation>
-		<annotation cp="🚶🏿‍♀‍➡">hike | walk | walk karti mahila | woman</annotation>
-		<annotation cp="🚶🏿‍♀‍➡" type="tts">walk karti mahila facing right</annotation>
-		<annotation cp="🚶‍♂‍➡">hike | man | walk | walk karta aadmi</annotation>
-		<annotation cp="🚶‍♂‍➡" type="tts">walk karta aadmi facing right</annotation>
-		<annotation cp="🚶🏻‍♂‍➡">hike | man | walk | walk karta aadmi</annotation>
-		<annotation cp="🚶🏻‍♂‍➡" type="tts">walk karta aadmi facing right</annotation>
-		<annotation cp="🚶🏼‍♂‍➡">hike | man | walk | walk karta aadmi</annotation>
-		<annotation cp="🚶🏼‍♂‍➡" type="tts">walk karta aadmi facing right</annotation>
-		<annotation cp="🚶🏽‍♂‍➡">hike | man | walk | walk karta aadmi</annotation>
-		<annotation cp="🚶🏽‍♂‍➡" type="tts">walk karta aadmi facing right</annotation>
-		<annotation cp="🚶🏾‍♂‍➡">hike | man | walk | walk karta aadmi</annotation>
-		<annotation cp="🚶🏾‍♂‍➡" type="tts">walk karta aadmi facing right</annotation>
-		<annotation cp="🚶🏿‍♂‍➡">hike | man | walk | walk karta aadmi</annotation>
-		<annotation cp="🚶🏿‍♂‍➡" type="tts">walk karta aadmi facing right</annotation>
+		<annotation cp="🚶‍➡">facing | hike | right | walk | walk karta vyakti | walking</annotation>
+		<annotation cp="🚶‍➡" type="tts">walk karta vyakti: facing right</annotation>
+		<annotation cp="🚶🏻‍➡">facing | Fair skin | hike | right | walk | walk karta vyakti | walking</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">walk karta vyakti: Fair skin, facing right</annotation>
+		<annotation cp="🚶🏼‍➡">facing | hike | medium-fair skin | right | walk | walk karta vyakti | walking</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">walk karta vyakti: medium-fair skin, facing right</annotation>
+		<annotation cp="🚶🏽‍➡">facing | hike | medium skin | right | walk | walk karta vyakti | walking</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">walk karta vyakti: medium skin, facing right</annotation>
+		<annotation cp="🚶🏾‍➡">facing | hike | medium-dark skin | right | walk | walk karta vyakti | walking</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">walk karta vyakti: medium-dark skin, facing right</annotation>
+		<annotation cp="🚶🏿‍➡">dark skin | facing | hike | right | walk | walk karta vyakti | walking</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">walk karta vyakti: dark skin, facing right</annotation>
+		<annotation cp="🚶‍♀‍➡">facing | hike | right | walk | walk karti mahila | woman</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">walk karti mahila: facing right</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">facing | Fair skin | hike | right | walk | walk karti mahila | woman</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">walk karti mahila: Fair skin, facing right</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">facing | hike | medium-fair skin | right | walk | walk karti mahila | woman</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">walk karti mahila: medium-fair skin, facing right</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">facing | hike | medium skin | right | walk | walk karti mahila | woman</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">walk karti mahila: medium skin, facing right</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">facing | hike | medium-dark skin | right | walk | walk karti mahila | woman</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">walk karti mahila: medium-dark skin, facing right</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">dark skin | facing | hike | right | walk | walk karti mahila | woman</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">walk karti mahila: dark skin, facing right</annotation>
+		<annotation cp="🚶‍♂‍➡">facing | hike | man | right | walk | walk karta aadmi</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">walk karta aadmi: facing right</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">facing | Fair skin | hike | man | right | walk | walk karta aadmi</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">walk karta aadmi: Fair skin, facing right</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">facing | hike | man | medium-fair skin | right | walk | walk karta aadmi</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">walk karta aadmi: medium-fair skin, facing right</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">facing | hike | man | medium skin | right | walk | walk karta aadmi</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">walk karta aadmi: medium skin, facing right</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">facing | hike | man | medium-dark skin | right | walk | walk karta aadmi</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">walk karta aadmi: medium-dark skin, facing right</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">dark skin | facing | hike | man | right | walk | walk karta aadmi</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">walk karta aadmi: dark skin, facing right</annotation>
 		<annotation cp="🧍🏻">Fair skin | khada hua vyakti | stand | standing</annotation>
 		<annotation cp="🧍🏻" type="tts">khada hua vyakti: Fair skin</annotation>
 		<annotation cp="🧍🏼">khada hua vyakti | medium-fair skin | stand | standing</annotation>
@@ -2760,42 +3010,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧎🏾‍♀" type="tts">knees par baithi mahila: medium-dark skin</annotation>
 		<annotation cp="🧎🏿‍♀">dark skin | knees par baithi mahila | knees par baithna | mahila</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">knees par baithi mahila: dark skin</annotation>
-		<annotation cp="🧎‍➡">kneel | kneeling | knees par baitha vyakti</annotation>
-		<annotation cp="🧎‍➡" type="tts">knees par baitha vyakti facing right</annotation>
-		<annotation cp="🧎🏻‍➡">kneel | kneeling | knees par baitha vyakti</annotation>
-		<annotation cp="🧎🏻‍➡" type="tts">knees par baitha vyakti facing right</annotation>
-		<annotation cp="🧎🏼‍➡">kneel | kneeling | knees par baitha vyakti</annotation>
-		<annotation cp="🧎🏼‍➡" type="tts">knees par baitha vyakti facing right</annotation>
-		<annotation cp="🧎🏽‍➡">kneel | kneeling | knees par baitha vyakti</annotation>
-		<annotation cp="🧎🏽‍➡" type="tts">knees par baitha vyakti facing right</annotation>
-		<annotation cp="🧎🏾‍➡">kneel | kneeling | knees par baitha vyakti</annotation>
-		<annotation cp="🧎🏾‍➡" type="tts">knees par baitha vyakti facing right</annotation>
-		<annotation cp="🧎🏿‍➡">kneel | kneeling | knees par baitha vyakti</annotation>
-		<annotation cp="🧎🏿‍➡" type="tts">knees par baitha vyakti facing right</annotation>
-		<annotation cp="🧎‍♀‍➡">knees par baithi mahila | knees par baithna | mahila</annotation>
-		<annotation cp="🧎‍♀‍➡" type="tts">knees par baithi mahila facing right</annotation>
-		<annotation cp="🧎🏻‍♀‍➡">knees par baithi mahila | knees par baithna | mahila</annotation>
-		<annotation cp="🧎🏻‍♀‍➡" type="tts">knees par baithi mahila facing right</annotation>
-		<annotation cp="🧎🏼‍♀‍➡">knees par baithi mahila | knees par baithna | mahila</annotation>
-		<annotation cp="🧎🏼‍♀‍➡" type="tts">knees par baithi mahila facing right</annotation>
-		<annotation cp="🧎🏽‍♀‍➡">knees par baithi mahila | knees par baithna | mahila</annotation>
-		<annotation cp="🧎🏽‍♀‍➡" type="tts">knees par baithi mahila facing right</annotation>
-		<annotation cp="🧎🏾‍♀‍➡">knees par baithi mahila | knees par baithna | mahila</annotation>
-		<annotation cp="🧎🏾‍♀‍➡" type="tts">knees par baithi mahila facing right</annotation>
-		<annotation cp="🧎🏿‍♀‍➡">knees par baithi mahila | knees par baithna | mahila</annotation>
-		<annotation cp="🧎🏿‍♀‍➡" type="tts">knees par baithi mahila facing right</annotation>
-		<annotation cp="🧎‍♂‍➡">aadmi | knees par baitha aadmi | knees par baithna</annotation>
-		<annotation cp="🧎‍♂‍➡" type="tts">knees par baitha aadmi facing right</annotation>
-		<annotation cp="🧎🏻‍♂‍➡">aadmi | knees par baitha aadmi | knees par baithna</annotation>
-		<annotation cp="🧎🏻‍♂‍➡" type="tts">knees par baitha aadmi facing right</annotation>
-		<annotation cp="🧎🏼‍♂‍➡">aadmi | knees par baitha aadmi | knees par baithna</annotation>
-		<annotation cp="🧎🏼‍♂‍➡" type="tts">knees par baitha aadmi facing right</annotation>
-		<annotation cp="🧎🏽‍♂‍➡">aadmi | knees par baitha aadmi | knees par baithna</annotation>
-		<annotation cp="🧎🏽‍♂‍➡" type="tts">knees par baitha aadmi facing right</annotation>
-		<annotation cp="🧎🏾‍♂‍➡">aadmi | knees par baitha aadmi | knees par baithna</annotation>
-		<annotation cp="🧎🏾‍♂‍➡" type="tts">knees par baitha aadmi facing right</annotation>
-		<annotation cp="🧎🏿‍♂‍➡">aadmi | knees par baitha aadmi | knees par baithna</annotation>
-		<annotation cp="🧎🏿‍♂‍➡" type="tts">knees par baitha aadmi facing right</annotation>
+		<annotation cp="🧎‍➡">facing | kneel | kneeling | knees par baitha vyakti | right</annotation>
+		<annotation cp="🧎‍➡" type="tts">knees par baitha vyakti: facing right</annotation>
+		<annotation cp="🧎🏻‍➡">facing | Fair skin | kneel | kneeling | knees par baitha vyakti | right</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">knees par baitha vyakti: Fair skin, facing right</annotation>
+		<annotation cp="🧎🏼‍➡">facing | kneel | kneeling | knees par baitha vyakti | medium-fair skin | right</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">knees par baitha vyakti: medium-fair skin, facing right</annotation>
+		<annotation cp="🧎🏽‍➡">facing | kneel | kneeling | knees par baitha vyakti | medium skin | right</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">knees par baitha vyakti: medium skin, facing right</annotation>
+		<annotation cp="🧎🏾‍➡">facing | kneel | kneeling | knees par baitha vyakti | medium-dark skin | right</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">knees par baitha vyakti: medium-dark skin, facing right</annotation>
+		<annotation cp="🧎🏿‍➡">dark skin | facing | kneel | kneeling | knees par baitha vyakti | right</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">knees par baitha vyakti: dark skin, facing right</annotation>
+		<annotation cp="🧎‍♀‍➡">facing | knees par baithi mahila | knees par baithna | mahila | right</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">knees par baithi mahila: facing right</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">facing | Fair skin | knees par baithi mahila | knees par baithna | mahila | right</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">knees par baithi mahila: Fair skin, facing right</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">facing | knees par baithi mahila | knees par baithna | mahila | medium-fair skin | right</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">knees par baithi mahila: medium-fair skin, facing right</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">facing | knees par baithi mahila | knees par baithna | mahila | medium skin | right</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">knees par baithi mahila: medium skin, facing right</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">facing | knees par baithi mahila | knees par baithna | mahila | medium-dark skin | right</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">knees par baithi mahila: medium-dark skin, facing right</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">dark skin | facing | knees par baithi mahila | knees par baithna | mahila | right</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">knees par baithi mahila: dark skin, facing right</annotation>
+		<annotation cp="🧎‍♂‍➡">aadmi | facing | knees par baitha aadmi | knees par baithna | right</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">knees par baitha aadmi: facing right</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">aadmi | facing | Fair skin | knees par baitha aadmi | knees par baithna | right</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">knees par baitha aadmi: Fair skin, facing right</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">aadmi | facing | knees par baitha aadmi | knees par baithna | medium-fair skin | right</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">knees par baitha aadmi: medium-fair skin, facing right</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">aadmi | facing | knees par baitha aadmi | knees par baithna | medium skin | right</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">knees par baitha aadmi: medium skin, facing right</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">aadmi | facing | knees par baitha aadmi | knees par baithna | medium-dark skin | right</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">knees par baitha aadmi: medium-dark skin, facing right</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">aadmi | dark skin | facing | knees par baitha aadmi | knees par baithna | right</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">knees par baitha aadmi: dark skin, facing right</annotation>
 		<annotation cp="🧑🏻‍🦯">accessibility | blind | Fair skin | white cane pakda hua vyakti</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">white cane pakda hua vyakti: Fair skin</annotation>
 		<annotation cp="🧑🏼‍🦯">accessibility | blind | medium-fair skin | white cane pakda hua vyakti</annotation>
@@ -2806,18 +3056,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦯" type="tts">white cane pakda hua vyakti: medium-dark skin</annotation>
 		<annotation cp="🧑🏿‍🦯">accessibility | blind | dark skin | white cane pakda hua vyakti</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">white cane pakda hua vyakti: dark skin</annotation>
-		<annotation cp="🧑‍🦯‍➡">accessibility | blind | white cane pakda hua vyakti</annotation>
-		<annotation cp="🧑‍🦯‍➡" type="tts">white cane pakda hua vyakti facing right</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡">accessibility | blind | white cane pakda hua vyakti</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡" type="tts">white cane pakda hua vyakti facing right</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡">accessibility | blind | white cane pakda hua vyakti</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡" type="tts">white cane pakda hua vyakti facing right</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡">accessibility | blind | white cane pakda hua vyakti</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡" type="tts">white cane pakda hua vyakti facing right</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡">accessibility | blind | white cane pakda hua vyakti</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡" type="tts">white cane pakda hua vyakti facing right</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡">accessibility | blind | white cane pakda hua vyakti</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡" type="tts">white cane pakda hua vyakti facing right</annotation>
+		<annotation cp="🧑‍🦯‍➡">accessibility | blind | facing | right | white cane pakda hua vyakti</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">white cane pakda hua vyakti: facing right</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">accessibility | blind | facing | Fair skin | right | white cane pakda hua vyakti</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">white cane pakda hua vyakti: Fair skin, facing right</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">accessibility | blind | facing | medium-fair skin | right | white cane pakda hua vyakti</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">white cane pakda hua vyakti: medium-fair skin, facing right</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">accessibility | blind | facing | medium skin | right | white cane pakda hua vyakti</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">white cane pakda hua vyakti: medium skin, facing right</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">accessibility | blind | facing | medium-dark skin | right | white cane pakda hua vyakti</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">white cane pakda hua vyakti: medium-dark skin, facing right</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">accessibility | blind | dark skin | facing | right | white cane pakda hua vyakti</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">white cane pakda hua vyakti: dark skin, facing right</annotation>
 		<annotation cp="👨🏻‍🦯">accessibility | blind | Fair skin | man | white cane pakda hua aadmi</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">white cane pakda hua aadmi: Fair skin</annotation>
 		<annotation cp="👨🏼‍🦯">accessibility | blind | man | medium-fair skin | white cane pakda hua aadmi</annotation>
@@ -2828,18 +3078,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦯" type="tts">white cane pakda hua aadmi: medium-dark skin</annotation>
 		<annotation cp="👨🏿‍🦯">accessibility | blind | dark skin | man | white cane pakda hua aadmi</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">white cane pakda hua aadmi: dark skin</annotation>
-		<annotation cp="👨‍🦯‍➡">accessibility | blind | man | white cane pakda hua aadmi</annotation>
-		<annotation cp="👨‍🦯‍➡" type="tts">white cane pakda hua aadmi facing right</annotation>
-		<annotation cp="👨🏻‍🦯‍➡">accessibility | blind | man | white cane pakda hua aadmi</annotation>
-		<annotation cp="👨🏻‍🦯‍➡" type="tts">white cane pakda hua aadmi facing right</annotation>
-		<annotation cp="👨🏼‍🦯‍➡">accessibility | blind | man | white cane pakda hua aadmi</annotation>
-		<annotation cp="👨🏼‍🦯‍➡" type="tts">white cane pakda hua aadmi facing right</annotation>
-		<annotation cp="👨🏽‍🦯‍➡">accessibility | blind | man | white cane pakda hua aadmi</annotation>
-		<annotation cp="👨🏽‍🦯‍➡" type="tts">white cane pakda hua aadmi facing right</annotation>
-		<annotation cp="👨🏾‍🦯‍➡">accessibility | blind | man | white cane pakda hua aadmi</annotation>
-		<annotation cp="👨🏾‍🦯‍➡" type="tts">white cane pakda hua aadmi facing right</annotation>
-		<annotation cp="👨🏿‍🦯‍➡">accessibility | blind | man | white cane pakda hua aadmi</annotation>
-		<annotation cp="👨🏿‍🦯‍➡" type="tts">white cane pakda hua aadmi facing right</annotation>
+		<annotation cp="👨‍🦯‍➡">accessibility | blind | facing | man | right | white cane pakda hua aadmi</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">white cane pakda hua aadmi: facing right</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">accessibility | blind | facing | Fair skin | man | right | white cane pakda hua aadmi</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">white cane pakda hua aadmi: Fair skin, facing right</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">accessibility | blind | facing | man | medium-fair skin | right | white cane pakda hua aadmi</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">white cane pakda hua aadmi: medium-fair skin, facing right</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">accessibility | blind | facing | man | medium skin | right | white cane pakda hua aadmi</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">white cane pakda hua aadmi: medium skin, facing right</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">accessibility | blind | facing | man | medium-dark skin | right | white cane pakda hua aadmi</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">white cane pakda hua aadmi: medium-dark skin, facing right</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">accessibility | blind | dark skin | facing | man | right | white cane pakda hua aadmi</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">white cane pakda hua aadmi: dark skin, facing right</annotation>
 		<annotation cp="👩🏻‍🦯">accessibility | blind | Fair skin | white cane pakde hui mahila | woman</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">white cane pakde hui mahila: Fair skin</annotation>
 		<annotation cp="👩🏼‍🦯">accessibility | blind | medium-fair skin | white cane pakde hui mahila | woman</annotation>
@@ -2850,18 +3100,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦯" type="tts">white cane pakde hui mahila: medium-dark skin</annotation>
 		<annotation cp="👩🏿‍🦯">accessibility | blind | dark skin | white cane pakde hui mahila | woman</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">white cane pakde hui mahila: dark skin</annotation>
-		<annotation cp="👩‍🦯‍➡">accessibility | blind | white cane pakde hui mahila | woman</annotation>
-		<annotation cp="👩‍🦯‍➡" type="tts">white cane pakde hui mahila facing right</annotation>
-		<annotation cp="👩🏻‍🦯‍➡">accessibility | blind | white cane pakde hui mahila | woman</annotation>
-		<annotation cp="👩🏻‍🦯‍➡" type="tts">white cane pakde hui mahila facing right</annotation>
-		<annotation cp="👩🏼‍🦯‍➡">accessibility | blind | white cane pakde hui mahila | woman</annotation>
-		<annotation cp="👩🏼‍🦯‍➡" type="tts">white cane pakde hui mahila facing right</annotation>
-		<annotation cp="👩🏽‍🦯‍➡">accessibility | blind | white cane pakde hui mahila | woman</annotation>
-		<annotation cp="👩🏽‍🦯‍➡" type="tts">white cane pakde hui mahila facing right</annotation>
-		<annotation cp="👩🏾‍🦯‍➡">accessibility | blind | white cane pakde hui mahila | woman</annotation>
-		<annotation cp="👩🏾‍🦯‍➡" type="tts">white cane pakde hui mahila facing right</annotation>
-		<annotation cp="👩🏿‍🦯‍➡">accessibility | blind | white cane pakde hui mahila | woman</annotation>
-		<annotation cp="👩🏿‍🦯‍➡" type="tts">white cane pakde hui mahila facing right</annotation>
+		<annotation cp="👩‍🦯‍➡">accessibility | blind | facing | right | white cane pakde hui mahila | woman</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">white cane pakde hui mahila: facing right</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">accessibility | blind | facing | Fair skin | right | white cane pakde hui mahila | woman</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">white cane pakde hui mahila: Fair skin, facing right</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">accessibility | blind | facing | medium-fair skin | right | white cane pakde hui mahila | woman</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">white cane pakde hui mahila: medium-fair skin, facing right</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">accessibility | blind | facing | medium skin | right | white cane pakde hui mahila | woman</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">white cane pakde hui mahila: medium skin, facing right</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">accessibility | blind | facing | medium-dark skin | right | white cane pakde hui mahila | woman</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">white cane pakde hui mahila: medium-dark skin, facing right</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">accessibility | blind | dark skin | facing | right | white cane pakde hui mahila | woman</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">white cane pakde hui mahila: dark skin, facing right</annotation>
 		<annotation cp="🧑🏻‍🦼">accessibility | Fair skin | motor wheelchair par baitha vyakti | wheelchair</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">motor wheelchair par baitha vyakti: Fair skin</annotation>
 		<annotation cp="🧑🏼‍🦼">accessibility | medium-fair skin | motor wheelchair par baitha vyakti | wheelchair</annotation>
@@ -2872,18 +3122,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦼" type="tts">motor wheelchair par baitha vyakti: medium-dark skin</annotation>
 		<annotation cp="🧑🏿‍🦼">accessibility | dark skin | motor wheelchair par baitha vyakti | wheelchair</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">motor wheelchair par baitha vyakti: dark skin</annotation>
-		<annotation cp="🧑‍🦼‍➡">accessibility | motor wheelchair par baitha vyakti | wheelchair</annotation>
-		<annotation cp="🧑‍🦼‍➡" type="tts">motor wheelchair par baitha vyakti facing right</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡">accessibility | motor wheelchair par baitha vyakti | wheelchair</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡" type="tts">motor wheelchair par baitha vyakti facing right</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡">accessibility | motor wheelchair par baitha vyakti | wheelchair</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡" type="tts">motor wheelchair par baitha vyakti facing right</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡">accessibility | motor wheelchair par baitha vyakti | wheelchair</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡" type="tts">motor wheelchair par baitha vyakti facing right</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡">accessibility | motor wheelchair par baitha vyakti | wheelchair</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡" type="tts">motor wheelchair par baitha vyakti facing right</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡">accessibility | motor wheelchair par baitha vyakti | wheelchair</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡" type="tts">motor wheelchair par baitha vyakti facing right</annotation>
+		<annotation cp="🧑‍🦼‍➡">accessibility | facing | motor wheelchair par baitha vyakti | right | wheelchair</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">motor wheelchair par baitha vyakti: facing right</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">accessibility | facing | Fair skin | motor wheelchair par baitha vyakti | right | wheelchair</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">motor wheelchair par baitha vyakti: Fair skin, facing right</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">accessibility | facing | medium-fair skin | motor wheelchair par baitha vyakti | right | wheelchair</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">motor wheelchair par baitha vyakti: medium-fair skin, facing right</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">accessibility | facing | medium skin | motor wheelchair par baitha vyakti | right | wheelchair</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">motor wheelchair par baitha vyakti: medium skin, facing right</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">accessibility | facing | medium-dark skin | motor wheelchair par baitha vyakti | right | wheelchair</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">motor wheelchair par baitha vyakti: medium-dark skin, facing right</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">accessibility | dark skin | facing | motor wheelchair par baitha vyakti | right | wheelchair</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">motor wheelchair par baitha vyakti: dark skin, facing right</annotation>
 		<annotation cp="👨🏻‍🦼">accessibility | Fair skin | man | motor wheelchair par baitha aadmi | wheelchair</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">motor wheelchair par baitha aadmi: Fair skin</annotation>
 		<annotation cp="👨🏼‍🦼">accessibility | man | medium-fair skin | motor wheelchair par baitha aadmi | wheelchair</annotation>
@@ -2894,18 +3144,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦼" type="tts">motor wheelchair par baitha aadmi: medium-dark skin</annotation>
 		<annotation cp="👨🏿‍🦼">accessibility | dark skin | man | motor wheelchair par baitha aadmi | wheelchair</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">motor wheelchair par baitha aadmi: dark skin</annotation>
-		<annotation cp="👨‍🦼‍➡">accessibility | man | motor wheelchair par baitha aadmi | wheelchair</annotation>
-		<annotation cp="👨‍🦼‍➡" type="tts">motor wheelchair par baitha aadmi facing right</annotation>
-		<annotation cp="👨🏻‍🦼‍➡">accessibility | man | motor wheelchair par baitha aadmi | wheelchair</annotation>
-		<annotation cp="👨🏻‍🦼‍➡" type="tts">motor wheelchair par baitha aadmi facing right</annotation>
-		<annotation cp="👨🏼‍🦼‍➡">accessibility | man | motor wheelchair par baitha aadmi | wheelchair</annotation>
-		<annotation cp="👨🏼‍🦼‍➡" type="tts">motor wheelchair par baitha aadmi facing right</annotation>
-		<annotation cp="👨🏽‍🦼‍➡">accessibility | man | motor wheelchair par baitha aadmi | wheelchair</annotation>
-		<annotation cp="👨🏽‍🦼‍➡" type="tts">motor wheelchair par baitha aadmi facing right</annotation>
-		<annotation cp="👨🏾‍🦼‍➡">accessibility | man | motor wheelchair par baitha aadmi | wheelchair</annotation>
-		<annotation cp="👨🏾‍🦼‍➡" type="tts">motor wheelchair par baitha aadmi facing right</annotation>
-		<annotation cp="👨🏿‍🦼‍➡">accessibility | man | motor wheelchair par baitha aadmi | wheelchair</annotation>
-		<annotation cp="👨🏿‍🦼‍➡" type="tts">motor wheelchair par baitha aadmi facing right</annotation>
+		<annotation cp="👨‍🦼‍➡">accessibility | facing | man | motor wheelchair par baitha aadmi | right | wheelchair</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">motor wheelchair par baitha aadmi: facing right</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">accessibility | facing | Fair skin | man | motor wheelchair par baitha aadmi | right | wheelchair</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">motor wheelchair par baitha aadmi: Fair skin, facing right</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">accessibility | facing | man | medium-fair skin | motor wheelchair par baitha aadmi | right | wheelchair</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">motor wheelchair par baitha aadmi: medium-fair skin, facing right</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">accessibility | facing | man | medium skin | motor wheelchair par baitha aadmi | right | wheelchair</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">motor wheelchair par baitha aadmi: medium skin, facing right</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">accessibility | facing | man | medium-dark skin | motor wheelchair par baitha aadmi | right | wheelchair</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">motor wheelchair par baitha aadmi: medium-dark skin, facing right</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">accessibility | dark skin | facing | man | motor wheelchair par baitha aadmi | right | wheelchair</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">motor wheelchair par baitha aadmi: dark skin, facing right</annotation>
 		<annotation cp="👩🏻‍🦼">accessibility | Fair skin | motor wheelchair par baithi aurat | wheelchair | woman</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">motor wheelchair par baithi aurat: Fair skin</annotation>
 		<annotation cp="👩🏼‍🦼">accessibility | medium-fair skin | motor wheelchair par baithi aurat | wheelchair | woman</annotation>
@@ -2916,18 +3166,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦼" type="tts">motor wheelchair par baithi aurat: medium-dark skin</annotation>
 		<annotation cp="👩🏿‍🦼">accessibility | dark skin | motor wheelchair par baithi aurat | wheelchair | woman</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">motor wheelchair par baithi aurat: dark skin</annotation>
-		<annotation cp="👩‍🦼‍➡">accessibility | motor wheelchair par baithi aurat | wheelchair | woman</annotation>
-		<annotation cp="👩‍🦼‍➡" type="tts">motor wheelchair par baithi aurat facing right</annotation>
-		<annotation cp="👩🏻‍🦼‍➡">accessibility | motor wheelchair par baithi aurat | wheelchair | woman</annotation>
-		<annotation cp="👩🏻‍🦼‍➡" type="tts">motor wheelchair par baithi aurat facing right</annotation>
-		<annotation cp="👩🏼‍🦼‍➡">accessibility | motor wheelchair par baithi aurat | wheelchair | woman</annotation>
-		<annotation cp="👩🏼‍🦼‍➡" type="tts">motor wheelchair par baithi aurat facing right</annotation>
-		<annotation cp="👩🏽‍🦼‍➡">accessibility | motor wheelchair par baithi aurat | wheelchair | woman</annotation>
-		<annotation cp="👩🏽‍🦼‍➡" type="tts">motor wheelchair par baithi aurat facing right</annotation>
-		<annotation cp="👩🏾‍🦼‍➡">accessibility | motor wheelchair par baithi aurat | wheelchair | woman</annotation>
-		<annotation cp="👩🏾‍🦼‍➡" type="tts">motor wheelchair par baithi aurat facing right</annotation>
-		<annotation cp="👩🏿‍🦼‍➡">accessibility | motor wheelchair par baithi aurat | wheelchair | woman</annotation>
-		<annotation cp="👩🏿‍🦼‍➡" type="tts">motor wheelchair par baithi aurat facing right</annotation>
+		<annotation cp="👩‍🦼‍➡">accessibility | facing | motor wheelchair par baithi aurat | right | wheelchair | woman</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">motor wheelchair par baithi aurat: facing right</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">accessibility | facing | Fair skin | motor wheelchair par baithi aurat | right | wheelchair | woman</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">motor wheelchair par baithi aurat: Fair skin, facing right</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">accessibility | facing | medium-fair skin | motor wheelchair par baithi aurat | right | wheelchair | woman</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">motor wheelchair par baithi aurat: medium-fair skin, facing right</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">accessibility | facing | medium skin | motor wheelchair par baithi aurat | right | wheelchair | woman</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">motor wheelchair par baithi aurat: medium skin, facing right</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">accessibility | facing | medium-dark skin | motor wheelchair par baithi aurat | right | wheelchair | woman</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">motor wheelchair par baithi aurat: medium-dark skin, facing right</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">accessibility | dark skin | facing | motor wheelchair par baithi aurat | right | wheelchair | woman</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">motor wheelchair par baithi aurat: dark skin, facing right</annotation>
 		<annotation cp="🧑🏻‍🦽">accessibility | Fair skin | manual wheelchair par baitha vyakti | wheelchair</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">manual wheelchair par baitha vyakti: Fair skin</annotation>
 		<annotation cp="🧑🏼‍🦽">accessibility | manual wheelchair par baitha vyakti | medium-fair skin | wheelchair</annotation>
@@ -2938,18 +3188,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦽" type="tts">manual wheelchair par baitha vyakti: medium-dark skin</annotation>
 		<annotation cp="🧑🏿‍🦽">accessibility | dark skin | manual wheelchair par baitha vyakti | wheelchair</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">manual wheelchair par baitha vyakti: dark skin</annotation>
-		<annotation cp="🧑‍🦽‍➡">accessibility | manual wheelchair par baitha vyakti | wheelchair</annotation>
-		<annotation cp="🧑‍🦽‍➡" type="tts">manual wheelchair par baitha vyakti facing right</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡">accessibility | manual wheelchair par baitha vyakti | wheelchair</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡" type="tts">manual wheelchair par baitha vyakti facing right</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡">accessibility | manual wheelchair par baitha vyakti | wheelchair</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡" type="tts">manual wheelchair par baitha vyakti facing right</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡">accessibility | manual wheelchair par baitha vyakti | wheelchair</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡" type="tts">manual wheelchair par baitha vyakti facing right</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡">accessibility | manual wheelchair par baitha vyakti | wheelchair</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡" type="tts">manual wheelchair par baitha vyakti facing right</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡">accessibility | manual wheelchair par baitha vyakti | wheelchair</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡" type="tts">manual wheelchair par baitha vyakti facing right</annotation>
+		<annotation cp="🧑‍🦽‍➡">accessibility | facing | manual wheelchair par baitha vyakti | right | wheelchair</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">manual wheelchair par baitha vyakti: facing right</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">accessibility | facing | Fair skin | manual wheelchair par baitha vyakti | right | wheelchair</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">manual wheelchair par baitha vyakti: Fair skin, facing right</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">accessibility | facing | manual wheelchair par baitha vyakti | medium-fair skin | right | wheelchair</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">manual wheelchair par baitha vyakti: medium-fair skin, facing right</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">accessibility | facing | manual wheelchair par baitha vyakti | medium skin | right | wheelchair</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">manual wheelchair par baitha vyakti: medium skin, facing right</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">accessibility | facing | manual wheelchair par baitha vyakti | medium-dark skin | right | wheelchair</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">manual wheelchair par baitha vyakti: medium-dark skin, facing right</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">accessibility | dark skin | facing | manual wheelchair par baitha vyakti | right | wheelchair</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">manual wheelchair par baitha vyakti: dark skin, facing right</annotation>
 		<annotation cp="👨🏻‍🦽">accessibility | Fair skin | man | manual wheelchair par baitha aadmi | wheelchair</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">manual wheelchair par baitha aadmi: Fair skin</annotation>
 		<annotation cp="👨🏼‍🦽">accessibility | man | manual wheelchair par baitha aadmi | medium-fair skin | wheelchair</annotation>
@@ -2960,18 +3210,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦽" type="tts">manual wheelchair par baitha aadmi: medium-dark skin</annotation>
 		<annotation cp="👨🏿‍🦽">accessibility | dark skin | man | manual wheelchair par baitha aadmi | wheelchair</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">manual wheelchair par baitha aadmi: dark skin</annotation>
-		<annotation cp="👨‍🦽‍➡">accessibility | man | manual wheelchair par baitha aadmi | wheelchair</annotation>
-		<annotation cp="👨‍🦽‍➡" type="tts">manual wheelchair par baitha aadmi facing right</annotation>
-		<annotation cp="👨🏻‍🦽‍➡">accessibility | man | manual wheelchair par baitha aadmi | wheelchair</annotation>
-		<annotation cp="👨🏻‍🦽‍➡" type="tts">manual wheelchair par baitha aadmi facing right</annotation>
-		<annotation cp="👨🏼‍🦽‍➡">accessibility | man | manual wheelchair par baitha aadmi | wheelchair</annotation>
-		<annotation cp="👨🏼‍🦽‍➡" type="tts">manual wheelchair par baitha aadmi facing right</annotation>
-		<annotation cp="👨🏽‍🦽‍➡">accessibility | man | manual wheelchair par baitha aadmi | wheelchair</annotation>
-		<annotation cp="👨🏽‍🦽‍➡" type="tts">manual wheelchair par baitha aadmi facing right</annotation>
-		<annotation cp="👨🏾‍🦽‍➡">accessibility | man | manual wheelchair par baitha aadmi | wheelchair</annotation>
-		<annotation cp="👨🏾‍🦽‍➡" type="tts">manual wheelchair par baitha aadmi facing right</annotation>
-		<annotation cp="👨🏿‍🦽‍➡">accessibility | man | manual wheelchair par baitha aadmi | wheelchair</annotation>
-		<annotation cp="👨🏿‍🦽‍➡" type="tts">manual wheelchair par baitha aadmi facing right</annotation>
+		<annotation cp="👨‍🦽‍➡">accessibility | facing | man | manual wheelchair par baitha aadmi | right | wheelchair</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">manual wheelchair par baitha aadmi: facing right</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">accessibility | facing | Fair skin | man | manual wheelchair par baitha aadmi | right | wheelchair</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">manual wheelchair par baitha aadmi: Fair skin, facing right</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">accessibility | facing | man | manual wheelchair par baitha aadmi | medium-fair skin | right | wheelchair</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">manual wheelchair par baitha aadmi: medium-fair skin, facing right</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">accessibility | facing | man | manual wheelchair par baitha aadmi | medium skin | right | wheelchair</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">manual wheelchair par baitha aadmi: medium skin, facing right</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">accessibility | facing | man | manual wheelchair par baitha aadmi | medium-dark skin | right | wheelchair</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">manual wheelchair par baitha aadmi: medium-dark skin, facing right</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">accessibility | dark skin | facing | man | manual wheelchair par baitha aadmi | right | wheelchair</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">manual wheelchair par baitha aadmi: dark skin, facing right</annotation>
 		<annotation cp="👩🏻‍🦽">accessibility | Fair skin | manual wheelchair par baithi mahila | wheelchair</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">manual wheelchair par baithi mahila: Fair skin</annotation>
 		<annotation cp="👩🏼‍🦽">accessibility | manual wheelchair par baithi mahila | medium-fair skin | wheelchair</annotation>
@@ -2982,18 +3232,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦽" type="tts">manual wheelchair par baithi mahila: medium-dark skin</annotation>
 		<annotation cp="👩🏿‍🦽">accessibility | dark skin | manual wheelchair par baithi mahila | wheelchair</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">manual wheelchair par baithi mahila: dark skin</annotation>
-		<annotation cp="👩‍🦽‍➡">accessibility | manual wheelchair par baithi mahila | wheelchair</annotation>
-		<annotation cp="👩‍🦽‍➡" type="tts">manual wheelchair par baithi mahila facing right</annotation>
-		<annotation cp="👩🏻‍🦽‍➡">accessibility | manual wheelchair par baithi mahila | wheelchair</annotation>
-		<annotation cp="👩🏻‍🦽‍➡" type="tts">manual wheelchair par baithi mahila facing right</annotation>
-		<annotation cp="👩🏼‍🦽‍➡">accessibility | manual wheelchair par baithi mahila | wheelchair</annotation>
-		<annotation cp="👩🏼‍🦽‍➡" type="tts">manual wheelchair par baithi mahila facing right</annotation>
-		<annotation cp="👩🏽‍🦽‍➡">accessibility | manual wheelchair par baithi mahila | wheelchair</annotation>
-		<annotation cp="👩🏽‍🦽‍➡" type="tts">manual wheelchair par baithi mahila facing right</annotation>
-		<annotation cp="👩🏾‍🦽‍➡">accessibility | manual wheelchair par baithi mahila | wheelchair</annotation>
-		<annotation cp="👩🏾‍🦽‍➡" type="tts">manual wheelchair par baithi mahila facing right</annotation>
-		<annotation cp="👩🏿‍🦽‍➡">accessibility | manual wheelchair par baithi mahila | wheelchair</annotation>
-		<annotation cp="👩🏿‍🦽‍➡" type="tts">manual wheelchair par baithi mahila facing right</annotation>
+		<annotation cp="👩‍🦽‍➡">accessibility | facing | manual wheelchair par baithi mahila | right | wheelchair</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">manual wheelchair par baithi mahila: facing right</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">accessibility | facing | Fair skin | manual wheelchair par baithi mahila | right | wheelchair</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">manual wheelchair par baithi mahila: Fair skin, facing right</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">accessibility | facing | manual wheelchair par baithi mahila | medium-fair skin | right | wheelchair</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">manual wheelchair par baithi mahila: medium-fair skin, facing right</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">accessibility | facing | manual wheelchair par baithi mahila | medium skin | right | wheelchair</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">manual wheelchair par baithi mahila: medium skin, facing right</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">accessibility | facing | manual wheelchair par baithi mahila | medium-dark skin | right | wheelchair</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">manual wheelchair par baithi mahila: medium-dark skin, facing right</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">accessibility | dark skin | facing | manual wheelchair par baithi mahila | right | wheelchair</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">manual wheelchair par baithi mahila: dark skin, facing right</annotation>
 		<annotation cp="🏃🏻">Fair skin | marathon | run karta vyakti | running</annotation>
 		<annotation cp="🏃🏻" type="tts">run karta vyakti: Fair skin</annotation>
 		<annotation cp="🏃🏼">marathon | medium-fair skin | run karta vyakti | running</annotation>
@@ -3024,42 +3274,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🏃🏾‍♀" type="tts">run karti mahila: medium-dark skin</annotation>
 		<annotation cp="🏃🏿‍♀">dark skin | marathon | racing | run karti mahila | running | woman</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">run karti mahila: dark skin</annotation>
-		<annotation cp="🏃‍➡">marathon | run karta vyakti | running</annotation>
-		<annotation cp="🏃‍➡" type="tts">run karta vyakti facing right</annotation>
-		<annotation cp="🏃🏻‍➡">marathon | run karta vyakti | running</annotation>
-		<annotation cp="🏃🏻‍➡" type="tts">run karta vyakti facing right</annotation>
-		<annotation cp="🏃🏼‍➡">marathon | run karta vyakti | running</annotation>
-		<annotation cp="🏃🏼‍➡" type="tts">run karta vyakti facing right</annotation>
-		<annotation cp="🏃🏽‍➡">marathon | run karta vyakti | running</annotation>
-		<annotation cp="🏃🏽‍➡" type="tts">run karta vyakti facing right</annotation>
-		<annotation cp="🏃🏾‍➡">marathon | run karta vyakti | running</annotation>
-		<annotation cp="🏃🏾‍➡" type="tts">run karta vyakti facing right</annotation>
-		<annotation cp="🏃🏿‍➡">marathon | run karta vyakti | running</annotation>
-		<annotation cp="🏃🏿‍➡" type="tts">run karta vyakti facing right</annotation>
-		<annotation cp="🏃‍♀‍➡">marathon | racing | run karti mahila | running | woman</annotation>
-		<annotation cp="🏃‍♀‍➡" type="tts">run karti mahila facing right</annotation>
-		<annotation cp="🏃🏻‍♀‍➡">marathon | racing | run karti mahila | running | woman</annotation>
-		<annotation cp="🏃🏻‍♀‍➡" type="tts">run karti mahila facing right</annotation>
-		<annotation cp="🏃🏼‍♀‍➡">marathon | racing | run karti mahila | running | woman</annotation>
-		<annotation cp="🏃🏼‍♀‍➡" type="tts">run karti mahila facing right</annotation>
-		<annotation cp="🏃🏽‍♀‍➡">marathon | racing | run karti mahila | running | woman</annotation>
-		<annotation cp="🏃🏽‍♀‍➡" type="tts">run karti mahila facing right</annotation>
-		<annotation cp="🏃🏾‍♀‍➡">marathon | racing | run karti mahila | running | woman</annotation>
-		<annotation cp="🏃🏾‍♀‍➡" type="tts">run karti mahila facing right</annotation>
-		<annotation cp="🏃🏿‍♀‍➡">marathon | racing | run karti mahila | running | woman</annotation>
-		<annotation cp="🏃🏿‍♀‍➡" type="tts">run karti mahila facing right</annotation>
-		<annotation cp="🏃‍♂‍➡">man | marathon | racing | run karta aadmi | running</annotation>
-		<annotation cp="🏃‍♂‍➡" type="tts">run karta aadmi facing right</annotation>
-		<annotation cp="🏃🏻‍♂‍➡">man | marathon | racing | run karta aadmi | running</annotation>
-		<annotation cp="🏃🏻‍♂‍➡" type="tts">run karta aadmi facing right</annotation>
-		<annotation cp="🏃🏼‍♂‍➡">man | marathon | racing | run karta aadmi | running</annotation>
-		<annotation cp="🏃🏼‍♂‍➡" type="tts">run karta aadmi facing right</annotation>
-		<annotation cp="🏃🏽‍♂‍➡">man | marathon | racing | run karta aadmi | running</annotation>
-		<annotation cp="🏃🏽‍♂‍➡" type="tts">run karta aadmi facing right</annotation>
-		<annotation cp="🏃🏾‍♂‍➡">man | marathon | racing | run karta aadmi | running</annotation>
-		<annotation cp="🏃🏾‍♂‍➡" type="tts">run karta aadmi facing right</annotation>
-		<annotation cp="🏃🏿‍♂‍➡">man | marathon | racing | run karta aadmi | running</annotation>
-		<annotation cp="🏃🏿‍♂‍➡" type="tts">run karta aadmi facing right</annotation>
+		<annotation cp="🏃‍➡">facing | marathon | right | run karta vyakti | running</annotation>
+		<annotation cp="🏃‍➡" type="tts">run karta vyakti: facing right</annotation>
+		<annotation cp="🏃🏻‍➡">facing | Fair skin | marathon | right | run karta vyakti | running</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">run karta vyakti: Fair skin, facing right</annotation>
+		<annotation cp="🏃🏼‍➡">facing | marathon | medium-fair skin | right | run karta vyakti | running</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">run karta vyakti: medium-fair skin, facing right</annotation>
+		<annotation cp="🏃🏽‍➡">facing | marathon | medium skin | right | run karta vyakti | running</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">run karta vyakti: medium skin, facing right</annotation>
+		<annotation cp="🏃🏾‍➡">facing | marathon | medium-dark skin | right | run karta vyakti | running</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">run karta vyakti: medium-dark skin, facing right</annotation>
+		<annotation cp="🏃🏿‍➡">dark skin | facing | marathon | right | run karta vyakti | running</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">run karta vyakti: dark skin, facing right</annotation>
+		<annotation cp="🏃‍♀‍➡">facing | marathon | racing | right | run karti mahila | running | woman</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">run karti mahila: facing right</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">facing | Fair skin | marathon | racing | right | run karti mahila | running | woman</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">run karti mahila: Fair skin, facing right</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">facing | marathon | medium-fair skin | racing | right | run karti mahila | running | woman</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">run karti mahila: medium-fair skin, facing right</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">facing | marathon | medium skin | racing | right | run karti mahila | running | woman</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">run karti mahila: medium skin, facing right</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">facing | marathon | medium-dark skin | racing | right | run karti mahila | running | woman</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">run karti mahila: medium-dark skin, facing right</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">dark skin | facing | marathon | racing | right | run karti mahila | running | woman</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">run karti mahila: dark skin, facing right</annotation>
+		<annotation cp="🏃‍♂‍➡">facing | man | marathon | racing | right | run karta aadmi | running</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">run karta aadmi: facing right</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">facing | Fair skin | man | marathon | racing | right | run karta aadmi | running</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">run karta aadmi: Fair skin, facing right</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">facing | man | marathon | medium-fair skin | racing | right | run karta aadmi | running</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">run karta aadmi: medium-fair skin, facing right</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">facing | man | marathon | medium skin | racing | right | run karta aadmi | running</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">run karta aadmi: medium skin, facing right</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">facing | man | marathon | medium-dark skin | racing | right | run karta aadmi | running</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">run karta aadmi: medium-dark skin, facing right</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">dark skin | facing | man | marathon | racing | right | run karta aadmi | running</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">run karta aadmi: dark skin, facing right</annotation>
 		<annotation cp="💃🏻">dance | dance karti mahila | dancing | Fair skin | woman</annotation>
 		<annotation cp="💃🏻" type="tts">dance karti mahila: Fair skin</annotation>
 		<annotation cp="💃🏼">dance | dance karti mahila | dancing | medium-fair skin | woman</annotation>
@@ -3090,6 +3340,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🕴🏾" type="tts">hawa mein udta suit wala vyakti: medium-dark skin</annotation>
 		<annotation cp="🕴🏿">business | dark skin | hawa mein udta suit wala vyakti | person | person in suit levitating | suit</annotation>
 		<annotation cp="🕴🏿" type="tts">hawa mein udta suit wala vyakti: dark skin</annotation>
+		<annotation cp="👯🏻">dancer | Fair skin | khargosh ke kaan | khargosh ke kaan wale log | party karna</annotation>
+		<annotation cp="👯🏻" type="tts">khargosh ke kaan wale log: Fair skin</annotation>
+		<annotation cp="👯🏼">dancer | khargosh ke kaan | khargosh ke kaan wale log | medium-fair skin | party karna</annotation>
+		<annotation cp="👯🏼" type="tts">khargosh ke kaan wale log: medium-fair skin</annotation>
+		<annotation cp="👯🏽">dancer | khargosh ke kaan | khargosh ke kaan wale log | medium skin | party karna</annotation>
+		<annotation cp="👯🏽" type="tts">khargosh ke kaan wale log: medium skin</annotation>
+		<annotation cp="👯🏾">dancer | khargosh ke kaan | khargosh ke kaan wale log | medium-dark skin | party karna</annotation>
+		<annotation cp="👯🏾" type="tts">khargosh ke kaan wale log: medium-dark skin</annotation>
+		<annotation cp="👯🏿">dancer | dark skin | khargosh ke kaan | khargosh ke kaan wale log | party karna</annotation>
+		<annotation cp="👯🏿" type="tts">khargosh ke kaan wale log: dark skin</annotation>
+		<annotation cp="👯🏻‍♀">bunny ear | dancer | Fair skin | khargosh ke kaan wali mahilaayein | partying | women</annotation>
+		<annotation cp="👯🏻‍♀" type="tts">khargosh ke kaan wali mahilaayein: Fair skin</annotation>
+		<annotation cp="👯🏼‍♀">bunny ear | dancer | khargosh ke kaan wali mahilaayein | medium-fair skin | partying | women</annotation>
+		<annotation cp="👯🏼‍♀" type="tts">khargosh ke kaan wali mahilaayein: medium-fair skin</annotation>
+		<annotation cp="👯🏽‍♀">bunny ear | dancer | khargosh ke kaan wali mahilaayein | medium skin | partying | women</annotation>
+		<annotation cp="👯🏽‍♀" type="tts">khargosh ke kaan wali mahilaayein: medium skin</annotation>
+		<annotation cp="👯🏾‍♀">bunny ear | dancer | khargosh ke kaan wali mahilaayein | medium-dark skin | partying | women</annotation>
+		<annotation cp="👯🏾‍♀" type="tts">khargosh ke kaan wali mahilaayein: medium-dark skin</annotation>
+		<annotation cp="👯🏿‍♀">bunny ear | dancer | dark skin | khargosh ke kaan wali mahilaayein | partying | women</annotation>
+		<annotation cp="👯🏿‍♀" type="tts">khargosh ke kaan wali mahilaayein: dark skin</annotation>
+		<annotation cp="👯🏻‍♂">bunny ear | dancer | Fair skin | khargosh ke kaan wale aadmi | men | partying</annotation>
+		<annotation cp="👯🏻‍♂" type="tts">khargosh ke kaan wale aadmi: Fair skin</annotation>
+		<annotation cp="👯🏼‍♂">bunny ear | dancer | khargosh ke kaan wale aadmi | medium-fair skin | men | partying</annotation>
+		<annotation cp="👯🏼‍♂" type="tts">khargosh ke kaan wale aadmi: medium-fair skin</annotation>
+		<annotation cp="👯🏽‍♂">bunny ear | dancer | khargosh ke kaan wale aadmi | medium skin | men | partying</annotation>
+		<annotation cp="👯🏽‍♂" type="tts">khargosh ke kaan wale aadmi: medium skin</annotation>
+		<annotation cp="👯🏾‍♂">bunny ear | dancer | khargosh ke kaan wale aadmi | medium-dark skin | men | partying</annotation>
+		<annotation cp="👯🏾‍♂" type="tts">khargosh ke kaan wale aadmi: medium-dark skin</annotation>
+		<annotation cp="👯🏿‍♂">bunny ear | dancer | dark skin | khargosh ke kaan wale aadmi | men | partying</annotation>
+		<annotation cp="👯🏿‍♂" type="tts">khargosh ke kaan wale aadmi: dark skin</annotation>
 		<annotation cp="🧖🏻">Fair skin | sauna | steam room | steamy room mein vyakti</annotation>
 		<annotation cp="🧖🏻" type="tts">steamy room mein vyakti: Fair skin</annotation>
 		<annotation cp="🧖🏼">medium-fair skin | sauna | steam room | steamy room mein vyakti</annotation>
@@ -3440,6 +3720,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤸🏾‍♀" type="tts">cartwheeling karti mahila: medium-dark skin</annotation>
 		<annotation cp="🤸🏿‍♀">cartwheel | cartwheeling karti mahila | dark skin | gymnastics | woman</annotation>
 		<annotation cp="🤸🏿‍♀" type="tts">cartwheeling karti mahila: dark skin</annotation>
+		<annotation cp="🤼🏻">Fair skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🤼🏻" type="tts">wrestling karte log: Fair skin</annotation>
+		<annotation cp="🤼🏼">medium-fair skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🤼🏼" type="tts">wrestling karte log: medium-fair skin</annotation>
+		<annotation cp="🤼🏽">medium skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🤼🏽" type="tts">wrestling karte log: medium skin</annotation>
+		<annotation cp="🤼🏾">medium-dark skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🤼🏾" type="tts">wrestling karte log: medium-dark skin</annotation>
+		<annotation cp="🤼🏿">dark skin | wrestle | wrestler | wrestling karte log</annotation>
+		<annotation cp="🤼🏿" type="tts">wrestling karte log: dark skin</annotation>
+		<annotation cp="🤼🏻‍♀">Fair skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="🤼🏻‍♀" type="tts">wrestling karti mahilaayein: Fair skin</annotation>
+		<annotation cp="🤼🏼‍♀">medium-fair skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="🤼🏼‍♀" type="tts">wrestling karti mahilaayein: medium-fair skin</annotation>
+		<annotation cp="🤼🏽‍♀">medium skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="🤼🏽‍♀" type="tts">wrestling karti mahilaayein: medium skin</annotation>
+		<annotation cp="🤼🏾‍♀">medium-dark skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="🤼🏾‍♀" type="tts">wrestling karti mahilaayein: medium-dark skin</annotation>
+		<annotation cp="🤼🏿‍♀">dark skin | women | wrestle | wrestling karti mahilaayein</annotation>
+		<annotation cp="🤼🏿‍♀" type="tts">wrestling karti mahilaayein: dark skin</annotation>
+		<annotation cp="🤼🏻‍♂">Fair skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="🤼🏻‍♂" type="tts">wrestling karte aadmi: Fair skin</annotation>
+		<annotation cp="🤼🏼‍♂">medium-fair skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="🤼🏼‍♂" type="tts">wrestling karte aadmi: medium-fair skin</annotation>
+		<annotation cp="🤼🏽‍♂">medium skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="🤼🏽‍♂" type="tts">wrestling karte aadmi: medium skin</annotation>
+		<annotation cp="🤼🏾‍♂">medium-dark skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="🤼🏾‍♂" type="tts">wrestling karte aadmi: medium-dark skin</annotation>
+		<annotation cp="🤼🏿‍♂">dark skin | men | wrestle | wrestling karte aadmi</annotation>
+		<annotation cp="🤼🏿‍♂" type="tts">wrestling karte aadmi: dark skin</annotation>
 		<annotation cp="🤽🏻">Fair skin | polo | water | water polo khelta vyakti | water polo kheltaperson</annotation>
 		<annotation cp="🤽🏻" type="tts">water polo khelta vyakti: Fair skin</annotation>
 		<annotation cp="🤽🏼">medium-fair skin | polo | water | water polo khelta vyakti | water polo kheltaperson</annotation>

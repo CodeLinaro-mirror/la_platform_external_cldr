@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -709,20 +709,6 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="♭" type="tts">Flat</annotation>
 		<annotation cp="♯">Dáísis | Diẹz | Miúzik | Not | Shap</annotation>
 		<annotation cp="♯" type="tts">Shap</annotation>
-		<annotation cp="🪉">háp | ínstrument | kíupíd | lọv | miúzík | okestrá</annotation>
-		<annotation cp="🪉" type="tts">háp</annotation>
-		<annotation cp="🪏">bẹ́rí | díg | gádín | họ́l | plánt | shọ́vẹ́l sped | skup | snọ́</annotation>
-		<annotation cp="🪏" type="tts">shọ́vẹ́l</annotation>
-		<annotation cp="🪾">bare | barren | branchis | dai | drot | trii | tronk | wey no get lif | winta | wud</annotation>
-		<annotation cp="🪾" type="tts">trii wey no get lif</annotation>
-		<annotation cp="🫆">aídẹ́ntíti | ditẹ́ktiv | fingáprint | forénsíks | klú | kraím | mystery | print | séfti | trés</annotation>
-		<annotation cp="🫆" type="tts">fíngaprint</annotation>
-		<annotation cp="🫜">bít | fud | gádín | rádísh | rut | sálad | toníp | vẹ́jítébul | vẹ́jítérian</annotation>
-		<annotation cp="🫜" type="tts">rut vẹ́jítébul</annotation>
-		<annotation cp="🫟">dríp | holi | ínk | líkwid | mẹ́s | pẹ́nt | spil | splátá | stẹ́n</annotation>
-		<annotation cp="🫟" type="tts">splátá</annotation>
-		<annotation cp="🫩">ai | bag | fes | slip | táyá</annotation>
-		<annotation cp="🫩" type="tts">fes wé gẹ́t bíg bag under ai</annotation>
 		<annotation cp="😀">Fes | Laf | Láfín Fes</annotation>
 		<annotation cp="😀" type="tts">Láfín Fes</annotation>
 		<annotation cp="😃">Fes | Laf | Láfín Fes Wé Gẹ́t Bíg Ai-dẹm | Maut | Ópun</annotation>
@@ -837,6 +823,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤤" type="tts">Fes Wé Salaíva De Kọmọ́t Fọ Maut</annotation>
 		<annotation cp="😴">Fes | Fes Wé De Slip | Slip | Zzz</annotation>
 		<annotation cp="😴" type="tts">Fes Wé De Slip</annotation>
+		<annotation cp="🫩">ai | bag | fes | slip | táyá</annotation>
+		<annotation cp="🫩" type="tts">fes wé gẹ́t bíg bag under ai</annotation>
 		<annotation cp="😷">Dọ́ktọ | Fes Wé Wía Mẹ́díkál Mask | Kold | Mask | Sik | Síknẹs</annotation>
 		<annotation cp="😷" type="tts">Fes Wé Wía Mẹ́díkál Mask</annotation>
 		<annotation cp="🤒">Fes | Fes Wit Tamómẹ́ta | Nọ́ Wẹl | Sik | Tamómẹ́ta</annotation>
@@ -891,6 +879,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="😲" type="tts">Fes Wé Sọpraiz Fúl Am</annotation>
 		<annotation cp="😳">Fes | Rẹ́d Fes | Shọk</annotation>
 		<annotation cp="😳" type="tts">Rẹ́d Fes</annotation>
+		<annotation cp="🫪">anzaití | blọ́ated | panik | Shọk | Sọpraized | vulnẹrabọl</annotation>
+		<annotation cp="🫪" type="tts">dístọted fes</annotation>
 		<annotation cp="🥺">Abẹg | Fes Wé De Bẹ́g Fọ Sọ́mtin | Píti | Smọ́l Dọg Ai</annotation>
 		<annotation cp="🥺" type="tts">Fes Wé De Bẹ́g Fọ Sọ́mtin</annotation>
 		<annotation cp="🥹">Fes Wé De Hól Imsẹf Mék I Nọ́ Krai | Krai | Nọ́ Hapí | Praud | To Opóz Sọ́mtin | Vẹks</annotation>
@@ -1037,6 +1027,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="💯" type="tts">Skọ Wé Bi Wọ́n Họ́ndrẹ́d Pọínt</annotation>
 		<annotation cp="💢">Pẹ́sin Wé De Mék Pípul Laf | Sọ́mtin Wé De Mék Pẹ́sin Laf | To Vẹ́ks Wẹ́l Wẹl | Vẹks | Vẹ́ks Sain</annotation>
 		<annotation cp="💢" type="tts">Vẹ́ks Sain</annotation>
+		<annotation cp="🫯">árgumẹnt | brọwl | dẹbáte | dísagrímẹnt | fáít | rẹstọl | rúkús</annotation>
+		<annotation cp="🫯" type="tts">fait klaọ́d</annotation>
 		<annotation cp="💥">Ásídẹnt | Jam</annotation>
 		<annotation cp="💥" type="tts">Jam</annotation>
 		<annotation cp="💫">Ai De Tọn Tọ́n Yu An Yu Wán Fọl | Dízi | Fent | Sọ́mtin Wé De Mék Pẹ́sin Laf | Sta | Yu Fíl Laik Ẹ́vrítin De Tọ́n Raúnd An Raund And Yu Wán Fọl</annotation>
@@ -1501,6 +1493,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧟‍♀" type="tts">Wúmán Zombí</annotation>
 		<annotation cp="🧌">Deédrim | Mọ́nsta | Sọ́mtin Wé Rizẹ́mbúl Ọ́glí Húmánbin | Torí Abaut Spírit-dẹm Wé Rizẹ́mbúl Taíní Húmánbin</annotation>
 		<annotation cp="🧌" type="tts">Sọ́mtin Wé Rizẹ́mbúl Ọ́glí Húmánbin</annotation>
+		<annotation cp="🫈">bígfut | fọ́rẹst | gíánt | híárí | kríptíd | sáskwách | wudwos | yẹtí</annotation>
+		<annotation cp="🫈" type="tts">híárí kríẹchọ</annotation>
 		<annotation cp="💆">Fes | Masaj | Pẹ́sin Wé Dẹm De Masáj Im Bọdí | Salun</annotation>
 		<annotation cp="💆" type="tts">Pẹ́sin Wé Dẹm De Masáj Im Bọdí</annotation>
 		<annotation cp="💆‍♂">Fes | Man | Man Wé Dẹm De Masáj Im Bọdí | Masaj</annotation>
@@ -1555,6 +1549,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏃‍♂" type="tts">Man Wé De Rọn</annotation>
 		<annotation cp="🏃‍♀">De Rọn | De Rọ́n Fast | Márátọn | Wúman | Wúman Wé De Rọn</annotation>
 		<annotation cp="🏃‍♀" type="tts">Wúman Wé De Rọn</annotation>
+		<annotation cp="🧑‍🩰">bálẹ dánsá</annotation>
+		<annotation cp="🧑‍🩰" type="tts">bálẹ dánsá</annotation>
 		<annotation cp="💃">Dans | De Dans | Wúman | Wúman Wé De Dans</annotation>
 		<annotation cp="💃" type="tts">Wúman Wé De Dans</annotation>
 		<annotation cp="🕺">Dans | De Dans | Man | Man Wé De Dans</annotation>
@@ -1707,6 +1703,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑‍🧒‍🧒" type="tts">fámíli: machọ́ pẹ́sin, pikin, pikin</annotation>
 		<annotation cp="👣">Fútmak | Fútmak-dẹm | Klọt | Lẹ́gmak-dẹm | Mak Lẹ́gmak</annotation>
 		<annotation cp="👣" type="tts">Fútmak-dẹm</annotation>
+		<annotation cp="🫆">aídẹ́ntíti | ditẹ́ktiv | fingáprint | forénsíks | klú | kraím | mystery | print | séfti | trés</annotation>
+		<annotation cp="🫆" type="tts">fíngaprint</annotation>
 		<annotation cp="🦰">Jínja | Rẹ́d Hea | Rẹ́dhẹd</annotation>
 		<annotation cp="🦰" type="tts">Rẹ́d Hea</annotation>
 		<annotation cp="🦱">Áfró | Kọ́li | Kọ́lí Hea | Lọ́ng Kọ́lí Hea | Rínglẹts</annotation>
@@ -1915,6 +1913,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🐋" type="tts">Weil: Dis Na Wọ́n Bíg Ánímal Wé De Lív Fọ Wọtá</annotation>
 		<annotation cp="🐬">Dọ́lfin | Flípa: Rọ́bá Tin Wé Pẹ́sin De Wiá Fọ Lẹg Tọ Hẹ́lẹ́p Am Swím Fást Fast</annotation>
 		<annotation cp="🐬" type="tts">Dọ́lfin</annotation>
+		<annotation cp="🫍">máríne | ọ́shẹn | wẹl</annotation>
+		<annotation cp="🫍" type="tts">ọ́ká</annotation>
 		<annotation cp="🦭">Wọ́n Wọtá Ánímal Wé Im Nem Na &quot;Sí Láyọn&quot; | Wọ́n Wọtá Ánímal Wé Im Nem Na &quot;Siil&quot; | Wọtá Ánímal Wé Im Nem Na Siil</annotation>
 		<annotation cp="🦭" type="tts">Wọtá Ánímal Wé Im Nem Na Siil</annotation>
 		<annotation cp="🐟">Fish | Paísiz | Zódiak</annotation>
@@ -1933,6 +1933,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🪸" type="tts">Wọ́n Tin Wé De Fọ́m Fọ Bọtọ́m Ọf Díp Wọtá An Wé Im Nem Na &quot;Kọ́ral&quot;</annotation>
 		<annotation cp="🪼">bon | invetebrate | jeli | Jẹ́lifish | marin | ouch | stinga</annotation>
 		<annotation cp="🪼" type="tts">Jẹ́lifish</annotation>
+		<annotation cp="🦀">Kánsa | Krab | Zódiak</annotation>
+		<annotation cp="🦀" type="tts">Krab</annotation>
+		<annotation cp="🦞">Lọ́bsta | Nel | Sífud | Tík Sup Wé Dẹm De Kọ́l Bisk</annotation>
+		<annotation cp="🦞" type="tts">Lọ́bsta</annotation>
+		<annotation cp="🦐">Fud | Shẹlfish | Shrimp | Smọl</annotation>
+		<annotation cp="🦐" type="tts">Shrimp</annotation>
+		<annotation cp="🦑">Fud | Mọ́lúsk: Wọ́n Ánímal Wé Rizẹ́mbúl Snel | Skwid | Skwid: Wọ́n Ánímal Wé De Lív Fọ Wọtá. I Gẹ́t Lọ́ng Hand-dẹm An Sọ́ft Bọdí</annotation>
+		<annotation cp="🦑" type="tts">Skwid</annotation>
+		<annotation cp="🦪">Daívín Ínsaíd Wọtá | Ọísta | Pẹal</annotation>
+		<annotation cp="🦪" type="tts">Ọísta</annotation>
 		<annotation cp="🐌">Snel</annotation>
 		<annotation cp="🐌" type="tts">Snel</annotation>
 		<annotation cp="🦋">Bọtaflai | Fain | Ínsẹkt</annotation>
@@ -2021,6 +2031,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🪺" type="tts">Nẹst Wit Ẹg-dẹm</annotation>
 		<annotation cp="🍄">Mọ́shrum | Tódstúl Mọ́shrum</annotation>
 		<annotation cp="🍄" type="tts">Mọ́shrum</annotation>
+		<annotation cp="🪾">bare | barren | branchis | dai | drot | trii | tronk | wey no get lif | winta | wud</annotation>
+		<annotation cp="🪾" type="tts">trii wey no get lif</annotation>
 		<annotation cp="🍇">Frut | Grep | Grep-dẹm</annotation>
 		<annotation cp="🍇" type="tts">Grep-dẹm</annotation>
 		<annotation cp="🍈">Frut | Mẹ́lọn</annotation>
@@ -2097,6 +2109,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🫛" type="tts">pii pod</annotation>
 		<annotation cp="🍄‍🟫">fud | fungi | fungus | mọ́shrum | néchọ | píza | pọtobellọ | shiitáke | shrum | spọ | spraut | topins | trọful | vẹ́jí | vẹ́jítébul | vẹ́jítériyán</annotation>
 		<annotation cp="🍄‍🟫" type="tts">braun mọ́shrum</annotation>
+		<annotation cp="🫜">bít | fud | gádín | rádísh | rut | sálad | toníp | vẹ́jítébul | vẹ́jítérian</annotation>
+		<annotation cp="🫜" type="tts">rut vẹ́jítébul</annotation>
 		<annotation cp="🍞">Brẹd | Lof</annotation>
 		<annotation cp="🍞" type="tts">Brẹd</annotation>
 		<annotation cp="🥐">Brẹd | Frẹnch | Fud | Kroásant | Mọ́nín Chọp | Smọ́l Kọ́vd Swít Brẹd Wé Im Nem na &quot;Kroásant&quot; | Smọ́l Raúnd Brẹd Wé Im Nem na &quot;Rol&quot;</annotation>
@@ -2199,16 +2213,6 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🥠" type="tts">Fọtiún Kúki</annotation>
 		<annotation cp="🥡">Ọístá Bọks | Tékaút Bọks</annotation>
 		<annotation cp="🥡" type="tts">Tékaút Bọks</annotation>
-		<annotation cp="🦀">Kánsa | Krab | Zódiak</annotation>
-		<annotation cp="🦀" type="tts">Krab</annotation>
-		<annotation cp="🦞">Lọ́bsta | Nel | Sífud | Tík Sup Wé Dẹm De Kọ́l Bisk</annotation>
-		<annotation cp="🦞" type="tts">Lọ́bsta</annotation>
-		<annotation cp="🦐">Fud | Shẹlfish | Shrimp | Smọl</annotation>
-		<annotation cp="🦐" type="tts">Shrimp</annotation>
-		<annotation cp="🦑">Fud | Mọ́lúsk: Wọ́n Ánímal Wé Rizẹ́mbúl Snel | Skwid | Skwid: Wọ́n Ánímal Wé De Lív Fọ Wọtá. I Gẹ́t Lọ́ng Hand-dẹm An Sọ́ft Bọdí</annotation>
-		<annotation cp="🦑" type="tts">Skwid</annotation>
-		<annotation cp="🦪">Daívín Ínsaíd Wọtá | Ọísta | Pẹal</annotation>
-		<annotation cp="🦪" type="tts">Ọísta</annotation>
 		<annotation cp="🍦">Ais | Aískrim | Dizẹt: Swít Fud Wé Pípul De Chọ́p Áftá Di Mén Fud | Krim | Sọft | Sọ́ft Aís Krim | Swit</annotation>
 		<annotation cp="🍦" type="tts">Sọ́ft Aís Krim</annotation>
 		<annotation cp="🍧">Ais | Ais Wé Dẹm Dọ́n Shev | Dizẹt: Swít Fud Wé Dẹm De Chọ́p Áftá Di Mén Fud | Shev | Swit</annotation>
@@ -2309,6 +2313,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🏔" type="tts">Maúntin Wé Sno Kọ́vá Di Tọp</annotation>
 		<annotation cp="⛰">Hai | Maúntin</annotation>
 		<annotation cp="⛰" type="tts">Maúntin</annotation>
+		<annotation cp="🛘">ávalánsh | dẹnjá | dízáster | ẹthkwẹk | máuntín | mọdsláid | rọks</annotation>
+		<annotation cp="🛘" type="tts">lánd sláid</annotation>
 		<annotation cp="🌋">Blo | Maúntin | Volkáno</annotation>
 		<annotation cp="🌋" type="tts">Volkáno</annotation>
 		<annotation cp="🗻">Fúji | Fújí Maúntin | Maúntin</annotation>
@@ -3029,14 +3035,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="📻" type="tts">Rédio</annotation>
 		<annotation cp="🎷">Ínstrúmẹnt | Miúzik | Saks | Saksafon</annotation>
 		<annotation cp="🎷" type="tts">Saksafon</annotation>
+		<annotation cp="🎺">Ínstrúmẹnt | Miúzik | Trọ́mpẹt</annotation>
+		<annotation cp="🎺" type="tts">Trọ́mpẹt</annotation>
+		<annotation cp="🪊">bráss | instrúmẹnt | jazz | miúzik | sád | sláid</annotation>
+		<annotation cp="🪊" type="tts">trọ́mbọ́n</annotation>
 		<annotation cp="🪗">Akọ́diọn | Kọnsẹtína | Skwíz Bọks</annotation>
 		<annotation cp="🪗" type="tts">Akọ́diọn</annotation>
 		<annotation cp="🎸">Gita | Ínstrúmẹnt | Miúzik</annotation>
 		<annotation cp="🎸" type="tts">Gita</annotation>
 		<annotation cp="🎹">Ínstrúmẹnt | Kíbọd | Miúzik | Piáno</annotation>
 		<annotation cp="🎹" type="tts">Miúzik Kíbọd</annotation>
-		<annotation cp="🎺">Ínstrúmẹnt | Miúzik | Trọ́mpẹt</annotation>
-		<annotation cp="🎺" type="tts">Trọ́mpẹt</annotation>
 		<annotation cp="🎻">Ínstrúmẹnt | Miúzik | Vayọlin</annotation>
 		<annotation cp="🎻" type="tts">Vayọlin</annotation>
 		<annotation cp="🪕">Banjó | Miúzik | String-dẹm</annotation>
@@ -3049,6 +3057,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🪇" type="tts">Márákas</annotation>
 		<annotation cp="🪈">faif | fluut | musik | paip | rikoda | wuudwind</annotation>
 		<annotation cp="🪈" type="tts">fluut</annotation>
+		<annotation cp="🪉">háp | ínstrument | kíupíd | lọv | miúzík | okestrá</annotation>
+		<annotation cp="🪉" type="tts">háp</annotation>
 		<annotation cp="📱">Fon | Mọ́bail | Mọ́baíl Fon | Sẹl | Tẹlífon</annotation>
 		<annotation cp="📱" type="tts">Mọ́baíl Fon</annotation>
 		<annotation cp="📲">Áro | Fon | Mọ́bail | Mọ́baíl Fon Wit Áro | Risiv | Sẹl</annotation>
@@ -3155,10 +3165,12 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🔖" type="tts">Bukmák</annotation>
 		<annotation cp="🏷">Lébẹl</annotation>
 		<annotation cp="🏷" type="tts">Lébẹl</annotation>
-		<annotation cp="💰">Bag | Dọ́la | Mọní | MọníBag | Naíra</annotation>
-		<annotation cp="💰" type="tts">Mọní Bag</annotation>
 		<annotation cp="🪙">Gold | Kọin | Mẹ́tal | Mọní | Sílva | Trẹ́zhọ</annotation>
 		<annotation cp="🪙" type="tts">Kọin</annotation>
+		<annotation cp="💰">Bag | Dọ́la | Mọní | MọníBag | Naíra</annotation>
+		<annotation cp="💰" type="tts">Mọní Bag</annotation>
+		<annotation cp="🪎">gẹm | gọld | jẹwẹls | lút | mọní | práíz | sílvá | váluabọls | wẹalth</annotation>
+		<annotation cp="🪎" type="tts">Trẹ́zhọ chẹst</annotation>
 		<annotation cp="💴">Bánknot | Bil | Kọ́rẹ́nsi | Mọní | Not | Yẹn | Yẹn Pépá Mọní</annotation>
 		<annotation cp="💴" type="tts">Yẹn Pépá Mọní</annotation>
 		<annotation cp="💵">Bánknot | Bil | Dọ́la | Dọ́la Pépá Mọní | Kọ́rẹ́nsi | Mọní | Not</annotation>
@@ -3325,6 +3337,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧲" type="tts">Magnẹ́tọ</annotation>
 		<annotation cp="🪜">Klaimb | Láda | Ládá Stẹp | Stẹp</annotation>
 		<annotation cp="🪜" type="tts">Láda</annotation>
+		<annotation cp="🪏">bẹ́rí | díg | gádín | họ́l | plánt | shọ́vẹ́l sped | skup | snọ́</annotation>
+		<annotation cp="🪏" type="tts">shọ́vẹ́l</annotation>
 		<annotation cp="⚗">Alẹ́mbik | Kẹ́místri | Tul</annotation>
 		<annotation cp="⚗" type="tts">Alẹ́mbik</annotation>
 		<annotation cp="🧪">Ẹspẹ́rímẹnt | Kẹ́mist | Kẹ́místri | Lab | Sáyẹns | Tẹ́st Tub</annotation>
@@ -3697,6 +3711,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="®" type="tts">Rẹ́jísta</annotation>
 		<annotation cp="™">Mak | TM | Tréd Mak | Trédmak</annotation>
 		<annotation cp="™" type="tts">Tréd Mak</annotation>
+		<annotation cp="🫟">dríp | holi | ínk | líkwid | mẹ́s | pẹ́nt | spil | splátá | stẹ́n</annotation>
+		<annotation cp="🫟" type="tts">splátá</annotation>
 		<annotation cp="🔠">AB(Ch)D | AB(Ch)D Sain-dẹm | Bíg Sain-dẹm | Látin | Put | Pút Látin Bíg Sain-dẹm</annotation>
 		<annotation cp="🔠" type="tts">Pút Látin Bíg Sain-dẹm</annotation>
 		<annotation cp="🔡">ab(ch)d | AB(Ch)D Sain-dẹm | Látin | Put | Pút Látin Smọ́l Lẹ́ta-dẹm | Smọ́l Sain-dẹm</annotation>
@@ -3895,6 +3911,26 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="₽" type="tts">Rúbul</annotation>
 		<annotation cp="₿">Bítkọ́in | BTC | BTK</annotation>
 		<annotation cp="₿" type="tts">Bítkọ́in</annotation>
+		<annotation cp="0⃣">0 | Kíkap | zẹro</annotation>
+		<annotation cp="0⃣" type="tts">Kíkap: 0</annotation>
+		<annotation cp="1⃣">1 | Kíkap | wán</annotation>
+		<annotation cp="1⃣" type="tts">Kíkap: 1</annotation>
+		<annotation cp="2⃣">2 | Kíkap | tú</annotation>
+		<annotation cp="2⃣" type="tts">Kíkap: 2</annotation>
+		<annotation cp="3⃣">3 | Kíkap | trí</annotation>
+		<annotation cp="3⃣" type="tts">Kíkap: 3</annotation>
+		<annotation cp="4⃣">4 | fọr | Kíkap</annotation>
+		<annotation cp="4⃣" type="tts">Kíkap: 4</annotation>
+		<annotation cp="5⃣">5 | fáiv | Kíkap</annotation>
+		<annotation cp="5⃣" type="tts">Kíkap: 5</annotation>
+		<annotation cp="6⃣">6 | Kíkap | síx</annotation>
+		<annotation cp="6⃣" type="tts">Kíkap: 6</annotation>
+		<annotation cp="7⃣">7 | Kíkap | sẹven</annotation>
+		<annotation cp="7⃣" type="tts">Kíkap: 7</annotation>
+		<annotation cp="8⃣">8 | ẹít | Kíkap</annotation>
+		<annotation cp="8⃣" type="tts">Kíkap: 8</annotation>
+		<annotation cp="9⃣">9 | Kíkap | naín</annotation>
+		<annotation cp="9⃣" type="tts">Kíkap: 9</annotation>
 		<annotation cp="¹">Supaskript | Supaskrípt Wọn | Wọn</annotation>
 		<annotation cp="¹" type="tts">Supaskrípt Wọn</annotation>
 		<annotation cp="²">Skwea | Supaskript | Supaskrípt Tuu | Tuu</annotation>

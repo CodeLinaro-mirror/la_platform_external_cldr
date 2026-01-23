@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -603,6 +603,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾" type="tts">blond persuun: madel jonk hidj</annotation>
 		<annotation cp="👱🏿">blond | jonk hidj | persuun</annotation>
 		<annotation cp="👱🏿" type="tts">blond persuun: jonk hidj</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼">kemfe | laacht hidjet | madel laacht hidj</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼" type="tts">persuunen kemfe: laacht hidjet an madel laacht hidj</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽">kemfe | laacht hidjet | madel hidj</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽" type="tts">persuunen kemfe: laacht hidjet an madel hidj</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾">kemfe | laacht hidjet | madel jonk hidj</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾" type="tts">persuunen kemfe: laacht hidjet an madel jonk hidj</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿">jonk hidj | kemfe | laacht hidjet</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿" type="tts">persuunen kemfe: laacht hidjet an jonk hidj</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻">kemfe | laacht hidjet | madel laacht hidj</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻" type="tts">persuunen kemfe: madel laacht hidj an laacht hidjet</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽">kemfe | madel hidj | madel laacht hidj</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽" type="tts">persuunen kemfe: madel laacht hidj an madel hidj</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾">kemfe | madel jonk hidj | madel laacht hidj</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾" type="tts">persuunen kemfe: madel laacht hidj an madel jonk hidj</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿">jonk hidj | kemfe | madel laacht hidj</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿" type="tts">persuunen kemfe: madel laacht hidj an jonk hidj</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻">kemfe | laacht hidjet | madel hidj</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻" type="tts">persuunen kemfe: madel hidj an laacht hidjet</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼">kemfe | madel hidj | madel laacht hidj</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼" type="tts">persuunen kemfe: madel hidj an madel laacht hidj</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾">kemfe | madel hidj | madel jonk hidj</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾" type="tts">persuunen kemfe: madel hidj an madel jonk hidj</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿">jonk hidj | kemfe | madel hidj</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿" type="tts">persuunen kemfe: madel hidj an jonk hidj</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻">kemfe | laacht hidjet | madel jonk hidj</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻" type="tts">persuunen kemfe: madel jonk hidj an laacht hidjet</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼">kemfe | madel jonk hidj | madel laacht hidj</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼" type="tts">persuunen kemfe: madel jonk hidj an madel laacht hidj</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽">kemfe | madel hidj | madel jonk hidj</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽" type="tts">persuunen kemfe: madel jonk hidj an madel hidj</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿">jonk hidj | kemfe | madel jonk hidj</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿" type="tts">persuunen kemfe: madel jonk hidj an jonk hidj</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻">jonk hidj | kemfe | laacht hidjet</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻" type="tts">persuunen kemfe: jonk hidj an laacht hidjet</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼">jonk hidj | kemfe | madel laacht hidj</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼" type="tts">persuunen kemfe: jonk hidj an madel laacht hidj</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽">jonk hidj | kemfe | madel hidj</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽" type="tts">persuunen kemfe: jonk hidj an madel hidj</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾">jonk hidj | kemfe | madel jonk hidj</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾" type="tts">persuunen kemfe: jonk hidj an madel jonk hidj</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼">laacht hidjet | madel laacht hidj | persuun | süüse</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼" type="tts">süüse: persuun, persuun, laacht hidjet an madel laacht hidj</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏽">laacht hidjet | madel hidj | persuun | süüse</annotation>
@@ -731,6 +771,56 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦲" type="tts">persuun: madel jonk hidj an nian hiar</annotation>
 		<annotation cp="🧑🏿‍🦲">jonk hidj | minsk | nian hiar | persuun | woksen</annotation>
 		<annotation cp="🧑🏿‍🦲" type="tts">persuun: jonk hidj an nian hiar</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼">bunny | haas | laacht hidjet | madel laacht hidj | uar</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼" type="tts">lidj mä haasuaren: laacht hidjet an madel laacht hidj</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽">bunny | haas | laacht hidjet | madel hidj | uar</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽" type="tts">lidj mä haasuaren: laacht hidjet an madel hidj</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾">bunny | haas | laacht hidjet | madel jonk hidj | uar</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾" type="tts">lidj mä haasuaren: laacht hidjet an madel jonk hidj</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿">bunny | haas | jonk hidj | laacht hidjet | uar</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿" type="tts">lidj mä haasuaren: laacht hidjet an jonk hidj</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻">bunny | haas | laacht hidjet | madel laacht hidj | uar</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻" type="tts">lidj mä haasuaren: madel laacht hidj an laacht hidjet</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽">bunny | haas | madel hidj | madel laacht hidj | uar</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽" type="tts">lidj mä haasuaren: madel laacht hidj an madel hidj</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾">bunny | haas | madel jonk hidj | madel laacht hidj | uar</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾" type="tts">lidj mä haasuaren: madel laacht hidj an madel jonk hidj</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿">bunny | haas | jonk hidj | madel laacht hidj | uar</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿" type="tts">lidj mä haasuaren: madel laacht hidj an jonk hidj</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻">bunny | haas | laacht hidjet | madel hidj | uar</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻" type="tts">lidj mä haasuaren: madel hidj an laacht hidjet</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼">bunny | haas | madel hidj | madel laacht hidj | uar</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼" type="tts">lidj mä haasuaren: madel hidj an madel laacht hidj</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾">bunny | haas | madel hidj | madel jonk hidj | uar</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾" type="tts">lidj mä haasuaren: madel hidj an madel jonk hidj</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿">bunny | haas | jonk hidj | madel hidj | uar</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿" type="tts">lidj mä haasuaren: madel hidj an jonk hidj</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻">bunny | haas | laacht hidjet | madel jonk hidj | uar</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻" type="tts">lidj mä haasuaren: madel jonk hidj an laacht hidjet</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼">bunny | haas | madel jonk hidj | madel laacht hidj | uar</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼" type="tts">lidj mä haasuaren: madel jonk hidj an madel laacht hidj</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽">bunny | haas | madel hidj | madel jonk hidj | uar</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽" type="tts">lidj mä haasuaren: madel jonk hidj an madel hidj</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿">bunny | haas | jonk hidj | madel jonk hidj | uar</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿" type="tts">lidj mä haasuaren: madel jonk hidj an jonk hidj</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻">bunny | haas | jonk hidj | laacht hidjet | uar</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻" type="tts">lidj mä haasuaren: jonk hidj an laacht hidjet</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼">bunny | haas | jonk hidj | madel laacht hidj | uar</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼" type="tts">lidj mä haasuaren: jonk hidj an madel laacht hidj</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽">bunny | haas | jonk hidj | madel hidj | uar</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽" type="tts">lidj mä haasuaren: jonk hidj an madel hidj</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾">bunny | haas | jonk hidj | madel jonk hidj | uar</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾" type="tts">lidj mä haasuaren: jonk hidj an madel jonk hidj</annotation>
+		<annotation cp="🧑🏻‍🩰">balet | daanser | laacht hidjet</annotation>
+		<annotation cp="🧑🏻‍🩰" type="tts">balet daanser: laacht hidjet</annotation>
+		<annotation cp="🧑🏼‍🩰">balet | daanser | madel laacht hidj</annotation>
+		<annotation cp="🧑🏼‍🩰" type="tts">balet daanser: madel laacht hidj</annotation>
+		<annotation cp="🧑🏽‍🩰">balet | daanser | madel hidj</annotation>
+		<annotation cp="🧑🏽‍🩰" type="tts">balet daanser: madel hidj</annotation>
+		<annotation cp="🧑🏾‍🩰">balet | daanser | madel jonk hidj</annotation>
+		<annotation cp="🧑🏾‍🩰" type="tts">balet daanser: madel jonk hidj</annotation>
+		<annotation cp="🧑🏿‍🩰">balet | daanser | jonk hidj</annotation>
+		<annotation cp="🧑🏿‍🩰" type="tts">balet daanser: jonk hidj</annotation>
 		<annotation cp="👨🏻">laacht hidjet | maan | woksen</annotation>
 		<annotation cp="👨🏻" type="tts">maan: laacht hidjet</annotation>
 		<annotation cp="👨🏼">maan | madel laacht hidj | woksen</annotation>
@@ -771,6 +861,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♂" type="tts">blond maan: madel jonk hidj</annotation>
 		<annotation cp="👱🏿‍♂">blond | jonk hidj | maan</annotation>
 		<annotation cp="👱🏿‍♂" type="tts">blond maan: jonk hidj</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼">kemfe | laacht hidjet | madel laacht hidj</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼" type="tts">maaner kemfe: laacht hidjet an madel laacht hidj</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽">kemfe | laacht hidjet | madel hidj</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽" type="tts">maaner kemfe: laacht hidjet an madel hidj</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾">kemfe | laacht hidjet | madel jonk hidj</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾" type="tts">maaner kemfe: laacht hidjet an madel jonk hidj</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿">jonk hidj | kemfe | laacht hidjet</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿" type="tts">maaner kemfe: laacht hidjet an jonk hidj</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻">kemfe | laacht hidjet | madel laacht hidj</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻" type="tts">maaner kemfe: madel laacht hidj an laacht hidjet</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽">kemfe | madel hidj | madel laacht hidj</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽" type="tts">maaner kemfe: madel laacht hidj an madel hidj</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾">kemfe | madel jonk hidj | madel laacht hidj</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾" type="tts">maaner kemfe: madel laacht hidj an madel jonk hidj</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿">jonk hidj | kemfe | madel laacht hidj</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿" type="tts">maaner kemfe: madel laacht hidj an jonk hidj</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻">kemfe | laacht hidjet | madel hidj</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻" type="tts">maaner kemfe: madel hidj an laacht hidjet</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼">kemfe | madel hidj | madel laacht hidj</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼" type="tts">maaner kemfe: madel hidj an madel laacht hidj</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾">kemfe | madel hidj | madel jonk hidj</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾" type="tts">maaner kemfe: madel hidj an madel jonk hidj</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿">jonk hidj | kemfe | madel hidj</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿" type="tts">maaner kemfe: madel hidj an jonk hidj</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻">kemfe | laacht hidjet | madel jonk hidj</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻" type="tts">maaner kemfe: madel jonk hidj an laacht hidjet</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼">kemfe | madel jonk hidj | madel laacht hidj</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼" type="tts">maaner kemfe: madel jonk hidj an madel laacht hidj</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽">kemfe | madel hidj | madel jonk hidj</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽" type="tts">maaner kemfe: madel jonk hidj an madel hidj</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿">jonk hidj | kemfe | madel jonk hidj</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿" type="tts">maaner kemfe: madel jonk hidj an jonk hidj</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻">jonk hidj | kemfe | laacht hidjet</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻" type="tts">maaner kemfe: jonk hidj an laacht hidjet</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼">jonk hidj | kemfe | madel laacht hidj</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼" type="tts">maaner kemfe: jonk hidj an madel laacht hidj</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽">jonk hidj | kemfe | madel hidj</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽" type="tts">maaner kemfe: jonk hidj an madel hidj</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾">jonk hidj | kemfe | madel jonk hidj</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾" type="tts">maaner kemfe: jonk hidj an madel jonk hidj</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻">laacht hidjet | maan | süüse</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻" type="tts">süüse: maan, maan an laacht hidjet</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏼">laacht hidjet | maan | madel laacht hidj | süüse</annotation>
@@ -919,6 +1049,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦲" type="tts">maan: madel jonk hidj an nian hiar</annotation>
 		<annotation cp="👨🏿‍🦲">jonk hidj | maan | nian hiar | woksen</annotation>
 		<annotation cp="👨🏿‍🦲" type="tts">maan: jonk hidj an nian hiar</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼">bunny | haas | laacht hidjet | madel laacht hidj | uar</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼" type="tts">maaner mä haasuaren: laacht hidjet an madel laacht hidj</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽">bunny | haas | laacht hidjet | madel hidj | uar</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽" type="tts">maaner mä haasuaren: laacht hidjet an madel hidj</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾">bunny | haas | laacht hidjet | madel jonk hidj | uar</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾" type="tts">maaner mä haasuaren: laacht hidjet an madel jonk hidj</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿">bunny | haas | jonk hidj | laacht hidjet | uar</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿" type="tts">maaner mä haasuaren: laacht hidjet an jonk hidj</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻">bunny | haas | laacht hidjet | madel laacht hidj | uar</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻" type="tts">maaner mä haasuaren: madel laacht hidj an laacht hidjet</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽">bunny | haas | madel hidj | madel laacht hidj | uar</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽" type="tts">maaner mä haasuaren: madel laacht hidj an madel hidj</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾">bunny | haas | madel jonk hidj | madel laacht hidj | uar</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾" type="tts">maaner mä haasuaren: madel laacht hidj an madel jonk hidj</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿">bunny | haas | jonk hidj | madel laacht hidj | uar</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿" type="tts">maaner mä haasuaren: madel laacht hidj an jonk hidj</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻">bunny | haas | laacht hidjet | madel hidj | uar</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻" type="tts">maaner mä haasuaren: madel hidj an laacht hidjet</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼">bunny | haas | madel hidj | madel laacht hidj | uar</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼" type="tts">maaner mä haasuaren: madel hidj an madel laacht hidj</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾">bunny | haas | madel hidj | madel jonk hidj | uar</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾" type="tts">maaner mä haasuaren: madel hidj an madel jonk hidj</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿">bunny | haas | jonk hidj | madel hidj | uar</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿" type="tts">maaner mä haasuaren: madel hidj an jonk hidj</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻">bunny | haas | laacht hidjet | madel jonk hidj | uar</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻" type="tts">maaner mä haasuaren: madel jonk hidj an laacht hidjet</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼">bunny | haas | madel jonk hidj | madel laacht hidj | uar</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼" type="tts">maaner mä haasuaren: madel jonk hidj an madel laacht hidj</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽">bunny | haas | madel hidj | madel jonk hidj | uar</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽" type="tts">maaner mä haasuaren: madel jonk hidj an madel hidj</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿">bunny | haas | jonk hidj | madel jonk hidj | uar</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿" type="tts">maaner mä haasuaren: madel jonk hidj an jonk hidj</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻">bunny | haas | jonk hidj | laacht hidjet | uar</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻" type="tts">maaner mä haasuaren: jonk hidj an laacht hidjet</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼">bunny | haas | jonk hidj | madel laacht hidj | uar</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼" type="tts">maaner mä haasuaren: jonk hidj an madel laacht hidj</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽">bunny | haas | jonk hidj | madel hidj | uar</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽" type="tts">maaner mä haasuaren: jonk hidj an madel hidj</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾">bunny | haas | jonk hidj | madel jonk hidj | uar</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾" type="tts">maaner mä haasuaren: jonk hidj an madel jonk hidj</annotation>
 		<annotation cp="👩🏻">laacht hidjet | woksen | wüf</annotation>
 		<annotation cp="👩🏻" type="tts">wüf: laacht hidjet</annotation>
 		<annotation cp="👩🏼">madel laacht hidj | woksen | wüf</annotation>
@@ -949,6 +1119,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♀" type="tts">blond wüf: madel jonk hidj</annotation>
 		<annotation cp="👱🏿‍♀">blond | jonk hidj | wüf</annotation>
 		<annotation cp="👱🏿‍♀" type="tts">blond wüf: jonk hidj</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼">kemfe | laacht hidjet | madel laacht hidj</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼" type="tts">wüfen kemfe: laacht hidjet an madel laacht hidj</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽">kemfe | laacht hidjet | madel hidj</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽" type="tts">wüfen kemfe: laacht hidjet an madel hidj</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾">kemfe | laacht hidjet | madel jonk hidj</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾" type="tts">wüfen kemfe: laacht hidjet an madel jonk hidj</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿">jonk hidj | kemfe | laacht hidjet</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿" type="tts">wüfen kemfe: laacht hidjet an jonk hidj</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻">kemfe | laacht hidjet | madel laacht hidj</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻" type="tts">wüfen kemfe: madel laacht hidj an laacht hidjet</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽">kemfe | madel hidj | madel laacht hidj</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽" type="tts">wüfen kemfe: madel laacht hidj an madel hidj</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾">kemfe | madel jonk hidj | madel laacht hidj</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾" type="tts">wüfen kemfe: madel laacht hidj an madel jonk hidj</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿">jonk hidj | kemfe | madel laacht hidj</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿" type="tts">wüfen kemfe: madel laacht hidj an jonk hidj</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻">kemfe | laacht hidjet | madel hidj</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻" type="tts">wüfen kemfe: madel hidj an laacht hidjet</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼">kemfe | madel hidj | madel laacht hidj</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼" type="tts">wüfen kemfe: madel hidj an madel laacht hidj</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾">kemfe | madel hidj | madel jonk hidj</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾" type="tts">wüfen kemfe: madel hidj an madel jonk hidj</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿">jonk hidj | kemfe | madel hidj</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿" type="tts">wüfen kemfe: madel hidj an jonk hidj</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻">kemfe | laacht hidjet | madel jonk hidj</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻" type="tts">wüfen kemfe: madel jonk hidj an laacht hidjet</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼">kemfe | madel jonk hidj | madel laacht hidj</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼" type="tts">wüfen kemfe: madel jonk hidj an madel laacht hidj</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽">kemfe | madel hidj | madel jonk hidj</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽" type="tts">wüfen kemfe: madel jonk hidj an madel hidj</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿">jonk hidj | kemfe | madel jonk hidj</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿" type="tts">wüfen kemfe: madel jonk hidj an jonk hidj</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻">jonk hidj | kemfe | laacht hidjet</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻" type="tts">wüfen kemfe: jonk hidj an laacht hidjet</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼">jonk hidj | kemfe | madel laacht hidj</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼" type="tts">wüfen kemfe: jonk hidj an madel laacht hidj</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽">jonk hidj | kemfe | madel hidj</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽" type="tts">wüfen kemfe: jonk hidj an madel hidj</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾">jonk hidj | kemfe | madel jonk hidj</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾" type="tts">wüfen kemfe: jonk hidj an madel jonk hidj</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻">laacht hidjet | maan | süüse | wüf</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻" type="tts">süüse: wüf, maan an laacht hidjet</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏼">laacht hidjet | maan | madel laacht hidj | süüse | wüf</annotation>
@@ -1197,6 +1407,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦲" type="tts">wüf: madel jonk hidj an nian hiar</annotation>
 		<annotation cp="👩🏿‍🦲">jonk hidj | nian hiar | woksen | wüf</annotation>
 		<annotation cp="👩🏿‍🦲" type="tts">wüf: jonk hidj an nian hiar</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼">bunny | haas | laacht hidjet | madel laacht hidj | uar</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼" type="tts">wüfen mä haasuaren: laacht hidjet an madel laacht hidj</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽">bunny | haas | laacht hidjet | madel hidj | uar</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽" type="tts">wüfen mä haasuaren: laacht hidjet an madel hidj</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾">bunny | haas | laacht hidjet | madel jonk hidj | uar</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾" type="tts">wüfen mä haasuaren: laacht hidjet an madel jonk hidj</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿">bunny | haas | jonk hidj | laacht hidjet | uar</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿" type="tts">wüfen mä haasuaren: laacht hidjet an jonk hidj</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻">bunny | haas | laacht hidjet | madel laacht hidj | uar</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻" type="tts">wüfen mä haasuaren: madel laacht hidj an laacht hidjet</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽">bunny | haas | madel hidj | madel laacht hidj | uar</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽" type="tts">wüfen mä haasuaren: madel laacht hidj an madel hidj</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾">bunny | haas | madel jonk hidj | madel laacht hidj | uar</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾" type="tts">wüfen mä haasuaren: madel laacht hidj an madel jonk hidj</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿">bunny | haas | jonk hidj | madel laacht hidj | uar</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿" type="tts">wüfen mä haasuaren: madel laacht hidj an jonk hidj</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻">bunny | haas | laacht hidjet | madel hidj | uar</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻" type="tts">wüfen mä haasuaren: madel hidj an laacht hidjet</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼">bunny | haas | madel hidj | madel laacht hidj | uar</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼" type="tts">wüfen mä haasuaren: madel hidj an madel laacht hidj</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾">bunny | haas | madel hidj | madel jonk hidj | uar</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾" type="tts">wüfen mä haasuaren: madel hidj an madel jonk hidj</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿">bunny | haas | jonk hidj | madel hidj | uar</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿" type="tts">wüfen mä haasuaren: madel hidj an jonk hidj</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻">bunny | haas | laacht hidjet | madel jonk hidj | uar</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻" type="tts">wüfen mä haasuaren: madel jonk hidj an laacht hidjet</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼">bunny | haas | madel jonk hidj | madel laacht hidj | uar</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼" type="tts">wüfen mä haasuaren: madel jonk hidj an madel laacht hidj</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽">bunny | haas | madel hidj | madel jonk hidj | uar</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽" type="tts">wüfen mä haasuaren: madel jonk hidj an madel hidj</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿">bunny | haas | jonk hidj | madel jonk hidj | uar</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿" type="tts">wüfen mä haasuaren: madel jonk hidj an jonk hidj</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻">bunny | haas | jonk hidj | laacht hidjet | uar</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻" type="tts">wüfen mä haasuaren: jonk hidj an laacht hidjet</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼">bunny | haas | jonk hidj | madel laacht hidj | uar</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼" type="tts">wüfen mä haasuaren: jonk hidj an madel laacht hidj</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽">bunny | haas | jonk hidj | madel hidj | uar</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽" type="tts">wüfen mä haasuaren: jonk hidj an madel hidj</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾">bunny | haas | jonk hidj | madel jonk hidj | uar</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾" type="tts">wüfen mä haasuaren: jonk hidj an madel jonk hidj</annotation>
 		<annotation cp="🧓🏻">ääler | laacht hidjet | persuun | ual</annotation>
 		<annotation cp="🧓🏻" type="tts">ääler persuun: laacht hidjet</annotation>
 		<annotation cp="🧓🏼">ääler | madel laacht hidj | persuun | ual</annotation>
@@ -2687,42 +2937,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🚶🏾‍♀" type="tts">wüf lääpt: madel jonk hidj</annotation>
 		<annotation cp="🚶🏿‍♀">jonk hidj | luup</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">wüf lääpt: jonk hidj</annotation>
-		<annotation cp="🚶‍➡">luup</annotation>
-		<annotation cp="🚶‍➡" type="tts">persuun lääpt rochts am</annotation>
-		<annotation cp="🚶🏻‍➡">luup</annotation>
-		<annotation cp="🚶🏻‍➡" type="tts">persuun lääpt rochts am</annotation>
-		<annotation cp="🚶🏼‍➡">luup</annotation>
-		<annotation cp="🚶🏼‍➡" type="tts">persuun lääpt rochts am</annotation>
-		<annotation cp="🚶🏽‍➡">luup</annotation>
-		<annotation cp="🚶🏽‍➡" type="tts">persuun lääpt rochts am</annotation>
-		<annotation cp="🚶🏾‍➡">luup</annotation>
-		<annotation cp="🚶🏾‍➡" type="tts">persuun lääpt rochts am</annotation>
-		<annotation cp="🚶🏿‍➡">luup</annotation>
-		<annotation cp="🚶🏿‍➡" type="tts">persuun lääpt rochts am</annotation>
-		<annotation cp="🚶‍♀‍➡">luup</annotation>
-		<annotation cp="🚶‍♀‍➡" type="tts">wüf lääpt rochts am</annotation>
-		<annotation cp="🚶🏻‍♀‍➡">luup</annotation>
-		<annotation cp="🚶🏻‍♀‍➡" type="tts">wüf lääpt rochts am</annotation>
-		<annotation cp="🚶🏼‍♀‍➡">luup</annotation>
-		<annotation cp="🚶🏼‍♀‍➡" type="tts">wüf lääpt rochts am</annotation>
-		<annotation cp="🚶🏽‍♀‍➡">luup</annotation>
-		<annotation cp="🚶🏽‍♀‍➡" type="tts">wüf lääpt rochts am</annotation>
-		<annotation cp="🚶🏾‍♀‍➡">luup</annotation>
-		<annotation cp="🚶🏾‍♀‍➡" type="tts">wüf lääpt rochts am</annotation>
-		<annotation cp="🚶🏿‍♀‍➡">luup</annotation>
-		<annotation cp="🚶🏿‍♀‍➡" type="tts">wüf lääpt rochts am</annotation>
-		<annotation cp="🚶‍♂‍➡">luup</annotation>
-		<annotation cp="🚶‍♂‍➡" type="tts">maan lääpt rochts am</annotation>
-		<annotation cp="🚶🏻‍♂‍➡">luup</annotation>
-		<annotation cp="🚶🏻‍♂‍➡" type="tts">maan lääpt rochts am</annotation>
-		<annotation cp="🚶🏼‍♂‍➡">luup</annotation>
-		<annotation cp="🚶🏼‍♂‍➡" type="tts">maan lääpt rochts am</annotation>
-		<annotation cp="🚶🏽‍♂‍➡">luup</annotation>
-		<annotation cp="🚶🏽‍♂‍➡" type="tts">maan lääpt rochts am</annotation>
-		<annotation cp="🚶🏾‍♂‍➡">luup</annotation>
-		<annotation cp="🚶🏾‍♂‍➡" type="tts">maan lääpt rochts am</annotation>
-		<annotation cp="🚶🏿‍♂‍➡">luup</annotation>
-		<annotation cp="🚶🏿‍♂‍➡" type="tts">maan lääpt rochts am</annotation>
+		<annotation cp="🚶‍➡">am | luup | rochts</annotation>
+		<annotation cp="🚶‍➡" type="tts">persuun lääpt: rochts am</annotation>
+		<annotation cp="🚶🏻‍➡">am | laacht hidjet | luup | rochts</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">persuun lääpt: laacht hidjet an rochts am</annotation>
+		<annotation cp="🚶🏼‍➡">am | luup | madel laacht hidj | rochts</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">persuun lääpt: madel laacht hidj an rochts am</annotation>
+		<annotation cp="🚶🏽‍➡">am | luup | madel hidj | rochts</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">persuun lääpt: madel hidj an rochts am</annotation>
+		<annotation cp="🚶🏾‍➡">am | luup | madel jonk hidj | rochts</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">persuun lääpt: madel jonk hidj an rochts am</annotation>
+		<annotation cp="🚶🏿‍➡">am | jonk hidj | luup | rochts</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">persuun lääpt: jonk hidj an rochts am</annotation>
+		<annotation cp="🚶‍♀‍➡">am | luup | rochts</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">wüf lääpt: rochts am</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">am | laacht hidjet | luup | rochts</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">wüf lääpt: laacht hidjet an rochts am</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">am | luup | madel laacht hidj | rochts</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">wüf lääpt: madel laacht hidj an rochts am</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">am | luup | madel hidj | rochts</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">wüf lääpt: madel hidj an rochts am</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">am | luup | madel jonk hidj | rochts</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">wüf lääpt: madel jonk hidj an rochts am</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">am | jonk hidj | luup | rochts</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">wüf lääpt: jonk hidj an rochts am</annotation>
+		<annotation cp="🚶‍♂‍➡">am | luup | rochts</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">maan lääpt: rochts am</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">am | laacht hidjet | luup | rochts</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">maan lääpt: laacht hidjet an rochts am</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">am | luup | madel laacht hidj | rochts</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">maan lääpt: madel laacht hidj an rochts am</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">am | luup | madel hidj | rochts</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">maan lääpt: madel hidj an rochts am</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">am | luup | madel jonk hidj | rochts</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">maan lääpt: madel jonk hidj an rochts am</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">am | jonk hidj | luup | rochts</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">maan lääpt: jonk hidj an rochts am</annotation>
 		<annotation cp="🧍🏻">laacht hidjet | stun</annotation>
 		<annotation cp="🧍🏻" type="tts">persuun stäänt: laacht hidjet</annotation>
 		<annotation cp="🧍🏼">madel laacht hidj | stun</annotation>
@@ -2783,42 +3033,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧎🏾‍♀" type="tts">wüf üüb knöbian: madel jonk hidj</annotation>
 		<annotation cp="🧎🏿‍♀">jonk hidj | knöbian</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">wüf üüb knöbian: jonk hidj</annotation>
-		<annotation cp="🧎‍➡">knöbian</annotation>
-		<annotation cp="🧎‍➡" type="tts">persuun üüb knöbian rochts am</annotation>
-		<annotation cp="🧎🏻‍➡">knöbian</annotation>
-		<annotation cp="🧎🏻‍➡" type="tts">persuun üüb knöbian rochts am</annotation>
-		<annotation cp="🧎🏼‍➡">knöbian</annotation>
-		<annotation cp="🧎🏼‍➡" type="tts">persuun üüb knöbian rochts am</annotation>
-		<annotation cp="🧎🏽‍➡">knöbian</annotation>
-		<annotation cp="🧎🏽‍➡" type="tts">persuun üüb knöbian rochts am</annotation>
-		<annotation cp="🧎🏾‍➡">knöbian</annotation>
-		<annotation cp="🧎🏾‍➡" type="tts">persuun üüb knöbian rochts am</annotation>
-		<annotation cp="🧎🏿‍➡">knöbian</annotation>
-		<annotation cp="🧎🏿‍➡" type="tts">persuun üüb knöbian rochts am</annotation>
-		<annotation cp="🧎‍♀‍➡">knöbian</annotation>
-		<annotation cp="🧎‍♀‍➡" type="tts">wüf üüb knöbian rochts am</annotation>
-		<annotation cp="🧎🏻‍♀‍➡">knöbian</annotation>
-		<annotation cp="🧎🏻‍♀‍➡" type="tts">wüf üüb knöbian rochts am</annotation>
-		<annotation cp="🧎🏼‍♀‍➡">knöbian</annotation>
-		<annotation cp="🧎🏼‍♀‍➡" type="tts">wüf üüb knöbian rochts am</annotation>
-		<annotation cp="🧎🏽‍♀‍➡">knöbian</annotation>
-		<annotation cp="🧎🏽‍♀‍➡" type="tts">wüf üüb knöbian rochts am</annotation>
-		<annotation cp="🧎🏾‍♀‍➡">knöbian</annotation>
-		<annotation cp="🧎🏾‍♀‍➡" type="tts">wüf üüb knöbian rochts am</annotation>
-		<annotation cp="🧎🏿‍♀‍➡">knöbian</annotation>
-		<annotation cp="🧎🏿‍♀‍➡" type="tts">wüf üüb knöbian rochts am</annotation>
-		<annotation cp="🧎‍♂‍➡">knöbian</annotation>
-		<annotation cp="🧎‍♂‍➡" type="tts">man üüb knöbian rochts am</annotation>
-		<annotation cp="🧎🏻‍♂‍➡">knöbian</annotation>
-		<annotation cp="🧎🏻‍♂‍➡" type="tts">man üüb knöbian rochts am</annotation>
-		<annotation cp="🧎🏼‍♂‍➡">knöbian</annotation>
-		<annotation cp="🧎🏼‍♂‍➡" type="tts">man üüb knöbian rochts am</annotation>
-		<annotation cp="🧎🏽‍♂‍➡">knöbian</annotation>
-		<annotation cp="🧎🏽‍♂‍➡" type="tts">man üüb knöbian rochts am</annotation>
-		<annotation cp="🧎🏾‍♂‍➡">knöbian</annotation>
-		<annotation cp="🧎🏾‍♂‍➡" type="tts">man üüb knöbian rochts am</annotation>
-		<annotation cp="🧎🏿‍♂‍➡">knöbian</annotation>
-		<annotation cp="🧎🏿‍♂‍➡" type="tts">man üüb knöbian rochts am</annotation>
+		<annotation cp="🧎‍➡">am | knöbian | rochts</annotation>
+		<annotation cp="🧎‍➡" type="tts">persuun üüb knöbian: rochts am</annotation>
+		<annotation cp="🧎🏻‍➡">am | knöbian | laacht hidjet | rochts</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">persuun üüb knöbian: laacht hidjet an rochts am</annotation>
+		<annotation cp="🧎🏼‍➡">am | knöbian | madel laacht hidj | rochts</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">persuun üüb knöbian: madel laacht hidj an rochts am</annotation>
+		<annotation cp="🧎🏽‍➡">am | knöbian | madel hidj | rochts</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">persuun üüb knöbian: madel hidj an rochts am</annotation>
+		<annotation cp="🧎🏾‍➡">am | knöbian | madel jonk hidj | rochts</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">persuun üüb knöbian: madel jonk hidj an rochts am</annotation>
+		<annotation cp="🧎🏿‍➡">am | jonk hidj | knöbian | rochts</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">persuun üüb knöbian: jonk hidj an rochts am</annotation>
+		<annotation cp="🧎‍♀‍➡">am | knöbian | rochts</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">wüf üüb knöbian: rochts am</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">am | knöbian | laacht hidjet | rochts</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">wüf üüb knöbian: laacht hidjet an rochts am</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">am | knöbian | madel laacht hidj | rochts</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">wüf üüb knöbian: madel laacht hidj an rochts am</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">am | knöbian | madel hidj | rochts</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">wüf üüb knöbian: madel hidj an rochts am</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">am | knöbian | madel jonk hidj | rochts</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">wüf üüb knöbian: madel jonk hidj an rochts am</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">am | jonk hidj | knöbian | rochts</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">wüf üüb knöbian: jonk hidj an rochts am</annotation>
+		<annotation cp="🧎‍♂‍➡">am | knöbian | rochts</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">man üüb knöbian: rochts am</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">am | knöbian | laacht hidjet | rochts</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">man üüb knöbian: laacht hidjet an rochts am</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">am | knöbian | madel laacht hidj | rochts</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">man üüb knöbian: madel laacht hidj an rochts am</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">am | knöbian | madel hidj | rochts</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">man üüb knöbian: madel hidj an rochts am</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">am | knöbian | madel jonk hidj | rochts</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">man üüb knöbian: madel jonk hidj an rochts am</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">am | jonk hidj | knöbian | rochts</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">man üüb knöbian: jonk hidj an rochts am</annotation>
 		<annotation cp="🧑🏻‍🦯">blinj | laacht hidjet | stook</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">persuun mä blinjenstook: laacht hidjet</annotation>
 		<annotation cp="🧑🏼‍🦯">blinj | madel laacht hidj | stook</annotation>
@@ -2829,18 +3079,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦯" type="tts">persuun mä blinjenstook: madel jonk hidj</annotation>
 		<annotation cp="🧑🏿‍🦯">blinj | jonk hidj | stook</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">persuun mä blinjenstook: jonk hidj</annotation>
-		<annotation cp="🧑‍🦯‍➡">blinj | stook</annotation>
-		<annotation cp="🧑‍🦯‍➡" type="tts">persuun mä blinjenstook rochts am</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡">blinj | stook</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡" type="tts">persuun mä blinjenstook rochts am</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡">blinj | stook</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡" type="tts">persuun mä blinjenstook rochts am</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡">blinj | stook</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡" type="tts">persuun mä blinjenstook rochts am</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡">blinj | stook</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡" type="tts">persuun mä blinjenstook rochts am</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡">blinj | stook</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡" type="tts">persuun mä blinjenstook rochts am</annotation>
+		<annotation cp="🧑‍🦯‍➡">am | blinj | rochts | stook</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">persuun mä blinjenstook: rochts am</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">am | blinj | laacht hidjet | rochts | stook</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">persuun mä blinjenstook: laacht hidjet an rochts am</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">am | blinj | madel laacht hidj | rochts | stook</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">persuun mä blinjenstook: madel laacht hidj an rochts am</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">am | blinj | madel hidj | rochts | stook</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">persuun mä blinjenstook: madel hidj an rochts am</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">am | blinj | madel jonk hidj | rochts | stook</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">persuun mä blinjenstook: madel jonk hidj an rochts am</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">am | blinj | jonk hidj | rochts | stook</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">persuun mä blinjenstook: jonk hidj an rochts am</annotation>
 		<annotation cp="👨🏻‍🦯">blinj | laacht hidjet | stook</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">maan mä blinjenstook: laacht hidjet</annotation>
 		<annotation cp="👨🏼‍🦯">blinj | madel laacht hidj | stook</annotation>
@@ -2851,18 +3101,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦯" type="tts">maan mä blinjenstook: madel jonk hidj</annotation>
 		<annotation cp="👨🏿‍🦯">blinj | jonk hidj | stook</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">maan mä blinjenstook: jonk hidj</annotation>
-		<annotation cp="👨‍🦯‍➡">blinj | stook</annotation>
-		<annotation cp="👨‍🦯‍➡" type="tts">maan mä blinjenstook rochts am</annotation>
-		<annotation cp="👨🏻‍🦯‍➡">blinj | stook</annotation>
-		<annotation cp="👨🏻‍🦯‍➡" type="tts">maan mä blinjenstook rochts am</annotation>
-		<annotation cp="👨🏼‍🦯‍➡">blinj | stook</annotation>
-		<annotation cp="👨🏼‍🦯‍➡" type="tts">maan mä blinjenstook rochts am</annotation>
-		<annotation cp="👨🏽‍🦯‍➡">blinj | stook</annotation>
-		<annotation cp="👨🏽‍🦯‍➡" type="tts">maan mä blinjenstook rochts am</annotation>
-		<annotation cp="👨🏾‍🦯‍➡">blinj | stook</annotation>
-		<annotation cp="👨🏾‍🦯‍➡" type="tts">maan mä blinjenstook rochts am</annotation>
-		<annotation cp="👨🏿‍🦯‍➡">blinj | stook</annotation>
-		<annotation cp="👨🏿‍🦯‍➡" type="tts">maan mä blinjenstook rochts am</annotation>
+		<annotation cp="👨‍🦯‍➡">am | blinj | rochts | stook</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">maan mä blinjenstook: rochts am</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">am | blinj | laacht hidjet | rochts | stook</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">maan mä blinjenstook: laacht hidjet an rochts am</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">am | blinj | madel laacht hidj | rochts | stook</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">maan mä blinjenstook: madel laacht hidj an rochts am</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">am | blinj | madel hidj | rochts | stook</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">maan mä blinjenstook: madel hidj an rochts am</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">am | blinj | madel jonk hidj | rochts | stook</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">maan mä blinjenstook: madel jonk hidj an rochts am</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">am | blinj | jonk hidj | rochts | stook</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">maan mä blinjenstook: jonk hidj an rochts am</annotation>
 		<annotation cp="👩🏻‍🦯">blinj | laacht hidjet | stook</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">wüf mä blinjenstook: laacht hidjet</annotation>
 		<annotation cp="👩🏼‍🦯">blinj | madel laacht hidj | stook</annotation>
@@ -2873,18 +3123,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦯" type="tts">wüf mä blinjenstook: madel jonk hidj</annotation>
 		<annotation cp="👩🏿‍🦯">blinj | jonk hidj | stook</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">wüf mä blinjenstook: jonk hidj</annotation>
-		<annotation cp="👩‍🦯‍➡">blinj | stook</annotation>
-		<annotation cp="👩‍🦯‍➡" type="tts">wüf mä blinjenstook rochts am</annotation>
-		<annotation cp="👩🏻‍🦯‍➡">blinj | stook</annotation>
-		<annotation cp="👩🏻‍🦯‍➡" type="tts">wüf mä blinjenstook rochts am</annotation>
-		<annotation cp="👩🏼‍🦯‍➡">blinj | stook</annotation>
-		<annotation cp="👩🏼‍🦯‍➡" type="tts">wüf mä blinjenstook rochts am</annotation>
-		<annotation cp="👩🏽‍🦯‍➡">blinj | stook</annotation>
-		<annotation cp="👩🏽‍🦯‍➡" type="tts">wüf mä blinjenstook rochts am</annotation>
-		<annotation cp="👩🏾‍🦯‍➡">blinj | stook</annotation>
-		<annotation cp="👩🏾‍🦯‍➡" type="tts">wüf mä blinjenstook rochts am</annotation>
-		<annotation cp="👩🏿‍🦯‍➡">blinj | stook</annotation>
-		<annotation cp="👩🏿‍🦯‍➡" type="tts">wüf mä blinjenstook rochts am</annotation>
+		<annotation cp="👩‍🦯‍➡">am | blinj | rochts | stook</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">wüf mä blinjenstook: rochts am</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">am | blinj | laacht hidjet | rochts | stook</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">wüf mä blinjenstook: laacht hidjet an rochts am</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">am | blinj | madel laacht hidj | rochts | stook</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">wüf mä blinjenstook: madel laacht hidj an rochts am</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">am | blinj | madel hidj | rochts | stook</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">wüf mä blinjenstook: madel hidj an rochts am</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">am | blinj | madel jonk hidj | rochts | stook</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">wüf mä blinjenstook: madel jonk hidj an rochts am</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">am | blinj | jonk hidj | rochts | stook</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">wüf mä blinjenstook: jonk hidj an rochts am</annotation>
 		<annotation cp="🧑🏻‍🦼">elektro | laacht hidjet | rolstuul</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">persuun üüb elektro rolstuul: laacht hidjet</annotation>
 		<annotation cp="🧑🏼‍🦼">elektro | madel laacht hidj | rolstuul</annotation>
@@ -2895,18 +3145,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦼" type="tts">persuun üüb elektro rolstuul: madel jonk hidj</annotation>
 		<annotation cp="🧑🏿‍🦼">elektro | jonk hidj | rolstuul</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">persuun üüb elektro rolstuul: jonk hidj</annotation>
-		<annotation cp="🧑‍🦼‍➡">elektro | rolstuul</annotation>
-		<annotation cp="🧑‍🦼‍➡" type="tts">persuun üüb elektro rolstuul rochts am</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡">elektro | rolstuul</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡" type="tts">persuun üüb elektro rolstuul rochts am</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡">elektro | rolstuul</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡" type="tts">persuun üüb elektro rolstuul rochts am</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡">elektro | rolstuul</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡" type="tts">persuun üüb elektro rolstuul rochts am</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡">elektro | rolstuul</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡" type="tts">persuun üüb elektro rolstuul rochts am</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡">elektro | rolstuul</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡" type="tts">persuun üüb elektro rolstuul rochts am</annotation>
+		<annotation cp="🧑‍🦼‍➡">am | elektro | rochts | rolstuul</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">persuun üüb elektro rolstuul: rochts am</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">am | elektro | laacht hidjet | rochts | rolstuul</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">persuun üüb elektro rolstuul: laacht hidjet an rochts am</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">am | elektro | madel laacht hidj | rochts | rolstuul</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">persuun üüb elektro rolstuul: madel laacht hidj an rochts am</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">am | elektro | madel hidj | rochts | rolstuul</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">persuun üüb elektro rolstuul: madel hidj an rochts am</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">am | elektro | madel jonk hidj | rochts | rolstuul</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">persuun üüb elektro rolstuul: madel jonk hidj an rochts am</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">am | elektro | jonk hidj | rochts | rolstuul</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">persuun üüb elektro rolstuul: jonk hidj an rochts am</annotation>
 		<annotation cp="👨🏻‍🦼">elektro | laacht hidjet | rolstuul</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">maan üüb elektro rolstuul: laacht hidjet</annotation>
 		<annotation cp="👨🏼‍🦼">elektro | madel laacht hidj | rolstuul</annotation>
@@ -2917,18 +3167,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦼" type="tts">maan üüb elektro rolstuul: madel jonk hidj</annotation>
 		<annotation cp="👨🏿‍🦼">elektro | jonk hidj | rolstuul</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">maan üüb elektro rolstuul: jonk hidj</annotation>
-		<annotation cp="👨‍🦼‍➡">elektro | rolstuul</annotation>
-		<annotation cp="👨‍🦼‍➡" type="tts">maan üüb elektro rolstuul rochts am</annotation>
-		<annotation cp="👨🏻‍🦼‍➡">elektro | rolstuul</annotation>
-		<annotation cp="👨🏻‍🦼‍➡" type="tts">maan üüb elektro rolstuul rochts am</annotation>
-		<annotation cp="👨🏼‍🦼‍➡">elektro | rolstuul</annotation>
-		<annotation cp="👨🏼‍🦼‍➡" type="tts">maan üüb elektro rolstuul rochts am</annotation>
-		<annotation cp="👨🏽‍🦼‍➡">elektro | rolstuul</annotation>
-		<annotation cp="👨🏽‍🦼‍➡" type="tts">maan üüb elektro rolstuul rochts am</annotation>
-		<annotation cp="👨🏾‍🦼‍➡">elektro | rolstuul</annotation>
-		<annotation cp="👨🏾‍🦼‍➡" type="tts">maan üüb elektro rolstuul rochts am</annotation>
-		<annotation cp="👨🏿‍🦼‍➡">elektro | rolstuul</annotation>
-		<annotation cp="👨🏿‍🦼‍➡" type="tts">maan üüb elektro rolstuul rochts am</annotation>
+		<annotation cp="👨‍🦼‍➡">am | elektro | rochts | rolstuul</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">maan üüb elektro rolstuul: rochts am</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">am | elektro | laacht hidjet | rochts | rolstuul</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">maan üüb elektro rolstuul: laacht hidjet an rochts am</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">am | elektro | madel laacht hidj | rochts | rolstuul</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">maan üüb elektro rolstuul: madel laacht hidj an rochts am</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">am | elektro | madel hidj | rochts | rolstuul</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">maan üüb elektro rolstuul: madel hidj an rochts am</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">am | elektro | madel jonk hidj | rochts | rolstuul</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">maan üüb elektro rolstuul: madel jonk hidj an rochts am</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">am | elektro | jonk hidj | rochts | rolstuul</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">maan üüb elektro rolstuul: jonk hidj an rochts am</annotation>
 		<annotation cp="👩🏻‍🦼">elektro | laacht hidjet | rolstuul</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">wüf üüb elektro rolstuul: laacht hidjet</annotation>
 		<annotation cp="👩🏼‍🦼">elektro | madel laacht hidj | rolstuul</annotation>
@@ -2939,18 +3189,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦼" type="tts">wüf üüb elektro rolstuul: madel jonk hidj</annotation>
 		<annotation cp="👩🏿‍🦼">elektro | jonk hidj | rolstuul</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">wüf üüb elektro rolstuul: jonk hidj</annotation>
-		<annotation cp="👩‍🦼‍➡">elektro | rolstuul</annotation>
-		<annotation cp="👩‍🦼‍➡" type="tts">wüf üüb elektro rolstuul rochts am</annotation>
-		<annotation cp="👩🏻‍🦼‍➡">elektro | rolstuul</annotation>
-		<annotation cp="👩🏻‍🦼‍➡" type="tts">wüf üüb elektro rolstuul rochts am</annotation>
-		<annotation cp="👩🏼‍🦼‍➡">elektro | rolstuul</annotation>
-		<annotation cp="👩🏼‍🦼‍➡" type="tts">wüf üüb elektro rolstuul rochts am</annotation>
-		<annotation cp="👩🏽‍🦼‍➡">elektro | rolstuul</annotation>
-		<annotation cp="👩🏽‍🦼‍➡" type="tts">wüf üüb elektro rolstuul rochts am</annotation>
-		<annotation cp="👩🏾‍🦼‍➡">elektro | rolstuul</annotation>
-		<annotation cp="👩🏾‍🦼‍➡" type="tts">wüf üüb elektro rolstuul rochts am</annotation>
-		<annotation cp="👩🏿‍🦼‍➡">elektro | rolstuul</annotation>
-		<annotation cp="👩🏿‍🦼‍➡" type="tts">wüf üüb elektro rolstuul rochts am</annotation>
+		<annotation cp="👩‍🦼‍➡">am | elektro | rochts | rolstuul</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">wüf üüb elektro rolstuul: rochts am</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">am | elektro | laacht hidjet | rochts | rolstuul</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">wüf üüb elektro rolstuul: laacht hidjet an rochts am</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">am | elektro | madel laacht hidj | rochts | rolstuul</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">wüf üüb elektro rolstuul: madel laacht hidj an rochts am</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">am | elektro | madel hidj | rochts | rolstuul</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">wüf üüb elektro rolstuul: madel hidj an rochts am</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">am | elektro | madel jonk hidj | rochts | rolstuul</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">wüf üüb elektro rolstuul: madel jonk hidj an rochts am</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">am | elektro | jonk hidj | rochts | rolstuul</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">wüf üüb elektro rolstuul: jonk hidj an rochts am</annotation>
 		<annotation cp="🧑🏻‍🦽">laacht hidjet | rolstuul</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">persuun üüb rolstuul: laacht hidjet</annotation>
 		<annotation cp="🧑🏼‍🦽">madel laacht hidj | rolstuul</annotation>
@@ -2961,18 +3211,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦽" type="tts">persuun üüb rolstuul: madel jonk hidj</annotation>
 		<annotation cp="🧑🏿‍🦽">jonk hidj | rolstuul</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">persuun üüb rolstuul: jonk hidj</annotation>
-		<annotation cp="🧑‍🦽‍➡">rolstuul</annotation>
-		<annotation cp="🧑‍🦽‍➡" type="tts">persuun üüb rolstuul rochts am</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡">rolstuul</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡" type="tts">persuun üüb rolstuul rochts am</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡">rolstuul</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡" type="tts">persuun üüb rolstuul rochts am</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡">rolstuul</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡" type="tts">persuun üüb rolstuul rochts am</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡">rolstuul</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡" type="tts">persuun üüb rolstuul rochts am</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡">rolstuul</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡" type="tts">persuun üüb rolstuul rochts am</annotation>
+		<annotation cp="🧑‍🦽‍➡">am | rochts | rolstuul</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">persuun üüb rolstuul: rochts am</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">am | laacht hidjet | rochts | rolstuul</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">persuun üüb rolstuul: laacht hidjet an rochts am</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">am | madel laacht hidj | rochts | rolstuul</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">persuun üüb rolstuul: madel laacht hidj an rochts am</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">am | madel hidj | rochts | rolstuul</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">persuun üüb rolstuul: madel hidj an rochts am</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">am | madel jonk hidj | rochts | rolstuul</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">persuun üüb rolstuul: madel jonk hidj an rochts am</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">am | jonk hidj | rochts | rolstuul</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">persuun üüb rolstuul: jonk hidj an rochts am</annotation>
 		<annotation cp="👨🏻‍🦽">laacht hidjet | rolstuul</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">maan üüb rolstuul: laacht hidjet</annotation>
 		<annotation cp="👨🏼‍🦽">madel laacht hidj | rolstuul</annotation>
@@ -2983,18 +3233,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦽" type="tts">maan üüb rolstuul: madel jonk hidj</annotation>
 		<annotation cp="👨🏿‍🦽">jonk hidj | rolstuul</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">maan üüb rolstuul: jonk hidj</annotation>
-		<annotation cp="👨‍🦽‍➡">rolstuul</annotation>
-		<annotation cp="👨‍🦽‍➡" type="tts">maan üüb rolstuul rochts am</annotation>
-		<annotation cp="👨🏻‍🦽‍➡">rolstuul</annotation>
-		<annotation cp="👨🏻‍🦽‍➡" type="tts">maan üüb rolstuul rochts am</annotation>
-		<annotation cp="👨🏼‍🦽‍➡">rolstuul</annotation>
-		<annotation cp="👨🏼‍🦽‍➡" type="tts">maan üüb rolstuul rochts am</annotation>
-		<annotation cp="👨🏽‍🦽‍➡">rolstuul</annotation>
-		<annotation cp="👨🏽‍🦽‍➡" type="tts">maan üüb rolstuul rochts am</annotation>
-		<annotation cp="👨🏾‍🦽‍➡">rolstuul</annotation>
-		<annotation cp="👨🏾‍🦽‍➡" type="tts">maan üüb rolstuul rochts am</annotation>
-		<annotation cp="👨🏿‍🦽‍➡">rolstuul</annotation>
-		<annotation cp="👨🏿‍🦽‍➡" type="tts">maan üüb rolstuul rochts am</annotation>
+		<annotation cp="👨‍🦽‍➡">am | rochts | rolstuul</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">maan üüb rolstuul: rochts am</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">am | laacht hidjet | rochts | rolstuul</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">maan üüb rolstuul: laacht hidjet an rochts am</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">am | madel laacht hidj | rochts | rolstuul</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">maan üüb rolstuul: madel laacht hidj an rochts am</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">am | madel hidj | rochts | rolstuul</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">maan üüb rolstuul: madel hidj an rochts am</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">am | madel jonk hidj | rochts | rolstuul</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">maan üüb rolstuul: madel jonk hidj an rochts am</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">am | jonk hidj | rochts | rolstuul</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">maan üüb rolstuul: jonk hidj an rochts am</annotation>
 		<annotation cp="👩🏻‍🦽">laacht hidjet | rolstuul</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">wüf üüb rolstuul: laacht hidjet</annotation>
 		<annotation cp="👩🏼‍🦽">madel laacht hidj | rolstuul</annotation>
@@ -3005,18 +3255,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦽" type="tts">wüf üüb rolstuul: madel jonk hidj</annotation>
 		<annotation cp="👩🏿‍🦽">jonk hidj | rolstuul</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">wüf üüb rolstuul: jonk hidj</annotation>
-		<annotation cp="👩‍🦽‍➡">rolstuul</annotation>
-		<annotation cp="👩‍🦽‍➡" type="tts">wüf üüb rolstuul rochts am</annotation>
-		<annotation cp="👩🏻‍🦽‍➡">rolstuul</annotation>
-		<annotation cp="👩🏻‍🦽‍➡" type="tts">wüf üüb rolstuul rochts am</annotation>
-		<annotation cp="👩🏼‍🦽‍➡">rolstuul</annotation>
-		<annotation cp="👩🏼‍🦽‍➡" type="tts">wüf üüb rolstuul rochts am</annotation>
-		<annotation cp="👩🏽‍🦽‍➡">rolstuul</annotation>
-		<annotation cp="👩🏽‍🦽‍➡" type="tts">wüf üüb rolstuul rochts am</annotation>
-		<annotation cp="👩🏾‍🦽‍➡">rolstuul</annotation>
-		<annotation cp="👩🏾‍🦽‍➡" type="tts">wüf üüb rolstuul rochts am</annotation>
-		<annotation cp="👩🏿‍🦽‍➡">rolstuul</annotation>
-		<annotation cp="👩🏿‍🦽‍➡" type="tts">wüf üüb rolstuul rochts am</annotation>
+		<annotation cp="👩‍🦽‍➡">am | rochts | rolstuul</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">wüf üüb rolstuul: rochts am</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">am | laacht hidjet | rochts | rolstuul</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">wüf üüb rolstuul: laacht hidjet an rochts am</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">am | madel laacht hidj | rochts | rolstuul</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">wüf üüb rolstuul: madel laacht hidj an rochts am</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">am | madel hidj | rochts | rolstuul</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">wüf üüb rolstuul: madel hidj an rochts am</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">am | madel jonk hidj | rochts | rolstuul</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">wüf üüb rolstuul: madel jonk hidj an rochts am</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">am | jonk hidj | rochts | rolstuul</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">wüf üüb rolstuul: jonk hidj an rochts am</annotation>
 		<annotation cp="🏃🏻">laacht hidjet | rään</annotation>
 		<annotation cp="🏃🏻" type="tts">persuun räänt: laacht hidjet</annotation>
 		<annotation cp="🏃🏼">madel laacht hidj | rään</annotation>
@@ -3047,42 +3297,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🏃🏾‍♀" type="tts">wüf räänt: madel jonk hidj</annotation>
 		<annotation cp="🏃🏿‍♀">jonk hidj | rään</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">wüf räänt: jonk hidj</annotation>
-		<annotation cp="🏃‍➡">rään</annotation>
-		<annotation cp="🏃‍➡" type="tts">persuun räänt rochts am</annotation>
-		<annotation cp="🏃🏻‍➡">rään</annotation>
-		<annotation cp="🏃🏻‍➡" type="tts">persuun räänt rochts am</annotation>
-		<annotation cp="🏃🏼‍➡">rään</annotation>
-		<annotation cp="🏃🏼‍➡" type="tts">persuun räänt rochts am</annotation>
-		<annotation cp="🏃🏽‍➡">rään</annotation>
-		<annotation cp="🏃🏽‍➡" type="tts">persuun räänt rochts am</annotation>
-		<annotation cp="🏃🏾‍➡">rään</annotation>
-		<annotation cp="🏃🏾‍➡" type="tts">persuun räänt rochts am</annotation>
-		<annotation cp="🏃🏿‍➡">rään</annotation>
-		<annotation cp="🏃🏿‍➡" type="tts">persuun räänt rochts am</annotation>
-		<annotation cp="🏃‍♀‍➡">rään</annotation>
-		<annotation cp="🏃‍♀‍➡" type="tts">wüf räänt rochts am</annotation>
-		<annotation cp="🏃🏻‍♀‍➡">rään</annotation>
-		<annotation cp="🏃🏻‍♀‍➡" type="tts">wüf räänt rochts am</annotation>
-		<annotation cp="🏃🏼‍♀‍➡">rään</annotation>
-		<annotation cp="🏃🏼‍♀‍➡" type="tts">wüf räänt rochts am</annotation>
-		<annotation cp="🏃🏽‍♀‍➡">rään</annotation>
-		<annotation cp="🏃🏽‍♀‍➡" type="tts">wüf räänt rochts am</annotation>
-		<annotation cp="🏃🏾‍♀‍➡">rään</annotation>
-		<annotation cp="🏃🏾‍♀‍➡" type="tts">wüf räänt rochts am</annotation>
-		<annotation cp="🏃🏿‍♀‍➡">rään</annotation>
-		<annotation cp="🏃🏿‍♀‍➡" type="tts">wüf räänt rochts am</annotation>
-		<annotation cp="🏃‍♂‍➡">rään</annotation>
-		<annotation cp="🏃‍♂‍➡" type="tts">maan räänt rochts am</annotation>
-		<annotation cp="🏃🏻‍♂‍➡">rään</annotation>
-		<annotation cp="🏃🏻‍♂‍➡" type="tts">maan räänt rochts am</annotation>
-		<annotation cp="🏃🏼‍♂‍➡">rään</annotation>
-		<annotation cp="🏃🏼‍♂‍➡" type="tts">maan räänt rochts am</annotation>
-		<annotation cp="🏃🏽‍♂‍➡">rään</annotation>
-		<annotation cp="🏃🏽‍♂‍➡" type="tts">maan räänt rochts am</annotation>
-		<annotation cp="🏃🏾‍♂‍➡">rään</annotation>
-		<annotation cp="🏃🏾‍♂‍➡" type="tts">maan räänt rochts am</annotation>
-		<annotation cp="🏃🏿‍♂‍➡">rään</annotation>
-		<annotation cp="🏃🏿‍♂‍➡" type="tts">maan räänt rochts am</annotation>
+		<annotation cp="🏃‍➡">am | rään | rochts</annotation>
+		<annotation cp="🏃‍➡" type="tts">persuun räänt: rochts am</annotation>
+		<annotation cp="🏃🏻‍➡">am | laacht hidjet | rään | rochts</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">persuun räänt: laacht hidjet an rochts am</annotation>
+		<annotation cp="🏃🏼‍➡">am | madel laacht hidj | rään | rochts</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">persuun räänt: madel laacht hidj an rochts am</annotation>
+		<annotation cp="🏃🏽‍➡">am | madel hidj | rään | rochts</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">persuun räänt: madel hidj an rochts am</annotation>
+		<annotation cp="🏃🏾‍➡">am | madel jonk hidj | rään | rochts</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">persuun räänt: madel jonk hidj an rochts am</annotation>
+		<annotation cp="🏃🏿‍➡">am | jonk hidj | rään | rochts</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">persuun räänt: jonk hidj an rochts am</annotation>
+		<annotation cp="🏃‍♀‍➡">am | rään | rochts</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">wüf räänt: rochts am</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">am | laacht hidjet | rään | rochts</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">wüf räänt: laacht hidjet an rochts am</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">am | madel laacht hidj | rään | rochts</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">wüf räänt: madel laacht hidj an rochts am</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">am | madel hidj | rään | rochts</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">wüf räänt: madel hidj an rochts am</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">am | madel jonk hidj | rään | rochts</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">wüf räänt: madel jonk hidj an rochts am</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">am | jonk hidj | rään | rochts</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">wüf räänt: jonk hidj an rochts am</annotation>
+		<annotation cp="🏃‍♂‍➡">am | rään | rochts</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">maan räänt: rochts am</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">am | laacht hidjet | rään | rochts</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">maan räänt: laacht hidjet an rochts am</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">am | madel laacht hidj | rään | rochts</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">maan räänt: madel laacht hidj an rochts am</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">am | madel hidj | rään | rochts</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">maan räänt: madel hidj an rochts am</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">am | madel jonk hidj | rään | rochts</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">maan räänt: madel jonk hidj an rochts am</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">am | jonk hidj | rään | rochts</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">maan räänt: jonk hidj an rochts am</annotation>
 		<annotation cp="💃🏻">daans | laacht hidjet</annotation>
 		<annotation cp="💃🏻" type="tts">wüf daanset: laacht hidjet</annotation>
 		<annotation cp="💃🏼">daans | madel laacht hidj</annotation>
@@ -3113,6 +3363,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🕴🏾" type="tts">persuun mä uuntooch sweewet: madel jonk hidj</annotation>
 		<annotation cp="🕴🏿">jonk hidj | sweewe | uuntoch</annotation>
 		<annotation cp="🕴🏿" type="tts">persuun mä uuntooch sweewet: jonk hidj</annotation>
+		<annotation cp="👯🏻">bunny | haas | laacht hidjet | uar</annotation>
+		<annotation cp="👯🏻" type="tts">lidj mä haasuaren: laacht hidjet</annotation>
+		<annotation cp="👯🏼">bunny | haas | madel laacht hidj | uar</annotation>
+		<annotation cp="👯🏼" type="tts">lidj mä haasuaren: madel laacht hidj</annotation>
+		<annotation cp="👯🏽">bunny | haas | madel hidj | uar</annotation>
+		<annotation cp="👯🏽" type="tts">lidj mä haasuaren: madel hidj</annotation>
+		<annotation cp="👯🏾">bunny | haas | madel jonk hidj | uar</annotation>
+		<annotation cp="👯🏾" type="tts">lidj mä haasuaren: madel jonk hidj</annotation>
+		<annotation cp="👯🏿">bunny | haas | jonk hidj | uar</annotation>
+		<annotation cp="👯🏿" type="tts">lidj mä haasuaren: jonk hidj</annotation>
+		<annotation cp="👯🏻‍♀">bunny | haas | laacht hidjet | uar</annotation>
+		<annotation cp="👯🏻‍♀" type="tts">wüfen mä haasuaren: laacht hidjet</annotation>
+		<annotation cp="👯🏼‍♀">bunny | haas | madel laacht hidj | uar</annotation>
+		<annotation cp="👯🏼‍♀" type="tts">wüfen mä haasuaren: madel laacht hidj</annotation>
+		<annotation cp="👯🏽‍♀">bunny | haas | madel hidj | uar</annotation>
+		<annotation cp="👯🏽‍♀" type="tts">wüfen mä haasuaren: madel hidj</annotation>
+		<annotation cp="👯🏾‍♀">bunny | haas | madel jonk hidj | uar</annotation>
+		<annotation cp="👯🏾‍♀" type="tts">wüfen mä haasuaren: madel jonk hidj</annotation>
+		<annotation cp="👯🏿‍♀">bunny | haas | jonk hidj | uar</annotation>
+		<annotation cp="👯🏿‍♀" type="tts">wüfen mä haasuaren: jonk hidj</annotation>
+		<annotation cp="👯🏻‍♂">bunny | haas | laacht hidjet | uar</annotation>
+		<annotation cp="👯🏻‍♂" type="tts">maaner mä haasuaren: laacht hidjet</annotation>
+		<annotation cp="👯🏼‍♂">bunny | haas | madel laacht hidj | uar</annotation>
+		<annotation cp="👯🏼‍♂" type="tts">maaner mä haasuaren: madel laacht hidj</annotation>
+		<annotation cp="👯🏽‍♂">bunny | haas | madel hidj | uar</annotation>
+		<annotation cp="👯🏽‍♂" type="tts">maaner mä haasuaren: madel hidj</annotation>
+		<annotation cp="👯🏾‍♂">bunny | haas | madel jonk hidj | uar</annotation>
+		<annotation cp="👯🏾‍♂" type="tts">maaner mä haasuaren: madel jonk hidj</annotation>
+		<annotation cp="👯🏿‍♂">bunny | haas | jonk hidj | uar</annotation>
+		<annotation cp="👯🏿‍♂" type="tts">maaner mä haasuaren: jonk hidj</annotation>
 		<annotation cp="🧖🏻">damp | laacht hidjet | sauna</annotation>
 		<annotation cp="🧖🏻" type="tts">persuun uun sauna: laacht hidjet</annotation>
 		<annotation cp="🧖🏼">damp | madel laacht hidj | sauna</annotation>
@@ -3463,6 +3743,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤸🏾‍♀" type="tts">wüf slait en wel: madel jonk hidj</annotation>
 		<annotation cp="🤸🏿‍♀">jonk hidj | slau | wel</annotation>
 		<annotation cp="🤸🏿‍♀" type="tts">wüf slait en wel: jonk hidj</annotation>
+		<annotation cp="🤼🏻">kemfe | laacht hidjet</annotation>
+		<annotation cp="🤼🏻" type="tts">persuunen kemfe: laacht hidjet</annotation>
+		<annotation cp="🤼🏼">kemfe | madel laacht hidj</annotation>
+		<annotation cp="🤼🏼" type="tts">persuunen kemfe: madel laacht hidj</annotation>
+		<annotation cp="🤼🏽">kemfe | madel hidj</annotation>
+		<annotation cp="🤼🏽" type="tts">persuunen kemfe: madel hidj</annotation>
+		<annotation cp="🤼🏾">kemfe | madel jonk hidj</annotation>
+		<annotation cp="🤼🏾" type="tts">persuunen kemfe: madel jonk hidj</annotation>
+		<annotation cp="🤼🏿">jonk hidj | kemfe</annotation>
+		<annotation cp="🤼🏿" type="tts">persuunen kemfe: jonk hidj</annotation>
+		<annotation cp="🤼🏻‍♀">kemfe | laacht hidjet</annotation>
+		<annotation cp="🤼🏻‍♀" type="tts">wüfen kemfe: laacht hidjet</annotation>
+		<annotation cp="🤼🏼‍♀">kemfe | madel laacht hidj</annotation>
+		<annotation cp="🤼🏼‍♀" type="tts">wüfen kemfe: madel laacht hidj</annotation>
+		<annotation cp="🤼🏽‍♀">kemfe | madel hidj</annotation>
+		<annotation cp="🤼🏽‍♀" type="tts">wüfen kemfe: madel hidj</annotation>
+		<annotation cp="🤼🏾‍♀">kemfe | madel jonk hidj</annotation>
+		<annotation cp="🤼🏾‍♀" type="tts">wüfen kemfe: madel jonk hidj</annotation>
+		<annotation cp="🤼🏿‍♀">jonk hidj | kemfe</annotation>
+		<annotation cp="🤼🏿‍♀" type="tts">wüfen kemfe: jonk hidj</annotation>
+		<annotation cp="🤼🏻‍♂">kemfe | laacht hidjet</annotation>
+		<annotation cp="🤼🏻‍♂" type="tts">maaner kemfe: laacht hidjet</annotation>
+		<annotation cp="🤼🏼‍♂">kemfe | madel laacht hidj</annotation>
+		<annotation cp="🤼🏼‍♂" type="tts">maaner kemfe: madel laacht hidj</annotation>
+		<annotation cp="🤼🏽‍♂">kemfe | madel hidj</annotation>
+		<annotation cp="🤼🏽‍♂" type="tts">maaner kemfe: madel hidj</annotation>
+		<annotation cp="🤼🏾‍♂">kemfe | madel jonk hidj</annotation>
+		<annotation cp="🤼🏾‍♂" type="tts">maaner kemfe: madel jonk hidj</annotation>
+		<annotation cp="🤼🏿‍♂">jonk hidj | kemfe</annotation>
+		<annotation cp="🤼🏿‍♂" type="tts">maaner kemfe: jonk hidj</annotation>
 		<annotation cp="🤽🏻">baal | laacht hidjet | weeder</annotation>
 		<annotation cp="🤽🏻" type="tts">weederbaalspeler: laacht hidjet</annotation>
 		<annotation cp="🤽🏼">baal | madel laacht hidj | weeder</annotation>

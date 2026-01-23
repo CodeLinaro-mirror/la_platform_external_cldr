@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -18,6 +18,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="arc" draft="provisional">Buenos-Aýres</subdivision>
 			<subdivision type="at3" draft="provisional">Aşaky Awstriýa</subdivision>
 			<subdivision type="at9" draft="provisional">Wena</subdivision>
+			<subdivision type="azagm" draft="provisional">Agdam</subdivision>
 			<subdivision type="azba" draft="provisional">Baku</subdivision>
 			<subdivision type="azga" draft="provisional">Ganja</subdivision>
 			<subdivision type="azla" draft="provisional">Lankaran</subdivision>
@@ -56,15 +57,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="esct" draft="provisional">Kataloniýa</subdivision>
 			<subdivision type="etaa" draft="provisional">Addis Ababa</subdivision>
 			<subdivision type="fr75c" draft="provisional">Pariž</subdivision>
+			<subdivision type="fr976" draft="provisional">Maýotta</subdivision>
 			<subdivision type="gbcrf" draft="provisional">Kardiff</subdivision>
 			<subdivision type="gbedh" draft="provisional">Edinburg</subdivision>
-			<subdivision type="gbeng" draft="provisional">Angliýa</subdivision>
+			<subdivision type="gbeng">Angliýa</subdivision>
 			<subdivision type="gbgbn" draft="provisional">Beýik Britaniýa</subdivision>
 			<subdivision type="gblnd" draft="provisional">London</subdivision>
 			<subdivision type="gbnir" draft="provisional">Demirgazyk Irlandiýa</subdivision>
-			<subdivision type="gbsct" draft="provisional">Şotlandiýa</subdivision>
+			<subdivision type="gbsct">Şotlandiýa</subdivision>
 			<subdivision type="gbukm" draft="provisional">Birleşen Patyşalyk</subdivision>
-			<subdivision type="gbwls" draft="provisional">Uels</subdivision>
+			<subdivision type="gbwls">Uels</subdivision>
 			<subdivision type="geab" draft="provisional">Abhaziýa</subdivision>
 			<subdivision type="getb" draft="provisional">Tbilisi</subdivision>
 			<subdivision type="gnc" draft="provisional">Konakri</subdivision>
@@ -78,6 +80,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="inhp" draft="provisional">Himachal Pradesh</subdivision>
 			<subdivision type="inpy" draft="provisional">Puducherry</subdivision>
 			<subdivision type="inwb" draft="provisional">West Bengal</subdivision>
+			<subdivision type="ir03" draft="provisional">Gündogar Azerbaýjan Welaýaty</subdivision>
 			<subdivision type="ir04" draft="provisional">Günbatar Azerbaýjan</subdivision>
 			<subdivision type="ir27" draft="provisional">Gülistan Welaýaty</subdivision>
 			<subdivision type="isrkv" draft="provisional">Reýkýawik</subdivision>

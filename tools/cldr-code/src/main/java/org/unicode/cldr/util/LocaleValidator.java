@@ -159,7 +159,7 @@ public class LocaleValidator {
             errors.clear();
         }
         if (allowed == null) {
-            allowed = new AllowedValid(null, null);
+            allowed = new AllowedValid(null, (java.lang.Object[]) null);
         }
         if (ltp.isLegacy() && allowed.isAllowed(Validity.Status.deprecated)) {
             return true; // don't need further checking, since we already did so when parsing
@@ -210,6 +210,7 @@ public class LocaleValidator {
         abort,
         keepOn
     }
+
     /**
      * Returns true if it doesn't validate and errors == null (allows for fast rejection)
      *

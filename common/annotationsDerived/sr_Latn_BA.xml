@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -461,6 +461,44 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏼" type="tts">osoba sa plavom kosom: srednje svijetla koža</annotation>
 		<annotation cp="👱🏽">čovek | ni svijetla ni tamna koža | osoba | plavo | plavušan</annotation>
 		<annotation cp="👱🏽" type="tts">osoba sa plavom kosom: ni svijetla ni tamna koža</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼">rvač | rvači | rvanje | srednje svijetla koža | svijetla koža</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼" type="tts">rvanje: svijetla koža i srednje svijetla koža</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽">ni svijetla ni tamna koža | rvač | rvači | rvanje | svijetla koža</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽" type="tts">rvanje: svijetla koža i ni svijetla ni tamna koža</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾">rvač | rvači | rvanje | srednje tamna koža | svijetla koža</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾" type="tts">rvanje: svijetla koža i srednje tamna koža</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿">rvač | rvači | rvanje | svijetla koža | tamna koža</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿" type="tts">rvanje: svijetla koža i tamna koža</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻">rvač | rvači | rvanje | srednje svijetla koža | svijetla koža</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻" type="tts">rvanje: srednje svijetla koža i svijetla koža</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽">ni svijetla ni tamna koža | rvač | rvači | rvanje | srednje svijetla koža</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽" type="tts">rvanje: srednje svijetla koža i ni svijetla ni tamna koža</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾">rvač | rvači | rvanje | srednje svijetla koža | srednje tamna koža</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾" type="tts">rvanje: srednje svijetla koža i srednje tamna koža</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿">rvač | rvači | rvanje | srednje svijetla koža | tamna koža</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿" type="tts">rvanje: srednje svijetla koža i tamna koža</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻">ni svijetla ni tamna koža | rvač | rvači | rvanje | svijetla koža</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻" type="tts">rvanje: ni svijetla ni tamna koža i svijetla koža</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼">ni svijetla ni tamna koža | rvač | rvači | rvanje | srednje svijetla koža</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼" type="tts">rvanje: ni svijetla ni tamna koža i srednje svijetla koža</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾">ni svijetla ni tamna koža | rvač | rvači | rvanje | srednje tamna koža</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾" type="tts">rvanje: ni svijetla ni tamna koža i srednje tamna koža</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿">ni svijetla ni tamna koža | rvač | rvači | rvanje | tamna koža</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿" type="tts">rvanje: ni svijetla ni tamna koža i tamna koža</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻">rvač | rvači | rvanje | srednje tamna koža | svijetla koža</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻" type="tts">rvanje: srednje tamna koža i svijetla koža</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼">rvač | rvači | rvanje | srednje svijetla koža | srednje tamna koža</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼" type="tts">rvanje: srednje tamna koža i srednje svijetla koža</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽">ni svijetla ni tamna koža | rvač | rvači | rvanje | srednje tamna koža</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽" type="tts">rvanje: srednje tamna koža i ni svijetla ni tamna koža</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿">rvač | rvači | rvanje | srednje tamna koža | tamna koža</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻">rvač | rvači | rvanje | svijetla koža | tamna koža</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻" type="tts">rvanje: tamna koža i svijetla koža</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼">rvač | rvači | rvanje | srednje svijetla koža | tamna koža</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼" type="tts">rvanje: tamna koža i srednje svijetla koža</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽">ni svijetla ni tamna koža | rvač | rvači | rvanje | tamna koža</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽" type="tts">rvanje: tamna koža i ni svijetla ni tamna koža</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾">rvač | rvači | rvanje | srednje tamna koža | tamna koža</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼">odrasla osoba | poljubac | srednje svijetla koža | svijetla koža</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼" type="tts">poljubac: odrasla osoba, odrasla osoba, svijetla koža i srednje svijetla koža</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏽">ni svijetla ni tamna koža | odrasla osoba | poljubac | svijetla koža</annotation>
@@ -576,6 +614,50 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏽‍🦲" type="tts">odrasla osoba: ni svijetla ni tamna koža i ćelav</annotation>
 		<annotation cp="🧑🏾‍🦲">ćelav | neodređen rod | odrasla osoba | osoba | rodno neutralno | srednje tamna koža</annotation>
 		<annotation cp="🧑🏿‍🦲">ćelav | neodređen rod | odrasla osoba | osoba | rodno neutralno | tamna koža</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼">osobe sa zečjim ušima | osobe u provodu | plesačica | srednje svijetla koža | svijetla koža | zečje uši</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼" type="tts">osobe u provodu: svijetla koža i srednje svijetla koža</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽">ni svijetla ni tamna koža | osobe sa zečjim ušima | osobe u provodu | plesačica | svijetla koža | zečje uši</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽" type="tts">osobe u provodu: svijetla koža i ni svijetla ni tamna koža</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾">osobe sa zečjim ušima | osobe u provodu | plesačica | srednje tamna koža | svijetla koža | zečje uši</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾" type="tts">osobe u provodu: svijetla koža i srednje tamna koža</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿">osobe sa zečjim ušima | osobe u provodu | plesačica | svijetla koža | tamna koža | zečje uši</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿" type="tts">osobe u provodu: svijetla koža i tamna koža</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻">osobe sa zečjim ušima | osobe u provodu | plesačica | srednje svijetla koža | svijetla koža | zečje uši</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻" type="tts">osobe u provodu: srednje svijetla koža i svijetla koža</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽">ni svijetla ni tamna koža | osobe sa zečjim ušima | osobe u provodu | plesačica | srednje svijetla koža | zečje uši</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽" type="tts">osobe u provodu: srednje svijetla koža i ni svijetla ni tamna koža</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾">osobe sa zečjim ušima | osobe u provodu | plesačica | srednje svijetla koža | srednje tamna koža | zečje uši</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾" type="tts">osobe u provodu: srednje svijetla koža i srednje tamna koža</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿">osobe sa zečjim ušima | osobe u provodu | plesačica | srednje svijetla koža | tamna koža | zečje uši</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿" type="tts">osobe u provodu: srednje svijetla koža i tamna koža</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻">ni svijetla ni tamna koža | osobe sa zečjim ušima | osobe u provodu | plesačica | svijetla koža | zečje uši</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻" type="tts">osobe u provodu: ni svijetla ni tamna koža i svijetla koža</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼">ni svijetla ni tamna koža | osobe sa zečjim ušima | osobe u provodu | plesačica | srednje svijetla koža | zečje uši</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼" type="tts">osobe u provodu: ni svijetla ni tamna koža i srednje svijetla koža</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾">ni svijetla ni tamna koža | osobe sa zečjim ušima | osobe u provodu | plesačica | srednje tamna koža | zečje uši</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾" type="tts">osobe u provodu: ni svijetla ni tamna koža i srednje tamna koža</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿">ni svijetla ni tamna koža | osobe sa zečjim ušima | osobe u provodu | plesačica | tamna koža | zečje uši</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿" type="tts">osobe u provodu: ni svijetla ni tamna koža i tamna koža</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻">osobe sa zečjim ušima | osobe u provodu | plesačica | srednje tamna koža | svijetla koža | zečje uši</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻" type="tts">osobe u provodu: srednje tamna koža i svijetla koža</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼">osobe sa zečjim ušima | osobe u provodu | plesačica | srednje svijetla koža | srednje tamna koža | zečje uši</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼" type="tts">osobe u provodu: srednje tamna koža i srednje svijetla koža</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽">ni svijetla ni tamna koža | osobe sa zečjim ušima | osobe u provodu | plesačica | srednje tamna koža | zečje uši</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽" type="tts">osobe u provodu: srednje tamna koža i ni svijetla ni tamna koža</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿">osobe sa zečjim ušima | osobe u provodu | plesačica | srednje tamna koža | tamna koža | zečje uši</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻">osobe sa zečjim ušima | osobe u provodu | plesačica | svijetla koža | tamna koža | zečje uši</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻" type="tts">osobe u provodu: tamna koža i svijetla koža</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼">osobe sa zečjim ušima | osobe u provodu | plesačica | srednje svijetla koža | tamna koža | zečje uši</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼" type="tts">osobe u provodu: tamna koža i srednje svijetla koža</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽">ni svijetla ni tamna koža | osobe sa zečjim ušima | osobe u provodu | plesačica | tamna koža | zečje uši</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽" type="tts">osobe u provodu: tamna koža i ni svijetla ni tamna koža</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾">osobe sa zečjim ušima | osobe u provodu | plesačica | srednje tamna koža | tamna koža | zečje uši</annotation>
+		<annotation cp="🧑🏻‍🩰">balet | plesač | svijetla koža</annotation>
+		<annotation cp="🧑🏻‍🩰" type="tts">baletan: svijetla koža</annotation>
+		<annotation cp="🧑🏼‍🩰">balet | plesač | srednje svijetla koža</annotation>
+		<annotation cp="🧑🏼‍🩰" type="tts">baletan: srednje svijetla koža</annotation>
+		<annotation cp="🧑🏽‍🩰">balet | ni svijetla ni tamna koža | plesač</annotation>
+		<annotation cp="🧑🏽‍🩰" type="tts">baletan: ni svijetla ni tamna koža</annotation>
 		<annotation cp="👨🏻">muškarac | odrasla osoba | svijetla koža</annotation>
 		<annotation cp="👨🏻" type="tts">muškarac: svijetla koža</annotation>
 		<annotation cp="👨🏼">muškarac | odrasla osoba | srednje svijetla koža</annotation>
@@ -602,6 +684,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏼‍♂" type="tts">plav muškarac: srednje svijetla koža</annotation>
 		<annotation cp="👱🏽‍♂">muškarac | ni svijetla ni tamna koža | plav muškarac | plava kosa</annotation>
 		<annotation cp="👱🏽‍♂" type="tts">plav muškarac: ni svijetla ni tamna koža</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼">borba | duel | dvoboj | muškarci | ring | rvanje | sport | srednje svijetla koža | svijetla koža | turnir</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼" type="tts">rvači: svijetla koža i srednje svijetla koža</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽">borba | duel | dvoboj | muškarci | ni svijetla ni tamna koža | ring | rvanje | sport | svijetla koža | turnir</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽" type="tts">rvači: svijetla koža i ni svijetla ni tamna koža</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾">borba | duel | dvoboj | muškarci | ring | rvanje | sport | srednje tamna koža | svijetla koža | turnir</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾" type="tts">rvači: svijetla koža i srednje tamna koža</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿">borba | duel | dvoboj | muškarci | ring | rvanje | sport | svijetla koža | tamna koža | turnir</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿" type="tts">rvači: svijetla koža i tamna koža</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻">borba | duel | dvoboj | muškarci | ring | rvanje | sport | srednje svijetla koža | svijetla koža | turnir</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻" type="tts">rvači: srednje svijetla koža i svijetla koža</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽">borba | duel | dvoboj | muškarci | ni svijetla ni tamna koža | ring | rvanje | sport | srednje svijetla koža | turnir</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽" type="tts">rvači: srednje svijetla koža i ni svijetla ni tamna koža</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾">borba | duel | dvoboj | muškarci | ring | rvanje | sport | srednje svijetla koža | srednje tamna koža | turnir</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾" type="tts">rvači: srednje svijetla koža i srednje tamna koža</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿">borba | duel | dvoboj | muškarci | ring | rvanje | sport | srednje svijetla koža | tamna koža | turnir</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿" type="tts">rvači: srednje svijetla koža i tamna koža</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻">borba | duel | dvoboj | muškarci | ni svijetla ni tamna koža | ring | rvanje | sport | svijetla koža | turnir</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻" type="tts">rvači: ni svijetla ni tamna koža i svijetla koža</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼">borba | duel | dvoboj | muškarci | ni svijetla ni tamna koža | ring | rvanje | sport | srednje svijetla koža | turnir</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼" type="tts">rvači: ni svijetla ni tamna koža i srednje svijetla koža</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾">borba | duel | dvoboj | muškarci | ni svijetla ni tamna koža | ring | rvanje | sport | srednje tamna koža | turnir</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾" type="tts">rvači: ni svijetla ni tamna koža i srednje tamna koža</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿">borba | duel | dvoboj | muškarci | ni svijetla ni tamna koža | ring | rvanje | sport | tamna koža | turnir</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿" type="tts">rvači: ni svijetla ni tamna koža i tamna koža</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻">borba | duel | dvoboj | muškarci | ring | rvanje | sport | srednje tamna koža | svijetla koža | turnir</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻" type="tts">rvači: srednje tamna koža i svijetla koža</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼">borba | duel | dvoboj | muškarci | ring | rvanje | sport | srednje svijetla koža | srednje tamna koža | turnir</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼" type="tts">rvači: srednje tamna koža i srednje svijetla koža</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽">borba | duel | dvoboj | muškarci | ni svijetla ni tamna koža | ring | rvanje | sport | srednje tamna koža | turnir</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽" type="tts">rvači: srednje tamna koža i ni svijetla ni tamna koža</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻">borba | duel | dvoboj | muškarci | ring | rvanje | sport | svijetla koža | tamna koža | turnir</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻" type="tts">rvači: tamna koža i svijetla koža</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼">borba | duel | dvoboj | muškarci | ring | rvanje | sport | srednje svijetla koža | tamna koža | turnir</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼" type="tts">rvači: tamna koža i srednje svijetla koža</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽">borba | duel | dvoboj | muškarci | ni svijetla ni tamna koža | ring | rvanje | sport | tamna koža | turnir</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽" type="tts">rvači: tamna koža i ni svijetla ni tamna koža</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻">muškarac | poljubac | svijetla koža</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻" type="tts">poljubac: muškarac, muškarac i svijetla koža</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏼">muškarac | poljubac | srednje svijetla koža | svijetla koža</annotation>
@@ -733,6 +851,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏽‍🦲" type="tts">muškarac: ni svijetla ni tamna koža i ćelav</annotation>
 		<annotation cp="👨🏾‍🦲">ćelav | muškarac | odrasla osoba | srednje tamna koža</annotation>
 		<annotation cp="👨🏿‍🦲">ćelav | muškarac | odrasla osoba | tamna koža</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼">bff | blizanac | blizanci | identično | ljudi | par | plesač | srednje svijetla koža | svijetla koža | uho | zec | žurka</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼" type="tts">muškarci u provodu: svijetla koža i srednje svijetla koža</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽">bff | blizanac | blizanci | identično | ljudi | ni svijetla ni tamna koža | par | plesač | svijetla koža | uho | zec | žurka</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽" type="tts">muškarci u provodu: svijetla koža i ni svijetla ni tamna koža</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾">bff | blizanac | blizanci | identično | ljudi | par | plesač | srednje tamna koža | svijetla koža | uho | zec | žurka</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾" type="tts">muškarci u provodu: svijetla koža i srednje tamna koža</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿">bff | blizanac | blizanci | identično | ljudi | par | plesač | svijetla koža | tamna koža | uho | zec | žurka</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿" type="tts">muškarci u provodu: svijetla koža i tamna koža</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻">bff | blizanac | blizanci | identično | ljudi | par | plesač | srednje svijetla koža | svijetla koža | uho | zec | žurka</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻" type="tts">muškarci u provodu: srednje svijetla koža i svijetla koža</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽">bff | blizanac | blizanci | identično | ljudi | ni svijetla ni tamna koža | par | plesač | srednje svijetla koža | uho | zec | žurka</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽" type="tts">muškarci u provodu: srednje svijetla koža i ni svijetla ni tamna koža</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾">bff | blizanac | blizanci | identično | ljudi | par | plesač | srednje svijetla koža | srednje tamna koža | uho | zec | žurka</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾" type="tts">muškarci u provodu: srednje svijetla koža i srednje tamna koža</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿">bff | blizanac | blizanci | identično | ljudi | par | plesač | srednje svijetla koža | tamna koža | uho | zec | žurka</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿" type="tts">muškarci u provodu: srednje svijetla koža i tamna koža</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻">bff | blizanac | blizanci | identično | ljudi | ni svijetla ni tamna koža | par | plesač | svijetla koža | uho | zec | žurka</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻" type="tts">muškarci u provodu: ni svijetla ni tamna koža i svijetla koža</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼">bff | blizanac | blizanci | identično | ljudi | ni svijetla ni tamna koža | par | plesač | srednje svijetla koža | uho | zec | žurka</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼" type="tts">muškarci u provodu: ni svijetla ni tamna koža i srednje svijetla koža</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾">bff | blizanac | blizanci | identično | ljudi | ni svijetla ni tamna koža | par | plesač | srednje tamna koža | uho | zec | žurka</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾" type="tts">muškarci u provodu: ni svijetla ni tamna koža i srednje tamna koža</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿">bff | blizanac | blizanci | identično | ljudi | ni svijetla ni tamna koža | par | plesač | tamna koža | uho | zec | žurka</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿" type="tts">muškarci u provodu: ni svijetla ni tamna koža i tamna koža</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻">bff | blizanac | blizanci | identično | ljudi | par | plesač | srednje tamna koža | svijetla koža | uho | zec | žurka</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻" type="tts">muškarci u provodu: srednje tamna koža i svijetla koža</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼">bff | blizanac | blizanci | identično | ljudi | par | plesač | srednje svijetla koža | srednje tamna koža | uho | zec | žurka</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼" type="tts">muškarci u provodu: srednje tamna koža i srednje svijetla koža</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽">bff | blizanac | blizanci | identično | ljudi | ni svijetla ni tamna koža | par | plesač | srednje tamna koža | uho | zec | žurka</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽" type="tts">muškarci u provodu: srednje tamna koža i ni svijetla ni tamna koža</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻">bff | blizanac | blizanci | identično | ljudi | par | plesač | svijetla koža | tamna koža | uho | zec | žurka</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻" type="tts">muškarci u provodu: tamna koža i svijetla koža</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼">bff | blizanac | blizanci | identično | ljudi | par | plesač | srednje svijetla koža | tamna koža | uho | zec | žurka</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼" type="tts">muškarci u provodu: tamna koža i srednje svijetla koža</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽">bff | blizanac | blizanci | identično | ljudi | ni svijetla ni tamna koža | par | plesač | tamna koža | uho | zec | žurka</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽" type="tts">muškarci u provodu: tamna koža i ni svijetla ni tamna koža</annotation>
 		<annotation cp="👩🏻">odrasla osoba | svijetla koža | žena</annotation>
 		<annotation cp="👩🏻" type="tts">žena: svijetla koža</annotation>
 		<annotation cp="👩🏼">odrasla osoba | srednje svijetla koža | žena</annotation>
@@ -753,6 +907,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏼‍♀" type="tts">plavuša: srednje svijetla koža</annotation>
 		<annotation cp="👱🏽‍♀">kosa | ni svijetla ni tamna koža | plava | plavokosa | plavuša | žena</annotation>
 		<annotation cp="👱🏽‍♀" type="tts">plavuša: ni svijetla ni tamna koža</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼">borba | duel | dvoboj | ring | rvanje | sport | srednje svijetla koža | svijetla koža | turnir | žene</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼" type="tts">rvačice: svijetla koža i srednje svijetla koža</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽">borba | duel | dvoboj | ni svijetla ni tamna koža | ring | rvanje | sport | svijetla koža | turnir | žene</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽" type="tts">rvačice: svijetla koža i ni svijetla ni tamna koža</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾">borba | duel | dvoboj | ring | rvanje | sport | srednje tamna koža | svijetla koža | turnir | žene</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾" type="tts">rvačice: svijetla koža i srednje tamna koža</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿">borba | duel | dvoboj | ring | rvanje | sport | svijetla koža | tamna koža | turnir | žene</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿" type="tts">rvačice: svijetla koža i tamna koža</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻">borba | duel | dvoboj | ring | rvanje | sport | srednje svijetla koža | svijetla koža | turnir | žene</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻" type="tts">rvačice: srednje svijetla koža i svijetla koža</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽">borba | duel | dvoboj | ni svijetla ni tamna koža | ring | rvanje | sport | srednje svijetla koža | turnir | žene</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽" type="tts">rvačice: srednje svijetla koža i ni svijetla ni tamna koža</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾">borba | duel | dvoboj | ring | rvanje | sport | srednje svijetla koža | srednje tamna koža | turnir | žene</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾" type="tts">rvačice: srednje svijetla koža i srednje tamna koža</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿">borba | duel | dvoboj | ring | rvanje | sport | srednje svijetla koža | tamna koža | turnir | žene</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿" type="tts">rvačice: srednje svijetla koža i tamna koža</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻">borba | duel | dvoboj | ni svijetla ni tamna koža | ring | rvanje | sport | svijetla koža | turnir | žene</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻" type="tts">rvačice: ni svijetla ni tamna koža i svijetla koža</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼">borba | duel | dvoboj | ni svijetla ni tamna koža | ring | rvanje | sport | srednje svijetla koža | turnir | žene</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼" type="tts">rvačice: ni svijetla ni tamna koža i srednje svijetla koža</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾">borba | duel | dvoboj | ni svijetla ni tamna koža | ring | rvanje | sport | srednje tamna koža | turnir | žene</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾" type="tts">rvačice: ni svijetla ni tamna koža i srednje tamna koža</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿">borba | duel | dvoboj | ni svijetla ni tamna koža | ring | rvanje | sport | tamna koža | turnir | žene</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿" type="tts">rvačice: ni svijetla ni tamna koža i tamna koža</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻">borba | duel | dvoboj | ring | rvanje | sport | srednje tamna koža | svijetla koža | turnir | žene</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻" type="tts">rvačice: srednje tamna koža i svijetla koža</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼">borba | duel | dvoboj | ring | rvanje | sport | srednje svijetla koža | srednje tamna koža | turnir | žene</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼" type="tts">rvačice: srednje tamna koža i srednje svijetla koža</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽">borba | duel | dvoboj | ni svijetla ni tamna koža | ring | rvanje | sport | srednje tamna koža | turnir | žene</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽" type="tts">rvačice: srednje tamna koža i ni svijetla ni tamna koža</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻">borba | duel | dvoboj | ring | rvanje | sport | svijetla koža | tamna koža | turnir | žene</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻" type="tts">rvačice: tamna koža i svijetla koža</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼">borba | duel | dvoboj | ring | rvanje | sport | srednje svijetla koža | tamna koža | turnir | žene</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼" type="tts">rvačice: tamna koža i srednje svijetla koža</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽">borba | duel | dvoboj | ni svijetla ni tamna koža | ring | rvanje | sport | tamna koža | turnir | žene</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽" type="tts">rvačice: tamna koža i ni svijetla ni tamna koža</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻">muškarac | poljubac | svijetla koža | žena</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻" type="tts">poljubac: žena, muškarac i svijetla koža</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏼">muškarac | poljubac | srednje svijetla koža | svijetla koža | žena</annotation>
@@ -976,6 +1166,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏽‍🦲" type="tts">žena: ni svijetla ni tamna koža i ćelav</annotation>
 		<annotation cp="👩🏾‍🦲">ćelav | odrasla osoba | srednje tamna koža | žena</annotation>
 		<annotation cp="👩🏿‍🦲">ćelav | odrasla osoba | tamna koža | žena</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼">provod | srednje svijetla koža | svijetla koža | zečice | žene | žene u provodu | žurka</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼" type="tts">žene u provodu: svijetla koža i srednje svijetla koža</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽">ni svijetla ni tamna koža | provod | svijetla koža | zečice | žene | žene u provodu | žurka</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽" type="tts">žene u provodu: svijetla koža i ni svijetla ni tamna koža</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾">provod | srednje tamna koža | svijetla koža | zečice | žene | žene u provodu | žurka</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾" type="tts">žene u provodu: svijetla koža i srednje tamna koža</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿">provod | svijetla koža | tamna koža | zečice | žene | žene u provodu | žurka</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿" type="tts">žene u provodu: svijetla koža i tamna koža</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻">provod | srednje svijetla koža | svijetla koža | zečice | žene | žene u provodu | žurka</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻" type="tts">žene u provodu: srednje svijetla koža i svijetla koža</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽">ni svijetla ni tamna koža | provod | srednje svijetla koža | zečice | žene | žene u provodu | žurka</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽" type="tts">žene u provodu: srednje svijetla koža i ni svijetla ni tamna koža</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾">provod | srednje svijetla koža | srednje tamna koža | zečice | žene | žene u provodu | žurka</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾" type="tts">žene u provodu: srednje svijetla koža i srednje tamna koža</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿">provod | srednje svijetla koža | tamna koža | zečice | žene | žene u provodu | žurka</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿" type="tts">žene u provodu: srednje svijetla koža i tamna koža</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻">ni svijetla ni tamna koža | provod | svijetla koža | zečice | žene | žene u provodu | žurka</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻" type="tts">žene u provodu: ni svijetla ni tamna koža i svijetla koža</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼">ni svijetla ni tamna koža | provod | srednje svijetla koža | zečice | žene | žene u provodu | žurka</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼" type="tts">žene u provodu: ni svijetla ni tamna koža i srednje svijetla koža</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾">ni svijetla ni tamna koža | provod | srednje tamna koža | zečice | žene | žene u provodu | žurka</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾" type="tts">žene u provodu: ni svijetla ni tamna koža i srednje tamna koža</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿">ni svijetla ni tamna koža | provod | tamna koža | zečice | žene | žene u provodu | žurka</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿" type="tts">žene u provodu: ni svijetla ni tamna koža i tamna koža</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻">provod | srednje tamna koža | svijetla koža | zečice | žene | žene u provodu | žurka</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻" type="tts">žene u provodu: srednje tamna koža i svijetla koža</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼">provod | srednje svijetla koža | srednje tamna koža | zečice | žene | žene u provodu | žurka</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼" type="tts">žene u provodu: srednje tamna koža i srednje svijetla koža</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽">ni svijetla ni tamna koža | provod | srednje tamna koža | zečice | žene | žene u provodu | žurka</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽" type="tts">žene u provodu: srednje tamna koža i ni svijetla ni tamna koža</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻">provod | svijetla koža | tamna koža | zečice | žene | žene u provodu | žurka</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻" type="tts">žene u provodu: tamna koža i svijetla koža</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼">provod | srednje svijetla koža | tamna koža | zečice | žene | žene u provodu | žurka</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼" type="tts">žene u provodu: tamna koža i srednje svijetla koža</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽">ni svijetla ni tamna koža | provod | tamna koža | zečice | žene | žene u provodu | žurka</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽" type="tts">žene u provodu: tamna koža i ni svijetla ni tamna koža</annotation>
 		<annotation cp="🧓🏻">neodređen rod | odrasla osoba | rodno neutralno | starija odrasla osoba | starost | svijetla koža</annotation>
 		<annotation cp="🧓🏻" type="tts">starija odrasla osoba: svijetla koža</annotation>
 		<annotation cp="🧓🏼">neodređen rod | odrasla osoba | rodno neutralno | srednje svijetla koža | starija odrasla osoba | starost</annotation>
@@ -1994,18 +2220,30 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🚶🏼‍♀" type="tts">žena hoda: srednje svijetla koža</annotation>
 		<annotation cp="🚶🏽‍♀">hodanje | ni svijetla ni tamna koža | šetanje | žena</annotation>
 		<annotation cp="🚶🏽‍♀" type="tts">žena hoda: ni svijetla ni tamna koža</annotation>
-		<annotation cp="🚶‍➡">hodanje | pješak | šetanje</annotation>
-		<annotation cp="🚶‍➡" type="tts">pješak gleda udesno</annotation>
-		<annotation cp="🚶🏻‍➡">hodanje | pješak | šetanje</annotation>
-		<annotation cp="🚶🏻‍➡" type="tts">pješak gleda udesno</annotation>
-		<annotation cp="🚶🏼‍➡">hodanje | pješak | šetanje</annotation>
-		<annotation cp="🚶🏼‍➡" type="tts">pješak gleda udesno</annotation>
-		<annotation cp="🚶🏽‍➡">hodanje | pješak | šetanje</annotation>
-		<annotation cp="🚶🏽‍➡" type="tts">pješak gleda udesno</annotation>
-		<annotation cp="🚶🏾‍➡">hodanje | pješak | šetanje</annotation>
-		<annotation cp="🚶🏾‍➡" type="tts">pješak gleda udesno</annotation>
-		<annotation cp="🚶🏿‍➡">hodanje | pješak | šetanje</annotation>
-		<annotation cp="🚶🏿‍➡" type="tts">pješak gleda udesno</annotation>
+		<annotation cp="🚶‍➡">gleda | hodanje | pješak | šetanje | udesno</annotation>
+		<annotation cp="🚶‍➡" type="tts">pješak: gleda udesno</annotation>
+		<annotation cp="🚶🏻‍➡">gleda | hodanje | pješak | šetanje | svijetla koža | udesno</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">pješak: svijetla koža i gleda udesno</annotation>
+		<annotation cp="🚶🏼‍➡">gleda | hodanje | pješak | šetanje | srednje svijetla koža | udesno</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">pješak: srednje svijetla koža i gleda udesno</annotation>
+		<annotation cp="🚶🏽‍➡">gleda | hodanje | ni svijetla ni tamna koža | pješak | šetanje | udesno</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">pješak: ni svijetla ni tamna koža i gleda udesno</annotation>
+		<annotation cp="🚶🏾‍➡">gleda | hodanje | pješak | šetanje | srednje tamna koža | udesno</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">pješak: srednje tamna koža i gleda udesno</annotation>
+		<annotation cp="🚶🏿‍➡">gleda | hodanje | pješak | šetanje | tamna koža | udesno</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">pješak: tamna koža i gleda udesno</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">gleda | hodanje | šetanje | svijetla koža | udesno | žena</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">žena hoda: svijetla koža i gleda udesno</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">gleda | hodanje | šetanje | srednje svijetla koža | udesno | žena</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">žena hoda: srednje svijetla koža i gleda udesno</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">gleda | hodanje | ni svijetla ni tamna koža | šetanje | udesno | žena</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">žena hoda: ni svijetla ni tamna koža i gleda udesno</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">gleda | hodanje | muškarac | muškarac hoda | šetanje | svijetla koža | udesno</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">muškarac hoda: svijetla koža i gleda udesno</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">gleda | hodanje | muškarac | muškarac hoda | šetanje | srednje svijetla koža | udesno</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">muškarac hoda: srednje svijetla koža i gleda udesno</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">gleda | hodanje | muškarac | muškarac hoda | ni svijetla ni tamna koža | šetanje | udesno</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">muškarac hoda: ni svijetla ni tamna koža i gleda udesno</annotation>
 		<annotation cp="🧍🏻">osoba | stajanje | stajati | svijetla koža</annotation>
 		<annotation cp="🧍🏻" type="tts">osoba stoji: svijetla koža</annotation>
 		<annotation cp="🧍🏼">osoba | srednje svijetla koža | stajanje | stajati</annotation>
@@ -2046,6 +2284,24 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧎🏼‍♀" type="tts">žena kleči: srednje svijetla koža</annotation>
 		<annotation cp="🧎🏽‍♀">kleči | ni svijetla ni tamna koža | žena</annotation>
 		<annotation cp="🧎🏽‍♀" type="tts">žena kleči: ni svijetla ni tamna koža</annotation>
+		<annotation cp="🧎🏻‍➡">gleda | klečanje | klečati | kolena | osoba | svijetla koža | udesno</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">osoba kleči: svijetla koža i gleda udesno</annotation>
+		<annotation cp="🧎🏼‍➡">gleda | klečanje | klečati | kolena | osoba | srednje svijetla koža | udesno</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">osoba kleči: srednje svijetla koža i gleda udesno</annotation>
+		<annotation cp="🧎🏽‍➡">gleda | klečanje | klečati | kolena | ni svijetla ni tamna koža | osoba | udesno</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">osoba kleči: ni svijetla ni tamna koža i gleda udesno</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">gleda | kleči | svijetla koža | udesno | žena</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">žena kleči: svijetla koža i gleda udesno</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">gleda | kleči | srednje svijetla koža | udesno | žena</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">žena kleči: srednje svijetla koža i gleda udesno</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">gleda | kleči | ni svijetla ni tamna koža | udesno | žena</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">žena kleči: ni svijetla ni tamna koža i gleda udesno</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">čovek | gleda | kleči | svijetla koža | udesno</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">čovek kleči: svijetla koža i gleda udesno</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">čovek | gleda | kleči | srednje svijetla koža | udesno</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">čovek kleči: srednje svijetla koža i gleda udesno</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">čovek | gleda | kleči | ni svijetla ni tamna koža | udesno</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">čovek kleči: ni svijetla ni tamna koža i gleda udesno</annotation>
 		<annotation cp="🧑🏻‍🦯">osoba sa pomoćnim štapom | pristupačnost | slijep | svijetla koža</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">osoba sa pomoćnim štapom: svijetla koža</annotation>
 		<annotation cp="🧑🏼‍🦯">osoba sa pomoćnim štapom | pristupačnost | slijep | srednje svijetla koža</annotation>
@@ -2054,12 +2310,15 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏽‍🦯" type="tts">osoba sa pomoćnim štapom: ni svijetla ni tamna koža</annotation>
 		<annotation cp="🧑🏾‍🦯">osoba sa pomoćnim štapom | pristupačnost | slijep | srednje tamna koža</annotation>
 		<annotation cp="🧑🏿‍🦯">osoba sa pomoćnim štapom | pristupačnost | slijep | tamna koža</annotation>
-		<annotation cp="🧑‍🦯‍➡">osoba sa pomoćnim štapom | pristupačnost | slijep</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡">osoba sa pomoćnim štapom | pristupačnost | slijep</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡">osoba sa pomoćnim štapom | pristupačnost | slijep</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡">osoba sa pomoćnim štapom | pristupačnost | slijep</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡">osoba sa pomoćnim štapom | pristupačnost | slijep</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡">osoba sa pomoćnim štapom | pristupačnost | slijep</annotation>
+		<annotation cp="🧑‍🦯‍➡">gleda | osoba sa pomoćnim štapom | pristupačnost | slijep | udesno</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">gleda | osoba sa pomoćnim štapom | pristupačnost | slijep | svijetla koža | udesno</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">osoba sa pomoćnim štapom: svijetla koža i gleda udesno</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">gleda | osoba sa pomoćnim štapom | pristupačnost | slijep | srednje svijetla koža | udesno</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">osoba sa pomoćnim štapom: srednje svijetla koža i gleda udesno</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">gleda | ni svijetla ni tamna koža | osoba sa pomoćnim štapom | pristupačnost | slijep | udesno</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">osoba sa pomoćnim štapom: ni svijetla ni tamna koža i gleda udesno</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">gleda | osoba sa pomoćnim štapom | pristupačnost | slijep | srednje tamna koža | udesno</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">gleda | osoba sa pomoćnim štapom | pristupačnost | slijep | tamna koža | udesno</annotation>
 		<annotation cp="👨🏻‍🦯">čovjek | čovjek sa pomoćnim štapom | pristupačnost | slijep | svijetla koža</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">čovjek sa pomoćnim štapom: svijetla koža</annotation>
 		<annotation cp="👨🏼‍🦯">čovjek | čovjek sa pomoćnim štapom | pristupačnost | slijep | srednje svijetla koža</annotation>
@@ -2070,18 +2329,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦯" type="tts">čovjek sa pomoćnim štapom: srednje tamna koža</annotation>
 		<annotation cp="👨🏿‍🦯">čovjek | čovjek sa pomoćnim štapom | pristupačnost | slijep | tamna koža</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">čovjek sa pomoćnim štapom: tamna koža</annotation>
-		<annotation cp="👨‍🦯‍➡">čovjek | čovjek sa pomoćnim štapom | pristupačnost | slijep</annotation>
-		<annotation cp="👨‍🦯‍➡" type="tts">čovjek sa pomoćnim štapom gleda udesno</annotation>
-		<annotation cp="👨🏻‍🦯‍➡">čovjek | čovjek sa pomoćnim štapom | pristupačnost | slijep</annotation>
-		<annotation cp="👨🏻‍🦯‍➡" type="tts">čovjek sa pomoćnim štapom gleda udesno</annotation>
-		<annotation cp="👨🏼‍🦯‍➡">čovjek | čovjek sa pomoćnim štapom | pristupačnost | slijep</annotation>
-		<annotation cp="👨🏼‍🦯‍➡" type="tts">čovjek sa pomoćnim štapom gleda udesno</annotation>
-		<annotation cp="👨🏽‍🦯‍➡">čovjek | čovjek sa pomoćnim štapom | pristupačnost | slijep</annotation>
-		<annotation cp="👨🏽‍🦯‍➡" type="tts">čovjek sa pomoćnim štapom gleda udesno</annotation>
-		<annotation cp="👨🏾‍🦯‍➡">čovjek | čovjek sa pomoćnim štapom | pristupačnost | slijep</annotation>
-		<annotation cp="👨🏾‍🦯‍➡" type="tts">čovjek sa pomoćnim štapom gleda udesno</annotation>
-		<annotation cp="👨🏿‍🦯‍➡">čovjek | čovjek sa pomoćnim štapom | pristupačnost | slijep</annotation>
-		<annotation cp="👨🏿‍🦯‍➡" type="tts">čovjek sa pomoćnim štapom gleda udesno</annotation>
+		<annotation cp="👨‍🦯‍➡">čovjek | čovjek sa pomoćnim štapom | gleda | pristupačnost | slijep | udesno</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">čovjek sa pomoćnim štapom: gleda udesno</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">čovjek | čovjek sa pomoćnim štapom | gleda | pristupačnost | slijep | svijetla koža | udesno</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">čovjek sa pomoćnim štapom: svijetla koža i gleda udesno</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">čovjek | čovjek sa pomoćnim štapom | gleda | pristupačnost | slijep | srednje svijetla koža | udesno</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">čovjek sa pomoćnim štapom: srednje svijetla koža i gleda udesno</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">čovjek | čovjek sa pomoćnim štapom | gleda | ni svijetla ni tamna koža | pristupačnost | slijep | udesno</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">čovjek sa pomoćnim štapom: ni svijetla ni tamna koža i gleda udesno</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">čovjek | čovjek sa pomoćnim štapom | gleda | pristupačnost | slijep | srednje tamna koža | udesno</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">čovjek sa pomoćnim štapom: srednje tamna koža i gleda udesno</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">čovjek | čovjek sa pomoćnim štapom | gleda | pristupačnost | slijep | tamna koža | udesno</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">čovjek sa pomoćnim štapom: tamna koža i gleda udesno</annotation>
 		<annotation cp="👩🏻‍🦯">pristupačnost | slijepa | svijetla koža | žena | žena sa pomoćnim štapom</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">žena sa pomoćnim štapom: svijetla koža</annotation>
 		<annotation cp="👩🏼‍🦯">pristupačnost | slijepa | srednje svijetla koža | žena | žena sa pomoćnim štapom</annotation>
@@ -2090,18 +2349,27 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏽‍🦯" type="tts">žena sa pomoćnim štapom: ni svijetla ni tamna koža</annotation>
 		<annotation cp="👩🏾‍🦯">pristupačnost | slijepa | srednje tamna koža | žena | žena sa pomoćnim štapom</annotation>
 		<annotation cp="👩🏿‍🦯">pristupačnost | slijepa | tamna koža | žena | žena sa pomoćnim štapom</annotation>
-		<annotation cp="👩‍🦯‍➡">pristupačnost | slijepa | žena | žena sa pomoćnim štapom</annotation>
-		<annotation cp="👩🏻‍🦯‍➡">pristupačnost | slijepa | žena | žena sa pomoćnim štapom</annotation>
-		<annotation cp="👩🏼‍🦯‍➡">pristupačnost | slijepa | žena | žena sa pomoćnim štapom</annotation>
-		<annotation cp="👩🏽‍🦯‍➡">pristupačnost | slijepa | žena | žena sa pomoćnim štapom</annotation>
-		<annotation cp="👩🏾‍🦯‍➡">pristupačnost | slijepa | žena | žena sa pomoćnim štapom</annotation>
-		<annotation cp="👩🏿‍🦯‍➡">pristupačnost | slijepa | žena | žena sa pomoćnim štapom</annotation>
+		<annotation cp="👩‍🦯‍➡">gleda | pristupačnost | slijepa | udesno | žena | žena sa pomoćnim štapom</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">gleda | pristupačnost | slijepa | svijetla koža | udesno | žena | žena sa pomoćnim štapom</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">žena sa pomoćnim štapom: svijetla koža i gleda udesno</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">gleda | pristupačnost | slijepa | srednje svijetla koža | udesno | žena | žena sa pomoćnim štapom</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">žena sa pomoćnim štapom: srednje svijetla koža i gleda udesno</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">gleda | ni svijetla ni tamna koža | pristupačnost | slijepa | udesno | žena | žena sa pomoćnim štapom</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">žena sa pomoćnim štapom: ni svijetla ni tamna koža i gleda udesno</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">gleda | pristupačnost | slijepa | srednje tamna koža | udesno | žena | žena sa pomoćnim štapom</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">gleda | pristupačnost | slijepa | tamna koža | udesno | žena | žena sa pomoćnim štapom</annotation>
 		<annotation cp="🧑🏻‍🦼">kolica | osoba u motornim kolicima | pristupačnost | svijetla koža</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">osoba u motornim kolicima: svijetla koža</annotation>
 		<annotation cp="🧑🏼‍🦼">kolica | osoba u motornim kolicima | pristupačnost | srednje svijetla koža</annotation>
 		<annotation cp="🧑🏼‍🦼" type="tts">osoba u motornim kolicima: srednje svijetla koža</annotation>
 		<annotation cp="🧑🏽‍🦼">kolica | ni svijetla ni tamna koža | osoba u motornim kolicima | pristupačnost</annotation>
 		<annotation cp="🧑🏽‍🦼" type="tts">osoba u motornim kolicima: ni svijetla ni tamna koža</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">gleda | kolica | osoba u motornim kolicima | pristupačnost | svijetla koža | udesno</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">osoba u motornim kolicima: svijetla koža i gleda udesno</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">gleda | kolica | osoba u motornim kolicima | pristupačnost | srednje svijetla koža | udesno</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">osoba u motornim kolicima: srednje svijetla koža i gleda udesno</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">gleda | kolica | ni svijetla ni tamna koža | osoba u motornim kolicima | pristupačnost | udesno</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">osoba u motornim kolicima: ni svijetla ni tamna koža i gleda udesno</annotation>
 		<annotation cp="👨🏻‍🦼">čovjek | čovjek u motornim kolicima | kolica | pristupačnost | svijetla koža</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">čovjek u motornim kolicima: svijetla koža</annotation>
 		<annotation cp="👨🏼‍🦼">čovjek | čovjek u motornim kolicima | kolica | pristupačnost | srednje svijetla koža</annotation>
@@ -2112,18 +2380,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦼" type="tts">čovjek u motornim kolicima: srednje tamna koža</annotation>
 		<annotation cp="👨🏿‍🦼">čovjek | čovjek u motornim kolicima | kolica | pristupačnost | tamna koža</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">čovjek u motornim kolicima: tamna koža</annotation>
-		<annotation cp="👨‍🦼‍➡">čovjek | čovjek u motornim kolicima | kolica | pristupačnost</annotation>
-		<annotation cp="👨‍🦼‍➡" type="tts">čovjek u motornim kolicima gleda udesno</annotation>
-		<annotation cp="👨🏻‍🦼‍➡">čovjek | čovjek u motornim kolicima | kolica | pristupačnost</annotation>
-		<annotation cp="👨🏻‍🦼‍➡" type="tts">čovjek u motornim kolicima gleda udesno</annotation>
-		<annotation cp="👨🏼‍🦼‍➡">čovjek | čovjek u motornim kolicima | kolica | pristupačnost</annotation>
-		<annotation cp="👨🏼‍🦼‍➡" type="tts">čovjek u motornim kolicima gleda udesno</annotation>
-		<annotation cp="👨🏽‍🦼‍➡">čovjek | čovjek u motornim kolicima | kolica | pristupačnost</annotation>
-		<annotation cp="👨🏽‍🦼‍➡" type="tts">čovjek u motornim kolicima gleda udesno</annotation>
-		<annotation cp="👨🏾‍🦼‍➡">čovjek | čovjek u motornim kolicima | kolica | pristupačnost</annotation>
-		<annotation cp="👨🏾‍🦼‍➡" type="tts">čovjek u motornim kolicima gleda udesno</annotation>
-		<annotation cp="👨🏿‍🦼‍➡">čovjek | čovjek u motornim kolicima | kolica | pristupačnost</annotation>
-		<annotation cp="👨🏿‍🦼‍➡" type="tts">čovjek u motornim kolicima gleda udesno</annotation>
+		<annotation cp="👨‍🦼‍➡">čovjek | čovjek u motornim kolicima | gleda | kolica | pristupačnost | udesno</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">čovjek u motornim kolicima: gleda udesno</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">čovjek | čovjek u motornim kolicima | gleda | kolica | pristupačnost | svijetla koža | udesno</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">čovjek u motornim kolicima: svijetla koža i gleda udesno</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">čovjek | čovjek u motornim kolicima | gleda | kolica | pristupačnost | srednje svijetla koža | udesno</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">čovjek u motornim kolicima: srednje svijetla koža i gleda udesno</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">čovjek | čovjek u motornim kolicima | gleda | kolica | ni svijetla ni tamna koža | pristupačnost | udesno</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">čovjek u motornim kolicima: ni svijetla ni tamna koža i gleda udesno</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">čovjek | čovjek u motornim kolicima | gleda | kolica | pristupačnost | srednje tamna koža | udesno</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">čovjek u motornim kolicima: srednje tamna koža i gleda udesno</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">čovjek | čovjek u motornim kolicima | gleda | kolica | pristupačnost | tamna koža | udesno</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">čovjek u motornim kolicima: tamna koža i gleda udesno</annotation>
 		<annotation cp="👩🏻‍🦼">kolica | pristupačnost | svijetla koža | žena | žena u motornim kolicima</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">žena u motornim kolicima: svijetla koža</annotation>
 		<annotation cp="👩🏼‍🦼">kolica | pristupačnost | srednje svijetla koža | žena | žena u motornim kolicima</annotation>
@@ -2132,18 +2400,27 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏽‍🦼" type="tts">žena u motornim kolicima: ni svijetla ni tamna koža</annotation>
 		<annotation cp="👩🏾‍🦼">kolica | pristupačnost | srednje tamna koža | žena | žena u motornim kolicima</annotation>
 		<annotation cp="👩🏿‍🦼">kolica | pristupačnost | tamna koža | žena | žena u motornim kolicima</annotation>
-		<annotation cp="👩‍🦼‍➡">kolica | pristupačnost | žena | žena u motornim kolicima</annotation>
-		<annotation cp="👩🏻‍🦼‍➡">kolica | pristupačnost | žena | žena u motornim kolicima</annotation>
-		<annotation cp="👩🏼‍🦼‍➡">kolica | pristupačnost | žena | žena u motornim kolicima</annotation>
-		<annotation cp="👩🏽‍🦼‍➡">kolica | pristupačnost | žena | žena u motornim kolicima</annotation>
-		<annotation cp="👩🏾‍🦼‍➡">kolica | pristupačnost | žena | žena u motornim kolicima</annotation>
-		<annotation cp="👩🏿‍🦼‍➡">kolica | pristupačnost | žena | žena u motornim kolicima</annotation>
+		<annotation cp="👩‍🦼‍➡">gleda | kolica | pristupačnost | udesno | žena | žena u motornim kolicima</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">gleda | kolica | pristupačnost | svijetla koža | udesno | žena | žena u motornim kolicima</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">žena u motornim kolicima: svijetla koža i gleda udesno</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">gleda | kolica | pristupačnost | srednje svijetla koža | udesno | žena | žena u motornim kolicima</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">žena u motornim kolicima: srednje svijetla koža i gleda udesno</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">gleda | kolica | ni svijetla ni tamna koža | pristupačnost | udesno | žena | žena u motornim kolicima</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">žena u motornim kolicima: ni svijetla ni tamna koža i gleda udesno</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">gleda | kolica | pristupačnost | srednje tamna koža | udesno | žena | žena u motornim kolicima</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">gleda | kolica | pristupačnost | tamna koža | udesno | žena | žena u motornim kolicima</annotation>
 		<annotation cp="🧑🏻‍🦽">kolica | osoba u mehaničkim kolicima | pristupačnost | svijetla koža</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">osoba u mehaničkim kolicima: svijetla koža</annotation>
 		<annotation cp="🧑🏼‍🦽">kolica | osoba u mehaničkim kolicima | pristupačnost | srednje svijetla koža</annotation>
 		<annotation cp="🧑🏼‍🦽" type="tts">osoba u mehaničkim kolicima: srednje svijetla koža</annotation>
 		<annotation cp="🧑🏽‍🦽">kolica | ni svijetla ni tamna koža | osoba u mehaničkim kolicima | pristupačnost</annotation>
 		<annotation cp="🧑🏽‍🦽" type="tts">osoba u mehaničkim kolicima: ni svijetla ni tamna koža</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">gleda | kolica | osoba u mehaničkim kolicima | pristupačnost | svijetla koža | udesno</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">osoba u mehaničkim kolicima: svijetla koža i gleda udesno</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">gleda | kolica | osoba u mehaničkim kolicima | pristupačnost | srednje svijetla koža | udesno</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">osoba u mehaničkim kolicima: srednje svijetla koža i gleda udesno</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">gleda | kolica | ni svijetla ni tamna koža | osoba u mehaničkim kolicima | pristupačnost | udesno</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">osoba u mehaničkim kolicima: ni svijetla ni tamna koža i gleda udesno</annotation>
 		<annotation cp="👨🏻‍🦽">čovjek | čovjek u mehaničkim kolicima | kolica | pristupačnost | svijetla koža</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">čovjek u mehaničkim kolicima: svijetla koža</annotation>
 		<annotation cp="👨🏼‍🦽">čovjek | čovjek u mehaničkim kolicima | kolica | pristupačnost | srednje svijetla koža</annotation>
@@ -2154,18 +2431,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦽" type="tts">čovjek u mehaničkim kolicima: srednje tamna koža</annotation>
 		<annotation cp="👨🏿‍🦽">čovjek | čovjek u mehaničkim kolicima | kolica | pristupačnost | tamna koža</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">čovjek u mehaničkim kolicima: tamna koža</annotation>
-		<annotation cp="👨‍🦽‍➡">čovjek | čovjek u mehaničkim kolicima | kolica | pristupačnost</annotation>
-		<annotation cp="👨‍🦽‍➡" type="tts">čovjek u mehaničkim kolicima gleda udesno</annotation>
-		<annotation cp="👨🏻‍🦽‍➡">čovjek | čovjek u mehaničkim kolicima | kolica | pristupačnost</annotation>
-		<annotation cp="👨🏻‍🦽‍➡" type="tts">čovjek u mehaničkim kolicima gleda udesno</annotation>
-		<annotation cp="👨🏼‍🦽‍➡">čovjek | čovjek u mehaničkim kolicima | kolica | pristupačnost</annotation>
-		<annotation cp="👨🏼‍🦽‍➡" type="tts">čovjek u mehaničkim kolicima gleda udesno</annotation>
-		<annotation cp="👨🏽‍🦽‍➡">čovjek | čovjek u mehaničkim kolicima | kolica | pristupačnost</annotation>
-		<annotation cp="👨🏽‍🦽‍➡" type="tts">čovjek u mehaničkim kolicima gleda udesno</annotation>
-		<annotation cp="👨🏾‍🦽‍➡">čovjek | čovjek u mehaničkim kolicima | kolica | pristupačnost</annotation>
-		<annotation cp="👨🏾‍🦽‍➡" type="tts">čovjek u mehaničkim kolicima gleda udesno</annotation>
-		<annotation cp="👨🏿‍🦽‍➡">čovjek | čovjek u mehaničkim kolicima | kolica | pristupačnost</annotation>
-		<annotation cp="👨🏿‍🦽‍➡" type="tts">čovjek u mehaničkim kolicima gleda udesno</annotation>
+		<annotation cp="👨‍🦽‍➡">čovjek | čovjek u mehaničkim kolicima | gleda | kolica | pristupačnost | udesno</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">čovjek u mehaničkim kolicima: gleda udesno</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">čovjek | čovjek u mehaničkim kolicima | gleda | kolica | pristupačnost | svijetla koža | udesno</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">čovjek u mehaničkim kolicima: svijetla koža i gleda udesno</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">čovjek | čovjek u mehaničkim kolicima | gleda | kolica | pristupačnost | srednje svijetla koža | udesno</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">čovjek u mehaničkim kolicima: srednje svijetla koža i gleda udesno</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">čovjek | čovjek u mehaničkim kolicima | gleda | kolica | ni svijetla ni tamna koža | pristupačnost | udesno</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">čovjek u mehaničkim kolicima: ni svijetla ni tamna koža i gleda udesno</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">čovjek | čovjek u mehaničkim kolicima | gleda | kolica | pristupačnost | srednje tamna koža | udesno</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">čovjek u mehaničkim kolicima: srednje tamna koža i gleda udesno</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">čovjek | čovjek u mehaničkim kolicima | gleda | kolica | pristupačnost | tamna koža | udesno</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">čovjek u mehaničkim kolicima: tamna koža i gleda udesno</annotation>
 		<annotation cp="👩🏻‍🦽">kolica | pristupačnost | svijetla koža | žena | žena u mehaničkim kolicima</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">žena u mehaničkim kolicima: svijetla koža</annotation>
 		<annotation cp="👩🏼‍🦽">kolica | pristupačnost | srednje svijetla koža | žena | žena u mehaničkim kolicima</annotation>
@@ -2174,12 +2451,15 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏽‍🦽" type="tts">žena u mehaničkim kolicima: ni svijetla ni tamna koža</annotation>
 		<annotation cp="👩🏾‍🦽">kolica | pristupačnost | srednje tamna koža | žena | žena u mehaničkim kolicima</annotation>
 		<annotation cp="👩🏿‍🦽">kolica | pristupačnost | tamna koža | žena | žena u mehaničkim kolicima</annotation>
-		<annotation cp="👩‍🦽‍➡">kolica | pristupačnost | žena | žena u mehaničkim kolicima</annotation>
-		<annotation cp="👩🏻‍🦽‍➡">kolica | pristupačnost | žena | žena u mehaničkim kolicima</annotation>
-		<annotation cp="👩🏼‍🦽‍➡">kolica | pristupačnost | žena | žena u mehaničkim kolicima</annotation>
-		<annotation cp="👩🏽‍🦽‍➡">kolica | pristupačnost | žena | žena u mehaničkim kolicima</annotation>
-		<annotation cp="👩🏾‍🦽‍➡">kolica | pristupačnost | žena | žena u mehaničkim kolicima</annotation>
-		<annotation cp="👩🏿‍🦽‍➡">kolica | pristupačnost | žena | žena u mehaničkim kolicima</annotation>
+		<annotation cp="👩‍🦽‍➡">gleda | kolica | pristupačnost | udesno | žena | žena u mehaničkim kolicima</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">gleda | kolica | pristupačnost | svijetla koža | udesno | žena | žena u mehaničkim kolicima</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">žena u mehaničkim kolicima: svijetla koža i gleda udesno</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">gleda | kolica | pristupačnost | srednje svijetla koža | udesno | žena | žena u mehaničkim kolicima</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">žena u mehaničkim kolicima: srednje svijetla koža i gleda udesno</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">gleda | kolica | ni svijetla ni tamna koža | pristupačnost | udesno | žena | žena u mehaničkim kolicima</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">žena u mehaničkim kolicima: ni svijetla ni tamna koža i gleda udesno</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">gleda | kolica | pristupačnost | srednje tamna koža | udesno | žena | žena u mehaničkim kolicima</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">gleda | kolica | pristupačnost | tamna koža | udesno | žena | žena u mehaničkim kolicima</annotation>
 		<annotation cp="🏃🏻">brzina | brzo | dolazak | hitro | jurnjava | kretanje | maraton | osoba | svijetla koža | trčanje | trka | trkač | žurba</annotation>
 		<annotation cp="🏃🏻" type="tts">trkač: svijetla koža</annotation>
 		<annotation cp="🏃🏼">brzina | brzo | dolazak | hitro | jurnjava | kretanje | maraton | osoba | srednje svijetla koža | trčanje | trka | trkač | žurba</annotation>
@@ -2198,6 +2478,24 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🏃🏼‍♀" type="tts">žena trči: srednje svijetla koža</annotation>
 		<annotation cp="🏃🏽‍♀">maraton | ni svijetla ni tamna koža | trčanje | trka | žena | žurba</annotation>
 		<annotation cp="🏃🏽‍♀" type="tts">žena trči: ni svijetla ni tamna koža</annotation>
+		<annotation cp="🏃🏻‍➡">brzina | brzo | dolazak | gleda | hitro | jurnjava | kretanje | maraton | osoba | svijetla koža | trčanje | trka | trkač | udesno | žurba</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">trkač: svijetla koža i gleda udesno</annotation>
+		<annotation cp="🏃🏼‍➡">brzina | brzo | dolazak | gleda | hitro | jurnjava | kretanje | maraton | osoba | srednje svijetla koža | trčanje | trka | trkač | udesno | žurba</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">trkač: srednje svijetla koža i gleda udesno</annotation>
+		<annotation cp="🏃🏽‍➡">brzina | brzo | dolazak | gleda | hitro | jurnjava | kretanje | maraton | ni svijetla ni tamna koža | osoba | trčanje | trka | trkač | udesno | žurba</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">trkač: ni svijetla ni tamna koža i gleda udesno</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">gleda | maraton | svijetla koža | trčanje | trka | udesno | žena | žurba</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">žena trči: svijetla koža i gleda udesno</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">gleda | maraton | srednje svijetla koža | trčanje | trka | udesno | žena | žurba</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">žena trči: srednje svijetla koža i gleda udesno</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">gleda | maraton | ni svijetla ni tamna koža | trčanje | trka | udesno | žena | žurba</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">žena trči: ni svijetla ni tamna koža i gleda udesno</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">gleda | maraton | muškarac | muškarac trči | svijetla koža | trčanje | trka | udesno</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">muškarac trči: svijetla koža i gleda udesno</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">gleda | maraton | muškarac | muškarac trči | srednje svijetla koža | trčanje | trka | udesno</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">muškarac trči: srednje svijetla koža i gleda udesno</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">gleda | maraton | muškarac | muškarac trči | ni svijetla ni tamna koža | trčanje | trka | udesno</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">muškarac trči: ni svijetla ni tamna koža i gleda udesno</annotation>
 		<annotation cp="💃🏻">elegantno | flamenko | ples | plesačica | plesanje | salsa | svijetla koža | tango | žena</annotation>
 		<annotation cp="💃🏻" type="tts">plesačica: svijetla koža</annotation>
 		<annotation cp="💃🏼">elegantno | flamenko | ples | plesačica | plesanje | salsa | srednje svijetla koža | tango | žena</annotation>
@@ -2222,6 +2520,26 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🕴🏾" type="tts">muškarac u poslovnom odijelu koji lebdi: srednje tamna koža</annotation>
 		<annotation cp="🕴🏿">muškarac u poslovnom odijelu koji lebdi | odijelo | osoba | osoba u poslovnom odijelu koja lebdi | posao | tamna koža</annotation>
 		<annotation cp="🕴🏿" type="tts">muškarac u poslovnom odijelu koji lebdi: tamna koža</annotation>
+		<annotation cp="👯🏻">osobe sa zečjim ušima | osobe u provodu | plesačica | svijetla koža | zečje uši</annotation>
+		<annotation cp="👯🏻" type="tts">osobe u provodu: svijetla koža</annotation>
+		<annotation cp="👯🏼">osobe sa zečjim ušima | osobe u provodu | plesačica | srednje svijetla koža | zečje uši</annotation>
+		<annotation cp="👯🏼" type="tts">osobe u provodu: srednje svijetla koža</annotation>
+		<annotation cp="👯🏽">ni svijetla ni tamna koža | osobe sa zečjim ušima | osobe u provodu | plesačica | zečje uši</annotation>
+		<annotation cp="👯🏽" type="tts">osobe u provodu: ni svijetla ni tamna koža</annotation>
+		<annotation cp="👯🏾">osobe sa zečjim ušima | osobe u provodu | plesačica | srednje tamna koža | zečje uši</annotation>
+		<annotation cp="👯🏿">osobe sa zečjim ušima | osobe u provodu | plesačica | tamna koža | zečje uši</annotation>
+		<annotation cp="👯🏻‍♀">provod | svijetla koža | zečice | žene | žene u provodu | žurka</annotation>
+		<annotation cp="👯🏻‍♀" type="tts">žene u provodu: svijetla koža</annotation>
+		<annotation cp="👯🏼‍♀">provod | srednje svijetla koža | zečice | žene | žene u provodu | žurka</annotation>
+		<annotation cp="👯🏼‍♀" type="tts">žene u provodu: srednje svijetla koža</annotation>
+		<annotation cp="👯🏽‍♀">ni svijetla ni tamna koža | provod | zečice | žene | žene u provodu | žurka</annotation>
+		<annotation cp="👯🏽‍♀" type="tts">žene u provodu: ni svijetla ni tamna koža</annotation>
+		<annotation cp="👯🏻‍♂">bff | blizanac | blizanci | identično | ljudi | par | plesač | svijetla koža | uho | zec | žurka</annotation>
+		<annotation cp="👯🏻‍♂" type="tts">muškarci u provodu: svijetla koža</annotation>
+		<annotation cp="👯🏼‍♂">bff | blizanac | blizanci | identično | ljudi | par | plesač | srednje svijetla koža | uho | zec | žurka</annotation>
+		<annotation cp="👯🏼‍♂" type="tts">muškarci u provodu: srednje svijetla koža</annotation>
+		<annotation cp="👯🏽‍♂">bff | blizanac | blizanci | identično | ljudi | ni svijetla ni tamna koža | par | plesač | uho | zec | žurka</annotation>
+		<annotation cp="👯🏽‍♂" type="tts">muškarci u provodu: ni svijetla ni tamna koža</annotation>
 		<annotation cp="🧖🏻">banja | dan | luksuzno | opuštanje | osoba | para | sauna | soba | spa | svijetla koža | zadovoljstvo</annotation>
 		<annotation cp="🧖🏻" type="tts">osoba u parnom kupatilu: svijetla koža</annotation>
 		<annotation cp="🧖🏼">banja | dan | luksuzno | opuštanje | osoba | para | sauna | soba | spa | srednje svijetla koža | zadovoljstvo</annotation>
@@ -2442,6 +2760,26 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤸🏽‍♀" type="tts">gimnastičarka: ni svijetla ni tamna koža</annotation>
 		<annotation cp="🤸🏾‍♀">akrobata | gimnastičarka | gimnastika | srednje tamna koža | žena | zvijezda</annotation>
 		<annotation cp="🤸🏿‍♀">akrobata | gimnastičarka | gimnastika | tamna koža | žena | zvijezda</annotation>
+		<annotation cp="🤼🏻">rvač | rvači | rvanje | svijetla koža</annotation>
+		<annotation cp="🤼🏻" type="tts">rvanje: svijetla koža</annotation>
+		<annotation cp="🤼🏼">rvač | rvači | rvanje | srednje svijetla koža</annotation>
+		<annotation cp="🤼🏼" type="tts">rvanje: srednje svijetla koža</annotation>
+		<annotation cp="🤼🏽">ni svijetla ni tamna koža | rvač | rvači | rvanje</annotation>
+		<annotation cp="🤼🏽" type="tts">rvanje: ni svijetla ni tamna koža</annotation>
+		<annotation cp="🤼🏾">rvač | rvači | rvanje | srednje tamna koža</annotation>
+		<annotation cp="🤼🏿">rvač | rvači | rvanje | tamna koža</annotation>
+		<annotation cp="🤼🏻‍♀">borba | duel | dvoboj | ring | rvanje | sport | svijetla koža | turnir | žene</annotation>
+		<annotation cp="🤼🏻‍♀" type="tts">rvačice: svijetla koža</annotation>
+		<annotation cp="🤼🏼‍♀">borba | duel | dvoboj | ring | rvanje | sport | srednje svijetla koža | turnir | žene</annotation>
+		<annotation cp="🤼🏼‍♀" type="tts">rvačice: srednje svijetla koža</annotation>
+		<annotation cp="🤼🏽‍♀">borba | duel | dvoboj | ni svijetla ni tamna koža | ring | rvanje | sport | turnir | žene</annotation>
+		<annotation cp="🤼🏽‍♀" type="tts">rvačice: ni svijetla ni tamna koža</annotation>
+		<annotation cp="🤼🏻‍♂">borba | duel | dvoboj | muškarci | ring | rvanje | sport | svijetla koža | turnir</annotation>
+		<annotation cp="🤼🏻‍♂" type="tts">rvači: svijetla koža</annotation>
+		<annotation cp="🤼🏼‍♂">borba | duel | dvoboj | muškarci | ring | rvanje | sport | srednje svijetla koža | turnir</annotation>
+		<annotation cp="🤼🏼‍♂" type="tts">rvači: srednje svijetla koža</annotation>
+		<annotation cp="🤼🏽‍♂">borba | duel | dvoboj | muškarci | ni svijetla ni tamna koža | ring | rvanje | sport | turnir</annotation>
+		<annotation cp="🤼🏽‍♂" type="tts">rvači: ni svijetla ni tamna koža</annotation>
 		<annotation cp="🤽🏻">osoba | plivanje | polo | sport | svijetla koža | vaterpolista | vaterpolo | voda</annotation>
 		<annotation cp="🤽🏻" type="tts">vaterpolo: svijetla koža</annotation>
 		<annotation cp="🤽🏼">osoba | plivanje | polo | sport | srednje svijetla koža | vaterpolista | vaterpolo | voda</annotation>

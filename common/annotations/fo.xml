@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -289,20 +289,6 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="♭" type="tts">forteknið b</annotation>
 		<annotation cp="♯">hassjtagg | tvíkrossmerki | tvíkrosstekn | tvíkrossur</annotation>
 		<annotation cp="♯" type="tts">tvíkrossur</annotation>
-		<annotation cp="🪉">Amor | harpa | ljóðføri | tónleikur</annotation>
-		<annotation cp="🪉" type="tts">harpa</annotation>
-		<annotation cp="🪏">amboð | grava | hol | spaki</annotation>
-		<annotation cp="🪏" type="tts">spaki</annotation>
-		<annotation cp="🪾">blaðleyst | træ | vetur</annotation>
-		<annotation cp="🪾" type="tts">blaðleyst træ</annotation>
-		<annotation cp="🫆">fingramerki | samleiki</annotation>
-		<annotation cp="🫆" type="tts">fingramerki</annotation>
-		<annotation cp="🫜">grønmeti | hvítarót | matur | rót | rótfrukt</annotation>
-		<annotation cp="🫜" type="tts">rótfrukt</annotation>
-		<annotation cp="🫟">máling | sletta | sprutt | sprutta | stoyta</annotation>
-		<annotation cp="🫟" type="tts">sprutt</annotation>
-		<annotation cp="🫩">andlit við posum undir eygunum | móð | móður | sovna | troytt | troytt andlit | troyttur</annotation>
-		<annotation cp="🫩" type="tts">andlit við posum undir eygunum</annotation>
 		<annotation cp="😀">andlit | grín | grínandi andlit</annotation>
 		<annotation cp="😀" type="tts">grínandi andlit</annotation>
 		<annotation cp="😃">andlit | eygu | grín | grínandi andlit við stórum eygum | munnur | opin | stór</annotation>
@@ -417,6 +403,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🤤" type="tts">slevandi andlit</annotation>
 		<annotation cp="😴">andlit | sovandi | zzz</annotation>
 		<annotation cp="😴" type="tts">sovandi andlit</annotation>
+		<annotation cp="🫩">andlit við posum undir eygunum | móð | móður | sovna | troytt | troytt andlit | troyttur</annotation>
+		<annotation cp="🫩" type="tts">andlit við posum undir eygunum</annotation>
 		<annotation cp="😷">andlit | andlit við masku | maska | sjúk</annotation>
 		<annotation cp="😷" type="tts">andlit við masku</annotation>
 		<annotation cp="🤒">andlit | andlit við fepurstokkið | fepurstokkur | sjúk</annotation>
@@ -1287,6 +1275,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧑‍🧒‍🧒" type="tts">familja: vaksin, barn, barn</annotation>
 		<annotation cp="👣">fótaspor | føtur | il | slóð | spor</annotation>
 		<annotation cp="👣" type="tts">fótaspor</annotation>
+		<annotation cp="🫆">fingramerki | samleiki</annotation>
+		<annotation cp="🫆" type="tts">fingramerki</annotation>
 		<annotation cp="🦰">hár | reyðhærdur | reytt hár</annotation>
 		<annotation cp="🦰" type="tts">reytt hár</annotation>
 		<annotation cp="🦱">afro | hár | krúllut | purlut</annotation>
@@ -1513,6 +1503,16 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🪸" type="tts">korallur</annotation>
 		<annotation cp="🪼">dýr | hav | hvalspýggja | ryggleysur</annotation>
 		<annotation cp="🪼" type="tts">hvalspýggja</annotation>
+		<annotation cp="🦀">dýr | havføði | krabbi | sjógæti | stjørnumerki</annotation>
+		<annotation cp="🦀" type="tts">krabbi</annotation>
+		<annotation cp="🦞">dýr | havføði | hummari | sjógæti</annotation>
+		<annotation cp="🦞" type="tts">hummari</annotation>
+		<annotation cp="🦐">dýr | havføði | matur | rækja | sjógæti</annotation>
+		<annotation cp="🦐" type="tts">rækja</annotation>
+		<annotation cp="🦑">dýr | høgguslokkur | høgguslokkur við tíggju ørmum | matur | tíggjuarmaður | tíggjuermdur</annotation>
+		<annotation cp="🦑" type="tts">høgguslokkur</annotation>
+		<annotation cp="🦪">dýr | ostra | perla</annotation>
+		<annotation cp="🦪" type="tts">ostra</annotation>
 		<annotation cp="🐌">snigil</annotation>
 		<annotation cp="🐌" type="tts">snigil</annotation>
 		<annotation cp="🦋">firvaldur | skordýr | summarfuglur</annotation>
@@ -1601,6 +1601,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🪺" type="tts">reiður við eggum</annotation>
 		<annotation cp="🍄">hundaland | soppur</annotation>
 		<annotation cp="🍄" type="tts">soppur</annotation>
+		<annotation cp="🪾">blaðleyst | træ | vetur</annotation>
+		<annotation cp="🪾" type="tts">blaðleyst træ</annotation>
 		<annotation cp="🍇">frukt | víndrúva | víndrúvur</annotation>
 		<annotation cp="🍇" type="tts">víndrúvur</annotation>
 		<annotation cp="🍈">frukt | melón</annotation>
@@ -1677,6 +1679,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🫛" type="tts">ertnabjølg</annotation>
 		<annotation cp="🍄‍🟫">brúnur soppur | champignon | hundaland | matur | sjampinjon | soppur</annotation>
 		<annotation cp="🍄‍🟫" type="tts">brúnur soppur</annotation>
+		<annotation cp="🫜">grønmeti | hvítarót | matur | rót | rótfrukt</annotation>
+		<annotation cp="🫜" type="tts">rótfrukt</annotation>
 		<annotation cp="🍞">breyð | matur</annotation>
 		<annotation cp="🍞" type="tts">breyð</annotation>
 		<annotation cp="🥐">croissant | franskbreyðshorn | horn | matur</annotation>
@@ -1779,16 +1783,6 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🥠" type="tts">eydnukaka</annotation>
 		<annotation cp="🥡">boks | matur | tak við heim boks | takeaway | takeout</annotation>
 		<annotation cp="🥡" type="tts">tak við heim boks</annotation>
-		<annotation cp="🦀">dýr | havføði | krabbi | sjógæti | stjørnumerki</annotation>
-		<annotation cp="🦀" type="tts">krabbi</annotation>
-		<annotation cp="🦞">dýr | havføði | hummari | sjógæti</annotation>
-		<annotation cp="🦞" type="tts">hummari</annotation>
-		<annotation cp="🦐">dýr | havføði | matur | rækja | sjógæti</annotation>
-		<annotation cp="🦐" type="tts">rækja</annotation>
-		<annotation cp="🦑">dýr | høgguslokkur | høgguslokkur við tíggju ørmum | matur | tíggjuarmaður | tíggjuermdur</annotation>
-		<annotation cp="🦑" type="tts">høgguslokkur</annotation>
-		<annotation cp="🦪">dýr | ostra | perla</annotation>
-		<annotation cp="🦪" type="tts">ostra</annotation>
 		<annotation cp="🍦">ísur | kramarhús | kramarhúsísur | matur</annotation>
 		<annotation cp="🍦" type="tts">kramarhúsísur</annotation>
 		<annotation cp="🍧">dessert | ísur | ísur í skál | matur | skál</annotation>
@@ -2609,14 +2603,14 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="📻" type="tts">útvarp</annotation>
 		<annotation cp="🎷">ljóðføri | saksofon | tónleikur</annotation>
 		<annotation cp="🎷" type="tts">saksofon</annotation>
+		<annotation cp="🎺">ljóðføri | tónleikur | trompet</annotation>
+		<annotation cp="🎺" type="tts">trompet</annotation>
 		<annotation cp="🪗">dans | dansur | harmonika | ljóðføri | tónleikur</annotation>
 		<annotation cp="🪗" type="tts">harmonika</annotation>
 		<annotation cp="🎸">gittari | ljóðføri | tónleikur</annotation>
 		<annotation cp="🎸" type="tts">gittari</annotation>
 		<annotation cp="🎹">keyboard | ljóðføri | ljómborð | tónleikur</annotation>
 		<annotation cp="🎹" type="tts">ljómborð</annotation>
-		<annotation cp="🎺">ljóðføri | tónleikur | trompet</annotation>
-		<annotation cp="🎺" type="tts">trompet</annotation>
 		<annotation cp="🎻">ljóðføri | tónleikur | violin</annotation>
 		<annotation cp="🎻" type="tts">violin</annotation>
 		<annotation cp="🪕">banjo | ljóðføri | tónleikur</annotation>
@@ -2629,6 +2623,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🪇" type="tts">marakas</annotation>
 		<annotation cp="🪈">floyta | ljóðføri | tónleikur</annotation>
 		<annotation cp="🪈" type="tts">floyta</annotation>
+		<annotation cp="🪉">Amor | harpa | ljóðføri | tónleikur</annotation>
+		<annotation cp="🪉" type="tts">harpa</annotation>
 		<annotation cp="📱">fartelefon | telefon</annotation>
 		<annotation cp="📱" type="tts">fartelefon</annotation>
 		<annotation cp="📲">fartelefon | fartelefon við píli | kall | uppkall | uppringing</annotation>
@@ -2735,10 +2731,10 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🔖" type="tts">bókamerki</annotation>
 		<annotation cp="🏷">merkiseðil | navnaseðil | seðil | spjaldur</annotation>
 		<annotation cp="🏷" type="tts">merkiseðil</annotation>
-		<annotation cp="💰">dollarar | dollari | pengar | pengasekkur | peningasekkur | peningur | sekkur</annotation>
-		<annotation cp="💰" type="tts">pengasekkur</annotation>
 		<annotation cp="🪙">gull | myntur | pengar | pengi | skattur</annotation>
 		<annotation cp="🪙" type="tts">myntur</annotation>
+		<annotation cp="💰">dollarar | dollari | pengar | pengasekkur | peningasekkur | peningur | sekkur</annotation>
+		<annotation cp="💰" type="tts">pengasekkur</annotation>
 		<annotation cp="💴">gjaldoyra | jenn | jennur | pengaseðil | seðil</annotation>
 		<annotation cp="💴" type="tts">jenn pengaseðil</annotation>
 		<annotation cp="💵">dollarar | dollari | gjaldoyra | pengaseðil | seðil</annotation>
@@ -2905,6 +2901,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="🧲" type="tts">magnet</annotation>
 		<annotation cp="🪜">klatra | stig | stigi | upp</annotation>
 		<annotation cp="🪜" type="tts">stigi</annotation>
+		<annotation cp="🪏">amboð | grava | hol | spaki</annotation>
+		<annotation cp="🪏" type="tts">spaki</annotation>
 		<annotation cp="⚗">amboð | dropadríva | evnafrøði | kemi</annotation>
 		<annotation cp="⚗" type="tts">dropadríva</annotation>
 		<annotation cp="🧪">evnafrøði | náttúruvísind | roynd | royndarglas</annotation>
@@ -3275,6 +3273,8 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="®" type="tts">skrásett</annotation>
 		<annotation cp="™">fyritøkumerki | fyritøkurættindi | virkismerki | virkisrættindi | vøruheiti | vørumerki</annotation>
 		<annotation cp="™" type="tts">virkisrættindi</annotation>
+		<annotation cp="🫟">máling | sletta | sprutt | sprutta | stoyta</annotation>
+		<annotation cp="🫟" type="tts">sprutt</annotation>
 		<annotation cp="🔠">ABCD | stórir bókstavir</annotation>
 		<annotation cp="🔠" type="tts">stórir bókstavir</annotation>
 		<annotation cp="🔡">abcd | smáir bókstavir</annotation>
@@ -3473,6 +3473,26 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 		<annotation cp="₽" type="tts">rubil</annotation>
 		<annotation cp="₿">bitcoin | gjaldoyra</annotation>
 		<annotation cp="₿" type="tts">bitcoin</annotation>
+		<annotation cp="0⃣">0 | Knappahetta | null</annotation>
+		<annotation cp="0⃣" type="tts">Knappahetta: 0</annotation>
+		<annotation cp="1⃣">1 | ein | Knappahetta</annotation>
+		<annotation cp="1⃣" type="tts">Knappahetta: 1</annotation>
+		<annotation cp="2⃣">2 | Knappahetta | tveir</annotation>
+		<annotation cp="2⃣" type="tts">Knappahetta: 2</annotation>
+		<annotation cp="3⃣">3 | Knappahetta | tríggir</annotation>
+		<annotation cp="3⃣" type="tts">Knappahetta: 3</annotation>
+		<annotation cp="4⃣">4 | fýre | Knappahetta</annotation>
+		<annotation cp="4⃣" type="tts">Knappahetta: 4</annotation>
+		<annotation cp="5⃣">5 | fimm | Knappahetta</annotation>
+		<annotation cp="5⃣" type="tts">Knappahetta: 5</annotation>
+		<annotation cp="6⃣">6 | Knappahetta | seks</annotation>
+		<annotation cp="6⃣" type="tts">Knappahetta: 6</annotation>
+		<annotation cp="7⃣">7 | Knappahetta | sjey</annotation>
+		<annotation cp="7⃣" type="tts">Knappahetta: 7</annotation>
+		<annotation cp="8⃣">8 | átta | Knappahetta</annotation>
+		<annotation cp="8⃣" type="tts">Knappahetta: 8</annotation>
+		<annotation cp="9⃣">9 | Knappahetta | níggju</annotation>
+		<annotation cp="9⃣" type="tts">Knappahetta: 9</annotation>
 		<annotation cp="¹">eitt | háskrift</annotation>
 		<annotation cp="¹" type="tts">háskrift eitt</annotation>
 		<annotation cp="²">ferningur | háskrift | kvadrat | tvey</annotation>

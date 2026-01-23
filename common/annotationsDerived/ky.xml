@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -603,6 +603,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾" type="tts">сары чачтуу киши: кара тору</annotation>
 		<annotation cp="👱🏿">кара | сары чач | сары чачтуу киши</annotation>
 		<annotation cp="👱🏿" type="tts">сары чачтуу киши: кара</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼">адам | акжуумал | буудай жүздүү | күрөш | күрөшчүлөр | спорт</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼" type="tts">күрөшчүлөр: акжуумал, буудай жүздүү</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽">адам | акжуумал | күрөш | күрөшчүлөр | орточо | спорт</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽" type="tts">күрөшчүлөр: акжуумал, орточо</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾">адам | акжуумал | кара тору | күрөш | күрөшчүлөр | спорт</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾" type="tts">күрөшчүлөр: акжуумал, кара тору</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿">адам | акжуумал | кара | күрөш | күрөшчүлөр | спорт</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿" type="tts">күрөшчүлөр: акжуумал, кара</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻">адам | акжуумал | буудай жүздүү | күрөш | күрөшчүлөр | спорт</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻" type="tts">күрөшчүлөр: буудай жүздүү, акжуумал</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽">адам | буудай жүздүү | күрөш | күрөшчүлөр | орточо | спорт</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽" type="tts">күрөшчүлөр: буудай жүздүү, орточо</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾">адам | буудай жүздүү | кара тору | күрөш | күрөшчүлөр | спорт</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾" type="tts">күрөшчүлөр: буудай жүздүү, кара тору</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿">адам | буудай жүздүү | кара | күрөш | күрөшчүлөр | спорт</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿" type="tts">күрөшчүлөр: буудай жүздүү, кара</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻">адам | акжуумал | күрөш | күрөшчүлөр | орточо | спорт</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻" type="tts">күрөшчүлөр: орточо, акжуумал</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼">адам | буудай жүздүү | күрөш | күрөшчүлөр | орточо | спорт</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼" type="tts">күрөшчүлөр: орточо, буудай жүздүү</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾">адам | кара тору | күрөш | күрөшчүлөр | орточо | спорт</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾" type="tts">күрөшчүлөр: орточо, кара тору</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿">адам | кара | күрөш | күрөшчүлөр | орточо | спорт</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿" type="tts">күрөшчүлөр: орточо, кара</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻">адам | акжуумал | кара тору | күрөш | күрөшчүлөр | спорт</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻" type="tts">күрөшчүлөр: кара тору, акжуумал</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼">адам | буудай жүздүү | кара тору | күрөш | күрөшчүлөр | спорт</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼" type="tts">күрөшчүлөр: кара тору, буудай жүздүү</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽">адам | кара тору | күрөш | күрөшчүлөр | орточо | спорт</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽" type="tts">күрөшчүлөр: кара тору, орточо</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿">адам | кара | кара тору | күрөш | күрөшчүлөр | спорт</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿" type="tts">күрөшчүлөр: кара тору, кара</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻">адам | акжуумал | кара | күрөш | күрөшчүлөр | спорт</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻" type="tts">күрөшчүлөр: кара, акжуумал</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼">адам | буудай жүздүү | кара | күрөш | күрөшчүлөр | спорт</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼" type="tts">күрөшчүлөр: кара, буудай жүздүү</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽">адам | кара | күрөш | күрөшчүлөр | орточо | спорт</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽" type="tts">күрөшчүлөр: кара, орточо</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾">адам | кара | кара тору | күрөш | күрөшчүлөр | спорт</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾" type="tts">күрөшчүлөр: кара, кара тору</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼">адам | акжуумал | буудай жүздүү | өбүшүү | романтика | түгөйлөр</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼" type="tts">өбүшүү: адам, адам, акжуумал, буудай жүздүү</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏽">адам | акжуумал | орточо | өбүшүү | романтика | түгөйлөр</annotation>
@@ -731,6 +771,56 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦲" type="tts">адам: кара тору, тас</annotation>
 		<annotation cp="🧑🏿‍🦲">адам | жынысы белгисиз | кара | тас</annotation>
 		<annotation cp="🧑🏿‍🦲" type="tts">адам: кара, тас</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼">акжуумал | бийчи | буудай жүздүү | коёнек | кулак | кыз | кыз-келиндер кечеси</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼" type="tts">кыз-келиндер кечеси: акжуумал, буудай жүздүү</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽">акжуумал | бийчи | коёнек | кулак | кыз | кыз-келиндер кечеси | орточо</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽" type="tts">кыз-келиндер кечеси: акжуумал, орточо</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾">акжуумал | бийчи | кара тору | коёнек | кулак | кыз | кыз-келиндер кечеси</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾" type="tts">кыз-келиндер кечеси: акжуумал, кара тору</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿">акжуумал | бийчи | кара | коёнек | кулак | кыз | кыз-келиндер кечеси</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿" type="tts">кыз-келиндер кечеси: акжуумал, кара</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻">акжуумал | бийчи | буудай жүздүү | коёнек | кулак | кыз | кыз-келиндер кечеси</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻" type="tts">кыз-келиндер кечеси: буудай жүздүү, акжуумал</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽">бийчи | буудай жүздүү | коёнек | кулак | кыз | кыз-келиндер кечеси | орточо</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽" type="tts">кыз-келиндер кечеси: буудай жүздүү, орточо</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾">бийчи | буудай жүздүү | кара тору | коёнек | кулак | кыз | кыз-келиндер кечеси</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾" type="tts">кыз-келиндер кечеси: буудай жүздүү, кара тору</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿">бийчи | буудай жүздүү | кара | коёнек | кулак | кыз | кыз-келиндер кечеси</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿" type="tts">кыз-келиндер кечеси: буудай жүздүү, кара</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻">акжуумал | бийчи | коёнек | кулак | кыз | кыз-келиндер кечеси | орточо</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻" type="tts">кыз-келиндер кечеси: орточо, акжуумал</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼">бийчи | буудай жүздүү | коёнек | кулак | кыз | кыз-келиндер кечеси | орточо</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼" type="tts">кыз-келиндер кечеси: орточо, буудай жүздүү</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾">бийчи | кара тору | коёнек | кулак | кыз | кыз-келиндер кечеси | орточо</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾" type="tts">кыз-келиндер кечеси: орточо, кара тору</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿">бийчи | кара | коёнек | кулак | кыз | кыз-келиндер кечеси | орточо</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿" type="tts">кыз-келиндер кечеси: орточо, кара</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻">акжуумал | бийчи | кара тору | коёнек | кулак | кыз | кыз-келиндер кечеси</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻" type="tts">кыз-келиндер кечеси: кара тору, акжуумал</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼">бийчи | буудай жүздүү | кара тору | коёнек | кулак | кыз | кыз-келиндер кечеси</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼" type="tts">кыз-келиндер кечеси: кара тору, буудай жүздүү</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽">бийчи | кара тору | коёнек | кулак | кыз | кыз-келиндер кечеси | орточо</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽" type="tts">кыз-келиндер кечеси: кара тору, орточо</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿">бийчи | кара | кара тору | коёнек | кулак | кыз | кыз-келиндер кечеси</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿" type="tts">кыз-келиндер кечеси: кара тору, кара</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻">акжуумал | бийчи | кара | коёнек | кулак | кыз | кыз-келиндер кечеси</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻" type="tts">кыз-келиндер кечеси: кара, акжуумал</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼">бийчи | буудай жүздүү | кара | коёнек | кулак | кыз | кыз-келиндер кечеси</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼" type="tts">кыз-келиндер кечеси: кара, буудай жүздүү</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽">бийчи | кара | коёнек | кулак | кыз | кыз-келиндер кечеси | орточо</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽" type="tts">кыз-келиндер кечеси: кара, орточо</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾">бийчи | кара | кара тору | коёнек | кулак | кыз | кыз-келиндер кечеси</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾" type="tts">кыз-келиндер кечеси: кара, кара тору</annotation>
+		<annotation cp="🧑🏻‍🩰">акжуумал | балет бийчиси | бийчи</annotation>
+		<annotation cp="🧑🏻‍🩰" type="tts">балет бийчиси: акжуумал</annotation>
+		<annotation cp="🧑🏼‍🩰">балет бийчиси | бийчи | буудай жүздүү</annotation>
+		<annotation cp="🧑🏼‍🩰" type="tts">балет бийчиси: буудай жүздүү</annotation>
+		<annotation cp="🧑🏽‍🩰">балет бийчиси | бийчи | орточо</annotation>
+		<annotation cp="🧑🏽‍🩰" type="tts">балет бийчиси: орточо</annotation>
+		<annotation cp="🧑🏾‍🩰">балет бийчиси | бийчи | кара тору</annotation>
+		<annotation cp="🧑🏾‍🩰" type="tts">балет бийчиси: кара тору</annotation>
+		<annotation cp="🧑🏿‍🩰">балет бийчиси | бийчи | кара</annotation>
+		<annotation cp="🧑🏿‍🩰" type="tts">балет бийчиси: кара</annotation>
 		<annotation cp="👨🏻">акжуумал | киши | эркек</annotation>
 		<annotation cp="👨🏻" type="tts">эркек: акжуумал</annotation>
 		<annotation cp="👨🏼">буудай жүздүү | киши | эркек</annotation>
@@ -771,6 +861,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♂" type="tts">сары чачтуу эркек: кара тору</annotation>
 		<annotation cp="👱🏿‍♂">кара | сары чач | сары чачтуу эркек | эркек</annotation>
 		<annotation cp="👱🏿‍♂" type="tts">сары чачтуу эркек: кара</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼">акжуумал | буудай жүздүү | күрөш | күрөшүп жаткан эркек | эркектер</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼" type="tts">күрөшүп жаткан эркек: акжуумал, буудай жүздүү</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽">акжуумал | күрөш | күрөшүп жаткан эркек | орточо | эркектер</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽" type="tts">күрөшүп жаткан эркек: акжуумал, орточо</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾">акжуумал | кара тору | күрөш | күрөшүп жаткан эркек | эркектер</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾" type="tts">күрөшүп жаткан эркек: акжуумал, кара тору</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿">акжуумал | кара | күрөш | күрөшүп жаткан эркек | эркектер</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿" type="tts">күрөшүп жаткан эркек: акжуумал, кара</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻">акжуумал | буудай жүздүү | күрөш | күрөшүп жаткан эркек | эркектер</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻" type="tts">күрөшүп жаткан эркек: буудай жүздүү, акжуумал</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽">буудай жүздүү | күрөш | күрөшүп жаткан эркек | орточо | эркектер</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽" type="tts">күрөшүп жаткан эркек: буудай жүздүү, орточо</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾">буудай жүздүү | кара тору | күрөш | күрөшүп жаткан эркек | эркектер</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾" type="tts">күрөшүп жаткан эркек: буудай жүздүү, кара тору</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿">буудай жүздүү | кара | күрөш | күрөшүп жаткан эркек | эркектер</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿" type="tts">күрөшүп жаткан эркек: буудай жүздүү, кара</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻">акжуумал | күрөш | күрөшүп жаткан эркек | орточо | эркектер</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻" type="tts">күрөшүп жаткан эркек: орточо, акжуумал</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼">буудай жүздүү | күрөш | күрөшүп жаткан эркек | орточо | эркектер</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼" type="tts">күрөшүп жаткан эркек: орточо, буудай жүздүү</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾">кара тору | күрөш | күрөшүп жаткан эркек | орточо | эркектер</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾" type="tts">күрөшүп жаткан эркек: орточо, кара тору</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿">кара | күрөш | күрөшүп жаткан эркек | орточо | эркектер</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿" type="tts">күрөшүп жаткан эркек: орточо, кара</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻">акжуумал | кара тору | күрөш | күрөшүп жаткан эркек | эркектер</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻" type="tts">күрөшүп жаткан эркек: кара тору, акжуумал</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼">буудай жүздүү | кара тору | күрөш | күрөшүп жаткан эркек | эркектер</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼" type="tts">күрөшүп жаткан эркек: кара тору, буудай жүздүү</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽">кара тору | күрөш | күрөшүп жаткан эркек | орточо | эркектер</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽" type="tts">күрөшүп жаткан эркек: кара тору, орточо</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿">кара | кара тору | күрөш | күрөшүп жаткан эркек | эркектер</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿" type="tts">күрөшүп жаткан эркек: кара тору, кара</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻">акжуумал | кара | күрөш | күрөшүп жаткан эркек | эркектер</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻" type="tts">күрөшүп жаткан эркек: кара, акжуумал</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼">буудай жүздүү | кара | күрөш | күрөшүп жаткан эркек | эркектер</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼" type="tts">күрөшүп жаткан эркек: кара, буудай жүздүү</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽">кара | күрөш | күрөшүп жаткан эркек | орточо | эркектер</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽" type="tts">күрөшүп жаткан эркек: кара, орточо</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾">кара | кара тору | күрөш | күрөшүп жаткан эркек | эркектер</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾" type="tts">күрөшүп жаткан эркек: кара, кара тору</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻">акжуумал | өбүшүү | романтика | түгөйлөр | эркек</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻" type="tts">өбүшүү: эркек, эркек, акжуумал</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏼">акжуумал | буудай жүздүү | өбүшүү | романтика | түгөйлөр | эркек</annotation>
@@ -919,6 +1049,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦲" type="tts">эркек: кара тору, тас</annotation>
 		<annotation cp="👨🏿‍🦲">кара | киши | тас | эркек</annotation>
 		<annotation cp="👨🏿‍🦲" type="tts">эркек: кара, тас</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼">акжуумал | бий | буудай жүздүү | кече | коён кулактары | коен кулактарын тагынган эркектер | эркектер</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼" type="tts">коен кулактарын тагынган эркектер: акжуумал, буудай жүздүү</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽">акжуумал | бий | кече | коён кулактары | коен кулактарын тагынган эркектер | орточо | эркектер</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽" type="tts">коен кулактарын тагынган эркектер: акжуумал, орточо</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾">акжуумал | бий | кара тору | кече | коён кулактары | коен кулактарын тагынган эркектер | эркектер</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾" type="tts">коен кулактарын тагынган эркектер: акжуумал, кара тору</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿">акжуумал | бий | кара | кече | коён кулактары | коен кулактарын тагынган эркектер | эркектер</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿" type="tts">коен кулактарын тагынган эркектер: акжуумал, кара</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻">акжуумал | бий | буудай жүздүү | кече | коён кулактары | коен кулактарын тагынган эркектер | эркектер</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻" type="tts">коен кулактарын тагынган эркектер: буудай жүздүү, акжуумал</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽">бий | буудай жүздүү | кече | коён кулактары | коен кулактарын тагынган эркектер | орточо | эркектер</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽" type="tts">коен кулактарын тагынган эркектер: буудай жүздүү, орточо</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾">бий | буудай жүздүү | кара тору | кече | коён кулактары | коен кулактарын тагынган эркектер | эркектер</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾" type="tts">коен кулактарын тагынган эркектер: буудай жүздүү, кара тору</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿">бий | буудай жүздүү | кара | кече | коён кулактары | коен кулактарын тагынган эркектер | эркектер</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿" type="tts">коен кулактарын тагынган эркектер: буудай жүздүү, кара</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻">акжуумал | бий | кече | коён кулактары | коен кулактарын тагынган эркектер | орточо | эркектер</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻" type="tts">коен кулактарын тагынган эркектер: орточо, акжуумал</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼">бий | буудай жүздүү | кече | коён кулактары | коен кулактарын тагынган эркектер | орточо | эркектер</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼" type="tts">коен кулактарын тагынган эркектер: орточо, буудай жүздүү</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾">бий | кара тору | кече | коён кулактары | коен кулактарын тагынган эркектер | орточо | эркектер</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾" type="tts">коен кулактарын тагынган эркектер: орточо, кара тору</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿">бий | кара | кече | коён кулактары | коен кулактарын тагынган эркектер | орточо | эркектер</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿" type="tts">коен кулактарын тагынган эркектер: орточо, кара</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻">акжуумал | бий | кара тору | кече | коён кулактары | коен кулактарын тагынган эркектер | эркектер</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻" type="tts">коен кулактарын тагынган эркектер: кара тору, акжуумал</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼">бий | буудай жүздүү | кара тору | кече | коён кулактары | коен кулактарын тагынган эркектер | эркектер</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼" type="tts">коен кулактарын тагынган эркектер: кара тору, буудай жүздүү</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽">бий | кара тору | кече | коён кулактары | коен кулактарын тагынган эркектер | орточо | эркектер</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽" type="tts">коен кулактарын тагынган эркектер: кара тору, орточо</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿">бий | кара | кара тору | кече | коён кулактары | коен кулактарын тагынган эркектер | эркектер</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿" type="tts">коен кулактарын тагынган эркектер: кара тору, кара</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻">акжуумал | бий | кара | кече | коён кулактары | коен кулактарын тагынган эркектер | эркектер</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻" type="tts">коен кулактарын тагынган эркектер: кара, акжуумал</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼">бий | буудай жүздүү | кара | кече | коён кулактары | коен кулактарын тагынган эркектер | эркектер</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼" type="tts">коен кулактарын тагынган эркектер: кара, буудай жүздүү</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽">бий | кара | кече | коён кулактары | коен кулактарын тагынган эркектер | орточо | эркектер</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽" type="tts">коен кулактарын тагынган эркектер: кара, орточо</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾">бий | кара | кара тору | кече | коён кулактары | коен кулактарын тагынган эркектер | эркектер</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾" type="tts">коен кулактарын тагынган эркектер: кара, кара тору</annotation>
 		<annotation cp="👩🏻">акжуумал | аял</annotation>
 		<annotation cp="👩🏻" type="tts">аял: акжуумал</annotation>
 		<annotation cp="👩🏼">аял | буудай жүздүү</annotation>
@@ -949,6 +1119,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♀" type="tts">сары чачтуу аял: кара тору</annotation>
 		<annotation cp="👱🏿‍♀">аял | кара | сары чач | сары чачтуу аял</annotation>
 		<annotation cp="👱🏿‍♀" type="tts">сары чачтуу аял: кара</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼">акжуумал | аялдар | буудай жүздүү | күрөш | күрөшүп жаткан аял</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼" type="tts">күрөшүп жаткан аял: акжуумал, буудай жүздүү</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽">акжуумал | аялдар | күрөш | күрөшүп жаткан аял | орточо</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽" type="tts">күрөшүп жаткан аял: акжуумал, орточо</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾">акжуумал | аялдар | кара тору | күрөш | күрөшүп жаткан аял</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾" type="tts">күрөшүп жаткан аял: акжуумал, кара тору</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿">акжуумал | аялдар | кара | күрөш | күрөшүп жаткан аял</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿" type="tts">күрөшүп жаткан аял: акжуумал, кара</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻">акжуумал | аялдар | буудай жүздүү | күрөш | күрөшүп жаткан аял</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻" type="tts">күрөшүп жаткан аял: буудай жүздүү, акжуумал</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽">аялдар | буудай жүздүү | күрөш | күрөшүп жаткан аял | орточо</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽" type="tts">күрөшүп жаткан аял: буудай жүздүү, орточо</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾">аялдар | буудай жүздүү | кара тору | күрөш | күрөшүп жаткан аял</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾" type="tts">күрөшүп жаткан аял: буудай жүздүү, кара тору</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿">аялдар | буудай жүздүү | кара | күрөш | күрөшүп жаткан аял</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿" type="tts">күрөшүп жаткан аял: буудай жүздүү, кара</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻">акжуумал | аялдар | күрөш | күрөшүп жаткан аял | орточо</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻" type="tts">күрөшүп жаткан аял: орточо, акжуумал</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼">аялдар | буудай жүздүү | күрөш | күрөшүп жаткан аял | орточо</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼" type="tts">күрөшүп жаткан аял: орточо, буудай жүздүү</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾">аялдар | кара тору | күрөш | күрөшүп жаткан аял | орточо</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾" type="tts">күрөшүп жаткан аял: орточо, кара тору</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿">аялдар | кара | күрөш | күрөшүп жаткан аял | орточо</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿" type="tts">күрөшүп жаткан аял: орточо, кара</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻">акжуумал | аялдар | кара тору | күрөш | күрөшүп жаткан аял</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻" type="tts">күрөшүп жаткан аял: кара тору, акжуумал</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼">аялдар | буудай жүздүү | кара тору | күрөш | күрөшүп жаткан аял</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼" type="tts">күрөшүп жаткан аял: кара тору, буудай жүздүү</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽">аялдар | кара тору | күрөш | күрөшүп жаткан аял | орточо</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽" type="tts">күрөшүп жаткан аял: кара тору, орточо</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿">аялдар | кара | кара тору | күрөш | күрөшүп жаткан аял</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿" type="tts">күрөшүп жаткан аял: кара тору, кара</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻">акжуумал | аялдар | кара | күрөш | күрөшүп жаткан аял</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻" type="tts">күрөшүп жаткан аял: кара, акжуумал</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼">аялдар | буудай жүздүү | кара | күрөш | күрөшүп жаткан аял</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼" type="tts">күрөшүп жаткан аял: кара, буудай жүздүү</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽">аялдар | кара | күрөш | күрөшүп жаткан аял | орточо</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽" type="tts">күрөшүп жаткан аял: кара, орточо</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾">аялдар | кара | кара тору | күрөш | күрөшүп жаткан аял</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾" type="tts">күрөшүп жаткан аял: кара, кара тору</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻">акжуумал | аял | өбүшүү | романтика | түгөйлөр | эркек</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻" type="tts">өбүшүү: аял, эркек, акжуумал</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏼">акжуумал | аял | буудай жүздүү | өбүшүү | романтика | түгөйлөр | эркек</annotation>
@@ -1197,6 +1407,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦲" type="tts">аял: кара тору, тас</annotation>
 		<annotation cp="👩🏿‍🦲">аял | кара | тас</annotation>
 		<annotation cp="👩🏿‍🦲" type="tts">аял: кара, тас</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼">акжуумал | бий | буудай жүздүү | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼" type="tts">коен кулактарын тагынган кыздар: акжуумал, буудай жүздүү</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽">акжуумал | бий | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар | орточо</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽" type="tts">коен кулактарын тагынган кыздар: акжуумал, орточо</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾">акжуумал | бий | кара тору | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾" type="tts">коен кулактарын тагынган кыздар: акжуумал, кара тору</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿">акжуумал | бий | кара | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿" type="tts">коен кулактарын тагынган кыздар: акжуумал, кара</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻">акжуумал | бий | буудай жүздүү | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻" type="tts">коен кулактарын тагынган кыздар: буудай жүздүү, акжуумал</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽">бий | буудай жүздүү | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар | орточо</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽" type="tts">коен кулактарын тагынган кыздар: буудай жүздүү, орточо</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾">бий | буудай жүздүү | кара тору | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾" type="tts">коен кулактарын тагынган кыздар: буудай жүздүү, кара тору</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿">бий | буудай жүздүү | кара | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿" type="tts">коен кулактарын тагынган кыздар: буудай жүздүү, кара</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻">акжуумал | бий | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар | орточо</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻" type="tts">коен кулактарын тагынган кыздар: орточо, акжуумал</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼">бий | буудай жүздүү | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар | орточо</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼" type="tts">коен кулактарын тагынган кыздар: орточо, буудай жүздүү</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾">бий | кара тору | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар | орточо</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾" type="tts">коен кулактарын тагынган кыздар: орточо, кара тору</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿">бий | кара | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар | орточо</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿" type="tts">коен кулактарын тагынган кыздар: орточо, кара</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻">акжуумал | бий | кара тору | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻" type="tts">коен кулактарын тагынган кыздар: кара тору, акжуумал</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼">бий | буудай жүздүү | кара тору | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼" type="tts">коен кулактарын тагынган кыздар: кара тору, буудай жүздүү</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽">бий | кара тору | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар | орточо</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽" type="tts">коен кулактарын тагынган кыздар: кара тору, орточо</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿">бий | кара | кара тору | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿" type="tts">коен кулактарын тагынган кыздар: кара тору, кара</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻">акжуумал | бий | кара | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻" type="tts">коен кулактарын тагынган кыздар: кара, акжуумал</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼">бий | буудай жүздүү | кара | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼" type="tts">коен кулактарын тагынган кыздар: кара, буудай жүздүү</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽">бий | кара | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар | орточо</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽" type="tts">коен кулактарын тагынган кыздар: кара, орточо</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾">бий | кара | кара тору | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾" type="tts">коен кулактарын тагынган кыздар: кара, кара тору</annotation>
 		<annotation cp="🧓🏻">акжуумал | жынысы белгисиз | кары адам</annotation>
 		<annotation cp="🧓🏻" type="tts">кары адам: акжуумал</annotation>
 		<annotation cp="🧓🏼">буудай жүздүү | жынысы белгисиз | кары адам</annotation>
@@ -2687,42 +2937,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🚶🏾‍♀" type="tts">жөө басып бара жаткан аял: кара тору</annotation>
 		<annotation cp="🚶🏿‍♀">аял | жөө басуу | жөө басып бара жаткан аял | кара | экскурсия</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">жөө басып бара жаткан аял: кара</annotation>
-		<annotation cp="🚶‍➡">жөө адам | жөө басуу | экскурсия</annotation>
-		<annotation cp="🚶‍➡" type="tts">жөө адам оңду карап турат</annotation>
-		<annotation cp="🚶🏻‍➡">жөө адам | жөө басуу | экскурсия</annotation>
-		<annotation cp="🚶🏻‍➡" type="tts">жөө адам оңду карап турат</annotation>
-		<annotation cp="🚶🏼‍➡">жөө адам | жөө басуу | экскурсия</annotation>
-		<annotation cp="🚶🏼‍➡" type="tts">жөө адам оңду карап турат</annotation>
-		<annotation cp="🚶🏽‍➡">жөө адам | жөө басуу | экскурсия</annotation>
-		<annotation cp="🚶🏽‍➡" type="tts">жөө адам оңду карап турат</annotation>
-		<annotation cp="🚶🏾‍➡">жөө адам | жөө басуу | экскурсия</annotation>
-		<annotation cp="🚶🏾‍➡" type="tts">жөө адам оңду карап турат</annotation>
-		<annotation cp="🚶🏿‍➡">жөө адам | жөө басуу | экскурсия</annotation>
-		<annotation cp="🚶🏿‍➡" type="tts">жөө адам оңду карап турат</annotation>
-		<annotation cp="🚶‍♀‍➡">аял | жөө басуу | жөө басып бара жаткан аял | экскурсия</annotation>
-		<annotation cp="🚶‍♀‍➡" type="tts">жөө басып бара жаткан аял оңду карап турат</annotation>
-		<annotation cp="🚶🏻‍♀‍➡">аял | жөө басуу | жөө басып бара жаткан аял | экскурсия</annotation>
-		<annotation cp="🚶🏻‍♀‍➡" type="tts">жөө басып бара жаткан аял оңду карап турат</annotation>
-		<annotation cp="🚶🏼‍♀‍➡">аял | жөө басуу | жөө басып бара жаткан аял | экскурсия</annotation>
-		<annotation cp="🚶🏼‍♀‍➡" type="tts">жөө басып бара жаткан аял оңду карап турат</annotation>
-		<annotation cp="🚶🏽‍♀‍➡">аял | жөө басуу | жөө басып бара жаткан аял | экскурсия</annotation>
-		<annotation cp="🚶🏽‍♀‍➡" type="tts">жөө басып бара жаткан аял оңду карап турат</annotation>
-		<annotation cp="🚶🏾‍♀‍➡">аял | жөө басуу | жөө басып бара жаткан аял | экскурсия</annotation>
-		<annotation cp="🚶🏾‍♀‍➡" type="tts">жөө басып бара жаткан аял оңду карап турат</annotation>
-		<annotation cp="🚶🏿‍♀‍➡">аял | жөө басуу | жөө басып бара жаткан аял | экскурсия</annotation>
-		<annotation cp="🚶🏿‍♀‍➡" type="tts">жөө басып бара жаткан аял оңду карап турат</annotation>
-		<annotation cp="🚶‍♂‍➡">жөө басуу | жөө басып бара жаткан эркек | экскурсия | эркек</annotation>
-		<annotation cp="🚶‍♂‍➡" type="tts">жөө басып бара жаткан эркек оңду карап турат</annotation>
-		<annotation cp="🚶🏻‍♂‍➡">жөө басуу | жөө басып бара жаткан эркек | экскурсия | эркек</annotation>
-		<annotation cp="🚶🏻‍♂‍➡" type="tts">жөө басып бара жаткан эркек оңду карап турат</annotation>
-		<annotation cp="🚶🏼‍♂‍➡">жөө басуу | жөө басып бара жаткан эркек | экскурсия | эркек</annotation>
-		<annotation cp="🚶🏼‍♂‍➡" type="tts">жөө басып бара жаткан эркек оңду карап турат</annotation>
-		<annotation cp="🚶🏽‍♂‍➡">жөө басуу | жөө басып бара жаткан эркек | экскурсия | эркек</annotation>
-		<annotation cp="🚶🏽‍♂‍➡" type="tts">жөө басып бара жаткан эркек оңду карап турат</annotation>
-		<annotation cp="🚶🏾‍♂‍➡">жөө басуу | жөө басып бара жаткан эркек | экскурсия | эркек</annotation>
-		<annotation cp="🚶🏾‍♂‍➡" type="tts">жөө басып бара жаткан эркек оңду карап турат</annotation>
-		<annotation cp="🚶🏿‍♂‍➡">жөө басуу | жөө басып бара жаткан эркек | экскурсия | эркек</annotation>
-		<annotation cp="🚶🏿‍♂‍➡" type="tts">жөө басып бара жаткан эркек оңду карап турат</annotation>
+		<annotation cp="🚶‍➡">жөө адам | жөө басуу | карап | оңду | турат | экскурсия</annotation>
+		<annotation cp="🚶‍➡" type="tts">жөө адам: оңду карап турат</annotation>
+		<annotation cp="🚶🏻‍➡">акжуумал | жөө адам | жөө басуу | карап | оңду | турат | экскурсия</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">жөө адам: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🚶🏼‍➡">буудай жүздүү | жөө адам | жөө басуу | карап | оңду | турат | экскурсия</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">жөө адам: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🚶🏽‍➡">жөө адам | жөө басуу | карап | оңду | орточо | турат | экскурсия</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">жөө адам: орточо, оңду карап турат</annotation>
+		<annotation cp="🚶🏾‍➡">жөө адам | жөө басуу | кара тору | карап | оңду | турат | экскурсия</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">жөө адам: кара тору, оңду карап турат</annotation>
+		<annotation cp="🚶🏿‍➡">жөө адам | жөө басуу | кара | карап | оңду | турат | экскурсия</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">жөө адам: кара, оңду карап турат</annotation>
+		<annotation cp="🚶‍♀‍➡">аял | жөө басуу | жөө басып бара жаткан аял | карап | оңду | турат | экскурсия</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">жөө басып бара жаткан аял: оңду карап турат</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">акжуумал | аял | жөө басуу | жөө басып бара жаткан аял | карап | оңду | турат | экскурсия</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">жөө басып бара жаткан аял: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">аял | буудай жүздүү | жөө басуу | жөө басып бара жаткан аял | карап | оңду | турат | экскурсия</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">жөө басып бара жаткан аял: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">аял | жөө басуу | жөө басып бара жаткан аял | карап | оңду | орточо | турат | экскурсия</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">жөө басып бара жаткан аял: орточо, оңду карап турат</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">аял | жөө басуу | жөө басып бара жаткан аял | кара тору | карап | оңду | турат | экскурсия</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">жөө басып бара жаткан аял: кара тору, оңду карап турат</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">аял | жөө басуу | жөө басып бара жаткан аял | кара | карап | оңду | турат | экскурсия</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">жөө басып бара жаткан аял: кара, оңду карап турат</annotation>
+		<annotation cp="🚶‍♂‍➡">жөө басуу | жөө басып бара жаткан эркек | карап | оңду | турат | экскурсия | эркек</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">жөө басып бара жаткан эркек: оңду карап турат</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">акжуумал | жөө басуу | жөө басып бара жаткан эркек | карап | оңду | турат | экскурсия | эркек</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">жөө басып бара жаткан эркек: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">буудай жүздүү | жөө басуу | жөө басып бара жаткан эркек | карап | оңду | турат | экскурсия | эркек</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">жөө басып бара жаткан эркек: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">жөө басуу | жөө басып бара жаткан эркек | карап | оңду | орточо | турат | экскурсия | эркек</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">жөө басып бара жаткан эркек: орточо, оңду карап турат</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">жөө басуу | жөө басып бара жаткан эркек | кара тору | карап | оңду | турат | экскурсия | эркек</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">жөө басып бара жаткан эркек: кара тору, оңду карап турат</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">жөө басуу | жөө басып бара жаткан эркек | кара | карап | оңду | турат | экскурсия | эркек</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">жөө басып бара жаткан эркек: кара, оңду карап турат</annotation>
 		<annotation cp="🧍🏻">адам турат | акжуумал | турат | туруу</annotation>
 		<annotation cp="🧍🏻" type="tts">адам турат: акжуумал</annotation>
 		<annotation cp="🧍🏼">адам турат | буудай жүздүү | турат | туруу</annotation>
@@ -2783,42 +3033,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧎🏾‍♀" type="tts">аял тизелөөдө: кара тору</annotation>
 		<annotation cp="🧎🏿‍♀">аял | аял тизелөөдө | кара | тизелеп турат</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">аял тизелөөдө: кара</annotation>
-		<annotation cp="🧎‍➡">тизелеген адам | тизелеп турат | тизелөө</annotation>
-		<annotation cp="🧎‍➡" type="tts">тизелеген адам оңду карап турат</annotation>
-		<annotation cp="🧎🏻‍➡">тизелеген адам | тизелеп турат | тизелөө</annotation>
-		<annotation cp="🧎🏻‍➡" type="tts">тизелеген адам оңду карап турат</annotation>
-		<annotation cp="🧎🏼‍➡">тизелеген адам | тизелеп турат | тизелөө</annotation>
-		<annotation cp="🧎🏼‍➡" type="tts">тизелеген адам оңду карап турат</annotation>
-		<annotation cp="🧎🏽‍➡">тизелеген адам | тизелеп турат | тизелөө</annotation>
-		<annotation cp="🧎🏽‍➡" type="tts">тизелеген адам оңду карап турат</annotation>
-		<annotation cp="🧎🏾‍➡">тизелеген адам | тизелеп турат | тизелөө</annotation>
-		<annotation cp="🧎🏾‍➡" type="tts">тизелеген адам оңду карап турат</annotation>
-		<annotation cp="🧎🏿‍➡">тизелеген адам | тизелеп турат | тизелөө</annotation>
-		<annotation cp="🧎🏿‍➡" type="tts">тизелеген адам оңду карап турат</annotation>
-		<annotation cp="🧎‍♀‍➡">аял | аял тизелөөдө | тизелеп турат</annotation>
-		<annotation cp="🧎‍♀‍➡" type="tts">аял тизелөөдө оңду карап турат</annotation>
-		<annotation cp="🧎🏻‍♀‍➡">аял | аял тизелөөдө | тизелеп турат</annotation>
-		<annotation cp="🧎🏻‍♀‍➡" type="tts">аял тизелөөдө оңду карап турат</annotation>
-		<annotation cp="🧎🏼‍♀‍➡">аял | аял тизелөөдө | тизелеп турат</annotation>
-		<annotation cp="🧎🏼‍♀‍➡" type="tts">аял тизелөөдө оңду карап турат</annotation>
-		<annotation cp="🧎🏽‍♀‍➡">аял | аял тизелөөдө | тизелеп турат</annotation>
-		<annotation cp="🧎🏽‍♀‍➡" type="tts">аял тизелөөдө оңду карап турат</annotation>
-		<annotation cp="🧎🏾‍♀‍➡">аял | аял тизелөөдө | тизелеп турат</annotation>
-		<annotation cp="🧎🏾‍♀‍➡" type="tts">аял тизелөөдө оңду карап турат</annotation>
-		<annotation cp="🧎🏿‍♀‍➡">аял | аял тизелөөдө | тизелеп турат</annotation>
-		<annotation cp="🧎🏿‍♀‍➡" type="tts">аял тизелөөдө оңду карап турат</annotation>
-		<annotation cp="🧎‍♂‍➡">киши | тизелеген киши | тизелеп турат</annotation>
-		<annotation cp="🧎‍♂‍➡" type="tts">тизелеген киши оңду карап турат</annotation>
-		<annotation cp="🧎🏻‍♂‍➡">киши | тизелеген киши | тизелеп турат</annotation>
-		<annotation cp="🧎🏻‍♂‍➡" type="tts">тизелеген киши оңду карап турат</annotation>
-		<annotation cp="🧎🏼‍♂‍➡">киши | тизелеген киши | тизелеп турат</annotation>
-		<annotation cp="🧎🏼‍♂‍➡" type="tts">тизелеген киши оңду карап турат</annotation>
-		<annotation cp="🧎🏽‍♂‍➡">киши | тизелеген киши | тизелеп турат</annotation>
-		<annotation cp="🧎🏽‍♂‍➡" type="tts">тизелеген киши оңду карап турат</annotation>
-		<annotation cp="🧎🏾‍♂‍➡">киши | тизелеген киши | тизелеп турат</annotation>
-		<annotation cp="🧎🏾‍♂‍➡" type="tts">тизелеген киши оңду карап турат</annotation>
-		<annotation cp="🧎🏿‍♂‍➡">киши | тизелеген киши | тизелеп турат</annotation>
-		<annotation cp="🧎🏿‍♂‍➡" type="tts">тизелеген киши оңду карап турат</annotation>
+		<annotation cp="🧎‍➡">карап | оңду | тизелеген адам | тизелеп турат | тизелөө | турат</annotation>
+		<annotation cp="🧎‍➡" type="tts">тизелеген адам: оңду карап турат</annotation>
+		<annotation cp="🧎🏻‍➡">акжуумал | карап | оңду | тизелеген адам | тизелеп турат | тизелөө | турат</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">тизелеген адам: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🧎🏼‍➡">буудай жүздүү | карап | оңду | тизелеген адам | тизелеп турат | тизелөө | турат</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">тизелеген адам: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🧎🏽‍➡">карап | оңду | орточо | тизелеген адам | тизелеп турат | тизелөө | турат</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">тизелеген адам: орточо, оңду карап турат</annotation>
+		<annotation cp="🧎🏾‍➡">кара тору | карап | оңду | тизелеген адам | тизелеп турат | тизелөө | турат</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">тизелеген адам: кара тору, оңду карап турат</annotation>
+		<annotation cp="🧎🏿‍➡">кара | карап | оңду | тизелеген адам | тизелеп турат | тизелөө | турат</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">тизелеген адам: кара, оңду карап турат</annotation>
+		<annotation cp="🧎‍♀‍➡">аял | аял тизелөөдө | карап | оңду | тизелеп турат | турат</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">аял тизелөөдө: оңду карап турат</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">акжуумал | аял | аял тизелөөдө | карап | оңду | тизелеп турат | турат</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">аял тизелөөдө: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">аял | аял тизелөөдө | буудай жүздүү | карап | оңду | тизелеп турат | турат</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">аял тизелөөдө: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">аял | аял тизелөөдө | карап | оңду | орточо | тизелеп турат | турат</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">аял тизелөөдө: орточо, оңду карап турат</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">аял | аял тизелөөдө | кара тору | карап | оңду | тизелеп турат | турат</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">аял тизелөөдө: кара тору, оңду карап турат</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">аял | аял тизелөөдө | кара | карап | оңду | тизелеп турат | турат</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">аял тизелөөдө: кара, оңду карап турат</annotation>
+		<annotation cp="🧎‍♂‍➡">карап | киши | оңду | тизелеген киши | тизелеп турат | турат</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">тизелеген киши: оңду карап турат</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">акжуумал | карап | киши | оңду | тизелеген киши | тизелеп турат | турат</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">тизелеген киши: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">буудай жүздүү | карап | киши | оңду | тизелеген киши | тизелеп турат | турат</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">тизелеген киши: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">карап | киши | оңду | орточо | тизелеген киши | тизелеп турат | турат</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">тизелеген киши: орточо, оңду карап турат</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">кара тору | карап | киши | оңду | тизелеген киши | тизелеп турат | турат</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">тизелеген киши: кара тору, оңду карап турат</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">кара | карап | киши | оңду | тизелеген киши | тизелеп турат | турат</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">тизелеген киши: кара, оңду карап турат</annotation>
 		<annotation cp="🧑🏻‍🦯">акжуумал | таякка жөлөнгөн киши</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">таякка жөлөнгөн киши: акжуумал</annotation>
 		<annotation cp="🧑🏼‍🦯">буудай жүздүү | таякка жөлөнгөн киши</annotation>
@@ -2829,18 +3079,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦯" type="tts">таякка жөлөнгөн киши: кара тору</annotation>
 		<annotation cp="🧑🏿‍🦯">кара | таякка жөлөнгөн киши</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">таякка жөлөнгөн киши: кара</annotation>
-		<annotation cp="🧑‍🦯‍➡">таякка жөлөнгөн киши</annotation>
-		<annotation cp="🧑‍🦯‍➡" type="tts">таякка жөлөнгөн киши оңду карап турат</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡">таякка жөлөнгөн киши</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡" type="tts">таякка жөлөнгөн киши оңду карап турат</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡">таякка жөлөнгөн киши</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡" type="tts">таякка жөлөнгөн киши оңду карап турат</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡">таякка жөлөнгөн киши</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡" type="tts">таякка жөлөнгөн киши оңду карап турат</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡">таякка жөлөнгөн киши</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡" type="tts">таякка жөлөнгөн киши оңду карап турат</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡">таякка жөлөнгөн киши</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡" type="tts">таякка жөлөнгөн киши оңду карап турат</annotation>
+		<annotation cp="🧑‍🦯‍➡">карап | оңду | таякка жөлөнгөн киши | турат</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">таякка жөлөнгөн киши: оңду карап турат</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">акжуумал | карап | оңду | таякка жөлөнгөн киши | турат</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">таякка жөлөнгөн киши: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">буудай жүздүү | карап | оңду | таякка жөлөнгөн киши | турат</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">таякка жөлөнгөн киши: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">карап | оңду | орточо | таякка жөлөнгөн киши | турат</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">таякка жөлөнгөн киши: орточо, оңду карап турат</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">кара тору | карап | оңду | таякка жөлөнгөн киши | турат</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">таякка жөлөнгөн киши: кара тору, оңду карап турат</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">кара | карап | оңду | таякка жөлөнгөн киши | турат</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">таякка жөлөнгөн киши: кара, оңду карап турат</annotation>
 		<annotation cp="👨🏻‍🦯">акжуумал | атайын мүмкүндүк | киши | сокур | таяк таянган киши</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">таяк таянган киши: акжуумал</annotation>
 		<annotation cp="👨🏼‍🦯">атайын мүмкүндүк | буудай жүздүү | киши | сокур | таяк таянган киши</annotation>
@@ -2851,18 +3101,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦯" type="tts">таяк таянган киши: кара тору</annotation>
 		<annotation cp="👨🏿‍🦯">атайын мүмкүндүк | кара | киши | сокур | таяк таянган киши</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">таяк таянган киши: кара</annotation>
-		<annotation cp="👨‍🦯‍➡">атайын мүмкүндүк | киши | сокур | таяк таянган киши</annotation>
-		<annotation cp="👨‍🦯‍➡" type="tts">таяк таянган киши оңду карап турат</annotation>
-		<annotation cp="👨🏻‍🦯‍➡">атайын мүмкүндүк | киши | сокур | таяк таянган киши</annotation>
-		<annotation cp="👨🏻‍🦯‍➡" type="tts">таяк таянган киши оңду карап турат</annotation>
-		<annotation cp="👨🏼‍🦯‍➡">атайын мүмкүндүк | киши | сокур | таяк таянган киши</annotation>
-		<annotation cp="👨🏼‍🦯‍➡" type="tts">таяк таянган киши оңду карап турат</annotation>
-		<annotation cp="👨🏽‍🦯‍➡">атайын мүмкүндүк | киши | сокур | таяк таянган киши</annotation>
-		<annotation cp="👨🏽‍🦯‍➡" type="tts">таяк таянган киши оңду карап турат</annotation>
-		<annotation cp="👨🏾‍🦯‍➡">атайын мүмкүндүк | киши | сокур | таяк таянган киши</annotation>
-		<annotation cp="👨🏾‍🦯‍➡" type="tts">таяк таянган киши оңду карап турат</annotation>
-		<annotation cp="👨🏿‍🦯‍➡">атайын мүмкүндүк | киши | сокур | таяк таянган киши</annotation>
-		<annotation cp="👨🏿‍🦯‍➡" type="tts">таяк таянган киши оңду карап турат</annotation>
+		<annotation cp="👨‍🦯‍➡">атайын мүмкүндүк | карап | киши | оңду | сокур | таяк таянган киши | турат</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">таяк таянган киши: оңду карап турат</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">акжуумал | атайын мүмкүндүк | карап | киши | оңду | сокур | таяк таянган киши | турат</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">таяк таянган киши: акжуумал, оңду карап турат</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">атайын мүмкүндүк | буудай жүздүү | карап | киши | оңду | сокур | таяк таянган киши | турат</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">таяк таянган киши: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">атайын мүмкүндүк | карап | киши | оңду | орточо | сокур | таяк таянган киши | турат</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">таяк таянган киши: орточо, оңду карап турат</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">атайын мүмкүндүк | кара тору | карап | киши | оңду | сокур | таяк таянган киши | турат</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">таяк таянган киши: кара тору, оңду карап турат</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">атайын мүмкүндүк | кара | карап | киши | оңду | сокур | таяк таянган киши | турат</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">таяк таянган киши: кара, оңду карап турат</annotation>
 		<annotation cp="👩🏻‍🦯">акжуумал | атайын мүмкүндүк | аял | сокур | таяк таянган аял</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">таяк таянган аял: акжуумал</annotation>
 		<annotation cp="👩🏼‍🦯">атайын мүмкүндүк | аял | буудай жүздүү | сокур | таяк таянган аял</annotation>
@@ -2873,18 +3123,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦯" type="tts">таяк таянган аял: кара тору</annotation>
 		<annotation cp="👩🏿‍🦯">атайын мүмкүндүк | аял | кара | сокур | таяк таянган аял</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">таяк таянган аял: кара</annotation>
-		<annotation cp="👩‍🦯‍➡">атайын мүмкүндүк | аял | сокур | таяк таянган аял</annotation>
-		<annotation cp="👩‍🦯‍➡" type="tts">таяк таянган аял оңду карап турат</annotation>
-		<annotation cp="👩🏻‍🦯‍➡">атайын мүмкүндүк | аял | сокур | таяк таянган аял</annotation>
-		<annotation cp="👩🏻‍🦯‍➡" type="tts">таяк таянган аял оңду карап турат</annotation>
-		<annotation cp="👩🏼‍🦯‍➡">атайын мүмкүндүк | аял | сокур | таяк таянган аял</annotation>
-		<annotation cp="👩🏼‍🦯‍➡" type="tts">таяк таянган аял оңду карап турат</annotation>
-		<annotation cp="👩🏽‍🦯‍➡">атайын мүмкүндүк | аял | сокур | таяк таянган аял</annotation>
-		<annotation cp="👩🏽‍🦯‍➡" type="tts">таяк таянган аял оңду карап турат</annotation>
-		<annotation cp="👩🏾‍🦯‍➡">атайын мүмкүндүк | аял | сокур | таяк таянган аял</annotation>
-		<annotation cp="👩🏾‍🦯‍➡" type="tts">таяк таянган аял оңду карап турат</annotation>
-		<annotation cp="👩🏿‍🦯‍➡">атайын мүмкүндүк | аял | сокур | таяк таянган аял</annotation>
-		<annotation cp="👩🏿‍🦯‍➡" type="tts">таяк таянган аял оңду карап турат</annotation>
+		<annotation cp="👩‍🦯‍➡">атайын мүмкүндүк | аял | карап | оңду | сокур | таяк таянган аял | турат</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">таяк таянган аял: оңду карап турат</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">акжуумал | атайын мүмкүндүк | аял | карап | оңду | сокур | таяк таянган аял | турат</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">таяк таянган аял: акжуумал, оңду карап турат</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">атайын мүмкүндүк | аял | буудай жүздүү | карап | оңду | сокур | таяк таянган аял | турат</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">таяк таянган аял: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">атайын мүмкүндүк | аял | карап | оңду | орточо | сокур | таяк таянган аял | турат</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">таяк таянган аял: орточо, оңду карап турат</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">атайын мүмкүндүк | аял | кара тору | карап | оңду | сокур | таяк таянган аял | турат</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">таяк таянган аял: кара тору, оңду карап турат</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">атайын мүмкүндүк | аял | кара | карап | оңду | сокур | таяк таянган аял | турат</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">таяк таянган аял: кара, оңду карап турат</annotation>
 		<annotation cp="🧑🏻‍🦼">акжуумал | мотору бар инвалид креслосундагы киши</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">мотору бар инвалид креслосундагы киши: акжуумал</annotation>
 		<annotation cp="🧑🏼‍🦼">буудай жүздүү | мотору бар инвалид креслосундагы киши</annotation>
@@ -2895,18 +3145,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦼" type="tts">мотору бар инвалид креслосундагы киши: кара тору</annotation>
 		<annotation cp="🧑🏿‍🦼">кара | мотору бар инвалид креслосундагы киши</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">мотору бар инвалид креслосундагы киши: кара</annotation>
-		<annotation cp="🧑‍🦼‍➡">мотору бар инвалид креслосундагы киши</annotation>
-		<annotation cp="🧑‍🦼‍➡" type="tts">мотору бар инвалид креслосундагы киши оңду карап турат</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡">мотору бар инвалид креслосундагы киши</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡" type="tts">мотору бар инвалид креслосундагы киши оңду карап турат</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡">мотору бар инвалид креслосундагы киши</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡" type="tts">мотору бар инвалид креслосундагы киши оңду карап турат</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡">мотору бар инвалид креслосундагы киши</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡" type="tts">мотору бар инвалид креслосундагы киши оңду карап турат</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡">мотору бар инвалид креслосундагы киши</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡" type="tts">мотору бар инвалид креслосундагы киши оңду карап турат</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡">мотору бар инвалид креслосундагы киши</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡" type="tts">мотору бар инвалид креслосундагы киши оңду карап турат</annotation>
+		<annotation cp="🧑‍🦼‍➡">карап | мотору бар инвалид креслосундагы киши | оңду | турат</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">мотору бар инвалид креслосундагы киши: оңду карап турат</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">акжуумал | карап | мотору бар инвалид креслосундагы киши | оңду | турат</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">мотору бар инвалид креслосундагы киши: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">буудай жүздүү | карап | мотору бар инвалид креслосундагы киши | оңду | турат</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">мотору бар инвалид креслосундагы киши: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">карап | мотору бар инвалид креслосундагы киши | оңду | орточо | турат</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">мотору бар инвалид креслосундагы киши: орточо, оңду карап турат</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">кара тору | карап | мотору бар инвалид креслосундагы киши | оңду | турат</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">мотору бар инвалид креслосундагы киши: кара тору, оңду карап турат</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">кара | карап | мотору бар инвалид креслосундагы киши | оңду | турат</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">мотору бар инвалид креслосундагы киши: кара, оңду карап турат</annotation>
 		<annotation cp="👨🏻‍🦼">акжуумал | атайын мүмкүндүк | дөңгөлөктүү отургуч | киши | моторлуу дөңгөлөк отургучтагы киши</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">моторлуу дөңгөлөк отургучтагы киши: акжуумал</annotation>
 		<annotation cp="👨🏼‍🦼">атайын мүмкүндүк | буудай жүздүү | дөңгөлөктүү отургуч | киши | моторлуу дөңгөлөк отургучтагы киши</annotation>
@@ -2917,18 +3167,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦼" type="tts">моторлуу дөңгөлөк отургучтагы киши: кара тору</annotation>
 		<annotation cp="👨🏿‍🦼">атайын мүмкүндүк | дөңгөлөктүү отургуч | кара | киши | моторлуу дөңгөлөк отургучтагы киши</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">моторлуу дөңгөлөк отургучтагы киши: кара</annotation>
-		<annotation cp="👨‍🦼‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | киши | моторлуу дөңгөлөк отургучтагы киши</annotation>
-		<annotation cp="👨‍🦼‍➡" type="tts">моторлуу дөңгөлөк отургучтагы киши оңду карап турат</annotation>
-		<annotation cp="👨🏻‍🦼‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | киши | моторлуу дөңгөлөк отургучтагы киши</annotation>
-		<annotation cp="👨🏻‍🦼‍➡" type="tts">моторлуу дөңгөлөк отургучтагы киши оңду карап турат</annotation>
-		<annotation cp="👨🏼‍🦼‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | киши | моторлуу дөңгөлөк отургучтагы киши</annotation>
-		<annotation cp="👨🏼‍🦼‍➡" type="tts">моторлуу дөңгөлөк отургучтагы киши оңду карап турат</annotation>
-		<annotation cp="👨🏽‍🦼‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | киши | моторлуу дөңгөлөк отургучтагы киши</annotation>
-		<annotation cp="👨🏽‍🦼‍➡" type="tts">моторлуу дөңгөлөк отургучтагы киши оңду карап турат</annotation>
-		<annotation cp="👨🏾‍🦼‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | киши | моторлуу дөңгөлөк отургучтагы киши</annotation>
-		<annotation cp="👨🏾‍🦼‍➡" type="tts">моторлуу дөңгөлөк отургучтагы киши оңду карап турат</annotation>
-		<annotation cp="👨🏿‍🦼‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | киши | моторлуу дөңгөлөк отургучтагы киши</annotation>
-		<annotation cp="👨🏿‍🦼‍➡" type="tts">моторлуу дөңгөлөк отургучтагы киши оңду карап турат</annotation>
+		<annotation cp="👨‍🦼‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | карап | киши | моторлуу дөңгөлөк отургучтагы киши | оңду | турат</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">моторлуу дөңгөлөк отургучтагы киши: оңду карап турат</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">акжуумал | атайын мүмкүндүк | дөңгөлөктүү отургуч | карап | киши | моторлуу дөңгөлөк отургучтагы киши | оңду | турат</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">моторлуу дөңгөлөк отургучтагы киши: акжуумал, оңду карап турат</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">атайын мүмкүндүк | буудай жүздүү | дөңгөлөктүү отургуч | карап | киши | моторлуу дөңгөлөк отургучтагы киши | оңду | турат</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">моторлуу дөңгөлөк отургучтагы киши: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | карап | киши | моторлуу дөңгөлөк отургучтагы киши | оңду | орточо | турат</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">моторлуу дөңгөлөк отургучтагы киши: орточо, оңду карап турат</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | кара тору | карап | киши | моторлуу дөңгөлөк отургучтагы киши | оңду | турат</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">моторлуу дөңгөлөк отургучтагы киши: кара тору, оңду карап турат</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | кара | карап | киши | моторлуу дөңгөлөк отургучтагы киши | оңду | турат</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">моторлуу дөңгөлөк отургучтагы киши: кара, оңду карап турат</annotation>
 		<annotation cp="👩🏻‍🦼">акжуумал | атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | мотору бар дөңгөлөктүү отургучтагы аял</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">мотору бар дөңгөлөктүү отургучтагы аял: акжуумал</annotation>
 		<annotation cp="👩🏼‍🦼">атайын мүмкүндүк | аял | буудай жүздүү | дөңгөлөктүү отургуч | мотору бар дөңгөлөктүү отургучтагы аял</annotation>
@@ -2939,18 +3189,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦼" type="tts">мотору бар дөңгөлөктүү отургучтагы аял: кара тору</annotation>
 		<annotation cp="👩🏿‍🦼">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | кара | мотору бар дөңгөлөктүү отургучтагы аял</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">мотору бар дөңгөлөктүү отургучтагы аял: кара</annotation>
-		<annotation cp="👩‍🦼‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | мотору бар дөңгөлөктүү отургучтагы аял</annotation>
-		<annotation cp="👩‍🦼‍➡" type="tts">мотору бар дөңгөлөктүү отургучтагы аял оңду карап турат</annotation>
-		<annotation cp="👩🏻‍🦼‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | мотору бар дөңгөлөктүү отургучтагы аял</annotation>
-		<annotation cp="👩🏻‍🦼‍➡" type="tts">мотору бар дөңгөлөктүү отургучтагы аял оңду карап турат</annotation>
-		<annotation cp="👩🏼‍🦼‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | мотору бар дөңгөлөктүү отургучтагы аял</annotation>
-		<annotation cp="👩🏼‍🦼‍➡" type="tts">мотору бар дөңгөлөктүү отургучтагы аял оңду карап турат</annotation>
-		<annotation cp="👩🏽‍🦼‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | мотору бар дөңгөлөктүү отургучтагы аял</annotation>
-		<annotation cp="👩🏽‍🦼‍➡" type="tts">мотору бар дөңгөлөктүү отургучтагы аял оңду карап турат</annotation>
-		<annotation cp="👩🏾‍🦼‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | мотору бар дөңгөлөктүү отургучтагы аял</annotation>
-		<annotation cp="👩🏾‍🦼‍➡" type="tts">мотору бар дөңгөлөктүү отургучтагы аял оңду карап турат</annotation>
-		<annotation cp="👩🏿‍🦼‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | мотору бар дөңгөлөктүү отургучтагы аял</annotation>
-		<annotation cp="👩🏿‍🦼‍➡" type="tts">мотору бар дөңгөлөктүү отургучтагы аял оңду карап турат</annotation>
+		<annotation cp="👩‍🦼‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | карап | мотору бар дөңгөлөктүү отургучтагы аял | оңду | турат</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">мотору бар дөңгөлөктүү отургучтагы аял: оңду карап турат</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">акжуумал | атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | карап | мотору бар дөңгөлөктүү отургучтагы аял | оңду | турат</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">мотору бар дөңгөлөктүү отургучтагы аял: акжуумал, оңду карап турат</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">атайын мүмкүндүк | аял | буудай жүздүү | дөңгөлөктүү отургуч | карап | мотору бар дөңгөлөктүү отургучтагы аял | оңду | турат</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">мотору бар дөңгөлөктүү отургучтагы аял: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | карап | мотору бар дөңгөлөктүү отургучтагы аял | оңду | орточо | турат</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">мотору бар дөңгөлөктүү отургучтагы аял: орточо, оңду карап турат</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | кара тору | карап | мотору бар дөңгөлөктүү отургучтагы аял | оңду | турат</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">мотору бар дөңгөлөктүү отургучтагы аял: кара тору, оңду карап турат</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | кара | карап | мотору бар дөңгөлөктүү отургучтагы аял | оңду | турат</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">мотору бар дөңгөлөктүү отургучтагы аял: кара, оңду карап турат</annotation>
 		<annotation cp="🧑🏻‍🦽">акжуумал | кол менен иштеген кресло</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">кол менен иштеген кресло: акжуумал</annotation>
 		<annotation cp="🧑🏼‍🦽">буудай жүздүү | кол менен иштеген кресло</annotation>
@@ -2961,18 +3211,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦽" type="tts">кол менен иштеген кресло: кара тору</annotation>
 		<annotation cp="🧑🏿‍🦽">кара | кол менен иштеген кресло</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">кол менен иштеген кресло: кара</annotation>
-		<annotation cp="🧑‍🦽‍➡">кол менен иштеген кресло</annotation>
-		<annotation cp="🧑‍🦽‍➡" type="tts">кол менен иштеген кресло оңду карап турат</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡">кол менен иштеген кресло</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡" type="tts">кол менен иштеген кресло оңду карап турат</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡">кол менен иштеген кресло</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡" type="tts">кол менен иштеген кресло оңду карап турат</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡">кол менен иштеген кресло</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡" type="tts">кол менен иштеген кресло оңду карап турат</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡">кол менен иштеген кресло</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡" type="tts">кол менен иштеген кресло оңду карап турат</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡">кол менен иштеген кресло</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡" type="tts">кол менен иштеген кресло оңду карап турат</annotation>
+		<annotation cp="🧑‍🦽‍➡">карап | кол менен иштеген кресло | оңду | турат</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">кол менен иштеген кресло: оңду карап турат</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">акжуумал | карап | кол менен иштеген кресло | оңду | турат</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">кол менен иштеген кресло: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">буудай жүздүү | карап | кол менен иштеген кресло | оңду | турат</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">кол менен иштеген кресло: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">карап | кол менен иштеген кресло | оңду | орточо | турат</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">кол менен иштеген кресло: орточо, оңду карап турат</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">кара тору | карап | кол менен иштеген кресло | оңду | турат</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">кол менен иштеген кресло: кара тору, оңду карап турат</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">кара | карап | кол менен иштеген кресло | оңду | турат</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">кол менен иштеген кресло: кара, оңду карап турат</annotation>
 		<annotation cp="👨🏻‍🦽">акжуумал | атайын мүмкүндүк | дөңгөлөктүү отургуч | киши | кол менен дөңгөлөктүү отургучтагы киши</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">кол менен дөңгөлөктүү отургучтагы киши: акжуумал</annotation>
 		<annotation cp="👨🏼‍🦽">атайын мүмкүндүк | буудай жүздүү | дөңгөлөктүү отургуч | киши | кол менен дөңгөлөктүү отургучтагы киши</annotation>
@@ -2983,18 +3233,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦽" type="tts">кол менен дөңгөлөктүү отургучтагы киши: кара тору</annotation>
 		<annotation cp="👨🏿‍🦽">атайын мүмкүндүк | дөңгөлөктүү отургуч | кара | киши | кол менен дөңгөлөктүү отургучтагы киши</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">кол менен дөңгөлөктүү отургучтагы киши: кара</annotation>
-		<annotation cp="👨‍🦽‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | киши | кол менен дөңгөлөктүү отургучтагы киши</annotation>
-		<annotation cp="👨‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы киши оңду карап турат</annotation>
-		<annotation cp="👨🏻‍🦽‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | киши | кол менен дөңгөлөктүү отургучтагы киши</annotation>
-		<annotation cp="👨🏻‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы киши оңду карап турат</annotation>
-		<annotation cp="👨🏼‍🦽‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | киши | кол менен дөңгөлөктүү отургучтагы киши</annotation>
-		<annotation cp="👨🏼‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы киши оңду карап турат</annotation>
-		<annotation cp="👨🏽‍🦽‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | киши | кол менен дөңгөлөктүү отургучтагы киши</annotation>
-		<annotation cp="👨🏽‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы киши оңду карап турат</annotation>
-		<annotation cp="👨🏾‍🦽‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | киши | кол менен дөңгөлөктүү отургучтагы киши</annotation>
-		<annotation cp="👨🏾‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы киши оңду карап турат</annotation>
-		<annotation cp="👨🏿‍🦽‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | киши | кол менен дөңгөлөктүү отургучтагы киши</annotation>
-		<annotation cp="👨🏿‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы киши оңду карап турат</annotation>
+		<annotation cp="👨‍🦽‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | карап | киши | кол менен дөңгөлөктүү отургучтагы киши | оңду | турат</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы киши: оңду карап турат</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">акжуумал | атайын мүмкүндүк | дөңгөлөктүү отургуч | карап | киши | кол менен дөңгөлөктүү отургучтагы киши | оңду | турат</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы киши: акжуумал, оңду карап турат</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">атайын мүмкүндүк | буудай жүздүү | дөңгөлөктүү отургуч | карап | киши | кол менен дөңгөлөктүү отургучтагы киши | оңду | турат</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы киши: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | карап | киши | кол менен дөңгөлөктүү отургучтагы киши | оңду | орточо | турат</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы киши: орточо, оңду карап турат</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | кара тору | карап | киши | кол менен дөңгөлөктүү отургучтагы киши | оңду | турат</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы киши: кара тору, оңду карап турат</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">атайын мүмкүндүк | дөңгөлөктүү отургуч | кара | карап | киши | кол менен дөңгөлөктүү отургучтагы киши | оңду | турат</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы киши: кара, оңду карап турат</annotation>
 		<annotation cp="👩🏻‍🦽">акжуумал | атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | кол менен дөңгөлөктүү отургучтагы аял</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">кол менен дөңгөлөктүү отургучтагы аял: акжуумал</annotation>
 		<annotation cp="👩🏼‍🦽">атайын мүмкүндүк | аял | буудай жүздүү | дөңгөлөктүү отургуч | кол менен дөңгөлөктүү отургучтагы аял</annotation>
@@ -3005,18 +3255,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦽" type="tts">кол менен дөңгөлөктүү отургучтагы аял: кара тору</annotation>
 		<annotation cp="👩🏿‍🦽">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | кара | кол менен дөңгөлөктүү отургучтагы аял</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">кол менен дөңгөлөктүү отургучтагы аял: кара</annotation>
-		<annotation cp="👩‍🦽‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | кол менен дөңгөлөктүү отургучтагы аял</annotation>
-		<annotation cp="👩‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы аял оңду карап турат</annotation>
-		<annotation cp="👩🏻‍🦽‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | кол менен дөңгөлөктүү отургучтагы аял</annotation>
-		<annotation cp="👩🏻‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы аял оңду карап турат</annotation>
-		<annotation cp="👩🏼‍🦽‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | кол менен дөңгөлөктүү отургучтагы аял</annotation>
-		<annotation cp="👩🏼‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы аял оңду карап турат</annotation>
-		<annotation cp="👩🏽‍🦽‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | кол менен дөңгөлөктүү отургучтагы аял</annotation>
-		<annotation cp="👩🏽‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы аял оңду карап турат</annotation>
-		<annotation cp="👩🏾‍🦽‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | кол менен дөңгөлөктүү отургучтагы аял</annotation>
-		<annotation cp="👩🏾‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы аял оңду карап турат</annotation>
-		<annotation cp="👩🏿‍🦽‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | кол менен дөңгөлөктүү отургучтагы аял</annotation>
-		<annotation cp="👩🏿‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы аял оңду карап турат</annotation>
+		<annotation cp="👩‍🦽‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | карап | кол менен дөңгөлөктүү отургучтагы аял | оңду | турат</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы аял: оңду карап турат</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">акжуумал | атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | карап | кол менен дөңгөлөктүү отургучтагы аял | оңду | турат</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы аял: акжуумал, оңду карап турат</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">атайын мүмкүндүк | аял | буудай жүздүү | дөңгөлөктүү отургуч | карап | кол менен дөңгөлөктүү отургучтагы аял | оңду | турат</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы аял: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | карап | кол менен дөңгөлөктүү отургучтагы аял | оңду | орточо | турат</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы аял: орточо, оңду карап турат</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | кара тору | карап | кол менен дөңгөлөктүү отургучтагы аял | оңду | турат</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы аял: кара тору, оңду карап турат</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">атайын мүмкүндүк | аял | дөңгөлөктүү отургуч | кара | карап | кол менен дөңгөлөктүү отургучтагы аял | оңду | турат</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">кол менен дөңгөлөктүү отургучтагы аял: кара, оңду карап турат</annotation>
 		<annotation cp="🏃🏻">акжуумал | марафон | чуркап бара жаткан адам | чуркоо</annotation>
 		<annotation cp="🏃🏻" type="tts">чуркап бара жаткан адам: акжуумал</annotation>
 		<annotation cp="🏃🏼">буудай жүздүү | марафон | чуркап бара жаткан адам | чуркоо</annotation>
@@ -3047,42 +3297,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🏃🏾‍♀" type="tts">чуркап бара жаткан аял: кара тору</annotation>
 		<annotation cp="🏃🏿‍♀">аял | жарыш | кара | марафон | чуркап бара жаткан аял | чуркоо</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">чуркап бара жаткан аял: кара</annotation>
-		<annotation cp="🏃‍➡">марафон | чуркап бара жаткан адам | чуркоо</annotation>
-		<annotation cp="🏃‍➡" type="tts">чуркап бара жаткан адам оңду карап турат</annotation>
-		<annotation cp="🏃🏻‍➡">марафон | чуркап бара жаткан адам | чуркоо</annotation>
-		<annotation cp="🏃🏻‍➡" type="tts">чуркап бара жаткан адам оңду карап турат</annotation>
-		<annotation cp="🏃🏼‍➡">марафон | чуркап бара жаткан адам | чуркоо</annotation>
-		<annotation cp="🏃🏼‍➡" type="tts">чуркап бара жаткан адам оңду карап турат</annotation>
-		<annotation cp="🏃🏽‍➡">марафон | чуркап бара жаткан адам | чуркоо</annotation>
-		<annotation cp="🏃🏽‍➡" type="tts">чуркап бара жаткан адам оңду карап турат</annotation>
-		<annotation cp="🏃🏾‍➡">марафон | чуркап бара жаткан адам | чуркоо</annotation>
-		<annotation cp="🏃🏾‍➡" type="tts">чуркап бара жаткан адам оңду карап турат</annotation>
-		<annotation cp="🏃🏿‍➡">марафон | чуркап бара жаткан адам | чуркоо</annotation>
-		<annotation cp="🏃🏿‍➡" type="tts">чуркап бара жаткан адам оңду карап турат</annotation>
-		<annotation cp="🏃‍♀‍➡">аял | жарыш | марафон | чуркап бара жаткан аял | чуркоо</annotation>
-		<annotation cp="🏃‍♀‍➡" type="tts">чуркап бара жаткан аял оңду карап турат</annotation>
-		<annotation cp="🏃🏻‍♀‍➡">аял | жарыш | марафон | чуркап бара жаткан аял | чуркоо</annotation>
-		<annotation cp="🏃🏻‍♀‍➡" type="tts">чуркап бара жаткан аял оңду карап турат</annotation>
-		<annotation cp="🏃🏼‍♀‍➡">аял | жарыш | марафон | чуркап бара жаткан аял | чуркоо</annotation>
-		<annotation cp="🏃🏼‍♀‍➡" type="tts">чуркап бара жаткан аял оңду карап турат</annotation>
-		<annotation cp="🏃🏽‍♀‍➡">аял | жарыш | марафон | чуркап бара жаткан аял | чуркоо</annotation>
-		<annotation cp="🏃🏽‍♀‍➡" type="tts">чуркап бара жаткан аял оңду карап турат</annotation>
-		<annotation cp="🏃🏾‍♀‍➡">аял | жарыш | марафон | чуркап бара жаткан аял | чуркоо</annotation>
-		<annotation cp="🏃🏾‍♀‍➡" type="tts">чуркап бара жаткан аял оңду карап турат</annotation>
-		<annotation cp="🏃🏿‍♀‍➡">аял | жарыш | марафон | чуркап бара жаткан аял | чуркоо</annotation>
-		<annotation cp="🏃🏿‍♀‍➡" type="tts">чуркап бара жаткан аял оңду карап турат</annotation>
-		<annotation cp="🏃‍♂‍➡">жарыш | марафон | чуркап бара жаткан эркек | чуркоо | эркек</annotation>
-		<annotation cp="🏃‍♂‍➡" type="tts">чуркап бара жаткан эркек оңду карап турат</annotation>
-		<annotation cp="🏃🏻‍♂‍➡">жарыш | марафон | чуркап бара жаткан эркек | чуркоо | эркек</annotation>
-		<annotation cp="🏃🏻‍♂‍➡" type="tts">чуркап бара жаткан эркек оңду карап турат</annotation>
-		<annotation cp="🏃🏼‍♂‍➡">жарыш | марафон | чуркап бара жаткан эркек | чуркоо | эркек</annotation>
-		<annotation cp="🏃🏼‍♂‍➡" type="tts">чуркап бара жаткан эркек оңду карап турат</annotation>
-		<annotation cp="🏃🏽‍♂‍➡">жарыш | марафон | чуркап бара жаткан эркек | чуркоо | эркек</annotation>
-		<annotation cp="🏃🏽‍♂‍➡" type="tts">чуркап бара жаткан эркек оңду карап турат</annotation>
-		<annotation cp="🏃🏾‍♂‍➡">жарыш | марафон | чуркап бара жаткан эркек | чуркоо | эркек</annotation>
-		<annotation cp="🏃🏾‍♂‍➡" type="tts">чуркап бара жаткан эркек оңду карап турат</annotation>
-		<annotation cp="🏃🏿‍♂‍➡">жарыш | марафон | чуркап бара жаткан эркек | чуркоо | эркек</annotation>
-		<annotation cp="🏃🏿‍♂‍➡" type="tts">чуркап бара жаткан эркек оңду карап турат</annotation>
+		<annotation cp="🏃‍➡">карап | марафон | оңду | турат | чуркап бара жаткан адам | чуркоо</annotation>
+		<annotation cp="🏃‍➡" type="tts">чуркап бара жаткан адам: оңду карап турат</annotation>
+		<annotation cp="🏃🏻‍➡">акжуумал | карап | марафон | оңду | турат | чуркап бара жаткан адам | чуркоо</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">чуркап бара жаткан адам: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🏃🏼‍➡">буудай жүздүү | карап | марафон | оңду | турат | чуркап бара жаткан адам | чуркоо</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">чуркап бара жаткан адам: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🏃🏽‍➡">карап | марафон | оңду | орточо | турат | чуркап бара жаткан адам | чуркоо</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">чуркап бара жаткан адам: орточо, оңду карап турат</annotation>
+		<annotation cp="🏃🏾‍➡">кара тору | карап | марафон | оңду | турат | чуркап бара жаткан адам | чуркоо</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">чуркап бара жаткан адам: кара тору, оңду карап турат</annotation>
+		<annotation cp="🏃🏿‍➡">кара | карап | марафон | оңду | турат | чуркап бара жаткан адам | чуркоо</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">чуркап бара жаткан адам: кара, оңду карап турат</annotation>
+		<annotation cp="🏃‍♀‍➡">аял | жарыш | карап | марафон | оңду | турат | чуркап бара жаткан аял | чуркоо</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">чуркап бара жаткан аял: оңду карап турат</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">акжуумал | аял | жарыш | карап | марафон | оңду | турат | чуркап бара жаткан аял | чуркоо</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">чуркап бара жаткан аял: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">аял | буудай жүздүү | жарыш | карап | марафон | оңду | турат | чуркап бара жаткан аял | чуркоо</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">чуркап бара жаткан аял: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">аял | жарыш | карап | марафон | оңду | орточо | турат | чуркап бара жаткан аял | чуркоо</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">чуркап бара жаткан аял: орточо, оңду карап турат</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">аял | жарыш | кара тору | карап | марафон | оңду | турат | чуркап бара жаткан аял | чуркоо</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">чуркап бара жаткан аял: кара тору, оңду карап турат</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">аял | жарыш | кара | карап | марафон | оңду | турат | чуркап бара жаткан аял | чуркоо</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">чуркап бара жаткан аял: кара, оңду карап турат</annotation>
+		<annotation cp="🏃‍♂‍➡">жарыш | карап | марафон | оңду | турат | чуркап бара жаткан эркек | чуркоо | эркек</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">чуркап бара жаткан эркек: оңду карап турат</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">акжуумал | жарыш | карап | марафон | оңду | турат | чуркап бара жаткан эркек | чуркоо | эркек</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">чуркап бара жаткан эркек: акжуумал, оңду карап турат</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">буудай жүздүү | жарыш | карап | марафон | оңду | турат | чуркап бара жаткан эркек | чуркоо | эркек</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">чуркап бара жаткан эркек: буудай жүздүү, оңду карап турат</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">жарыш | карап | марафон | оңду | орточо | турат | чуркап бара жаткан эркек | чуркоо | эркек</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">чуркап бара жаткан эркек: орточо, оңду карап турат</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">жарыш | кара тору | карап | марафон | оңду | турат | чуркап бара жаткан эркек | чуркоо | эркек</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">чуркап бара жаткан эркек: кара тору, оңду карап турат</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">жарыш | кара | карап | марафон | оңду | турат | чуркап бара жаткан эркек | чуркоо | эркек</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">чуркап бара жаткан эркек: кара, оңду карап турат</annotation>
 		<annotation cp="💃🏻">акжуумал | аял | бий | бийлеп жаткан аял</annotation>
 		<annotation cp="💃🏻" type="tts">бийлеп жаткан аял: акжуумал</annotation>
 		<annotation cp="💃🏼">аял | бий | бийлеп жаткан аял | буудай жүздүү</annotation>
@@ -3113,6 +3363,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🕴🏾" type="tts">костюм-шымчан киши: кара тору</annotation>
 		<annotation cp="🕴🏿">кара | киши | костюм-шым | костюм-шымчан киши</annotation>
 		<annotation cp="🕴🏿" type="tts">костюм-шымчан киши: кара</annotation>
+		<annotation cp="👯🏻">акжуумал | бийчи | коёнек | кулак | кыз | кыз-келиндер кечеси</annotation>
+		<annotation cp="👯🏻" type="tts">кыз-келиндер кечеси: акжуумал</annotation>
+		<annotation cp="👯🏼">бийчи | буудай жүздүү | коёнек | кулак | кыз | кыз-келиндер кечеси</annotation>
+		<annotation cp="👯🏼" type="tts">кыз-келиндер кечеси: буудай жүздүү</annotation>
+		<annotation cp="👯🏽">бийчи | коёнек | кулак | кыз | кыз-келиндер кечеси | орточо</annotation>
+		<annotation cp="👯🏽" type="tts">кыз-келиндер кечеси: орточо</annotation>
+		<annotation cp="👯🏾">бийчи | кара тору | коёнек | кулак | кыз | кыз-келиндер кечеси</annotation>
+		<annotation cp="👯🏾" type="tts">кыз-келиндер кечеси: кара тору</annotation>
+		<annotation cp="👯🏿">бийчи | кара | коёнек | кулак | кыз | кыз-келиндер кечеси</annotation>
+		<annotation cp="👯🏿" type="tts">кыз-келиндер кечеси: кара</annotation>
+		<annotation cp="👯🏻‍♀">акжуумал | бий | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар</annotation>
+		<annotation cp="👯🏻‍♀" type="tts">коен кулактарын тагынган кыздар: акжуумал</annotation>
+		<annotation cp="👯🏼‍♀">бий | буудай жүздүү | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар</annotation>
+		<annotation cp="👯🏼‍♀" type="tts">коен кулактарын тагынган кыздар: буудай жүздүү</annotation>
+		<annotation cp="👯🏽‍♀">бий | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар | орточо</annotation>
+		<annotation cp="👯🏽‍♀" type="tts">коен кулактарын тагынган кыздар: орточо</annotation>
+		<annotation cp="👯🏾‍♀">бий | кара тору | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар</annotation>
+		<annotation cp="👯🏾‍♀" type="tts">коен кулактарын тагынган кыздар: кара тору</annotation>
+		<annotation cp="👯🏿‍♀">бий | кара | кече | коён кулактары | коен кулактарын тагынган кыздар | кыздар</annotation>
+		<annotation cp="👯🏿‍♀" type="tts">коен кулактарын тагынган кыздар: кара</annotation>
+		<annotation cp="👯🏻‍♂">акжуумал | бий | кече | коён кулактары | коен кулактарын тагынган эркектер | эркектер</annotation>
+		<annotation cp="👯🏻‍♂" type="tts">коен кулактарын тагынган эркектер: акжуумал</annotation>
+		<annotation cp="👯🏼‍♂">бий | буудай жүздүү | кече | коён кулактары | коен кулактарын тагынган эркектер | эркектер</annotation>
+		<annotation cp="👯🏼‍♂" type="tts">коен кулактарын тагынган эркектер: буудай жүздүү</annotation>
+		<annotation cp="👯🏽‍♂">бий | кече | коён кулактары | коен кулактарын тагынган эркектер | орточо | эркектер</annotation>
+		<annotation cp="👯🏽‍♂" type="tts">коен кулактарын тагынган эркектер: орточо</annotation>
+		<annotation cp="👯🏾‍♂">бий | кара тору | кече | коён кулактары | коен кулактарын тагынган эркектер | эркектер</annotation>
+		<annotation cp="👯🏾‍♂" type="tts">коен кулактарын тагынган эркектер: кара тору</annotation>
+		<annotation cp="👯🏿‍♂">бий | кара | кече | коён кулактары | коен кулактарын тагынган эркектер | эркектер</annotation>
+		<annotation cp="👯🏿‍♂" type="tts">коен кулактарын тагынган эркектер: кара</annotation>
 		<annotation cp="🧖🏻">акжуумал | бууланган бөлмө | бууланган бөлмөдө отурган адам | сауна</annotation>
 		<annotation cp="🧖🏻" type="tts">бууланган бөлмөдө отурган адам: акжуумал</annotation>
 		<annotation cp="🧖🏼">буудай жүздүү | бууланган бөлмө | бууланган бөлмөдө отурган адам | сауна</annotation>
@@ -3463,6 +3743,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤸🏾‍♀" type="tts">акробатикалык көнүгүү жасап жаткан аял: кара тору</annotation>
 		<annotation cp="🤸🏿‍♀">айлануу | акробатикалык көнүгүү жасап жаткан аял | аял | гимнастика | кара</annotation>
 		<annotation cp="🤸🏿‍♀" type="tts">акробатикалык көнүгүү жасап жаткан аял: кара</annotation>
+		<annotation cp="🤼🏻">адам | акжуумал | күрөш | күрөшчүлөр | спорт</annotation>
+		<annotation cp="🤼🏻" type="tts">күрөшчүлөр: акжуумал</annotation>
+		<annotation cp="🤼🏼">адам | буудай жүздүү | күрөш | күрөшчүлөр | спорт</annotation>
+		<annotation cp="🤼🏼" type="tts">күрөшчүлөр: буудай жүздүү</annotation>
+		<annotation cp="🤼🏽">адам | күрөш | күрөшчүлөр | орточо | спорт</annotation>
+		<annotation cp="🤼🏽" type="tts">күрөшчүлөр: орточо</annotation>
+		<annotation cp="🤼🏾">адам | кара тору | күрөш | күрөшчүлөр | спорт</annotation>
+		<annotation cp="🤼🏾" type="tts">күрөшчүлөр: кара тору</annotation>
+		<annotation cp="🤼🏿">адам | кара | күрөш | күрөшчүлөр | спорт</annotation>
+		<annotation cp="🤼🏿" type="tts">күрөшчүлөр: кара</annotation>
+		<annotation cp="🤼🏻‍♀">акжуумал | аялдар | күрөш | күрөшүп жаткан аял</annotation>
+		<annotation cp="🤼🏻‍♀" type="tts">күрөшүп жаткан аял: акжуумал</annotation>
+		<annotation cp="🤼🏼‍♀">аялдар | буудай жүздүү | күрөш | күрөшүп жаткан аял</annotation>
+		<annotation cp="🤼🏼‍♀" type="tts">күрөшүп жаткан аял: буудай жүздүү</annotation>
+		<annotation cp="🤼🏽‍♀">аялдар | күрөш | күрөшүп жаткан аял | орточо</annotation>
+		<annotation cp="🤼🏽‍♀" type="tts">күрөшүп жаткан аял: орточо</annotation>
+		<annotation cp="🤼🏾‍♀">аялдар | кара тору | күрөш | күрөшүп жаткан аял</annotation>
+		<annotation cp="🤼🏾‍♀" type="tts">күрөшүп жаткан аял: кара тору</annotation>
+		<annotation cp="🤼🏿‍♀">аялдар | кара | күрөш | күрөшүп жаткан аял</annotation>
+		<annotation cp="🤼🏿‍♀" type="tts">күрөшүп жаткан аял: кара</annotation>
+		<annotation cp="🤼🏻‍♂">акжуумал | күрөш | күрөшүп жаткан эркек | эркектер</annotation>
+		<annotation cp="🤼🏻‍♂" type="tts">күрөшүп жаткан эркек: акжуумал</annotation>
+		<annotation cp="🤼🏼‍♂">буудай жүздүү | күрөш | күрөшүп жаткан эркек | эркектер</annotation>
+		<annotation cp="🤼🏼‍♂" type="tts">күрөшүп жаткан эркек: буудай жүздүү</annotation>
+		<annotation cp="🤼🏽‍♂">күрөш | күрөшүп жаткан эркек | орточо | эркектер</annotation>
+		<annotation cp="🤼🏽‍♂" type="tts">күрөшүп жаткан эркек: орточо</annotation>
+		<annotation cp="🤼🏾‍♂">кара тору | күрөш | күрөшүп жаткан эркек | эркектер</annotation>
+		<annotation cp="🤼🏾‍♂" type="tts">күрөшүп жаткан эркек: кара тору</annotation>
+		<annotation cp="🤼🏿‍♂">кара | күрөш | күрөшүп жаткан эркек | эркектер</annotation>
+		<annotation cp="🤼🏿‍♂" type="tts">күрөшүп жаткан эркек: кара</annotation>
 		<annotation cp="🤽🏻">адам | акжуумал | поло | спорт | суу | суудагы поло оюну</annotation>
 		<annotation cp="🤽🏻" type="tts">суудагы поло оюну: акжуумал</annotation>
 		<annotation cp="🤽🏼">адам | буудай жүздүү | поло | спорт | суу | суудагы поло оюну</annotation>
@@ -3993,6 +4303,8 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🇨🇴" type="tts">желек: Колумбия</annotation>
 		<annotation cp="🇨🇵">желек</annotation>
 		<annotation cp="🇨🇵" type="tts">желек: Клиппертон аралы</annotation>
+		<annotation cp="🇨🇶">желек</annotation>
+		<annotation cp="🇨🇶" type="tts">желек: саркча (нормандча)</annotation>
 		<annotation cp="🇨🇷">желек</annotation>
 		<annotation cp="🇨🇷" type="tts">желек: Коста-Рика</annotation>
 		<annotation cp="🇨🇺">желек</annotation>
@@ -4432,25 +4744,5 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="₺" type="tts">Түркия лирасы</annotation>
 		<annotation cp="₼" type="tts">Азербайжан манаты</annotation>
 		<annotation cp="₾" type="tts">Грузия лариси</annotation>
-		<annotation cp="0⃣">клавиатура калпакчасы</annotation>
-		<annotation cp="0⃣" type="tts">клавиатура калпакчасы: 0</annotation>
-		<annotation cp="1⃣">клавиатура калпакчасы</annotation>
-		<annotation cp="1⃣" type="tts">клавиатура калпакчасы: 1</annotation>
-		<annotation cp="2⃣">клавиатура калпакчасы</annotation>
-		<annotation cp="2⃣" type="tts">клавиатура калпакчасы: 2</annotation>
-		<annotation cp="3⃣">клавиатура калпакчасы</annotation>
-		<annotation cp="3⃣" type="tts">клавиатура калпакчасы: 3</annotation>
-		<annotation cp="4⃣">клавиатура калпакчасы</annotation>
-		<annotation cp="4⃣" type="tts">клавиатура калпакчасы: 4</annotation>
-		<annotation cp="5⃣">клавиатура калпакчасы</annotation>
-		<annotation cp="5⃣" type="tts">клавиатура калпакчасы: 5</annotation>
-		<annotation cp="6⃣">клавиатура калпакчасы</annotation>
-		<annotation cp="6⃣" type="tts">клавиатура калпакчасы: 6</annotation>
-		<annotation cp="7⃣">клавиатура калпакчасы</annotation>
-		<annotation cp="7⃣" type="tts">клавиатура калпакчасы: 7</annotation>
-		<annotation cp="8⃣">клавиатура калпакчасы</annotation>
-		<annotation cp="8⃣" type="tts">клавиатура калпакчасы: 8</annotation>
-		<annotation cp="9⃣">клавиатура калпакчасы</annotation>
-		<annotation cp="9⃣" type="tts">клавиатура калпакчасы: 9</annotation>
 	</annotations>
 </ldml>

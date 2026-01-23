@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -1105,6 +1105,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="esmc" draft="provisional">Región de Murcia</subdivision>
 			<subdivision type="esmd" draft="provisional">Comunidad de Madrid</subdivision>
 			<subdivision type="esml" draft="provisional">Melilla</subdivision>
+			<subdivision type="esmu" draft="provisional">Murcia (lalawigan)</subdivision>
 			<subdivision type="esna" draft="provisional">Navarra</subdivision>
 			<subdivision type="esnc" draft="provisional">Navarra²</subdivision>
 			<subdivision type="eso" draft="provisional">Province of Asturias</subdivision>
@@ -1284,6 +1285,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="fr972" draft="provisional">Martinique</subdivision>
 			<subdivision type="fr973" draft="provisional">Guyane</subdivision>
 			<subdivision type="fr974" draft="provisional">Réunion</subdivision>
+			<subdivision type="fr976" draft="provisional">Mayotte</subdivision>
 			<subdivision type="frara" draft="provisional">Auvergne-Rhône-Alpes</subdivision>
 			<subdivision type="frbfc" draft="provisional">Bourgogne-Franche-Comté</subdivision>
 			<subdivision type="frbre" draft="provisional">Bretagne</subdivision>
@@ -1366,7 +1368,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="gbeln" draft="provisional">East Lothian</subdivision>
 			<subdivision type="gbels" draft="provisional">Outer Hebrides</subdivision>
 			<subdivision type="gbenf" draft="provisional">Enfield (distrito)</subdivision>
-			<subdivision type="gbeng" draft="provisional">Inglatera</subdivision>
+			<subdivision type="gbeng">Inglatera</subdivision>
 			<subdivision type="gberw" draft="provisional">East Renfrewshire</subdivision>
 			<subdivision type="gbery" draft="provisional">East Riding of Yorkshire</subdivision>
 			<subdivision type="gbess" draft="provisional">Essex (kondado)</subdivision>
@@ -1461,7 +1463,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="gbsaw" draft="provisional">Sandwell</subdivision>
 			<subdivision type="gbsay" draft="provisional">South Ayrshire</subdivision>
 			<subdivision type="gbscb" draft="provisional">The Scottish Borders</subdivision>
-			<subdivision type="gbsct" draft="provisional">Scotland</subdivision>
+			<subdivision type="gbsct">Scotland</subdivision>
 			<subdivision type="gbsfk" draft="provisional">Suffolk (kondado)</subdivision>
 			<subdivision type="gbsft" draft="provisional">Sefton</subdivision>
 			<subdivision type="gbsgc" draft="provisional">South Gloucestershire</subdivision>
@@ -1505,7 +1507,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="gbwkf" draft="provisional">City and Borough of Wakefield</subdivision>
 			<subdivision type="gbwll" draft="provisional">Walsall</subdivision>
 			<subdivision type="gbwln" draft="provisional">West Lothian</subdivision>
-			<subdivision type="gbwls" draft="provisional">Wales (apil sa nasod)</subdivision>
+			<subdivision type="gbwls">Wales (apil sa nasod)</subdivision>
 			<subdivision type="gbwlv" draft="provisional">City of Wolverhampton</subdivision>
 			<subdivision type="gbwnd" draft="provisional">Wandsworth</subdivision>
 			<subdivision type="gbwnm" draft="provisional">Royal Borough of Windsor and Maidenhead</subdivision>
@@ -2860,6 +2862,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="mm15" draft="provisional">Mon State</subdivision>
 			<subdivision type="mm16" draft="provisional">Rakhine State</subdivision>
 			<subdivision type="mm17" draft="provisional">Shan State</subdivision>
+			<subdivision type="mm18" draft="provisional">Nay Pyi Taw District</subdivision>
 			<subdivision type="mn1" draft="provisional">Ulaanbaatar Hot</subdivision>
 			<subdivision type="mn035" draft="provisional">Orhon Aymag</subdivision>
 			<subdivision type="mn037" draft="provisional">Darhan-Uul Aymag</subdivision>
@@ -3660,6 +3663,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="sc06" draft="provisional">Baie Lazare</subdivision>
 			<subdivision type="sc07" draft="provisional">Baie Sainte Anne</subdivision>
 			<subdivision type="sc08" draft="provisional">Beau Vallon</subdivision>
+			<subdivision type="sc09" draft="provisional">Bel Air</subdivision>
 			<subdivision type="sc10" draft="provisional">Bel Ombre</subdivision>
 			<subdivision type="sc11" draft="provisional">Cascade</subdivision>
 			<subdivision type="sc12" draft="provisional">Glacis</subdivision>
@@ -4288,6 +4292,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="ttsge" draft="provisional">Sangre Grande</subdivision>
 			<subdivision type="ttsip" draft="provisional">Siparia</subdivision>
 			<subdivision type="ttsjl" draft="provisional">San Juan/Laventille</subdivision>
+			<subdivision type="tttob" draft="provisional">Tobago (pulo)</subdivision>
 			<subdivision type="tttup" draft="provisional">Tunapuna/Piarco</subdivision>
 			<subdivision type="tvfun" draft="provisional">Funafuti (ulohang dakbayan)</subdivision>
 			<subdivision type="tvnit" draft="provisional">Niutao Island</subdivision>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -20,6 +20,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="aerk" draft="provisional">Ras al-Khaimah (emirat)</subdivision>
 			<subdivision type="aesh" draft="provisional">Sharjah (emirat)</subdivision>
 			<subdivision type="aeuq" draft="provisional">Umm al-Quwain (emirat)</subdivision>
+			<subdivision type="ag10" draft="provisional">Barbuda</subdivision>
 			<subdivision type="al01" draft="provisional">Okrug Berat</subdivision>
 			<subdivision type="al02" draft="provisional">Okrug Drač</subdivision>
 			<subdivision type="al03" draft="provisional">Okrug Elbasan</subdivision>
@@ -330,6 +331,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="fi17" draft="provisional">Satakunta</subdivision>
 			<subdivision type="fi18" draft="provisional">Uusimaa</subdivision>
 			<subdivision type="fi19" draft="provisional">Jugozapadna Finska</subdivision>
+			<subdivision type="fr05" draft="provisional">Hautes-Alpes</subdivision>
 			<subdivision type="fr6ae" draft="provisional">Alsace</subdivision>
 			<subdivision type="fr20r" draft="provisional">Korzika</subdivision>
 			<subdivision type="fr34" draft="provisional">Hérault</subdivision>
@@ -348,7 +350,7 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="gbbst" draft="provisional">Bristol</subdivision>
 			<subdivision type="gbcrf" draft="provisional">Cardiff</subdivision>
 			<subdivision type="gbedh" draft="provisional">Edinburgh</subdivision>
-			<subdivision type="gbeng" draft="provisional">Engleska</subdivision>
+			<subdivision type="gbeng">Engleska</subdivision>
 			<subdivision type="gbgbn" draft="provisional">Velika Britanija</subdivision>
 			<subdivision type="gbglg" draft="provisional">Glasgow</subdivision>
 			<subdivision type="gbhil" draft="provisional">Londonska općina Hillingdon</subdivision>
@@ -360,11 +362,11 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="gbnir" draft="provisional">Sjeverna Irska</subdivision>
 			<subdivision type="gbntt" draft="provisional">Nottinghamshire</subdivision>
 			<subdivision type="gboxf" draft="provisional">Oxford</subdivision>
-			<subdivision type="gbsct" draft="provisional">Škotska</subdivision>
+			<subdivision type="gbsct">Škotska</subdivision>
 			<subdivision type="gbsth" draft="provisional">Southampton</subdivision>
 			<subdivision type="gbswa" draft="provisional">Swansea</subdivision>
 			<subdivision type="gbukm" draft="provisional">Ujedinjeno Kraljevstvo</subdivision>
-			<subdivision type="gbwls" draft="provisional">Vels</subdivision>
+			<subdivision type="gbwls">Vels</subdivision>
 			<subdivision type="geaj" draft="provisional">Adžarija</subdivision>
 			<subdivision type="getb" draft="provisional">Tbilisi</subdivision>
 			<subdivision type="gmb" draft="provisional">Banjul</subdivision>
@@ -514,8 +516,10 @@ CLDR data files are interpreted according to the LDML specification (http://unic
 			<subdivision type="mdcu" draft="provisional">Kišinjev</subdivision>
 			<subdivision type="me01" draft="provisional">Andrijevica</subdivision>
 			<subdivision type="me08" draft="provisional">Herceg Novi</subdivision>
+			<subdivision type="me12" draft="provisional">Nikšić</subdivision>
 			<subdivision type="me14" draft="provisional">Općina Pljevlja</subdivision>
 			<subdivision type="me17" draft="provisional">Rožaje</subdivision>
+			<subdivision type="me25" draft="provisional">Općina Zeta</subdivision>
 			<subdivision type="mhmaj" draft="provisional">Majuro</subdivision>
 			<subdivision type="mk85" draft="provisional">Skoplje</subdivision>
 			<subdivision type="mlbko" draft="provisional">Bamako</subdivision>

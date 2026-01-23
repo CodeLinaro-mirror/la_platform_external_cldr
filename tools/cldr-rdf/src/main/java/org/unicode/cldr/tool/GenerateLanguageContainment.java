@@ -50,6 +50,7 @@ import org.unicode.cldr.util.SimpleXMLSource;
 import org.unicode.cldr.util.StandardCodes;
 import org.unicode.cldr.util.StandardCodes.LstrField;
 import org.unicode.cldr.util.StandardCodes.LstrType;
+import org.unicode.cldr.util.TempPrintWriter;
 import org.unicode.cldr.util.Validity;
 import org.unicode.cldr.util.Validity.Status;
 
@@ -237,7 +238,7 @@ public class GenerateLanguageContainment {
             code ->
                     code.equals(LocaleNames.MUL)
                             ? LocaleNames.ROOT
-                            : ENGLISH.getName(code) + " (" + code + ")";
+                            : ENGLISH.nameGetter().getNameFromIdentifier(code) + " (" + code + ")";
 
     static final Set<String> COLLECTIONS;
 
@@ -400,7 +401,12 @@ public class GenerateLanguageContainment {
         if (true) {
             // check on items
             for (String check : Arrays.asList("sw", "km", "ksh", "wae", "kea", "mfe", "th", "lo")) {
-                System.out.println("Checking " + ENGLISH.getName(check) + "[" + check + "]");
+                System.out.println(
+                        "Checking "
+                                + ENGLISH.nameGetter().getNameFromIdentifier(check)
+                                + "["
+                                + check
+                                + "]");
                 Collection<String> entities = QUERY_HELPER.codeToEntity.get(check);
                 if (entities.isEmpty()) {
                     System.out.println("no code for " + check + ": " + entities);
@@ -456,8 +462,8 @@ public class GenerateLanguageContainment {
             }
         }
         System.out.println("Writing " + "skippingCodes.tsv");
-        try (PrintWriter w =
-                FileUtilities.openUTF8Writer(TsvWriter.getTsvDir(), "skippingCodes.tsv")) {
+        try (TempPrintWriter w =
+                TempPrintWriter.openUTF8Writer(TsvWriter.getTsvDir(), "skippingCodes.tsv")) {
             // TsvWriter.writeRow(w, "childCode\tLabel", "parentCode\tLabel"); // header
             skipping.forEach(e -> w.println(e));
         }
@@ -563,12 +569,15 @@ public class GenerateLanguageContainment {
         newFile.add("//" + DtdType.supplementalData + "/version[@number='$Revision$']", "");
         printXML(newFile, parentToChild);
 
-        try (PrintWriter outFile =
-                FileUtilities.openUTF8Writer(
+        try (TempPrintWriter outFile =
+                TempPrintWriter.openUTF8Writer(
                         CLDRPaths.SUPPLEMENTAL_DIRECTORY, "languageGroup.xml")) {
-            newFile.write(outFile);
-        } catch (IOException e1) {
-            throw new ICUUncheckedIOException("Can't write to languageGroup.xml", e1);
+            try {
+                newFile.write(outFile.asPrintWriter());
+            } catch (Throwable e1) {
+                outFile.dontReplaceFile();
+                throw new ICUUncheckedIOException("Can't write to languageGroup.xml", e1);
+            }
         }
 
         // for (Entry<String,String> entry : childToParent.entries()) {

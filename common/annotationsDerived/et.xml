@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE ldml SYSTEM "../../common/dtd/ldml.dtd">
-<!-- Copyright © 1991-2024 Unicode, Inc.
+<!-- Copyright © 1991-2025 Unicode, Inc.
 For terms of use, see http://www.unicode.org/copyright.html
 SPDX-License-Identifier: Unicode-3.0
 CLDR data files are interpreted according to the LDML specification (http://unicode.org/reports/tr35/)
@@ -603,6 +603,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾" type="tts">inimene: keskmiselt tume nahatoon, blondide juustega</annotation>
 		<annotation cp="👱🏿">blond | blondide juustega | blondiin | inimene | isik | tume nahatoon</annotation>
 		<annotation cp="👱🏿" type="tts">inimene: tume nahatoon, blondide juustega</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼">hele nahatoon | inimesed | kahevõitlus | keskmiselt hele nahatoon | maadlejad | maadlus | ringis | sport | turniir | võitlus</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏼" type="tts">maadlejad: hele nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽">hele nahatoon | inimesed | kahevõitlus | keskmine nahatoon | maadlejad | maadlus | ringis | sport | turniir | võitlus</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏽" type="tts">maadlejad: hele nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾">hele nahatoon | inimesed | kahevõitlus | keskmiselt tume nahatoon | maadlejad | maadlus | ringis | sport | turniir | võitlus</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏾" type="tts">maadlejad: hele nahatoon, keskmiselt tume nahatoon</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿">hele nahatoon | inimesed | kahevõitlus | maadlejad | maadlus | ringis | sport | tume nahatoon | turniir | võitlus</annotation>
+		<annotation cp="🧑🏻‍🫯‍🧑🏿" type="tts">maadlejad: hele nahatoon, tume nahatoon</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻">hele nahatoon | inimesed | kahevõitlus | keskmiselt hele nahatoon | maadlejad | maadlus | ringis | sport | turniir | võitlus</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏻" type="tts">maadlejad: keskmiselt hele nahatoon, hele nahatoon</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽">inimesed | kahevõitlus | keskmine nahatoon | keskmiselt hele nahatoon | maadlejad | maadlus | ringis | sport | turniir | võitlus</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏽" type="tts">maadlejad: keskmiselt hele nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾">inimesed | kahevõitlus | keskmiselt hele nahatoon | keskmiselt tume nahatoon | maadlejad | maadlus | ringis | sport | turniir | võitlus</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏾" type="tts">maadlejad: keskmiselt hele nahatoon, keskmiselt tume nahatoon</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿">inimesed | kahevõitlus | keskmiselt hele nahatoon | maadlejad | maadlus | ringis | sport | tume nahatoon | turniir | võitlus</annotation>
+		<annotation cp="🧑🏼‍🫯‍🧑🏿" type="tts">maadlejad: keskmiselt hele nahatoon, tume nahatoon</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻">hele nahatoon | inimesed | kahevõitlus | keskmine nahatoon | maadlejad | maadlus | ringis | sport | turniir | võitlus</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏻" type="tts">maadlejad: keskmine nahatoon, hele nahatoon</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼">inimesed | kahevõitlus | keskmine nahatoon | keskmiselt hele nahatoon | maadlejad | maadlus | ringis | sport | turniir | võitlus</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏼" type="tts">maadlejad: keskmine nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾">inimesed | kahevõitlus | keskmine nahatoon | keskmiselt tume nahatoon | maadlejad | maadlus | ringis | sport | turniir | võitlus</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏾" type="tts">maadlejad: keskmine nahatoon, keskmiselt tume nahatoon</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿">inimesed | kahevõitlus | keskmine nahatoon | maadlejad | maadlus | ringis | sport | tume nahatoon | turniir | võitlus</annotation>
+		<annotation cp="🧑🏽‍🫯‍🧑🏿" type="tts">maadlejad: keskmine nahatoon, tume nahatoon</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻">hele nahatoon | inimesed | kahevõitlus | keskmiselt tume nahatoon | maadlejad | maadlus | ringis | sport | turniir | võitlus</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏻" type="tts">maadlejad: keskmiselt tume nahatoon, hele nahatoon</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼">inimesed | kahevõitlus | keskmiselt hele nahatoon | keskmiselt tume nahatoon | maadlejad | maadlus | ringis | sport | turniir | võitlus</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏼" type="tts">maadlejad: keskmiselt tume nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽">inimesed | kahevõitlus | keskmine nahatoon | keskmiselt tume nahatoon | maadlejad | maadlus | ringis | sport | turniir | võitlus</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏽" type="tts">maadlejad: keskmiselt tume nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿">inimesed | kahevõitlus | keskmiselt tume nahatoon | maadlejad | maadlus | ringis | sport | tume nahatoon | turniir | võitlus</annotation>
+		<annotation cp="🧑🏾‍🫯‍🧑🏿" type="tts">maadlejad: keskmiselt tume nahatoon, tume nahatoon</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻">hele nahatoon | inimesed | kahevõitlus | maadlejad | maadlus | ringis | sport | tume nahatoon | turniir | võitlus</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏻" type="tts">maadlejad: tume nahatoon, hele nahatoon</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼">inimesed | kahevõitlus | keskmiselt hele nahatoon | maadlejad | maadlus | ringis | sport | tume nahatoon | turniir | võitlus</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏼" type="tts">maadlejad: tume nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽">inimesed | kahevõitlus | keskmine nahatoon | maadlejad | maadlus | ringis | sport | tume nahatoon | turniir | võitlus</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏽" type="tts">maadlejad: tume nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾">inimesed | kahevõitlus | keskmiselt tume nahatoon | maadlejad | maadlus | ringis | sport | tume nahatoon | turniir | võitlus</annotation>
+		<annotation cp="🧑🏿‍🫯‍🧑🏾" type="tts">maadlejad: tume nahatoon, keskmiselt tume nahatoon</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼">aastapäev | armastus | hele nahatoon | inimene | kallim | keskmiselt hele nahatoon | kohting | koos | muahh | musi | paar | romantika | süda | suudlus | täiskasvanu | xoxo</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏼" type="tts">musi: täiskasvanu, täiskasvanu, hele nahatoon, keskmiselt hele nahatoon</annotation>
 		<annotation cp="🧑🏻‍❤‍💋‍🧑🏽">aastapäev | armastus | hele nahatoon | inimene | kallim | keskmine nahatoon | kohting | koos | muahh | musi | paar | romantika | süda | suudlus | täiskasvanu | xoxo</annotation>
@@ -731,6 +771,56 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦲" type="tts">täiskasvanu: keskmiselt tume nahatoon, kiilaspea</annotation>
 		<annotation cp="🧑🏿‍🦲">inimene | kiilaspea | täiskasvanu | tume nahatoon</annotation>
 		<annotation cp="🧑🏿‍🦲" type="tts">täiskasvanu: tume nahatoon, kiilaspea</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼">hele nahatoon | hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt hele nahatoon | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏼" type="tts">pidutsevad jänesekõrvadega inimesed: hele nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽">hele nahatoon | hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmine nahatoon | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏽" type="tts">pidutsevad jänesekõrvadega inimesed: hele nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾">hele nahatoon | hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt tume nahatoon | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏾" type="tts">pidutsevad jänesekõrvadega inimesed: hele nahatoon, keskmiselt tume nahatoon</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿">hele nahatoon | hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt | tume nahatoon</annotation>
+		<annotation cp="🧑🏻‍🐰‍🧑🏿" type="tts">pidutsevad jänesekõrvadega inimesed: hele nahatoon, tume nahatoon</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻">hele nahatoon | hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt hele nahatoon | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏻" type="tts">pidutsevad jänesekõrvadega inimesed: keskmiselt hele nahatoon, hele nahatoon</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmine nahatoon | keskmiselt hele nahatoon | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏽" type="tts">pidutsevad jänesekõrvadega inimesed: keskmiselt hele nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt hele nahatoon | keskmiselt tume nahatoon | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏾" type="tts">pidutsevad jänesekõrvadega inimesed: keskmiselt hele nahatoon, keskmiselt tume nahatoon</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt hele nahatoon | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt | tume nahatoon</annotation>
+		<annotation cp="🧑🏼‍🐰‍🧑🏿" type="tts">pidutsevad jänesekõrvadega inimesed: keskmiselt hele nahatoon, tume nahatoon</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻">hele nahatoon | hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmine nahatoon | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏻" type="tts">pidutsevad jänesekõrvadega inimesed: keskmine nahatoon, hele nahatoon</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmine nahatoon | keskmiselt hele nahatoon | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏼" type="tts">pidutsevad jänesekõrvadega inimesed: keskmine nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmine nahatoon | keskmiselt tume nahatoon | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏾" type="tts">pidutsevad jänesekõrvadega inimesed: keskmine nahatoon, keskmiselt tume nahatoon</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmine nahatoon | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt | tume nahatoon</annotation>
+		<annotation cp="🧑🏽‍🐰‍🧑🏿" type="tts">pidutsevad jänesekõrvadega inimesed: keskmine nahatoon, tume nahatoon</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻">hele nahatoon | hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt tume nahatoon | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏻" type="tts">pidutsevad jänesekõrvadega inimesed: keskmiselt tume nahatoon, hele nahatoon</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt hele nahatoon | keskmiselt tume nahatoon | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏼" type="tts">pidutsevad jänesekõrvadega inimesed: keskmiselt tume nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmine nahatoon | keskmiselt tume nahatoon | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏽" type="tts">pidutsevad jänesekõrvadega inimesed: keskmiselt tume nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt tume nahatoon | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt | tume nahatoon</annotation>
+		<annotation cp="🧑🏾‍🐰‍🧑🏿" type="tts">pidutsevad jänesekõrvadega inimesed: keskmiselt tume nahatoon, tume nahatoon</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻">hele nahatoon | hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt | tume nahatoon</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏻" type="tts">pidutsevad jänesekõrvadega inimesed: tume nahatoon, hele nahatoon</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt hele nahatoon | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt | tume nahatoon</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏼" type="tts">pidutsevad jänesekõrvadega inimesed: tume nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmine nahatoon | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt | tume nahatoon</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏽" type="tts">pidutsevad jänesekõrvadega inimesed: tume nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt tume nahatoon | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt | tume nahatoon</annotation>
+		<annotation cp="🧑🏿‍🐰‍🧑🏾" type="tts">pidutsevad jänesekõrvadega inimesed: tume nahatoon, keskmiselt tume nahatoon</annotation>
+		<annotation cp="🧑🏻‍🩰">ballett | hele nahatoon | tantsija</annotation>
+		<annotation cp="🧑🏻‍🩰" type="tts">balletitantsija: hele nahatoon</annotation>
+		<annotation cp="🧑🏼‍🩰">ballett | keskmiselt hele nahatoon | tantsija</annotation>
+		<annotation cp="🧑🏼‍🩰" type="tts">balletitantsija: keskmiselt hele nahatoon</annotation>
+		<annotation cp="🧑🏽‍🩰">ballett | keskmine nahatoon | tantsija</annotation>
+		<annotation cp="🧑🏽‍🩰" type="tts">balletitantsija: keskmine nahatoon</annotation>
+		<annotation cp="🧑🏾‍🩰">ballett | keskmiselt tume nahatoon | tantsija</annotation>
+		<annotation cp="🧑🏾‍🩰" type="tts">balletitantsija: keskmiselt tume nahatoon</annotation>
+		<annotation cp="🧑🏿‍🩰">ballett | tantsija | tume nahatoon</annotation>
+		<annotation cp="🧑🏿‍🩰" type="tts">balletitantsija: tume nahatoon</annotation>
 		<annotation cp="👨🏻">hele nahatoon | mees | täiskasvanu | tüüp</annotation>
 		<annotation cp="👨🏻" type="tts">mees: hele nahatoon</annotation>
 		<annotation cp="👨🏼">keskmiselt hele nahatoon | mees | täiskasvanu | tüüp</annotation>
@@ -771,6 +861,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♂" type="tts">mees: keskmiselt tume nahatoon, blond</annotation>
 		<annotation cp="👱🏿‍♂">blond | blondiin | mees | mees: blond | tume nahatoon</annotation>
 		<annotation cp="👱🏿‍♂" type="tts">mees: tume nahatoon, blond</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼">hele nahatoon | inimene | inimesed | keskmiselt hele nahatoon | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | võitlus</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏼" type="tts">maadlevad mehed: hele nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽">hele nahatoon | inimene | inimesed | keskmine nahatoon | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | võitlus</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏽" type="tts">maadlevad mehed: hele nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾">hele nahatoon | inimene | inimesed | keskmiselt tume nahatoon | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | võitlus</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏾" type="tts">maadlevad mehed: hele nahatoon, keskmiselt tume nahatoon</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿">hele nahatoon | inimene | inimesed | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | tume nahatoon | võitlus</annotation>
+		<annotation cp="👨🏻‍🫯‍👨🏿" type="tts">maadlevad mehed: hele nahatoon, tume nahatoon</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻">hele nahatoon | inimene | inimesed | keskmiselt hele nahatoon | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | võitlus</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏻" type="tts">maadlevad mehed: keskmiselt hele nahatoon, hele nahatoon</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽">inimene | inimesed | keskmine nahatoon | keskmiselt hele nahatoon | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | võitlus</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏽" type="tts">maadlevad mehed: keskmiselt hele nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾">inimene | inimesed | keskmiselt hele nahatoon | keskmiselt tume nahatoon | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | võitlus</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏾" type="tts">maadlevad mehed: keskmiselt hele nahatoon, keskmiselt tume nahatoon</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿">inimene | inimesed | keskmiselt hele nahatoon | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | tume nahatoon | võitlus</annotation>
+		<annotation cp="👨🏼‍🫯‍👨🏿" type="tts">maadlevad mehed: keskmiselt hele nahatoon, tume nahatoon</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻">hele nahatoon | inimene | inimesed | keskmine nahatoon | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | võitlus</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏻" type="tts">maadlevad mehed: keskmine nahatoon, hele nahatoon</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼">inimene | inimesed | keskmine nahatoon | keskmiselt hele nahatoon | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | võitlus</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏼" type="tts">maadlevad mehed: keskmine nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾">inimene | inimesed | keskmine nahatoon | keskmiselt tume nahatoon | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | võitlus</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏾" type="tts">maadlevad mehed: keskmine nahatoon, keskmiselt tume nahatoon</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿">inimene | inimesed | keskmine nahatoon | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | tume nahatoon | võitlus</annotation>
+		<annotation cp="👨🏽‍🫯‍👨🏿" type="tts">maadlevad mehed: keskmine nahatoon, tume nahatoon</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻">hele nahatoon | inimene | inimesed | keskmiselt tume nahatoon | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | võitlus</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏻" type="tts">maadlevad mehed: keskmiselt tume nahatoon, hele nahatoon</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼">inimene | inimesed | keskmiselt hele nahatoon | keskmiselt tume nahatoon | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | võitlus</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏼" type="tts">maadlevad mehed: keskmiselt tume nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽">inimene | inimesed | keskmine nahatoon | keskmiselt tume nahatoon | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | võitlus</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏽" type="tts">maadlevad mehed: keskmiselt tume nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿">inimene | inimesed | keskmiselt tume nahatoon | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | tume nahatoon | võitlus</annotation>
+		<annotation cp="👨🏾‍🫯‍👨🏿" type="tts">maadlevad mehed: keskmiselt tume nahatoon, tume nahatoon</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻">hele nahatoon | inimene | inimesed | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | tume nahatoon | võitlus</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏻" type="tts">maadlevad mehed: tume nahatoon, hele nahatoon</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼">inimene | inimesed | keskmiselt hele nahatoon | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | tume nahatoon | võitlus</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏼" type="tts">maadlevad mehed: tume nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽">inimene | inimesed | keskmine nahatoon | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | tume nahatoon | võitlus</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏽" type="tts">maadlevad mehed: tume nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾">inimene | inimesed | keskmiselt tume nahatoon | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | tume nahatoon | võitlus</annotation>
+		<annotation cp="👨🏿‍🫯‍👨🏾" type="tts">maadlevad mehed: tume nahatoon, keskmiselt tume nahatoon</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻">aastapäev | armastus | hele nahatoon | inimene | kallim | kohting | koos | mees | muahh | musi | paar | romantika | süda | suudlus | xoxo</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏻" type="tts">musi: mees, mees, hele nahatoon</annotation>
 		<annotation cp="👨🏻‍❤‍💋‍👨🏼">aastapäev | armastus | hele nahatoon | inimene | kallim | keskmiselt hele nahatoon | kohting | koos | mees | muahh | musi | paar | romantika | süda | suudlus | xoxo</annotation>
@@ -919,6 +1049,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦲" type="tts">mees: keskmiselt tume nahatoon, kiilaspea</annotation>
 		<annotation cp="👨🏿‍🦲">kiilaspea | mees | täiskasvanu | tume nahatoon | tüüp</annotation>
 		<annotation cp="👨🏿‍🦲" type="tts">mees: tume nahatoon, kiilaspea</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼">hele nahatoon | hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt hele nahatoon | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏼" type="tts">pidutsevad jänesekõrvadega mehed: hele nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽">hele nahatoon | hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmine nahatoon | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏽" type="tts">pidutsevad jänesekõrvadega mehed: hele nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾">hele nahatoon | hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt tume nahatoon | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏾" type="tts">pidutsevad jänesekõrvadega mehed: hele nahatoon, keskmiselt tume nahatoon</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿">hele nahatoon | hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt | tume nahatoon</annotation>
+		<annotation cp="👨🏻‍🐰‍👨🏿" type="tts">pidutsevad jänesekõrvadega mehed: hele nahatoon, tume nahatoon</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻">hele nahatoon | hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt hele nahatoon | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏻" type="tts">pidutsevad jänesekõrvadega mehed: keskmiselt hele nahatoon, hele nahatoon</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmine nahatoon | keskmiselt hele nahatoon | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏽" type="tts">pidutsevad jänesekõrvadega mehed: keskmiselt hele nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt hele nahatoon | keskmiselt tume nahatoon | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏾" type="tts">pidutsevad jänesekõrvadega mehed: keskmiselt hele nahatoon, keskmiselt tume nahatoon</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt hele nahatoon | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt | tume nahatoon</annotation>
+		<annotation cp="👨🏼‍🐰‍👨🏿" type="tts">pidutsevad jänesekõrvadega mehed: keskmiselt hele nahatoon, tume nahatoon</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻">hele nahatoon | hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmine nahatoon | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏻" type="tts">pidutsevad jänesekõrvadega mehed: keskmine nahatoon, hele nahatoon</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmine nahatoon | keskmiselt hele nahatoon | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏼" type="tts">pidutsevad jänesekõrvadega mehed: keskmine nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmine nahatoon | keskmiselt tume nahatoon | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏾" type="tts">pidutsevad jänesekõrvadega mehed: keskmine nahatoon, keskmiselt tume nahatoon</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmine nahatoon | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt | tume nahatoon</annotation>
+		<annotation cp="👨🏽‍🐰‍👨🏿" type="tts">pidutsevad jänesekõrvadega mehed: keskmine nahatoon, tume nahatoon</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻">hele nahatoon | hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt tume nahatoon | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏻" type="tts">pidutsevad jänesekõrvadega mehed: keskmiselt tume nahatoon, hele nahatoon</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt hele nahatoon | keskmiselt tume nahatoon | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏼" type="tts">pidutsevad jänesekõrvadega mehed: keskmiselt tume nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmine nahatoon | keskmiselt tume nahatoon | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏽" type="tts">pidutsevad jänesekõrvadega mehed: keskmiselt tume nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt tume nahatoon | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt | tume nahatoon</annotation>
+		<annotation cp="👨🏾‍🐰‍👨🏿" type="tts">pidutsevad jänesekõrvadega mehed: keskmiselt tume nahatoon, tume nahatoon</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻">hele nahatoon | hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt | tume nahatoon</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏻" type="tts">pidutsevad jänesekõrvadega mehed: tume nahatoon, hele nahatoon</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt hele nahatoon | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt | tume nahatoon</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏼" type="tts">pidutsevad jänesekõrvadega mehed: tume nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmine nahatoon | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt | tume nahatoon</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏽" type="tts">pidutsevad jänesekõrvadega mehed: tume nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt tume nahatoon | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt | tume nahatoon</annotation>
+		<annotation cp="👨🏿‍🐰‍👨🏾" type="tts">pidutsevad jänesekõrvadega mehed: tume nahatoon, keskmiselt tume nahatoon</annotation>
 		<annotation cp="👩🏻">daam | hele nahatoon | naine | täiskasvanu</annotation>
 		<annotation cp="👩🏻" type="tts">naine: hele nahatoon</annotation>
 		<annotation cp="👩🏼">daam | keskmiselt hele nahatoon | naine | täiskasvanu</annotation>
@@ -949,6 +1119,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👱🏾‍♀" type="tts">naine: keskmiselt tume nahatoon, blond</annotation>
 		<annotation cp="👱🏿‍♀">blond | blondiin | inimene | juuksed | naine | tume nahatoon</annotation>
 		<annotation cp="👱🏿‍♀" type="tts">naine: tume nahatoon, blond</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼">hele nahatoon | inimene | inimesed | kahevõitlus | keskmiselt hele nahatoon | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | võitlus</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏼" type="tts">maadlevad naised: hele nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽">hele nahatoon | inimene | inimesed | kahevõitlus | keskmine nahatoon | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | võitlus</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏽" type="tts">maadlevad naised: hele nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾">hele nahatoon | inimene | inimesed | kahevõitlus | keskmiselt tume nahatoon | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | võitlus</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏾" type="tts">maadlevad naised: hele nahatoon, keskmiselt tume nahatoon</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿">hele nahatoon | inimene | inimesed | kahevõitlus | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | tume nahatoon | võitlus</annotation>
+		<annotation cp="👩🏻‍🫯‍👩🏿" type="tts">maadlevad naised: hele nahatoon, tume nahatoon</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻">hele nahatoon | inimene | inimesed | kahevõitlus | keskmiselt hele nahatoon | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | võitlus</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏻" type="tts">maadlevad naised: keskmiselt hele nahatoon, hele nahatoon</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽">inimene | inimesed | kahevõitlus | keskmine nahatoon | keskmiselt hele nahatoon | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | võitlus</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏽" type="tts">maadlevad naised: keskmiselt hele nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾">inimene | inimesed | kahevõitlus | keskmiselt hele nahatoon | keskmiselt tume nahatoon | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | võitlus</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏾" type="tts">maadlevad naised: keskmiselt hele nahatoon, keskmiselt tume nahatoon</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿">inimene | inimesed | kahevõitlus | keskmiselt hele nahatoon | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | tume nahatoon | võitlus</annotation>
+		<annotation cp="👩🏼‍🫯‍👩🏿" type="tts">maadlevad naised: keskmiselt hele nahatoon, tume nahatoon</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻">hele nahatoon | inimene | inimesed | kahevõitlus | keskmine nahatoon | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | võitlus</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏻" type="tts">maadlevad naised: keskmine nahatoon, hele nahatoon</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼">inimene | inimesed | kahevõitlus | keskmine nahatoon | keskmiselt hele nahatoon | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | võitlus</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏼" type="tts">maadlevad naised: keskmine nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾">inimene | inimesed | kahevõitlus | keskmine nahatoon | keskmiselt tume nahatoon | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | võitlus</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏾" type="tts">maadlevad naised: keskmine nahatoon, keskmiselt tume nahatoon</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿">inimene | inimesed | kahevõitlus | keskmine nahatoon | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | tume nahatoon | võitlus</annotation>
+		<annotation cp="👩🏽‍🫯‍👩🏿" type="tts">maadlevad naised: keskmine nahatoon, tume nahatoon</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻">hele nahatoon | inimene | inimesed | kahevõitlus | keskmiselt tume nahatoon | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | võitlus</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏻" type="tts">maadlevad naised: keskmiselt tume nahatoon, hele nahatoon</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼">inimene | inimesed | kahevõitlus | keskmiselt hele nahatoon | keskmiselt tume nahatoon | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | võitlus</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏼" type="tts">maadlevad naised: keskmiselt tume nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽">inimene | inimesed | kahevõitlus | keskmine nahatoon | keskmiselt tume nahatoon | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | võitlus</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏽" type="tts">maadlevad naised: keskmiselt tume nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿">inimene | inimesed | kahevõitlus | keskmiselt tume nahatoon | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | tume nahatoon | võitlus</annotation>
+		<annotation cp="👩🏾‍🫯‍👩🏿" type="tts">maadlevad naised: keskmiselt tume nahatoon, tume nahatoon</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻">hele nahatoon | inimene | inimesed | kahevõitlus | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | tume nahatoon | võitlus</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏻" type="tts">maadlevad naised: tume nahatoon, hele nahatoon</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼">inimene | inimesed | kahevõitlus | keskmiselt hele nahatoon | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | tume nahatoon | võitlus</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏼" type="tts">maadlevad naised: tume nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽">inimene | inimesed | kahevõitlus | keskmine nahatoon | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | tume nahatoon | võitlus</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏽" type="tts">maadlevad naised: tume nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾">inimene | inimesed | kahevõitlus | keskmiselt tume nahatoon | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | tume nahatoon | võitlus</annotation>
+		<annotation cp="👩🏿‍🫯‍👩🏾" type="tts">maadlevad naised: tume nahatoon, keskmiselt tume nahatoon</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻">aastapäev | armastus | hele nahatoon | inimene | kallim | kohting | koos | mees | muahh | musi | naine | paar | romantika | süda | suudlus | xoxo</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏻" type="tts">musi: naine, mees, hele nahatoon</annotation>
 		<annotation cp="👩🏻‍❤‍💋‍👨🏼">aastapäev | armastus | hele nahatoon | inimene | kallim | keskmiselt hele nahatoon | kohting | koos | mees | muahh | musi | naine | paar | romantika | süda | suudlus | xoxo</annotation>
@@ -1197,6 +1407,46 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦲" type="tts">naine: keskmiselt tume nahatoon, kiilaspea</annotation>
 		<annotation cp="👩🏿‍🦲">daam | kiilaspea | naine | täiskasvanu | tume nahatoon</annotation>
 		<annotation cp="👩🏿‍🦲" type="tts">naine: tume nahatoon, kiilaspea</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼">hele nahatoon | jänku | keskmiselt hele nahatoon | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏼" type="tts">pidutsevad jänesekõrvadega naised: hele nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽">hele nahatoon | jänku | keskmine nahatoon | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏽" type="tts">pidutsevad jänesekõrvadega naised: hele nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾">hele nahatoon | jänku | keskmiselt tume nahatoon | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏾" type="tts">pidutsevad jänesekõrvadega naised: hele nahatoon, keskmiselt tume nahatoon</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿">hele nahatoon | jänku | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants | tume nahatoon</annotation>
+		<annotation cp="👩🏻‍🐰‍👩🏿" type="tts">pidutsevad jänesekõrvadega naised: hele nahatoon, tume nahatoon</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻">hele nahatoon | jänku | keskmiselt hele nahatoon | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏻" type="tts">pidutsevad jänesekõrvadega naised: keskmiselt hele nahatoon, hele nahatoon</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽">jänku | keskmine nahatoon | keskmiselt hele nahatoon | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏽" type="tts">pidutsevad jänesekõrvadega naised: keskmiselt hele nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾">jänku | keskmiselt hele nahatoon | keskmiselt tume nahatoon | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏾" type="tts">pidutsevad jänesekõrvadega naised: keskmiselt hele nahatoon, keskmiselt tume nahatoon</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿">jänku | keskmiselt hele nahatoon | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants | tume nahatoon</annotation>
+		<annotation cp="👩🏼‍🐰‍👩🏿" type="tts">pidutsevad jänesekõrvadega naised: keskmiselt hele nahatoon, tume nahatoon</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻">hele nahatoon | jänku | keskmine nahatoon | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏻" type="tts">pidutsevad jänesekõrvadega naised: keskmine nahatoon, hele nahatoon</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼">jänku | keskmine nahatoon | keskmiselt hele nahatoon | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏼" type="tts">pidutsevad jänesekõrvadega naised: keskmine nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾">jänku | keskmine nahatoon | keskmiselt tume nahatoon | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏾" type="tts">pidutsevad jänesekõrvadega naised: keskmine nahatoon, keskmiselt tume nahatoon</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿">jänku | keskmine nahatoon | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants | tume nahatoon</annotation>
+		<annotation cp="👩🏽‍🐰‍👩🏿" type="tts">pidutsevad jänesekõrvadega naised: keskmine nahatoon, tume nahatoon</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻">hele nahatoon | jänku | keskmiselt tume nahatoon | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏻" type="tts">pidutsevad jänesekõrvadega naised: keskmiselt tume nahatoon, hele nahatoon</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼">jänku | keskmiselt hele nahatoon | keskmiselt tume nahatoon | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏼" type="tts">pidutsevad jänesekõrvadega naised: keskmiselt tume nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽">jänku | keskmine nahatoon | keskmiselt tume nahatoon | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏽" type="tts">pidutsevad jänesekõrvadega naised: keskmiselt tume nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿">jänku | keskmiselt tume nahatoon | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants | tume nahatoon</annotation>
+		<annotation cp="👩🏾‍🐰‍👩🏿" type="tts">pidutsevad jänesekõrvadega naised: keskmiselt tume nahatoon, tume nahatoon</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻">hele nahatoon | jänku | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants | tume nahatoon</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏻" type="tts">pidutsevad jänesekõrvadega naised: tume nahatoon, hele nahatoon</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼">jänku | keskmiselt hele nahatoon | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants | tume nahatoon</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏼" type="tts">pidutsevad jänesekõrvadega naised: tume nahatoon, keskmiselt hele nahatoon</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽">jänku | keskmine nahatoon | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants | tume nahatoon</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏽" type="tts">pidutsevad jänesekõrvadega naised: tume nahatoon, keskmine nahatoon</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾">jänku | keskmiselt tume nahatoon | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants | tume nahatoon</annotation>
+		<annotation cp="👩🏿‍🐰‍👩🏾" type="tts">pidutsevad jänesekõrvadega naised: tume nahatoon, keskmiselt tume nahatoon</annotation>
 		<annotation cp="🧓🏻">eakas | hele nahatoon | isik | täiskasvanu | tark | vana | vanavanem</annotation>
 		<annotation cp="🧓🏻" type="tts">eakas: hele nahatoon</annotation>
 		<annotation cp="🧓🏼">eakas | isik | keskmiselt hele nahatoon | täiskasvanu | tark | vana | vanavanem</annotation>
@@ -2687,42 +2937,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🚶🏾‍♀" type="tts">kõndiv naine: keskmiselt tume nahatoon</annotation>
 		<annotation cp="🚶🏿‍♀">inimene | jalakäija | jalutamine | kõndimine | kõndiv naine | naine | tume nahatoon</annotation>
 		<annotation cp="🚶🏿‍♀" type="tts">kõndiv naine: tume nahatoon</annotation>
-		<annotation cp="🚶‍➡">inimene | jalakäija | jalutamine | jalutuskäik | kõndimine | kõndiv inimene | kõnnak | lonkimine | mees | samm</annotation>
-		<annotation cp="🚶‍➡" type="tts">jalakäija suunaga paremale</annotation>
-		<annotation cp="🚶🏻‍➡">inimene | jalakäija | jalutamine | jalutuskäik | kõndimine | kõndiv inimene | kõnnak | lonkimine | mees | samm</annotation>
-		<annotation cp="🚶🏻‍➡" type="tts">jalakäija suunaga paremale</annotation>
-		<annotation cp="🚶🏼‍➡">inimene | jalakäija | jalutamine | jalutuskäik | kõndimine | kõndiv inimene | kõnnak | lonkimine | mees | samm</annotation>
-		<annotation cp="🚶🏼‍➡" type="tts">jalakäija suunaga paremale</annotation>
-		<annotation cp="🚶🏽‍➡">inimene | jalakäija | jalutamine | jalutuskäik | kõndimine | kõndiv inimene | kõnnak | lonkimine | mees | samm</annotation>
-		<annotation cp="🚶🏽‍➡" type="tts">jalakäija suunaga paremale</annotation>
-		<annotation cp="🚶🏾‍➡">inimene | jalakäija | jalutamine | jalutuskäik | kõndimine | kõndiv inimene | kõnnak | lonkimine | mees | samm</annotation>
-		<annotation cp="🚶🏾‍➡" type="tts">jalakäija suunaga paremale</annotation>
-		<annotation cp="🚶🏿‍➡">inimene | jalakäija | jalutamine | jalutuskäik | kõndimine | kõndiv inimene | kõnnak | lonkimine | mees | samm</annotation>
-		<annotation cp="🚶🏿‍➡" type="tts">jalakäija suunaga paremale</annotation>
-		<annotation cp="🚶‍♀‍➡">inimene | jalakäija | jalutamine | kõndimine | kõndiv naine | naine</annotation>
-		<annotation cp="🚶‍♀‍➡" type="tts">kõndiv naine suunaga paremale</annotation>
-		<annotation cp="🚶🏻‍♀‍➡">inimene | jalakäija | jalutamine | kõndimine | kõndiv naine | naine</annotation>
-		<annotation cp="🚶🏻‍♀‍➡" type="tts">kõndiv naine suunaga paremale</annotation>
-		<annotation cp="🚶🏼‍♀‍➡">inimene | jalakäija | jalutamine | kõndimine | kõndiv naine | naine</annotation>
-		<annotation cp="🚶🏼‍♀‍➡" type="tts">kõndiv naine suunaga paremale</annotation>
-		<annotation cp="🚶🏽‍♀‍➡">inimene | jalakäija | jalutamine | kõndimine | kõndiv naine | naine</annotation>
-		<annotation cp="🚶🏽‍♀‍➡" type="tts">kõndiv naine suunaga paremale</annotation>
-		<annotation cp="🚶🏾‍♀‍➡">inimene | jalakäija | jalutamine | kõndimine | kõndiv naine | naine</annotation>
-		<annotation cp="🚶🏾‍♀‍➡" type="tts">kõndiv naine suunaga paremale</annotation>
-		<annotation cp="🚶🏿‍♀‍➡">inimene | jalakäija | jalutamine | kõndimine | kõndiv naine | naine</annotation>
-		<annotation cp="🚶🏿‍♀‍➡" type="tts">kõndiv naine suunaga paremale</annotation>
-		<annotation cp="🚶‍♂‍➡">jalakäija | jalutamine | kõndimine | kõndiv mees | mees</annotation>
-		<annotation cp="🚶‍♂‍➡" type="tts">kõndiv mees suunaga paremale</annotation>
-		<annotation cp="🚶🏻‍♂‍➡">jalakäija | jalutamine | kõndimine | kõndiv mees | mees</annotation>
-		<annotation cp="🚶🏻‍♂‍➡" type="tts">kõndiv mees suunaga paremale</annotation>
-		<annotation cp="🚶🏼‍♂‍➡">jalakäija | jalutamine | kõndimine | kõndiv mees | mees</annotation>
-		<annotation cp="🚶🏼‍♂‍➡" type="tts">kõndiv mees suunaga paremale</annotation>
-		<annotation cp="🚶🏽‍♂‍➡">jalakäija | jalutamine | kõndimine | kõndiv mees | mees</annotation>
-		<annotation cp="🚶🏽‍♂‍➡" type="tts">kõndiv mees suunaga paremale</annotation>
-		<annotation cp="🚶🏾‍♂‍➡">jalakäija | jalutamine | kõndimine | kõndiv mees | mees</annotation>
-		<annotation cp="🚶🏾‍♂‍➡" type="tts">kõndiv mees suunaga paremale</annotation>
-		<annotation cp="🚶🏿‍♂‍➡">jalakäija | jalutamine | kõndimine | kõndiv mees | mees</annotation>
-		<annotation cp="🚶🏿‍♂‍➡" type="tts">kõndiv mees suunaga paremale</annotation>
+		<annotation cp="🚶‍➡">inimene | jalakäija | jalutamine | jalutuskäik | kõndimine | kõndiv inimene | kõnnak | lonkimine | mees | paremale | samm | suunaga</annotation>
+		<annotation cp="🚶‍➡" type="tts">jalakäija: suunaga paremale</annotation>
+		<annotation cp="🚶🏻‍➡">hele nahatoon | inimene | jalakäija | jalutamine | jalutuskäik | kõndimine | kõndiv inimene | kõnnak | lonkimine | mees | paremale | samm | suunaga</annotation>
+		<annotation cp="🚶🏻‍➡" type="tts">jalakäija: hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🚶🏼‍➡">inimene | jalakäija | jalutamine | jalutuskäik | keskmiselt hele nahatoon | kõndimine | kõndiv inimene | kõnnak | lonkimine | mees | paremale | samm | suunaga</annotation>
+		<annotation cp="🚶🏼‍➡" type="tts">jalakäija: keskmiselt hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🚶🏽‍➡">inimene | jalakäija | jalutamine | jalutuskäik | keskmine nahatoon | kõndimine | kõndiv inimene | kõnnak | lonkimine | mees | paremale | samm | suunaga</annotation>
+		<annotation cp="🚶🏽‍➡" type="tts">jalakäija: keskmine nahatoon, suunaga paremale</annotation>
+		<annotation cp="🚶🏾‍➡">inimene | jalakäija | jalutamine | jalutuskäik | keskmiselt tume nahatoon | kõndimine | kõndiv inimene | kõnnak | lonkimine | mees | paremale | samm | suunaga</annotation>
+		<annotation cp="🚶🏾‍➡" type="tts">jalakäija: keskmiselt tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="🚶🏿‍➡">inimene | jalakäija | jalutamine | jalutuskäik | kõndimine | kõndiv inimene | kõnnak | lonkimine | mees | paremale | samm | suunaga | tume nahatoon</annotation>
+		<annotation cp="🚶🏿‍➡" type="tts">jalakäija: tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="🚶‍♀‍➡">inimene | jalakäija | jalutamine | kõndimine | kõndiv naine | naine | paremale | suunaga</annotation>
+		<annotation cp="🚶‍♀‍➡" type="tts">kõndiv naine: suunaga paremale</annotation>
+		<annotation cp="🚶🏻‍♀‍➡">hele nahatoon | inimene | jalakäija | jalutamine | kõndimine | kõndiv naine | naine | paremale | suunaga</annotation>
+		<annotation cp="🚶🏻‍♀‍➡" type="tts">kõndiv naine: hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🚶🏼‍♀‍➡">inimene | jalakäija | jalutamine | keskmiselt hele nahatoon | kõndimine | kõndiv naine | naine | paremale | suunaga</annotation>
+		<annotation cp="🚶🏼‍♀‍➡" type="tts">kõndiv naine: keskmiselt hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🚶🏽‍♀‍➡">inimene | jalakäija | jalutamine | keskmine nahatoon | kõndimine | kõndiv naine | naine | paremale | suunaga</annotation>
+		<annotation cp="🚶🏽‍♀‍➡" type="tts">kõndiv naine: keskmine nahatoon, suunaga paremale</annotation>
+		<annotation cp="🚶🏾‍♀‍➡">inimene | jalakäija | jalutamine | keskmiselt tume nahatoon | kõndimine | kõndiv naine | naine | paremale | suunaga</annotation>
+		<annotation cp="🚶🏾‍♀‍➡" type="tts">kõndiv naine: keskmiselt tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="🚶🏿‍♀‍➡">inimene | jalakäija | jalutamine | kõndimine | kõndiv naine | naine | paremale | suunaga | tume nahatoon</annotation>
+		<annotation cp="🚶🏿‍♀‍➡" type="tts">kõndiv naine: tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="🚶‍♂‍➡">jalakäija | jalutamine | kõndimine | kõndiv mees | mees | paremale | suunaga</annotation>
+		<annotation cp="🚶‍♂‍➡" type="tts">kõndiv mees: suunaga paremale</annotation>
+		<annotation cp="🚶🏻‍♂‍➡">hele nahatoon | jalakäija | jalutamine | kõndimine | kõndiv mees | mees | paremale | suunaga</annotation>
+		<annotation cp="🚶🏻‍♂‍➡" type="tts">kõndiv mees: hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🚶🏼‍♂‍➡">jalakäija | jalutamine | keskmiselt hele nahatoon | kõndimine | kõndiv mees | mees | paremale | suunaga</annotation>
+		<annotation cp="🚶🏼‍♂‍➡" type="tts">kõndiv mees: keskmiselt hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🚶🏽‍♂‍➡">jalakäija | jalutamine | keskmine nahatoon | kõndimine | kõndiv mees | mees | paremale | suunaga</annotation>
+		<annotation cp="🚶🏽‍♂‍➡" type="tts">kõndiv mees: keskmine nahatoon, suunaga paremale</annotation>
+		<annotation cp="🚶🏾‍♂‍➡">jalakäija | jalutamine | keskmiselt tume nahatoon | kõndimine | kõndiv mees | mees | paremale | suunaga</annotation>
+		<annotation cp="🚶🏾‍♂‍➡" type="tts">kõndiv mees: keskmiselt tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="🚶🏿‍♂‍➡">jalakäija | jalutamine | kõndimine | kõndiv mees | mees | paremale | suunaga | tume nahatoon</annotation>
+		<annotation cp="🚶🏿‍♂‍➡" type="tts">kõndiv mees: tume nahatoon, suunaga paremale</annotation>
 		<annotation cp="🧍🏻">hele nahatoon | inimene | seisev | seismine</annotation>
 		<annotation cp="🧍🏻" type="tts">seisev inimene: hele nahatoon</annotation>
 		<annotation cp="🧍🏼">inimene | keskmiselt hele nahatoon | seisev | seismine</annotation>
@@ -2783,42 +3033,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧎🏾‍♀" type="tts">põlvitav naine: keskmiselt tume nahatoon</annotation>
 		<annotation cp="🧎🏿‍♀">naine | põlvili | põlvitav | tume nahatoon</annotation>
 		<annotation cp="🧎🏿‍♀" type="tts">põlvitav naine: tume nahatoon</annotation>
-		<annotation cp="🧎‍➡">inimene | põlvili | põlvitav</annotation>
-		<annotation cp="🧎‍➡" type="tts">põlvitav inimene suunaga paremale</annotation>
-		<annotation cp="🧎🏻‍➡">inimene | põlvili | põlvitav</annotation>
-		<annotation cp="🧎🏻‍➡" type="tts">põlvitav inimene suunaga paremale</annotation>
-		<annotation cp="🧎🏼‍➡">inimene | põlvili | põlvitav</annotation>
-		<annotation cp="🧎🏼‍➡" type="tts">põlvitav inimene suunaga paremale</annotation>
-		<annotation cp="🧎🏽‍➡">inimene | põlvili | põlvitav</annotation>
-		<annotation cp="🧎🏽‍➡" type="tts">põlvitav inimene suunaga paremale</annotation>
-		<annotation cp="🧎🏾‍➡">inimene | põlvili | põlvitav</annotation>
-		<annotation cp="🧎🏾‍➡" type="tts">põlvitav inimene suunaga paremale</annotation>
-		<annotation cp="🧎🏿‍➡">inimene | põlvili | põlvitav</annotation>
-		<annotation cp="🧎🏿‍➡" type="tts">põlvitav inimene suunaga paremale</annotation>
-		<annotation cp="🧎‍♀‍➡">naine | põlvili | põlvitav</annotation>
-		<annotation cp="🧎‍♀‍➡" type="tts">põlvitav naine suunaga paremale</annotation>
-		<annotation cp="🧎🏻‍♀‍➡">naine | põlvili | põlvitav</annotation>
-		<annotation cp="🧎🏻‍♀‍➡" type="tts">põlvitav naine suunaga paremale</annotation>
-		<annotation cp="🧎🏼‍♀‍➡">naine | põlvili | põlvitav</annotation>
-		<annotation cp="🧎🏼‍♀‍➡" type="tts">põlvitav naine suunaga paremale</annotation>
-		<annotation cp="🧎🏽‍♀‍➡">naine | põlvili | põlvitav</annotation>
-		<annotation cp="🧎🏽‍♀‍➡" type="tts">põlvitav naine suunaga paremale</annotation>
-		<annotation cp="🧎🏾‍♀‍➡">naine | põlvili | põlvitav</annotation>
-		<annotation cp="🧎🏾‍♀‍➡" type="tts">põlvitav naine suunaga paremale</annotation>
-		<annotation cp="🧎🏿‍♀‍➡">naine | põlvili | põlvitav</annotation>
-		<annotation cp="🧎🏿‍♀‍➡" type="tts">põlvitav naine suunaga paremale</annotation>
-		<annotation cp="🧎‍♂‍➡">mees | põlvili | põlvitav</annotation>
-		<annotation cp="🧎‍♂‍➡" type="tts">põlvitav mees suunaga paremale</annotation>
-		<annotation cp="🧎🏻‍♂‍➡">mees | põlvili | põlvitav</annotation>
-		<annotation cp="🧎🏻‍♂‍➡" type="tts">põlvitav mees suunaga paremale</annotation>
-		<annotation cp="🧎🏼‍♂‍➡">mees | põlvili | põlvitav</annotation>
-		<annotation cp="🧎🏼‍♂‍➡" type="tts">põlvitav mees suunaga paremale</annotation>
-		<annotation cp="🧎🏽‍♂‍➡">mees | põlvili | põlvitav</annotation>
-		<annotation cp="🧎🏽‍♂‍➡" type="tts">põlvitav mees suunaga paremale</annotation>
-		<annotation cp="🧎🏾‍♂‍➡">mees | põlvili | põlvitav</annotation>
-		<annotation cp="🧎🏾‍♂‍➡" type="tts">põlvitav mees suunaga paremale</annotation>
-		<annotation cp="🧎🏿‍♂‍➡">mees | põlvili | põlvitav</annotation>
-		<annotation cp="🧎🏿‍♂‍➡" type="tts">põlvitav mees suunaga paremale</annotation>
+		<annotation cp="🧎‍➡">inimene | paremale | põlvili | põlvitav | suunaga</annotation>
+		<annotation cp="🧎‍➡" type="tts">põlvitav inimene: suunaga paremale</annotation>
+		<annotation cp="🧎🏻‍➡">hele nahatoon | inimene | paremale | põlvili | põlvitav | suunaga</annotation>
+		<annotation cp="🧎🏻‍➡" type="tts">põlvitav inimene: hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧎🏼‍➡">inimene | keskmiselt hele nahatoon | paremale | põlvili | põlvitav | suunaga</annotation>
+		<annotation cp="🧎🏼‍➡" type="tts">põlvitav inimene: keskmiselt hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧎🏽‍➡">inimene | keskmine nahatoon | paremale | põlvili | põlvitav | suunaga</annotation>
+		<annotation cp="🧎🏽‍➡" type="tts">põlvitav inimene: keskmine nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧎🏾‍➡">inimene | keskmiselt tume nahatoon | paremale | põlvili | põlvitav | suunaga</annotation>
+		<annotation cp="🧎🏾‍➡" type="tts">põlvitav inimene: keskmiselt tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧎🏿‍➡">inimene | paremale | põlvili | põlvitav | suunaga | tume nahatoon</annotation>
+		<annotation cp="🧎🏿‍➡" type="tts">põlvitav inimene: tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧎‍♀‍➡">naine | paremale | põlvili | põlvitav | suunaga</annotation>
+		<annotation cp="🧎‍♀‍➡" type="tts">põlvitav naine: suunaga paremale</annotation>
+		<annotation cp="🧎🏻‍♀‍➡">hele nahatoon | naine | paremale | põlvili | põlvitav | suunaga</annotation>
+		<annotation cp="🧎🏻‍♀‍➡" type="tts">põlvitav naine: hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧎🏼‍♀‍➡">keskmiselt hele nahatoon | naine | paremale | põlvili | põlvitav | suunaga</annotation>
+		<annotation cp="🧎🏼‍♀‍➡" type="tts">põlvitav naine: keskmiselt hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧎🏽‍♀‍➡">keskmine nahatoon | naine | paremale | põlvili | põlvitav | suunaga</annotation>
+		<annotation cp="🧎🏽‍♀‍➡" type="tts">põlvitav naine: keskmine nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧎🏾‍♀‍➡">keskmiselt tume nahatoon | naine | paremale | põlvili | põlvitav | suunaga</annotation>
+		<annotation cp="🧎🏾‍♀‍➡" type="tts">põlvitav naine: keskmiselt tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧎🏿‍♀‍➡">naine | paremale | põlvili | põlvitav | suunaga | tume nahatoon</annotation>
+		<annotation cp="🧎🏿‍♀‍➡" type="tts">põlvitav naine: tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧎‍♂‍➡">mees | paremale | põlvili | põlvitav | suunaga</annotation>
+		<annotation cp="🧎‍♂‍➡" type="tts">põlvitav mees: suunaga paremale</annotation>
+		<annotation cp="🧎🏻‍♂‍➡">hele nahatoon | mees | paremale | põlvili | põlvitav | suunaga</annotation>
+		<annotation cp="🧎🏻‍♂‍➡" type="tts">põlvitav mees: hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧎🏼‍♂‍➡">keskmiselt hele nahatoon | mees | paremale | põlvili | põlvitav | suunaga</annotation>
+		<annotation cp="🧎🏼‍♂‍➡" type="tts">põlvitav mees: keskmiselt hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧎🏽‍♂‍➡">keskmine nahatoon | mees | paremale | põlvili | põlvitav | suunaga</annotation>
+		<annotation cp="🧎🏽‍♂‍➡" type="tts">põlvitav mees: keskmine nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧎🏾‍♂‍➡">keskmiselt tume nahatoon | mees | paremale | põlvili | põlvitav | suunaga</annotation>
+		<annotation cp="🧎🏾‍♂‍➡" type="tts">põlvitav mees: keskmiselt tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧎🏿‍♂‍➡">mees | paremale | põlvili | põlvitav | suunaga | tume nahatoon</annotation>
+		<annotation cp="🧎🏿‍♂‍➡" type="tts">põlvitav mees: tume nahatoon, suunaga paremale</annotation>
 		<annotation cp="🧑🏻‍🦯">hele nahatoon | ligipääs | pime | valge kepiga inimene</annotation>
 		<annotation cp="🧑🏻‍🦯" type="tts">valge kepiga inimene: hele nahatoon</annotation>
 		<annotation cp="🧑🏼‍🦯">keskmiselt hele nahatoon | ligipääs | pime | valge kepiga inimene</annotation>
@@ -2829,18 +3079,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦯" type="tts">valge kepiga inimene: keskmiselt tume nahatoon</annotation>
 		<annotation cp="🧑🏿‍🦯">ligipääs | pime | tume nahatoon | valge kepiga inimene</annotation>
 		<annotation cp="🧑🏿‍🦯" type="tts">valge kepiga inimene: tume nahatoon</annotation>
-		<annotation cp="🧑‍🦯‍➡">ligipääs | pime | valge kepiga inimene</annotation>
-		<annotation cp="🧑‍🦯‍➡" type="tts">valge kepiga inimene suunaga paremale</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡">ligipääs | pime | valge kepiga inimene</annotation>
-		<annotation cp="🧑🏻‍🦯‍➡" type="tts">valge kepiga inimene suunaga paremale</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡">ligipääs | pime | valge kepiga inimene</annotation>
-		<annotation cp="🧑🏼‍🦯‍➡" type="tts">valge kepiga inimene suunaga paremale</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡">ligipääs | pime | valge kepiga inimene</annotation>
-		<annotation cp="🧑🏽‍🦯‍➡" type="tts">valge kepiga inimene suunaga paremale</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡">ligipääs | pime | valge kepiga inimene</annotation>
-		<annotation cp="🧑🏾‍🦯‍➡" type="tts">valge kepiga inimene suunaga paremale</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡">ligipääs | pime | valge kepiga inimene</annotation>
-		<annotation cp="🧑🏿‍🦯‍➡" type="tts">valge kepiga inimene suunaga paremale</annotation>
+		<annotation cp="🧑‍🦯‍➡">ligipääs | paremale | pime | suunaga | valge kepiga inimene</annotation>
+		<annotation cp="🧑‍🦯‍➡" type="tts">valge kepiga inimene: suunaga paremale</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡">hele nahatoon | ligipääs | paremale | pime | suunaga | valge kepiga inimene</annotation>
+		<annotation cp="🧑🏻‍🦯‍➡" type="tts">valge kepiga inimene: hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡">keskmiselt hele nahatoon | ligipääs | paremale | pime | suunaga | valge kepiga inimene</annotation>
+		<annotation cp="🧑🏼‍🦯‍➡" type="tts">valge kepiga inimene: keskmiselt hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡">keskmine nahatoon | ligipääs | paremale | pime | suunaga | valge kepiga inimene</annotation>
+		<annotation cp="🧑🏽‍🦯‍➡" type="tts">valge kepiga inimene: keskmine nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡">keskmiselt tume nahatoon | ligipääs | paremale | pime | suunaga | valge kepiga inimene</annotation>
+		<annotation cp="🧑🏾‍🦯‍➡" type="tts">valge kepiga inimene: keskmiselt tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡">ligipääs | paremale | pime | suunaga | tume nahatoon | valge kepiga inimene</annotation>
+		<annotation cp="🧑🏿‍🦯‍➡" type="tts">valge kepiga inimene: tume nahatoon, suunaga paremale</annotation>
 		<annotation cp="👨🏻‍🦯">hele nahatoon | ligipääs | mees | pime | valge kepiga mees</annotation>
 		<annotation cp="👨🏻‍🦯" type="tts">valge kepiga mees: hele nahatoon</annotation>
 		<annotation cp="👨🏼‍🦯">keskmiselt hele nahatoon | ligipääs | mees | pime | valge kepiga mees</annotation>
@@ -2851,18 +3101,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦯" type="tts">valge kepiga mees: keskmiselt tume nahatoon</annotation>
 		<annotation cp="👨🏿‍🦯">ligipääs | mees | pime | tume nahatoon | valge kepiga mees</annotation>
 		<annotation cp="👨🏿‍🦯" type="tts">valge kepiga mees: tume nahatoon</annotation>
-		<annotation cp="👨‍🦯‍➡">ligipääs | mees | pime | valge kepiga mees</annotation>
-		<annotation cp="👨‍🦯‍➡" type="tts">valge kepiga mees suunaga paremale</annotation>
-		<annotation cp="👨🏻‍🦯‍➡">ligipääs | mees | pime | valge kepiga mees</annotation>
-		<annotation cp="👨🏻‍🦯‍➡" type="tts">valge kepiga mees suunaga paremale</annotation>
-		<annotation cp="👨🏼‍🦯‍➡">ligipääs | mees | pime | valge kepiga mees</annotation>
-		<annotation cp="👨🏼‍🦯‍➡" type="tts">valge kepiga mees suunaga paremale</annotation>
-		<annotation cp="👨🏽‍🦯‍➡">ligipääs | mees | pime | valge kepiga mees</annotation>
-		<annotation cp="👨🏽‍🦯‍➡" type="tts">valge kepiga mees suunaga paremale</annotation>
-		<annotation cp="👨🏾‍🦯‍➡">ligipääs | mees | pime | valge kepiga mees</annotation>
-		<annotation cp="👨🏾‍🦯‍➡" type="tts">valge kepiga mees suunaga paremale</annotation>
-		<annotation cp="👨🏿‍🦯‍➡">ligipääs | mees | pime | valge kepiga mees</annotation>
-		<annotation cp="👨🏿‍🦯‍➡" type="tts">valge kepiga mees suunaga paremale</annotation>
+		<annotation cp="👨‍🦯‍➡">ligipääs | mees | paremale | pime | suunaga | valge kepiga mees</annotation>
+		<annotation cp="👨‍🦯‍➡" type="tts">valge kepiga mees: suunaga paremale</annotation>
+		<annotation cp="👨🏻‍🦯‍➡">hele nahatoon | ligipääs | mees | paremale | pime | suunaga | valge kepiga mees</annotation>
+		<annotation cp="👨🏻‍🦯‍➡" type="tts">valge kepiga mees: hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="👨🏼‍🦯‍➡">keskmiselt hele nahatoon | ligipääs | mees | paremale | pime | suunaga | valge kepiga mees</annotation>
+		<annotation cp="👨🏼‍🦯‍➡" type="tts">valge kepiga mees: keskmiselt hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="👨🏽‍🦯‍➡">keskmine nahatoon | ligipääs | mees | paremale | pime | suunaga | valge kepiga mees</annotation>
+		<annotation cp="👨🏽‍🦯‍➡" type="tts">valge kepiga mees: keskmine nahatoon, suunaga paremale</annotation>
+		<annotation cp="👨🏾‍🦯‍➡">keskmiselt tume nahatoon | ligipääs | mees | paremale | pime | suunaga | valge kepiga mees</annotation>
+		<annotation cp="👨🏾‍🦯‍➡" type="tts">valge kepiga mees: keskmiselt tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="👨🏿‍🦯‍➡">ligipääs | mees | paremale | pime | suunaga | tume nahatoon | valge kepiga mees</annotation>
+		<annotation cp="👨🏿‍🦯‍➡" type="tts">valge kepiga mees: tume nahatoon, suunaga paremale</annotation>
 		<annotation cp="👩🏻‍🦯">hele nahatoon | ligipääs | naine | pime | valge kepiga naine</annotation>
 		<annotation cp="👩🏻‍🦯" type="tts">valge kepiga naine: hele nahatoon</annotation>
 		<annotation cp="👩🏼‍🦯">keskmiselt hele nahatoon | ligipääs | naine | pime | valge kepiga naine</annotation>
@@ -2873,18 +3123,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦯" type="tts">valge kepiga naine: keskmiselt tume nahatoon</annotation>
 		<annotation cp="👩🏿‍🦯">ligipääs | naine | pime | tume nahatoon | valge kepiga naine</annotation>
 		<annotation cp="👩🏿‍🦯" type="tts">valge kepiga naine: tume nahatoon</annotation>
-		<annotation cp="👩‍🦯‍➡">ligipääs | naine | pime | valge kepiga naine</annotation>
-		<annotation cp="👩‍🦯‍➡" type="tts">valge kepiga naine suunaga paremale</annotation>
-		<annotation cp="👩🏻‍🦯‍➡">ligipääs | naine | pime | valge kepiga naine</annotation>
-		<annotation cp="👩🏻‍🦯‍➡" type="tts">valge kepiga naine suunaga paremale</annotation>
-		<annotation cp="👩🏼‍🦯‍➡">ligipääs | naine | pime | valge kepiga naine</annotation>
-		<annotation cp="👩🏼‍🦯‍➡" type="tts">valge kepiga naine suunaga paremale</annotation>
-		<annotation cp="👩🏽‍🦯‍➡">ligipääs | naine | pime | valge kepiga naine</annotation>
-		<annotation cp="👩🏽‍🦯‍➡" type="tts">valge kepiga naine suunaga paremale</annotation>
-		<annotation cp="👩🏾‍🦯‍➡">ligipääs | naine | pime | valge kepiga naine</annotation>
-		<annotation cp="👩🏾‍🦯‍➡" type="tts">valge kepiga naine suunaga paremale</annotation>
-		<annotation cp="👩🏿‍🦯‍➡">ligipääs | naine | pime | valge kepiga naine</annotation>
-		<annotation cp="👩🏿‍🦯‍➡" type="tts">valge kepiga naine suunaga paremale</annotation>
+		<annotation cp="👩‍🦯‍➡">ligipääs | naine | paremale | pime | suunaga | valge kepiga naine</annotation>
+		<annotation cp="👩‍🦯‍➡" type="tts">valge kepiga naine: suunaga paremale</annotation>
+		<annotation cp="👩🏻‍🦯‍➡">hele nahatoon | ligipääs | naine | paremale | pime | suunaga | valge kepiga naine</annotation>
+		<annotation cp="👩🏻‍🦯‍➡" type="tts">valge kepiga naine: hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="👩🏼‍🦯‍➡">keskmiselt hele nahatoon | ligipääs | naine | paremale | pime | suunaga | valge kepiga naine</annotation>
+		<annotation cp="👩🏼‍🦯‍➡" type="tts">valge kepiga naine: keskmiselt hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="👩🏽‍🦯‍➡">keskmine nahatoon | ligipääs | naine | paremale | pime | suunaga | valge kepiga naine</annotation>
+		<annotation cp="👩🏽‍🦯‍➡" type="tts">valge kepiga naine: keskmine nahatoon, suunaga paremale</annotation>
+		<annotation cp="👩🏾‍🦯‍➡">keskmiselt tume nahatoon | ligipääs | naine | paremale | pime | suunaga | valge kepiga naine</annotation>
+		<annotation cp="👩🏾‍🦯‍➡" type="tts">valge kepiga naine: keskmiselt tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="👩🏿‍🦯‍➡">ligipääs | naine | paremale | pime | suunaga | tume nahatoon | valge kepiga naine</annotation>
+		<annotation cp="👩🏿‍🦯‍➡" type="tts">valge kepiga naine: tume nahatoon, suunaga paremale</annotation>
 		<annotation cp="🧑🏻‍🦼">elektrilises ratastoolis inimene | hele nahatoon | ligipääsetavus | ratastool</annotation>
 		<annotation cp="🧑🏻‍🦼" type="tts">elektrilises ratastoolis inimene: hele nahatoon</annotation>
 		<annotation cp="🧑🏼‍🦼">elektrilises ratastoolis inimene | keskmiselt hele nahatoon | ligipääsetavus | ratastool</annotation>
@@ -2895,18 +3145,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦼" type="tts">elektrilises ratastoolis inimene: keskmiselt tume nahatoon</annotation>
 		<annotation cp="🧑🏿‍🦼">elektrilises ratastoolis inimene | ligipääsetavus | ratastool | tume nahatoon</annotation>
 		<annotation cp="🧑🏿‍🦼" type="tts">elektrilises ratastoolis inimene: tume nahatoon</annotation>
-		<annotation cp="🧑‍🦼‍➡">elektrilises ratastoolis inimene | ligipääsetavus | ratastool</annotation>
-		<annotation cp="🧑‍🦼‍➡" type="tts">elektrilises ratastoolis inimene suunaga paremale</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡">elektrilises ratastoolis inimene | ligipääsetavus | ratastool</annotation>
-		<annotation cp="🧑🏻‍🦼‍➡" type="tts">elektrilises ratastoolis inimene suunaga paremale</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡">elektrilises ratastoolis inimene | ligipääsetavus | ratastool</annotation>
-		<annotation cp="🧑🏼‍🦼‍➡" type="tts">elektrilises ratastoolis inimene suunaga paremale</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡">elektrilises ratastoolis inimene | ligipääsetavus | ratastool</annotation>
-		<annotation cp="🧑🏽‍🦼‍➡" type="tts">elektrilises ratastoolis inimene suunaga paremale</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡">elektrilises ratastoolis inimene | ligipääsetavus | ratastool</annotation>
-		<annotation cp="🧑🏾‍🦼‍➡" type="tts">elektrilises ratastoolis inimene suunaga paremale</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡">elektrilises ratastoolis inimene | ligipääsetavus | ratastool</annotation>
-		<annotation cp="🧑🏿‍🦼‍➡" type="tts">elektrilises ratastoolis inimene suunaga paremale</annotation>
+		<annotation cp="🧑‍🦼‍➡">elektrilises ratastoolis inimene | ligipääsetavus | paremale | ratastool | suunaga</annotation>
+		<annotation cp="🧑‍🦼‍➡" type="tts">elektrilises ratastoolis inimene: suunaga paremale</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡">elektrilises ratastoolis inimene | hele nahatoon | ligipääsetavus | paremale | ratastool | suunaga</annotation>
+		<annotation cp="🧑🏻‍🦼‍➡" type="tts">elektrilises ratastoolis inimene: hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡">elektrilises ratastoolis inimene | keskmiselt hele nahatoon | ligipääsetavus | paremale | ratastool | suunaga</annotation>
+		<annotation cp="🧑🏼‍🦼‍➡" type="tts">elektrilises ratastoolis inimene: keskmiselt hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡">elektrilises ratastoolis inimene | keskmine nahatoon | ligipääsetavus | paremale | ratastool | suunaga</annotation>
+		<annotation cp="🧑🏽‍🦼‍➡" type="tts">elektrilises ratastoolis inimene: keskmine nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡">elektrilises ratastoolis inimene | keskmiselt tume nahatoon | ligipääsetavus | paremale | ratastool | suunaga</annotation>
+		<annotation cp="🧑🏾‍🦼‍➡" type="tts">elektrilises ratastoolis inimene: keskmiselt tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡">elektrilises ratastoolis inimene | ligipääsetavus | paremale | ratastool | suunaga | tume nahatoon</annotation>
+		<annotation cp="🧑🏿‍🦼‍➡" type="tts">elektrilises ratastoolis inimene: tume nahatoon, suunaga paremale</annotation>
 		<annotation cp="👨🏻‍🦼">elektri | hele nahatoon | ligipääs | mees | ratastool</annotation>
 		<annotation cp="👨🏻‍🦼" type="tts">elektriratastoolis olev mees: hele nahatoon</annotation>
 		<annotation cp="👨🏼‍🦼">elektri | keskmiselt hele nahatoon | ligipääs | mees | ratastool</annotation>
@@ -2917,18 +3167,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦼" type="tts">elektriratastoolis olev mees: keskmiselt tume nahatoon</annotation>
 		<annotation cp="👨🏿‍🦼">elektri | ligipääs | mees | ratastool | tume nahatoon</annotation>
 		<annotation cp="👨🏿‍🦼" type="tts">elektriratastoolis olev mees: tume nahatoon</annotation>
-		<annotation cp="👨‍🦼‍➡">elektri | ligipääs | mees | ratastool</annotation>
-		<annotation cp="👨‍🦼‍➡" type="tts">elektriratastoolis olev mees suunaga paremale</annotation>
-		<annotation cp="👨🏻‍🦼‍➡">elektri | ligipääs | mees | ratastool</annotation>
-		<annotation cp="👨🏻‍🦼‍➡" type="tts">elektriratastoolis olev mees suunaga paremale</annotation>
-		<annotation cp="👨🏼‍🦼‍➡">elektri | ligipääs | mees | ratastool</annotation>
-		<annotation cp="👨🏼‍🦼‍➡" type="tts">elektriratastoolis olev mees suunaga paremale</annotation>
-		<annotation cp="👨🏽‍🦼‍➡">elektri | ligipääs | mees | ratastool</annotation>
-		<annotation cp="👨🏽‍🦼‍➡" type="tts">elektriratastoolis olev mees suunaga paremale</annotation>
-		<annotation cp="👨🏾‍🦼‍➡">elektri | ligipääs | mees | ratastool</annotation>
-		<annotation cp="👨🏾‍🦼‍➡" type="tts">elektriratastoolis olev mees suunaga paremale</annotation>
-		<annotation cp="👨🏿‍🦼‍➡">elektri | ligipääs | mees | ratastool</annotation>
-		<annotation cp="👨🏿‍🦼‍➡" type="tts">elektriratastoolis olev mees suunaga paremale</annotation>
+		<annotation cp="👨‍🦼‍➡">elektri | ligipääs | mees | paremale | ratastool | suunaga</annotation>
+		<annotation cp="👨‍🦼‍➡" type="tts">elektriratastoolis olev mees: suunaga paremale</annotation>
+		<annotation cp="👨🏻‍🦼‍➡">elektri | hele nahatoon | ligipääs | mees | paremale | ratastool | suunaga</annotation>
+		<annotation cp="👨🏻‍🦼‍➡" type="tts">elektriratastoolis olev mees: hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="👨🏼‍🦼‍➡">elektri | keskmiselt hele nahatoon | ligipääs | mees | paremale | ratastool | suunaga</annotation>
+		<annotation cp="👨🏼‍🦼‍➡" type="tts">elektriratastoolis olev mees: keskmiselt hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="👨🏽‍🦼‍➡">elektri | keskmine nahatoon | ligipääs | mees | paremale | ratastool | suunaga</annotation>
+		<annotation cp="👨🏽‍🦼‍➡" type="tts">elektriratastoolis olev mees: keskmine nahatoon, suunaga paremale</annotation>
+		<annotation cp="👨🏾‍🦼‍➡">elektri | keskmiselt tume nahatoon | ligipääs | mees | paremale | ratastool | suunaga</annotation>
+		<annotation cp="👨🏾‍🦼‍➡" type="tts">elektriratastoolis olev mees: keskmiselt tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="👨🏿‍🦼‍➡">elektri | ligipääs | mees | paremale | ratastool | suunaga | tume nahatoon</annotation>
+		<annotation cp="👨🏿‍🦼‍➡" type="tts">elektriratastoolis olev mees: tume nahatoon, suunaga paremale</annotation>
 		<annotation cp="👩🏻‍🦼">elektri | hele nahatoon | ligipääs | naine | ratastool</annotation>
 		<annotation cp="👩🏻‍🦼" type="tts">elektriratastoolis olev naine: hele nahatoon</annotation>
 		<annotation cp="👩🏼‍🦼">elektri | keskmiselt hele nahatoon | ligipääs | naine | ratastool</annotation>
@@ -2939,18 +3189,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦼" type="tts">elektriratastoolis olev naine: keskmiselt tume nahatoon</annotation>
 		<annotation cp="👩🏿‍🦼">elektri | ligipääs | naine | ratastool | tume nahatoon</annotation>
 		<annotation cp="👩🏿‍🦼" type="tts">elektriratastoolis olev naine: tume nahatoon</annotation>
-		<annotation cp="👩‍🦼‍➡">elektri | ligipääs | naine | ratastool</annotation>
-		<annotation cp="👩‍🦼‍➡" type="tts">elektriratastoolis olev naine suunaga paremale</annotation>
-		<annotation cp="👩🏻‍🦼‍➡">elektri | ligipääs | naine | ratastool</annotation>
-		<annotation cp="👩🏻‍🦼‍➡" type="tts">elektriratastoolis olev naine suunaga paremale</annotation>
-		<annotation cp="👩🏼‍🦼‍➡">elektri | ligipääs | naine | ratastool</annotation>
-		<annotation cp="👩🏼‍🦼‍➡" type="tts">elektriratastoolis olev naine suunaga paremale</annotation>
-		<annotation cp="👩🏽‍🦼‍➡">elektri | ligipääs | naine | ratastool</annotation>
-		<annotation cp="👩🏽‍🦼‍➡" type="tts">elektriratastoolis olev naine suunaga paremale</annotation>
-		<annotation cp="👩🏾‍🦼‍➡">elektri | ligipääs | naine | ratastool</annotation>
-		<annotation cp="👩🏾‍🦼‍➡" type="tts">elektriratastoolis olev naine suunaga paremale</annotation>
-		<annotation cp="👩🏿‍🦼‍➡">elektri | ligipääs | naine | ratastool</annotation>
-		<annotation cp="👩🏿‍🦼‍➡" type="tts">elektriratastoolis olev naine suunaga paremale</annotation>
+		<annotation cp="👩‍🦼‍➡">elektri | ligipääs | naine | paremale | ratastool | suunaga</annotation>
+		<annotation cp="👩‍🦼‍➡" type="tts">elektriratastoolis olev naine: suunaga paremale</annotation>
+		<annotation cp="👩🏻‍🦼‍➡">elektri | hele nahatoon | ligipääs | naine | paremale | ratastool | suunaga</annotation>
+		<annotation cp="👩🏻‍🦼‍➡" type="tts">elektriratastoolis olev naine: hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="👩🏼‍🦼‍➡">elektri | keskmiselt hele nahatoon | ligipääs | naine | paremale | ratastool | suunaga</annotation>
+		<annotation cp="👩🏼‍🦼‍➡" type="tts">elektriratastoolis olev naine: keskmiselt hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="👩🏽‍🦼‍➡">elektri | keskmine nahatoon | ligipääs | naine | paremale | ratastool | suunaga</annotation>
+		<annotation cp="👩🏽‍🦼‍➡" type="tts">elektriratastoolis olev naine: keskmine nahatoon, suunaga paremale</annotation>
+		<annotation cp="👩🏾‍🦼‍➡">elektri | keskmiselt tume nahatoon | ligipääs | naine | paremale | ratastool | suunaga</annotation>
+		<annotation cp="👩🏾‍🦼‍➡" type="tts">elektriratastoolis olev naine: keskmiselt tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="👩🏿‍🦼‍➡">elektri | ligipääs | naine | paremale | ratastool | suunaga | tume nahatoon</annotation>
+		<annotation cp="👩🏿‍🦼‍➡" type="tts">elektriratastoolis olev naine: tume nahatoon, suunaga paremale</annotation>
 		<annotation cp="🧑🏻‍🦽">hele nahatoon | ligipääsetavus | manuaalses ratastoolis inimene | ratastool</annotation>
 		<annotation cp="🧑🏻‍🦽" type="tts">manuaalses ratastoolis inimene: hele nahatoon</annotation>
 		<annotation cp="🧑🏼‍🦽">keskmiselt hele nahatoon | ligipääsetavus | manuaalses ratastoolis inimene | ratastool</annotation>
@@ -2961,18 +3211,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🧑🏾‍🦽" type="tts">manuaalses ratastoolis inimene: keskmiselt tume nahatoon</annotation>
 		<annotation cp="🧑🏿‍🦽">ligipääsetavus | manuaalses ratastoolis inimene | ratastool | tume nahatoon</annotation>
 		<annotation cp="🧑🏿‍🦽" type="tts">manuaalses ratastoolis inimene: tume nahatoon</annotation>
-		<annotation cp="🧑‍🦽‍➡">ligipääsetavus | manuaalses ratastoolis inimene | ratastool</annotation>
-		<annotation cp="🧑‍🦽‍➡" type="tts">manuaalses ratastoolis inimene suunaga paremale</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡">ligipääsetavus | manuaalses ratastoolis inimene | ratastool</annotation>
-		<annotation cp="🧑🏻‍🦽‍➡" type="tts">manuaalses ratastoolis inimene suunaga paremale</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡">ligipääsetavus | manuaalses ratastoolis inimene | ratastool</annotation>
-		<annotation cp="🧑🏼‍🦽‍➡" type="tts">manuaalses ratastoolis inimene suunaga paremale</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡">ligipääsetavus | manuaalses ratastoolis inimene | ratastool</annotation>
-		<annotation cp="🧑🏽‍🦽‍➡" type="tts">manuaalses ratastoolis inimene suunaga paremale</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡">ligipääsetavus | manuaalses ratastoolis inimene | ratastool</annotation>
-		<annotation cp="🧑🏾‍🦽‍➡" type="tts">manuaalses ratastoolis inimene suunaga paremale</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡">ligipääsetavus | manuaalses ratastoolis inimene | ratastool</annotation>
-		<annotation cp="🧑🏿‍🦽‍➡" type="tts">manuaalses ratastoolis inimene suunaga paremale</annotation>
+		<annotation cp="🧑‍🦽‍➡">ligipääsetavus | manuaalses ratastoolis inimene | paremale | ratastool | suunaga</annotation>
+		<annotation cp="🧑‍🦽‍➡" type="tts">manuaalses ratastoolis inimene: suunaga paremale</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡">hele nahatoon | ligipääsetavus | manuaalses ratastoolis inimene | paremale | ratastool | suunaga</annotation>
+		<annotation cp="🧑🏻‍🦽‍➡" type="tts">manuaalses ratastoolis inimene: hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡">keskmiselt hele nahatoon | ligipääsetavus | manuaalses ratastoolis inimene | paremale | ratastool | suunaga</annotation>
+		<annotation cp="🧑🏼‍🦽‍➡" type="tts">manuaalses ratastoolis inimene: keskmiselt hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡">keskmine nahatoon | ligipääsetavus | manuaalses ratastoolis inimene | paremale | ratastool | suunaga</annotation>
+		<annotation cp="🧑🏽‍🦽‍➡" type="tts">manuaalses ratastoolis inimene: keskmine nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡">keskmiselt tume nahatoon | ligipääsetavus | manuaalses ratastoolis inimene | paremale | ratastool | suunaga</annotation>
+		<annotation cp="🧑🏾‍🦽‍➡" type="tts">manuaalses ratastoolis inimene: keskmiselt tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡">ligipääsetavus | manuaalses ratastoolis inimene | paremale | ratastool | suunaga | tume nahatoon</annotation>
+		<annotation cp="🧑🏿‍🦽‍➡" type="tts">manuaalses ratastoolis inimene: tume nahatoon, suunaga paremale</annotation>
 		<annotation cp="👨🏻‍🦽">hele nahatoon | ligipääs | manuaal | mees | ratastool</annotation>
 		<annotation cp="👨🏻‍🦽" type="tts">manuaalratastoolis olev mees: hele nahatoon</annotation>
 		<annotation cp="👨🏼‍🦽">keskmiselt hele nahatoon | ligipääs | manuaal | mees | ratastool</annotation>
@@ -2983,18 +3233,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👨🏾‍🦽" type="tts">manuaalratastoolis olev mees: keskmiselt tume nahatoon</annotation>
 		<annotation cp="👨🏿‍🦽">ligipääs | manuaal | mees | ratastool | tume nahatoon</annotation>
 		<annotation cp="👨🏿‍🦽" type="tts">manuaalratastoolis olev mees: tume nahatoon</annotation>
-		<annotation cp="👨‍🦽‍➡">ligipääs | manuaal | mees | ratastool</annotation>
-		<annotation cp="👨‍🦽‍➡" type="tts">manuaalratastoolis olev mees suunaga paremale</annotation>
-		<annotation cp="👨🏻‍🦽‍➡">ligipääs | manuaal | mees | ratastool</annotation>
-		<annotation cp="👨🏻‍🦽‍➡" type="tts">manuaalratastoolis olev mees suunaga paremale</annotation>
-		<annotation cp="👨🏼‍🦽‍➡">ligipääs | manuaal | mees | ratastool</annotation>
-		<annotation cp="👨🏼‍🦽‍➡" type="tts">manuaalratastoolis olev mees suunaga paremale</annotation>
-		<annotation cp="👨🏽‍🦽‍➡">ligipääs | manuaal | mees | ratastool</annotation>
-		<annotation cp="👨🏽‍🦽‍➡" type="tts">manuaalratastoolis olev mees suunaga paremale</annotation>
-		<annotation cp="👨🏾‍🦽‍➡">ligipääs | manuaal | mees | ratastool</annotation>
-		<annotation cp="👨🏾‍🦽‍➡" type="tts">manuaalratastoolis olev mees suunaga paremale</annotation>
-		<annotation cp="👨🏿‍🦽‍➡">ligipääs | manuaal | mees | ratastool</annotation>
-		<annotation cp="👨🏿‍🦽‍➡" type="tts">manuaalratastoolis olev mees suunaga paremale</annotation>
+		<annotation cp="👨‍🦽‍➡">ligipääs | manuaal | mees | paremale | ratastool | suunaga</annotation>
+		<annotation cp="👨‍🦽‍➡" type="tts">manuaalratastoolis olev mees: suunaga paremale</annotation>
+		<annotation cp="👨🏻‍🦽‍➡">hele nahatoon | ligipääs | manuaal | mees | paremale | ratastool | suunaga</annotation>
+		<annotation cp="👨🏻‍🦽‍➡" type="tts">manuaalratastoolis olev mees: hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="👨🏼‍🦽‍➡">keskmiselt hele nahatoon | ligipääs | manuaal | mees | paremale | ratastool | suunaga</annotation>
+		<annotation cp="👨🏼‍🦽‍➡" type="tts">manuaalratastoolis olev mees: keskmiselt hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="👨🏽‍🦽‍➡">keskmine nahatoon | ligipääs | manuaal | mees | paremale | ratastool | suunaga</annotation>
+		<annotation cp="👨🏽‍🦽‍➡" type="tts">manuaalratastoolis olev mees: keskmine nahatoon, suunaga paremale</annotation>
+		<annotation cp="👨🏾‍🦽‍➡">keskmiselt tume nahatoon | ligipääs | manuaal | mees | paremale | ratastool | suunaga</annotation>
+		<annotation cp="👨🏾‍🦽‍➡" type="tts">manuaalratastoolis olev mees: keskmiselt tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="👨🏿‍🦽‍➡">ligipääs | manuaal | mees | paremale | ratastool | suunaga | tume nahatoon</annotation>
+		<annotation cp="👨🏿‍🦽‍➡" type="tts">manuaalratastoolis olev mees: tume nahatoon, suunaga paremale</annotation>
 		<annotation cp="👩🏻‍🦽">elektri | hele nahatoon | ligipääs | naine | ratastool</annotation>
 		<annotation cp="👩🏻‍🦽" type="tts">manuaalratastoolis olev naine: hele nahatoon</annotation>
 		<annotation cp="👩🏼‍🦽">elektri | keskmiselt hele nahatoon | ligipääs | naine | ratastool</annotation>
@@ -3005,18 +3255,18 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="👩🏾‍🦽" type="tts">manuaalratastoolis olev naine: keskmiselt tume nahatoon</annotation>
 		<annotation cp="👩🏿‍🦽">elektri | ligipääs | naine | ratastool | tume nahatoon</annotation>
 		<annotation cp="👩🏿‍🦽" type="tts">manuaalratastoolis olev naine: tume nahatoon</annotation>
-		<annotation cp="👩‍🦽‍➡">elektri | ligipääs | naine | ratastool</annotation>
-		<annotation cp="👩‍🦽‍➡" type="tts">manuaalratastoolis olev naine suunaga paremale</annotation>
-		<annotation cp="👩🏻‍🦽‍➡">elektri | ligipääs | naine | ratastool</annotation>
-		<annotation cp="👩🏻‍🦽‍➡" type="tts">manuaalratastoolis olev naine suunaga paremale</annotation>
-		<annotation cp="👩🏼‍🦽‍➡">elektri | ligipääs | naine | ratastool</annotation>
-		<annotation cp="👩🏼‍🦽‍➡" type="tts">manuaalratastoolis olev naine suunaga paremale</annotation>
-		<annotation cp="👩🏽‍🦽‍➡">elektri | ligipääs | naine | ratastool</annotation>
-		<annotation cp="👩🏽‍🦽‍➡" type="tts">manuaalratastoolis olev naine suunaga paremale</annotation>
-		<annotation cp="👩🏾‍🦽‍➡">elektri | ligipääs | naine | ratastool</annotation>
-		<annotation cp="👩🏾‍🦽‍➡" type="tts">manuaalratastoolis olev naine suunaga paremale</annotation>
-		<annotation cp="👩🏿‍🦽‍➡">elektri | ligipääs | naine | ratastool</annotation>
-		<annotation cp="👩🏿‍🦽‍➡" type="tts">manuaalratastoolis olev naine suunaga paremale</annotation>
+		<annotation cp="👩‍🦽‍➡">elektri | ligipääs | naine | paremale | ratastool | suunaga</annotation>
+		<annotation cp="👩‍🦽‍➡" type="tts">manuaalratastoolis olev naine: suunaga paremale</annotation>
+		<annotation cp="👩🏻‍🦽‍➡">elektri | hele nahatoon | ligipääs | naine | paremale | ratastool | suunaga</annotation>
+		<annotation cp="👩🏻‍🦽‍➡" type="tts">manuaalratastoolis olev naine: hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="👩🏼‍🦽‍➡">elektri | keskmiselt hele nahatoon | ligipääs | naine | paremale | ratastool | suunaga</annotation>
+		<annotation cp="👩🏼‍🦽‍➡" type="tts">manuaalratastoolis olev naine: keskmiselt hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="👩🏽‍🦽‍➡">elektri | keskmine nahatoon | ligipääs | naine | paremale | ratastool | suunaga</annotation>
+		<annotation cp="👩🏽‍🦽‍➡" type="tts">manuaalratastoolis olev naine: keskmine nahatoon, suunaga paremale</annotation>
+		<annotation cp="👩🏾‍🦽‍➡">elektri | keskmiselt tume nahatoon | ligipääs | naine | paremale | ratastool | suunaga</annotation>
+		<annotation cp="👩🏾‍🦽‍➡" type="tts">manuaalratastoolis olev naine: keskmiselt tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="👩🏿‍🦽‍➡">elektri | ligipääs | naine | paremale | ratastool | suunaga | tume nahatoon</annotation>
+		<annotation cp="👩🏿‍🦽‍➡" type="tts">manuaalratastoolis olev naine: tume nahatoon, suunaga paremale</annotation>
 		<annotation cp="🏃🏻">hele nahatoon | inimene | jooks | jooksja | jooksuvõistlus | kiire | kiirus | kiirustamine | liikumine | maraton</annotation>
 		<annotation cp="🏃🏻" type="tts">jooksja: hele nahatoon</annotation>
 		<annotation cp="🏃🏼">inimene | jooks | jooksja | jooksuvõistlus | keskmiselt hele nahatoon | kiire | kiirus | kiirustamine | liikumine | maraton</annotation>
@@ -3047,42 +3297,42 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🏃🏾‍♀" type="tts">jooksev naine: keskmiselt tume nahatoon</annotation>
 		<annotation cp="🏃🏿‍♀">inimene | jooksev naine | jooksja | maraton | naine | tume nahatoon | võistlus</annotation>
 		<annotation cp="🏃🏿‍♀" type="tts">jooksev naine: tume nahatoon</annotation>
-		<annotation cp="🏃‍➡">inimene | jooks | jooksja | jooksuvõistlus | kiire | kiirus | kiirustamine | liikumine | maraton</annotation>
-		<annotation cp="🏃‍➡" type="tts">jooksja suunaga paremale</annotation>
-		<annotation cp="🏃🏻‍➡">inimene | jooks | jooksja | jooksuvõistlus | kiire | kiirus | kiirustamine | liikumine | maraton</annotation>
-		<annotation cp="🏃🏻‍➡" type="tts">jooksja suunaga paremale</annotation>
-		<annotation cp="🏃🏼‍➡">inimene | jooks | jooksja | jooksuvõistlus | kiire | kiirus | kiirustamine | liikumine | maraton</annotation>
-		<annotation cp="🏃🏼‍➡" type="tts">jooksja suunaga paremale</annotation>
-		<annotation cp="🏃🏽‍➡">inimene | jooks | jooksja | jooksuvõistlus | kiire | kiirus | kiirustamine | liikumine | maraton</annotation>
-		<annotation cp="🏃🏽‍➡" type="tts">jooksja suunaga paremale</annotation>
-		<annotation cp="🏃🏾‍➡">inimene | jooks | jooksja | jooksuvõistlus | kiire | kiirus | kiirustamine | liikumine | maraton</annotation>
-		<annotation cp="🏃🏾‍➡" type="tts">jooksja suunaga paremale</annotation>
-		<annotation cp="🏃🏿‍➡">inimene | jooks | jooksja | jooksuvõistlus | kiire | kiirus | kiirustamine | liikumine | maraton</annotation>
-		<annotation cp="🏃🏿‍➡" type="tts">jooksja suunaga paremale</annotation>
-		<annotation cp="🏃‍♀‍➡">inimene | jooksev naine | jooksja | maraton | naine | võistlus</annotation>
-		<annotation cp="🏃‍♀‍➡" type="tts">jooksev naine suunaga paremale</annotation>
-		<annotation cp="🏃🏻‍♀‍➡">inimene | jooksev naine | jooksja | maraton | naine | võistlus</annotation>
-		<annotation cp="🏃🏻‍♀‍➡" type="tts">jooksev naine suunaga paremale</annotation>
-		<annotation cp="🏃🏼‍♀‍➡">inimene | jooksev naine | jooksja | maraton | naine | võistlus</annotation>
-		<annotation cp="🏃🏼‍♀‍➡" type="tts">jooksev naine suunaga paremale</annotation>
-		<annotation cp="🏃🏽‍♀‍➡">inimene | jooksev naine | jooksja | maraton | naine | võistlus</annotation>
-		<annotation cp="🏃🏽‍♀‍➡" type="tts">jooksev naine suunaga paremale</annotation>
-		<annotation cp="🏃🏾‍♀‍➡">inimene | jooksev naine | jooksja | maraton | naine | võistlus</annotation>
-		<annotation cp="🏃🏾‍♀‍➡" type="tts">jooksev naine suunaga paremale</annotation>
-		<annotation cp="🏃🏿‍♀‍➡">inimene | jooksev naine | jooksja | maraton | naine | võistlus</annotation>
-		<annotation cp="🏃🏿‍♀‍➡" type="tts">jooksev naine suunaga paremale</annotation>
-		<annotation cp="🏃‍♂‍➡">jooksev mees | jooksja | maraton | mees | võistlus</annotation>
-		<annotation cp="🏃‍♂‍➡" type="tts">jooksev mees suunaga paremale</annotation>
-		<annotation cp="🏃🏻‍♂‍➡">jooksev mees | jooksja | maraton | mees | võistlus</annotation>
-		<annotation cp="🏃🏻‍♂‍➡" type="tts">jooksev mees suunaga paremale</annotation>
-		<annotation cp="🏃🏼‍♂‍➡">jooksev mees | jooksja | maraton | mees | võistlus</annotation>
-		<annotation cp="🏃🏼‍♂‍➡" type="tts">jooksev mees suunaga paremale</annotation>
-		<annotation cp="🏃🏽‍♂‍➡">jooksev mees | jooksja | maraton | mees | võistlus</annotation>
-		<annotation cp="🏃🏽‍♂‍➡" type="tts">jooksev mees suunaga paremale</annotation>
-		<annotation cp="🏃🏾‍♂‍➡">jooksev mees | jooksja | maraton | mees | võistlus</annotation>
-		<annotation cp="🏃🏾‍♂‍➡" type="tts">jooksev mees suunaga paremale</annotation>
-		<annotation cp="🏃🏿‍♂‍➡">jooksev mees | jooksja | maraton | mees | võistlus</annotation>
-		<annotation cp="🏃🏿‍♂‍➡" type="tts">jooksev mees suunaga paremale</annotation>
+		<annotation cp="🏃‍➡">inimene | jooks | jooksja | jooksuvõistlus | kiire | kiirus | kiirustamine | liikumine | maraton | paremale | suunaga</annotation>
+		<annotation cp="🏃‍➡" type="tts">jooksja: suunaga paremale</annotation>
+		<annotation cp="🏃🏻‍➡">hele nahatoon | inimene | jooks | jooksja | jooksuvõistlus | kiire | kiirus | kiirustamine | liikumine | maraton | paremale | suunaga</annotation>
+		<annotation cp="🏃🏻‍➡" type="tts">jooksja: hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🏃🏼‍➡">inimene | jooks | jooksja | jooksuvõistlus | keskmiselt hele nahatoon | kiire | kiirus | kiirustamine | liikumine | maraton | paremale | suunaga</annotation>
+		<annotation cp="🏃🏼‍➡" type="tts">jooksja: keskmiselt hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🏃🏽‍➡">inimene | jooks | jooksja | jooksuvõistlus | keskmine nahatoon | kiire | kiirus | kiirustamine | liikumine | maraton | paremale | suunaga</annotation>
+		<annotation cp="🏃🏽‍➡" type="tts">jooksja: keskmine nahatoon, suunaga paremale</annotation>
+		<annotation cp="🏃🏾‍➡">inimene | jooks | jooksja | jooksuvõistlus | keskmiselt tume nahatoon | kiire | kiirus | kiirustamine | liikumine | maraton | paremale | suunaga</annotation>
+		<annotation cp="🏃🏾‍➡" type="tts">jooksja: keskmiselt tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="🏃🏿‍➡">inimene | jooks | jooksja | jooksuvõistlus | kiire | kiirus | kiirustamine | liikumine | maraton | paremale | suunaga | tume nahatoon</annotation>
+		<annotation cp="🏃🏿‍➡" type="tts">jooksja: tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="🏃‍♀‍➡">inimene | jooksev naine | jooksja | maraton | naine | paremale | suunaga | võistlus</annotation>
+		<annotation cp="🏃‍♀‍➡" type="tts">jooksev naine: suunaga paremale</annotation>
+		<annotation cp="🏃🏻‍♀‍➡">hele nahatoon | inimene | jooksev naine | jooksja | maraton | naine | paremale | suunaga | võistlus</annotation>
+		<annotation cp="🏃🏻‍♀‍➡" type="tts">jooksev naine: hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🏃🏼‍♀‍➡">inimene | jooksev naine | jooksja | keskmiselt hele nahatoon | maraton | naine | paremale | suunaga | võistlus</annotation>
+		<annotation cp="🏃🏼‍♀‍➡" type="tts">jooksev naine: keskmiselt hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🏃🏽‍♀‍➡">inimene | jooksev naine | jooksja | keskmine nahatoon | maraton | naine | paremale | suunaga | võistlus</annotation>
+		<annotation cp="🏃🏽‍♀‍➡" type="tts">jooksev naine: keskmine nahatoon, suunaga paremale</annotation>
+		<annotation cp="🏃🏾‍♀‍➡">inimene | jooksev naine | jooksja | keskmiselt tume nahatoon | maraton | naine | paremale | suunaga | võistlus</annotation>
+		<annotation cp="🏃🏾‍♀‍➡" type="tts">jooksev naine: keskmiselt tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="🏃🏿‍♀‍➡">inimene | jooksev naine | jooksja | maraton | naine | paremale | suunaga | tume nahatoon | võistlus</annotation>
+		<annotation cp="🏃🏿‍♀‍➡" type="tts">jooksev naine: tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="🏃‍♂‍➡">jooksev mees | jooksja | maraton | mees | paremale | suunaga | võistlus</annotation>
+		<annotation cp="🏃‍♂‍➡" type="tts">jooksev mees: suunaga paremale</annotation>
+		<annotation cp="🏃🏻‍♂‍➡">hele nahatoon | jooksev mees | jooksja | maraton | mees | paremale | suunaga | võistlus</annotation>
+		<annotation cp="🏃🏻‍♂‍➡" type="tts">jooksev mees: hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🏃🏼‍♂‍➡">jooksev mees | jooksja | keskmiselt hele nahatoon | maraton | mees | paremale | suunaga | võistlus</annotation>
+		<annotation cp="🏃🏼‍♂‍➡" type="tts">jooksev mees: keskmiselt hele nahatoon, suunaga paremale</annotation>
+		<annotation cp="🏃🏽‍♂‍➡">jooksev mees | jooksja | keskmine nahatoon | maraton | mees | paremale | suunaga | võistlus</annotation>
+		<annotation cp="🏃🏽‍♂‍➡" type="tts">jooksev mees: keskmine nahatoon, suunaga paremale</annotation>
+		<annotation cp="🏃🏾‍♂‍➡">jooksev mees | jooksja | keskmiselt tume nahatoon | maraton | mees | paremale | suunaga | võistlus</annotation>
+		<annotation cp="🏃🏾‍♂‍➡" type="tts">jooksev mees: keskmiselt tume nahatoon, suunaga paremale</annotation>
+		<annotation cp="🏃🏿‍♂‍➡">jooksev mees | jooksja | maraton | mees | paremale | suunaga | tume nahatoon | võistlus</annotation>
+		<annotation cp="🏃🏿‍♂‍➡" type="tts">jooksev mees: tume nahatoon, suunaga paremale</annotation>
 		<annotation cp="💃🏻">elegantne | flamenko | hele nahatoon | inimene | naine | pidulik | salsa | tango | tants | tantsimine</annotation>
 		<annotation cp="💃🏻" type="tts">tantsiv naine: hele nahatoon</annotation>
 		<annotation cp="💃🏼">elegantne | flamenko | inimene | keskmiselt hele nahatoon | naine | pidulik | salsa | tango | tants | tantsimine</annotation>
@@ -3113,6 +3363,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🕴🏾" type="tts">hõljuv ülikonnaga mees: keskmiselt tume nahatoon</annotation>
 		<annotation cp="🕴🏿">äri | hõljuv | inimene | tume nahatoon | ülikond</annotation>
 		<annotation cp="🕴🏿" type="tts">hõljuv ülikonnaga mees: tume nahatoon</annotation>
+		<annotation cp="👯🏻">hele nahatoon | hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="👯🏻" type="tts">pidutsevad jänesekõrvadega inimesed: hele nahatoon</annotation>
+		<annotation cp="👯🏼">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt hele nahatoon | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="👯🏼" type="tts">pidutsevad jänesekõrvadega inimesed: keskmiselt hele nahatoon</annotation>
+		<annotation cp="👯🏽">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmine nahatoon | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="👯🏽" type="tts">pidutsevad jänesekõrvadega inimesed: keskmine nahatoon</annotation>
+		<annotation cp="👯🏾">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt tume nahatoon | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="👯🏾" type="tts">pidutsevad jänesekõrvadega inimesed: keskmiselt tume nahatoon</annotation>
+		<annotation cp="👯🏿">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | kõrv | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt | tume nahatoon</annotation>
+		<annotation cp="👯🏿" type="tts">pidutsevad jänesekõrvadega inimesed: tume nahatoon</annotation>
+		<annotation cp="👯🏻‍♀">hele nahatoon | jänku | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants</annotation>
+		<annotation cp="👯🏻‍♀" type="tts">pidutsevad jänesekõrvadega naised: hele nahatoon</annotation>
+		<annotation cp="👯🏼‍♀">jänku | keskmiselt hele nahatoon | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants</annotation>
+		<annotation cp="👯🏼‍♀" type="tts">pidutsevad jänesekõrvadega naised: keskmiselt hele nahatoon</annotation>
+		<annotation cp="👯🏽‍♀">jänku | keskmine nahatoon | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants</annotation>
+		<annotation cp="👯🏽‍♀" type="tts">pidutsevad jänesekõrvadega naised: keskmine nahatoon</annotation>
+		<annotation cp="👯🏾‍♀">jänku | keskmiselt tume nahatoon | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants</annotation>
+		<annotation cp="👯🏾‍♀" type="tts">pidutsevad jänesekõrvadega naised: keskmiselt tume nahatoon</annotation>
+		<annotation cp="👯🏿‍♀">jänku | kõrvad | naised | pidutsevad jänesekõrvadega naised | tants | tume nahatoon</annotation>
+		<annotation cp="👯🏿‍♀" type="tts">pidutsevad jänesekõrvadega naised: tume nahatoon</annotation>
+		<annotation cp="👯🏻‍♂">hele nahatoon | hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="👯🏻‍♂" type="tts">pidutsevad jänesekõrvadega mehed: hele nahatoon</annotation>
+		<annotation cp="👯🏼‍♂">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt hele nahatoon | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="👯🏼‍♂" type="tts">pidutsevad jänesekõrvadega mehed: keskmiselt hele nahatoon</annotation>
+		<annotation cp="👯🏽‍♂">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmine nahatoon | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="👯🏽‍♂" type="tts">pidutsevad jänesekõrvadega mehed: keskmine nahatoon</annotation>
+		<annotation cp="👯🏾‍♂">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | keskmiselt tume nahatoon | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt</annotation>
+		<annotation cp="👯🏾‍♂" type="tts">pidutsevad jänesekõrvadega mehed: keskmiselt tume nahatoon</annotation>
+		<annotation cp="👯🏿‍♂">hingesugulased | identne | inimesed | jänes | kaaslane | kaksik | kaksikud | kõrv | mehed | paar | parim | pidu | pidutsemine | sõber | tantsija | topelt | tume nahatoon</annotation>
+		<annotation cp="👯🏿‍♂" type="tts">pidutsevad jänesekõrvadega mehed: tume nahatoon</annotation>
 		<annotation cp="🧖🏻">aurusaun | hele nahatoon | hoolitsus | inimene | leil | lõõgastav | lõõgastus | luksuslik | päev | ruum | saun | spaa</annotation>
 		<annotation cp="🧖🏻" type="tts">inimene leiliruumis: hele nahatoon</annotation>
 		<annotation cp="🧖🏼">aurusaun | hoolitsus | inimene | keskmiselt hele nahatoon | leil | lõõgastav | lõõgastus | luksuslik | päev | ruum | saun | spaa</annotation>
@@ -3463,6 +3743,36 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="🤸🏾‍♀" type="tts">hundiratast viskav naine: keskmiselt tume nahatoon</annotation>
 		<annotation cp="🤸🏿‍♀">aktiivne | elevil | iluvõimlemine | kukerpall | naine | rõõmus | salto | sport | tume nahatoon</annotation>
 		<annotation cp="🤸🏿‍♀" type="tts">hundiratast viskav naine: tume nahatoon</annotation>
+		<annotation cp="🤼🏻">hele nahatoon | inimesed | kahevõitlus | maadlejad | maadlus | ringis | sport | turniir | võitlus</annotation>
+		<annotation cp="🤼🏻" type="tts">maadlejad: hele nahatoon</annotation>
+		<annotation cp="🤼🏼">inimesed | kahevõitlus | keskmiselt hele nahatoon | maadlejad | maadlus | ringis | sport | turniir | võitlus</annotation>
+		<annotation cp="🤼🏼" type="tts">maadlejad: keskmiselt hele nahatoon</annotation>
+		<annotation cp="🤼🏽">inimesed | kahevõitlus | keskmine nahatoon | maadlejad | maadlus | ringis | sport | turniir | võitlus</annotation>
+		<annotation cp="🤼🏽" type="tts">maadlejad: keskmine nahatoon</annotation>
+		<annotation cp="🤼🏾">inimesed | kahevõitlus | keskmiselt tume nahatoon | maadlejad | maadlus | ringis | sport | turniir | võitlus</annotation>
+		<annotation cp="🤼🏾" type="tts">maadlejad: keskmiselt tume nahatoon</annotation>
+		<annotation cp="🤼🏿">inimesed | kahevõitlus | maadlejad | maadlus | ringis | sport | tume nahatoon | turniir | võitlus</annotation>
+		<annotation cp="🤼🏿" type="tts">maadlejad: tume nahatoon</annotation>
+		<annotation cp="🤼🏻‍♀">hele nahatoon | inimene | inimesed | kahevõitlus | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | võitlus</annotation>
+		<annotation cp="🤼🏻‍♀" type="tts">maadlevad naised: hele nahatoon</annotation>
+		<annotation cp="🤼🏼‍♀">inimene | inimesed | kahevõitlus | keskmiselt hele nahatoon | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | võitlus</annotation>
+		<annotation cp="🤼🏼‍♀" type="tts">maadlevad naised: keskmiselt hele nahatoon</annotation>
+		<annotation cp="🤼🏽‍♀">inimene | inimesed | kahevõitlus | keskmine nahatoon | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | võitlus</annotation>
+		<annotation cp="🤼🏽‍♀" type="tts">maadlevad naised: keskmine nahatoon</annotation>
+		<annotation cp="🤼🏾‍♀">inimene | inimesed | kahevõitlus | keskmiselt tume nahatoon | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | võitlus</annotation>
+		<annotation cp="🤼🏾‍♀" type="tts">maadlevad naised: keskmiselt tume nahatoon</annotation>
+		<annotation cp="🤼🏿‍♀">inimene | inimesed | kahevõitlus | maadlemine | maadlevad naised | maadlus | maadlusturniir | naine | naised | ringis | sport | tume nahatoon | võitlus</annotation>
+		<annotation cp="🤼🏿‍♀" type="tts">maadlevad naised: tume nahatoon</annotation>
+		<annotation cp="🤼🏻‍♂">hele nahatoon | inimene | inimesed | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | võitlus</annotation>
+		<annotation cp="🤼🏻‍♂" type="tts">maadlevad mehed: hele nahatoon</annotation>
+		<annotation cp="🤼🏼‍♂">inimene | inimesed | keskmiselt hele nahatoon | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | võitlus</annotation>
+		<annotation cp="🤼🏼‍♂" type="tts">maadlevad mehed: keskmiselt hele nahatoon</annotation>
+		<annotation cp="🤼🏽‍♂">inimene | inimesed | keskmine nahatoon | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | võitlus</annotation>
+		<annotation cp="🤼🏽‍♂" type="tts">maadlevad mehed: keskmine nahatoon</annotation>
+		<annotation cp="🤼🏾‍♂">inimene | inimesed | keskmiselt tume nahatoon | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | võitlus</annotation>
+		<annotation cp="🤼🏾‍♂" type="tts">maadlevad mehed: keskmiselt tume nahatoon</annotation>
+		<annotation cp="🤼🏿‍♂">inimene | inimesed | maadlemine | maadlevad mehed | maadlus | maadlusturniir | mees | mehed | ringis | sport | tume nahatoon | võitlus</annotation>
+		<annotation cp="🤼🏿‍♂" type="tts">maadlevad mehed: tume nahatoon</annotation>
 		<annotation cp="🤽🏻">hele nahatoon | inimene | mängiv | polo | sport | ujumine | veepall | vesi</annotation>
 		<annotation cp="🤽🏻" type="tts">veepalli mängiv inimene: hele nahatoon</annotation>
 		<annotation cp="🤽🏼">inimene | keskmiselt hele nahatoon | mängiv | polo | sport | ujumine | veepall | vesi</annotation>
@@ -4434,26 +4744,6 @@ Derived short names and annotations, using GenerateDerivedAnnotations.java. See 
 		<annotation cp="₺" type="tts">Türgi liir</annotation>
 		<annotation cp="₼" type="tts">Aserbaidžaani manat</annotation>
 		<annotation cp="₾" type="tts">Gruusia lari</annotation>
-		<annotation cp="0⃣">klahv</annotation>
-		<annotation cp="0⃣" type="tts">klahv: 0</annotation>
-		<annotation cp="1⃣">klahv</annotation>
-		<annotation cp="1⃣" type="tts">klahv: 1</annotation>
-		<annotation cp="2⃣">klahv</annotation>
-		<annotation cp="2⃣" type="tts">klahv: 2</annotation>
-		<annotation cp="3⃣">klahv</annotation>
-		<annotation cp="3⃣" type="tts">klahv: 3</annotation>
-		<annotation cp="4⃣">klahv</annotation>
-		<annotation cp="4⃣" type="tts">klahv: 4</annotation>
-		<annotation cp="5⃣">klahv</annotation>
-		<annotation cp="5⃣" type="tts">klahv: 5</annotation>
-		<annotation cp="6⃣">klahv</annotation>
-		<annotation cp="6⃣" type="tts">klahv: 6</annotation>
-		<annotation cp="7⃣">klahv</annotation>
-		<annotation cp="7⃣" type="tts">klahv: 7</annotation>
-		<annotation cp="8⃣">klahv</annotation>
-		<annotation cp="8⃣" type="tts">klahv: 8</annotation>
-		<annotation cp="9⃣">klahv</annotation>
-		<annotation cp="9⃣" type="tts">klahv: 9</annotation>
 		<annotation cp="₧" type="tts">Hispaania peseeta</annotation>
 	</annotations>
 </ldml>
