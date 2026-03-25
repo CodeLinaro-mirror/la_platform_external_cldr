@@ -4,8 +4,6 @@ import com.google.common.base.Joiner;
 import com.google.common.base.Splitter;
 import com.ibm.icu.text.MessageFormat;
 import com.ibm.icu.text.Transform;
-import java.util.Iterator;
-import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Locale;
 import java.util.Map;
@@ -16,7 +14,6 @@ import java.util.regex.Pattern;
 public class NameGetter {
 
     private final CLDRFile cldrFile;
-    private Map<String, String> bracketReplacements;
 
     /**
      * Construct a new NameGetter.
@@ -320,22 +317,9 @@ public class NameGetter {
                     case "t":
                         List<String> hybrid = lparser.getLocaleExtensionsDetailed().get("h0");
                         if (hybrid != null) {
-                            String hybridName =
-                                    cldrFile.getKeyValueName("h0", JOIN_UNDERBAR.join(hybrid));
-                            if (hybridName != null) {
-                                kname = hybridName;
-                            }
+                            kname = cldrFile.getKeyValueName("h0", JOIN_UNDERBAR.join(hybrid));
                         }
-                        LanguageTagParser tParser = new LanguageTagParser().set(oldFormatType);
-                        oldFormatType =
-                                getNameFromOtherThings(
-                                        tParser,
-                                        nameOpt,
-                                        altPicker,
-                                        localeKeyTypePattern,
-                                        localeSeparator,
-                                        localeSeparator,
-                                        paths);
+                        oldFormatType = getNameFromIdentifier(oldFormatType);
                         break;
                     case "cu":
                         oldFormatType =
@@ -401,24 +385,8 @@ public class NameGetter {
         return MessageFormat.format(localePattern, name, extras);
     }
 
-    private synchronized String replaceBracketsForName(String value) {
-        if (bracketReplacements == null) {
-            bracketReplacements = new LinkedHashMap<>();
-            XMLSource source = cldrFile.getResolvingDataSource();
-            for (Iterator<String> it =
-                            source.iterator("//ldml/characters/nestedBracketReplacement");
-                    it.hasNext(); ) {
-                String path = it.next();
-                XPathParts parts = XPathParts.getFrozenInstance(path);
-                String bracket = parts.getAttributeValue(-1, "bracket");
-                String replacement = source.getValueAtPath(path);
-                bracketReplacements.put(bracket, replacement);
-            }
-        }
-        for (Map.Entry<String, String> entry : bracketReplacements.entrySet()) {
-            value = value.replace(entry.getKey(), entry.getValue());
-        }
-        return value;
+    private static String replaceBracketsForName(String value) {
+        return value.replace('(', '[').replace(')', ']').replace('（', '［').replace('）', '］');
     }
 
     /**

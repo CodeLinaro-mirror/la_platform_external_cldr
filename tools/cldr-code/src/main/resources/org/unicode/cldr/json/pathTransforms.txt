@@ -191,7 +191,3 @@
 # Script variant
 < (.*)/scriptVariant\[@type="([^"]*)"\](.*)$
 > $1/scriptVariants/$2/scriptVariant$3
-
-# nestedBracketReplacement
-< (.*)/characters/(nestedBracketReplacement)(.*)
-> $1/characters/$2/$2$3

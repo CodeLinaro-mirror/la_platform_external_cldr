@@ -739,7 +739,6 @@ public class TestPaths extends TestFmwkPlus {
                                             "pathMatch", "", // no ids
                                             "languageMatch", "", // no ids
                                             "rgPath", "", // no ids
-                                            "nestedBracketReplacement", "", // no ids
                                             "mapTimezones", "", // ids checked elsewhere
                                             "mapZone", "" // ids checked elsewhere
                                             );
